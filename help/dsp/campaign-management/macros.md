@@ -3,9 +3,9 @@ title: Advertising Cloud DSP Macros
 description: Referera till de tillgängliga makrona för allmän spårning och för att spåra klick på visningsannonser från tredje part.
 feature: Ads
 exl-id: e31cc2e5-ad1f-4555-a87b-0e4c3731fe5f
-source-git-commit: 185fc7d79798a0a3a9ad5829b701aeb53a4a47c1
+source-git-commit: e0166dbad4fec41fdc64a65cb3a8ac97496c681f
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,9 @@ Om ett klickande makro saknas när du skapar en visningsannons visas ett varning
 >[!MORELIKETHIS]
 >
 >* [Ljudannonsinställningar](/help/dsp/campaign-management/ads/ad-settings-audio.md)
->* [Ljudannonsinställningar](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
->* [Ljudannonsinställningar](/help/dsp/campaign-management/ads/ad-settings-display.md)
->* [Ljudannonsinställningar](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
->* [Ljudannonsinställningar](/help/dsp/campaign-management/ads/ad-settings-native.md)
->* [Ljudannonsinställningar](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [Inställningar för ansluten TV-annons](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+>* [Visa annonsinställningar](/help/dsp/campaign-management/ads/ad-settings-display.md)
+>* [Inställningar för mobilannonsering](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+>* [Inbyggda annonsinställningar](/help/dsp/campaign-management/ads/ad-settings-native.md)
+>* [Inställningar för annonsering före registrering](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
 
