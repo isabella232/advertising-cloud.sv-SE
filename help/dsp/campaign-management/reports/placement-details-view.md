@@ -1,9 +1,9 @@
 ---
 title: Visa Sites, Ads och Frequency Details för en placering
 description: Lär dig hur du visar målwebbplatser, annonser och frekvensdata för en placering.
-feature: Placements
+feature: DSP Placements
 exl-id: 99bb4a4e-dc52-4130-87c4-5458e25bbc1e
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%

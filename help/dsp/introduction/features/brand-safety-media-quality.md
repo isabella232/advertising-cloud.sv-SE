@@ -1,9 +1,9 @@
 ---
 title: Varumärkessäkerhet och mediakvalitet
 description: Läs mer om varumärkessäkerhet och funktioner för mediekvalitet.
-feature: Introduction
+feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: e2ee41c7e3e195f062ad1cc67080ed913d6d3d06
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '1266'
 ht-degree: 0%
@@ -76,7 +76,7 @@ Advertising Cloud DSP tillhandahåller både en global lista över blockerade we
 
 Advertising Cloud DSP har en global lista över blockerade webbplatser som anses osäkra att köra annonser på. Den här listan innehåller webbplatser med stötande innehåll (till exempel hat eller terror) och webbplatser som infekterats med botar, falska förrullningsdomäner, felmatchade domäner och annan bedräglig aktivitet.
 
-Som en del av vårt varumärkessäkerhetsinitiativ för att rota bort aktiviteter som lockar annonsörer, skärs alla webbplatser med hjälp av åtgärderna i listan över blockerade webbplatser. Alla webbplatser som inte godkänns i varumärkessäkerhetskontrollerna läggs till i listan över globalt blockerade platser. Eftersom Advertising Cloud DSP hanterar den här listan dynamiskt kan webbplatserna när som helst fortsätta eller lämna listan baserat på den senaste varumärkessäkerhetsanalysen.
+Som en del av vårt varumärkessäkerhetsinitiativ för att rota bort aktiviteter som lockar annonsörer, skärs alla webbplatser med hjälp av åtgärderna i listan över blockerade webbplatser. Alla webbplatser som inte godkänns i varumärkessäkerhetskontrollerna läggs till i listan över globalt blockerade platser. Eftersom Advertising Cloud DSP hanterar den här listan dynamiskt kan webbplatser när som helst gå vidare på eller bort från listan baserat på den senaste varumärkessäkerhetsanalysen.
 
 När du tar med en plats i den globalt blockerade platslistan som placeringsmål flaggas platsen med ett rött utropstecken (!). Detta anger att annonser inte kommer att köras på den flaggade webbplatsen.
 

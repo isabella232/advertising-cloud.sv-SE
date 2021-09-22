@@ -1,9 +1,9 @@
 ---
 title: '[!DNL On Demand] Premium Inventory Publishers in Europe, the Middle East, and Africa'
 description: '[!DNL On Demand] Premium Inventory Publishers in Europe, the Middle East, and Africa'
-feature: On Demand Inventory
+feature: DSP On Demand Inventory
 exl-id: e56fd637-fb01-4bc0-9125-aa6844eeccc4
-source-git-commit: 3dbba61766411eadbad9a8257e2930b683d0d55b
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%

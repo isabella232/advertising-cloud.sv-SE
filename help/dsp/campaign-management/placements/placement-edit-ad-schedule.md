@@ -1,9 +1,9 @@
 ---
 title: Redigera annonsschemat för en placering
 description: Lär dig hur du ändrar annonsplanerna för annonserna som är kopplade till en placering.
-feature: Placements
+feature: DSP Placements
 exl-id: 880522d3-efcd-4ff9-8cef-bf6be626869c
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%

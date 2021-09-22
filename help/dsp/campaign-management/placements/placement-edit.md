@@ -1,9 +1,9 @@
 ---
 title: Redigera en placering
 description: Lär dig hur du redigerar en placering.
-feature: Placements
+feature: DSP Placements
 exl-id: 135adad3-0bc0-4402-ac4a-a4fc71f78edf
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 1%

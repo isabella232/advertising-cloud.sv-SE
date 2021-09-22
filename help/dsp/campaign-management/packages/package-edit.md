@@ -1,9 +1,9 @@
 ---
 title: Redigera ett paket
 description: Lär dig hur du redigerar ett paket.
-feature: Packages
+feature: DSP Packages
 exl-id: 4067f8c8-d5a9-4fe6-9abe-78aa73bc00a1
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 2%

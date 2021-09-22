@@ -1,9 +1,9 @@
 ---
 title: Arkivera eller arkivera en placering
 description: Lär dig hur du arkiverar eller avarkiverar en placering.
-feature: Placements
+feature: DSP Placements
 exl-id: 3d342f83-1bcb-4f80-b31a-2009bcdde565
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%

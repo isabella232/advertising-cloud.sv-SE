@@ -1,9 +1,9 @@
 ---
 title: Om pakethantering i Advertising Cloud DSP
 description: Läs mer om pakethantering.
-feature: Packages
+feature: DSP Packages
 exl-id: 06d77698-62ae-466b-8cf7-c9148907ba6d
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%

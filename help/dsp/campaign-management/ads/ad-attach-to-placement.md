@@ -1,9 +1,9 @@
 ---
 title: Bifoga en annons till en placering
 description: Lär dig hur du bifogar en annons till en placering.
-feature: Ads
+feature: DSP Ads
 exl-id: 4d85b89b-217f-46eb-a8b2-27da4c220be7
-source-git-commit: fcd55f882f56c9eacd82d554d30364400b99555c
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '523'
 ht-degree: 1%

@@ -1,9 +1,9 @@
 ---
 title: Skapa en kampanj
 description: Lär dig hur du skapar en kampanj.
-feature: Campaigns
+feature: DSP Campaigns
 exl-id: c8f553c1-de52-4121-bed4-7b4ce2ecd847
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 1%

@@ -1,9 +1,9 @@
 ---
 title: Inbyggda annonsinställningar
 description: Se beskrivningar av tillgängliga annonsinställningar för interna annonser.
-feature: Ads
+feature: DSP Ads
 exl-id: 3ae59e63-ae64-41b2-8734-3df2da020c7c
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 0%

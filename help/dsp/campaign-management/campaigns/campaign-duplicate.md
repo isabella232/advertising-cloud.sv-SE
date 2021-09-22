@@ -1,9 +1,9 @@
 ---
 title: Duplicera en kampanj
 description: Lär dig hur du duplicerar en kampanj.
-feature: Campaigns
+feature: DSP Campaigns
 exl-id: 2bb4030d-22b0-4a16-aeed-35f64a19df6a
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%

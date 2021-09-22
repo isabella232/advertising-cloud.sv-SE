@@ -1,9 +1,9 @@
 ---
 title: Exportera data från en kampanjhanteringsvy
 description: Lär dig hur du exporterar data från valfri typ av kampanjhanteringsvy till en kalkylbladsfil.
-feature: Campaign Data Views
+feature: DSP Campaign Data Views
 exl-id: 393b0726-d26c-4d0b-8926-98fc27259286
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%

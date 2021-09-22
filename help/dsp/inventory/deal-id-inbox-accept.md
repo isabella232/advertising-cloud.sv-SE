@@ -1,9 +1,9 @@
 ---
 title: Acceptera ett erbjudande i [!UICONTROL Deal ID Inbox]
 description: Lär dig hur du godkänner ett privat avtal som du redan har förhandlat med en utgivare den [!DNL Google Authorized Buyers], [!DNL FreeWheel], or [!DNL Rubicon] med hjälp av Inkorgen för avtal-ID.
-feature: Private Inventory, Deal IDs
+feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 55e8ca50-05f5-4f38-9fd5-afaed71315dc
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%

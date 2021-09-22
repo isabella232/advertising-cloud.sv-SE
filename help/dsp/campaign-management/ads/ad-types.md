@@ -1,9 +1,9 @@
 ---
 title: Tillgängliga annonstyper
 description: Läs mer om vilka annonstyper som är tillgängliga.
-feature: Ads
+feature: DSP Ads
 exl-id: 27df3948-b645-4ddf-a5e0-ade72f15a969
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '529'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Mer information om obligatoriska och valfria [inställningar för mobilannonser]
 
 ## Inbyggda annonser
 
-Inbyggda annonser kan vara i pre-roll-video eller standardvisningsformat. Interna annonser innehåller rubrik och/eller titel, beskrivning, logotyp och bild eller video. Annonselementen kombineras och återges så att de matchar utgivarens sidstil, så att annonsen blandas in med utgivarens organiska innehåll och skapar större engagemang. Inbyggd video kan antingen spelas upp eller klickas upp automatiskt. Det inbyggda formatet används bäst för varumärkesmedvetenhet, målgruppsvy och engagemangsgrader med visningsvänlig annonsering och video i lång form. Viktiga resultatindikatorer är [!UICONTROL Clicks] och [!UICONTROL Video Completion Rate].
+Inbyggda annonser kan vara i pre-roll-video eller standardvisningsformat. Interna annonser innehåller rubrik och/eller titel, beskrivning, logotyp och bild eller video. Annonselementen kombineras och återges så att de matchar utgivarens sidstil, så att annonsen blandas in med utgivarens organiska innehåll och skapar ett större engagemang. Inbyggd video kan antingen spelas upp eller klickas upp automatiskt. Det inbyggda formatet används bäst för varumärkesmedvetenhet, målgruppsvy och engagemangsgrader med visningsvänlig annonsering och video i lång form. Viktiga resultatindikatorer är [!UICONTROL Clicks] och [!UICONTROL Video Completion Rate].
 
 Mer information om obligatoriska och valfria [inbyggda annonsinställningar](ad-settings-native.md).
 
