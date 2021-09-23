@@ -3,9 +3,9 @@ title: Om rapporter på plattformen
 description: Läs mer om rapportdata som ingår i kampanjhanteringsvyer.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: c1441fb6fddf56a0f0346a967da49efa0fb602ff
+source-git-commit: df462aac1da30c1ebe9e1bb8afd8546d79432fde
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '646'
 ht-degree: 0%
 
 ---
@@ -62,24 +62,6 @@ För varje placering kan du [öppna en (detaljvy [!UICONTROL Inspector])](placem
    * det uppskattade unika antalet enheter/webbläsare eller personer (beroende på den angivna [!UICONTROL Cross Device Level] för placeringen) som fick visningar på den angivna frekvensnivån
    * det uppskattade antalet avtryck på den angivna frekvensnivån
    * den uppskattade genomsnittliga frekvensen för den angivna frekvensnivån. Detta värde är lika med (Estimated Impressions)/(Estimated Uniques).
-
-* **[!UICONTROL Inventory]:** Information om alla erbjudanden som gäller för placeringen i en enda vy.
-
-Fliken Lager innehåller sök- och filterfunktioner, samma standardvy och anpassade kolumnvisningsalternativ som finns på huvudsidan samt snabbåtgärdsknappar i varje rad, till exempel Redigera och Visa rapport. Fliken Inventering hjälper dig att snabbt felsöka genom att visa prestandatillstånd som auktioner, bud, Win Rate osv.
-
-# Felsökning av lager
-
-| Problem | Möjlig orsak | Åtgärder att vidta |
-| -----------| ---------- | ---------- |
-| [!UICONTROL Zero Auctions] | Publisher har inte börjat skicka anbudsförfrågningar | Kontakta utgivaren för att aktivera erbjudandet |
-|  | Problem med avtalsinställningar som att ange ett felaktigt externt avtal-ID osv. | Bekräfta avtalsinformationen och redigera erbjudandet |
-| [!UICONTROL Non-zero Auctions but no Bids] | Placeringsmålet matchar inte inkommande anbudsförfrågningar från avtal. <br><br> Till exempel kan placeringen ha en annan geografisk inriktning än vad som krävs enligt erbjudandet | Redigera placeringsinställningar på lämpligt sätt för att undvika felmatchningar med avtal |
-|  | Placeringen har ingen aktiv annons eller rätt medietyp som krävs enligt avtal | Skapa/bifoga annonser med rätt medietyp till placeringen |
-|  | Placeringen har inte tillräcklig budget | Redigera placeringsbudget på lämpligt sätt för att tillåta offerter på inkommande begäranden |
-|  | Flightdatum för placeringen överlappar inte med leveransdatum för intrycket enligt avtal | Redigera flygdatum för placeringen |
-| [!UICONTROL Low Win Rate] | Det högsta anbudet vid positionen ligger under det lägsta belopp som krävs för erbjudandet (golv eller fast) | Redigera maximalt bud vid placering |
-|  | I placeringen används filter som begränsar | Sänk tröskelvärdena för filter före bud för att möjliggöra fler budgivningar |
-|  | Målgruppsanpassning vid placering är för restriktiv | Kontrollera att de angivna målgruppsmålen har tillräckligt många aktiva användare och utöka målgruppen om möjligt |
 
 ![placeringsinspektör](/help/dsp/assets/placement-inspector-sites.png)
 
