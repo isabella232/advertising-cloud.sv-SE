@@ -1,11 +1,11 @@
 ---
 title: Nyheter
 description: På den här sidan visas uppdateringar om integreringar mellan Advertising Cloud och andra produkter och tjänster i Adobe Experience Cloud.
-cloud: experience-cloud
+cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: null
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: ec21d8c18bced3fcd635df8b9b2734e028ceb118
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
