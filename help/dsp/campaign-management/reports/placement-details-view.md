@@ -3,16 +3,16 @@ title: Visa Sites, Ads och Frequency Details för en placering
 description: Lär dig hur du visar målwebbplatser, annonser och frekvensdata för en placering.
 feature: DSP Placements
 exl-id: 99bb4a4e-dc52-4130-87c4-5458e25bbc1e
-source-git-commit: b91255255d2718b56f41aabd8c1babe52aa32abc
+source-git-commit: 14c484de177a6c5e3d4976076ecdbc4fa9086606
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
-# Visa Sites, Ads, Frequency and Inventory Details för en placering
+# Visa Sites, Ads och Frequency Details för en placering
 
-Placeringen [!UICONTROL Inspector] visar alla målwebbplatser, annonser och erbjudanden på en plats. Den innehåller även frekvensdata för placeringen.
+Placeringen [!UICONTROL Inspector] visar alla målwebbplatser och alla annonser på en plats. Den innehåller även frekvensdata för placeringen.
 
 1. Öppna placeringsvyn för den överordnade kampanjen eller det överordnade paketet:
 
@@ -31,7 +31,6 @@ Placeringen [!UICONTROL Inspector] visar alla målwebbplatser, annonser och erbj
    * Om du vill visa alla platser som placeringsmålen gäller klickar du på **[!UICONTROL Sites]**.
    * Om du vill visa alla annonser på platsen klickar du på **[!UICONTROL Ads]**.
    * Om du vill visa frekvensdata för placeringen klickar du på **[!UICONTROL Frequency]**.
-   * Om du vill visa alla avtal som placeringsmålen gäller klickar du på **[!UICONTROL Inventory]**.
 
 1. (Valfritt) [Ändra kolumnvyn](column-view-change.md) efter behov för att visa de mått som krävs.
 
