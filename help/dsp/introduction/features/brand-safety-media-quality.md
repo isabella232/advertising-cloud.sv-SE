@@ -3,9 +3,9 @@ title: Varumärkessäkerhet och mediakvalitet
 description: Läs mer om varumärkessäkerhet och funktioner för mediekvalitet.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: 3cc617092f38d20bd01e487c985bb1d05c167506
+source-git-commit: cebe80fa8ed4f6410a7ea3ee7be6e0bf03631a49
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '1266'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Förutom att tillhandahålla central kvalitetsstyrning anser vi att annonsörern
 
 ### Lagerverifiering med stöd för [!DNL Ads.txt]
 
-[[!DNL Ads.txt]], som står för [!DNL Authorized Digital Sellers](https://iabtechlab.com/ads-txt), är ett initiativ som startades av [!DNL Interactive Advertising Bureau] ([!DNL IAB]) i juni 2017 för att underlätta en korrekt representation av lagret på den öppna marknaden och därmed motverkas oäkta trafikkällor och domänförfalskning. Deltagande utgivare och distributörer deklarerar offentligt vilka företag som har rätt att sälja sitt digitala lager, och vilken typ av relation det rör sig om, genom att ha en `ads.txt`-sida på domänens högsta nivå (till exempel `example.com/ads.txt`).
+[[!DNL Ads.txt], which stands for [!DNL Authorized Digital Sellers]](https://iabtechlab.com/ads-txt) är ett initiativ som startades av  [!DNL Interactive Advertising Bureau] ([!DNL IAB]) i juni 2017 för att underlätta en korrekt återgivning av lager på den öppna marknaden och därmed motverka olagliga källor till trafik och domänförfalskning. Deltagande utgivare och distributörer deklarerar offentligt vilka företag som har rätt att sälja sitt digitala lager, och vilken typ av relation det rör sig om, genom att ha en `ads.txt`-sida på domänens högsta nivå (till exempel `example.com/ads.txt`).
 
 DSP stöder [!DNL ads.txt] genom att läsa respektive utgivares `ads.txt`-fil och ger dig möjlighet att köpa endast från verifierade [!DNL ads.txt]-säljare. Genom att matcha de säljare vi ser med åtkomsten av `nytimes.com` till filen `ads.txt` i New York Times kan vi identifiera vilka som är berättigade och vilka som inte är det, och vi blockerar dem om placeringen är konfigurerad att endast köpa från verifierade säljare. <!-- can we actually mention NY Times? -->
 
