@@ -3,9 +3,9 @@ title: Pre-Bid-filter på placeringsnivå och Så här använder du dem
 description: Referera till tillgängliga filter på placeringsnivå före köp och se hur du använder dem.
 feature: DSP Optimization
 exl-id: c699e970-84ca-429b-8062-81804e6c9f21
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 75ec6f54271542d56e0d16fbb7aa92ebcf00d765
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,6 @@ ht-degree: 0%
 | [!UICONTROL 100% Completion Rate] | Anger en obligatorisk minsta slutförandehastighet som måste uppfyllas innan du lägger ett bud på ett intryck. | Använd det här filtret när kampanjens huvudmål är antalet slutförda aktiviteter. Faktor för andra målinriktningsparametrar, men 65 % är den rekommenderade startprocenten. |
 | [!UICONTROL Player Size - Adobe] | Anger en nödvändig minsta spelarstorlek med data från Advertising Cloud DSP. Du lägger bud på ett intryck när [!UICONTROL Player Size]-tröskelvärdet är uppfyllt. | Används för att säkerställa att ni levererar ett komplett spelarlager med data från DSP. |
 | [!UICONTROL Player Size 3rdParty (Moat/IAS)] | Anger en obligatorisk minsta spelarstorlek, med data från [!DNL Moat] eller [!DNL Integral Ad Science] ([!DNL IAS]). Du lägger bud på ett intryck när [!UICONTROL Player Size]-tröskelvärdet är uppfyllt. | Används för att säkerställa att ni levererar på ett komplett spelarlager med plattformstäckande [!DNL Moat]- eller [!DNL IAS]-data.<br><br><b>Obs! </b> Använd bara det här filtret när kampanjen är konfigurerad att använda  [!DNL Moat] eller  [!DNL IAS] data. |
-| [!UICONTROL Viewability IAS] | Anger en obligatorisk minsta visningsbar procentandel, med historiska data från [!DNL IAS]. Du lägger bud på ett intryck när det angivna tröskelvärdet uppnås. | Det här filtret fungerar bäst eftersom mer data hämtas in via en [!DNL IAS]-integrering på kampanjnivå.<br><br>När kampanjen är konfigurerad att använda  [!DNL IAS] data är det bästa sättet att använda det här filtret med paketoptimeringsmålet&quot;[!UICONTROL Lowest vCPM (IAS)].&quot; Om integreringen inte är aktiverad använder du det här filtret med optimeringsmålet [!UICONTROL Lowest CPM]. |
-| [!UICONTROL Viewability Moat] | Anger en obligatorisk minsta visningsbar procentandel, med historiska data från [!DNL Moat]. Du lägger bud på ett intryck när det angivna tröskelvärdet uppnås. | Det här filtret fungerar bäst eftersom mer data hämtas in via en [!DNL Moat]-integrering på kampanjnivå.<br><br>När kampanjen är konfigurerad att använda  [!DNL Moat] data är det bästa sättet att använda paketoptimeringsmålet&quot;[!UICONTROL Lowest vCPM (Moat)].&quot; Om integreringen inte är aktiverad använder du det här filtret med optimeringsmålet [!UICONTROL Lowest CPM]. |
 | [!UICONTROL Viewability Adobe (MRC or [!DNL GroupM])] | Anger en obligatorisk minsta visningsprocent, med Advertising Cloud DSP visningsvärden och mått. Du lägger bud på ett intryck när det angivna tröskelvärdet uppnås.<br><br><b>Anteckningar:</b><ul><li>Om kampanjens [!UICONTROL Viewability Sensitivity]-inställning är [!UICONTROL Standard (50% of ad in view for 2 consecutive seconds)] används visningsstandarden [!DNL Media Rating Council] (MRC) för kampanjen. Om inställningen [!UICONTROL Viewability Sensitivity] är [!UICONTROL Strict (100% of ad in view & audio on for 50% duration)] används visningsstandarden [!DNL GroupM] för kampanjen.</li><li>Måttdefinitioner för Adobe skiljer sig från definitioner från andra tillverkare, så det kan finnas små skillnader med data från tredje part.</li></ul> | Det bästa sättet är att matcha optimeringsmålet och eventuella föranbudsfilterinställningar med kampanjens [!UICONTROL Viewability Sensitivity]-inställning. |
 
 {style=&quot;table-layout:auto&quot;}

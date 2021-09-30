@@ -3,9 +3,9 @@ title: Arkivera eller arkivera en kampanj
 description: Lär dig hur du arkiverar eller avarkiverar en kampanj.
 feature: DSP Campaigns
 exl-id: 9a6822c5-9d93-490a-9a2e-37afb1591028
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 9c92b882fb35874bf7dc8747b121ea3650f8a82d
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Du kan när som helst avarkivera en kampanj för att återställa dess tidigare 
 
 >[!NOTE]
 >
->Om du vill visa en arkiverad kampanj filtrerar du vyn [!UICONTROL Campaigns]: klicka på ![Filterknapp](/help/dsp/assets/filter.png), klicka på **[!UICONTROL Campaign status]** och välj **[!UICONTROL Archived]** och klicka sedan på **[!UICONTROL Apply].**
+>Om du vill visa arkiverade kampanjer filtrerar du vyn [!UICONTROL Campaigns]: klicka på ![Filterknapp](/help/dsp/assets/filter.png), klicka på **[!UICONTROL Campaign status]** och välj **[!UICONTROL Archived]** och klicka sedan på **[!UICONTROL Apply].**
 
 ## Avarkivera en kampanj
 
