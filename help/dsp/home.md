@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 61a5739a4f208cd0e9106015347570d66225c9bd
+source-git-commit: 4a70d7f8514531618dec257a1c0d32beabc03b51
 workflow-type: tm+mt
-source-wordcount: '891'
+source-wordcount: '971'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,11 @@ Följande funktioner är nya eller nyligen ändrade.
 
 | Datum | Funktion | Beskrivning | Mer information |
 | ---- | ------- | ----------- | -------------------- |
+| 30 september 2021 | Säker varumärkesexponering | (22 september-versionen) [!DNL DoubleVerify] av produkter som var före offert på varumärkets säkerhet uppdaterades till [!DNL Brand Suitability Tiers], som gör det möjligt för annonsörer att välja mellan tre risknivåer (låg, medel och hög) för specifika segment utan att undvika alla förekomster av ett visst ämne. Historiskt sett innehöll segmenten inga toleransnivåer. | — |
+|  | Optimering | Följande optimeringsmål och föranbudsfilter har tagits bort:<ul><li>Optimeringsmål:<ul><li>[!UICONTROL Always Max Bid & Highest Viewability Rate (Moat – GroupM)]</li><li>[!UICONTROL Always Max Bid & Highest Viewability Rate (Moat – MRC)]</li></ul><li>Filtermål före bud:<ul><li>[!UICONTROL Viewability IAS]</li><li>[!UICONTROL Viewability Moat]</li></ul></ul> | Se &quot;[Optimeringsmål och Så här använder du dem](/help/dsp/optimization/optimization-goals.md)&quot; och &quot;[Pre-Bid-filter på placeringsnivå och Använda dem](/help/dsp/optimization/optimization-pre-bid-filters.md)&quot;. |
 | 28 september 2021 | Vyer för kampanjhantering | En [!UICONTROL Creation date]-kolumn är nu tillgänglig i anpassade kolumnuppsättningar för vyerna [!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements] och [!UICONTROL Ads]. Du kan också filtrera vyerna [!UICONTROL Placements] och [!UICONTROL Ads] med [!UICONTROL Creation date]. | Se &quot;[Skapa en anpassad kolumnvy](/help/dsp/campaign-management/reports/column-view-create.md)&quot; och &quot;[Filtrera kampanjdata](/help/dsp/campaign-management/reports/campaign-data-filter.md).&quot; |
-|  | Programmatiska garanterade avtal | Du kan nu redigera [!UICONTROL Max Bid] som standardplacering för en programmatisk GPG-affär. Men eftersom PG-avtal alltid har en fast CPM bör endast internationella klienter redigera [!UICONTROL Max Bid] för att ta hänsyn till valutautbytesavgifter. | — |
-|  |  | Användare med behörigheten [!DNL FreeWheel Programmatic Guaranteed] kan nu skicka en annons till [!DNL FreeWheel Programmatic Creative API] från vyn [!UICONTROL Ads] eller vyn [!UICONTROL Placements]. Du kan fortfarande skicka in en annons från vyn [!UICONTROL Deals]. | —<!-- Add link to page on submitting ads to Freewheel once it's edited. --> |
+|  | Programmatiska garanterade avtal | (8 september-versionen) Du kan nu redigera [!UICONTROL Max Bid] som standardplacering för ett programmatiskt garanterat erbjudande (PG). Men eftersom PG-avtal alltid har en fast CPM bör endast internationella klienter redigera [!UICONTROL Max Bid] för att ta hänsyn till valutautbytesavgifter. | — |
+|  |  | (version 8 september) Användare med behörigheten &quot;[!DNL FreeWheel Programmatic Guaranteed]&quot; kan nu skicka en annons till [!DNL FreeWheel Programmatic Creative API] från vyn [!UICONTROL Ads] eller vyn [!UICONTROL Placements]. Du kan fortfarande skicka in en annons från vyn [!UICONTROL Deals]. | —<!-- Add link to page on submitting ads to Freewheel once it's edited. --> |
 | 11 augusti 2021 | Visningsbarhet före bud | Visningsbarhetsfilter från [!DNL Oracle Advertising (Moat)] är nu tillgängliga för dina placeringar. | Läs mer om [tredjepartsintegreringar för visningsbarhet före bud](/help/dsp/introduction/features/brand-safety-media-quality.md#pre-bid-viewability) och &quot;[Pre-Bid Filters på placeringsnivå och Använda dem](/help/dsp/optimization/optimization-pre-bid-filters.md).&quot; |
 | 15 juli | Hjälp | Information om hur Advertising Cloud DSP finansierar kundkonton för inköp av media och tjänster har lagts till. | Se &quot;[Kontofinansiering](/help/dsp/introduction/billing/account-funding.md).&quot; |
 | 12 juni 2021 | Hjälp | Annonsprinciperna har uppdaterats. | Se &quot;[Adobe Advertising Cloud Ad Requirements Policy](/help/policies/ad-requirements-policy.md).&quot; |
