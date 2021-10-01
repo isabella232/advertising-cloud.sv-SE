@@ -2,7 +2,7 @@
 title: Tillgänglig [!DNL Advanced Measurement Solutions]
 description: Se en lista över tillgängliga lösningar för avancerad mätning.
 exl-id: 1a8b76ee-d38d-4ee4-981b-e29497fa4095
-source-git-commit: 216d316abe7fcc5bc04ae7cca211e2f11cc1e589
+source-git-commit: 209dfce05228be879d9ba744590ff52ce572a807
 workflow-type: tm+mt
 source-wordcount: '508'
 ht-degree: 0%
@@ -35,8 +35,7 @@ Följande mätningslösningspaket finns tillgängliga för att validera framgån
 * Personbaserad räckvidd
 Förstå hur målgrupper och taktiker överlappar varandra på personnivå, inklusive exponeringar i olika digitala miljöer, som datorer, mobiler, inbyggda medier och ljud.
 
-* ・	Panelbaserade undersökningar i [!DNL Dynata]
-Genomför kontroll/exponerade enkäter för att avgöra hur annonsexponering påverkar mätvärden som medvetenhet, kunskap och avsikter.
+* [!DNL Dynata] Panelbaserade undersökningar Utför kontroller/exponerade undersökningar för att fastställa effekten av annonsexponering på mätvärden som medvetenhet, kunskap och återgivning.
 
 * Foot Traffic
 
@@ -55,6 +54,7 @@ Jämför beteendet och känslan hos slumpmässiga, ömsesidigt uteslutande provg
 ## Hitta den perfekta måttenheten: Lodräta lösningar
 
 ### Valfri lodrät
+
 * Experimentera med designern (Placebo- och A/B-testning)
 * Personbaserad räckvidd
 Alla organisationer som vill mäta i olika digitala strategier. organisationer som vill visa upp värdet av ljud
@@ -66,10 +66,12 @@ Alla kunder som vill förstå räckvidd/inkrementell räckvidd och kostnadsbaser
 Alla kunder som vill mäta varumärkets medvetenhet och uppfattning på flera skärmar. passar bäst för nischade målgrupper
 
 ### QSR, Retail (Brick and Mortar)
+
 * Transaktionsmätning
 * Mätning av fottrafik
 
 ### QSR, detaljhandel, resor
+
 * Transaktionsinsikter
 Alla kunder som vill nå en viss typ av kund för att öka försäljningen i butiken och online
 
