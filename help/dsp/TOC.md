@@ -8,7 +8,7 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Lär dig mer om de viktigaste funktionerna, arbetsuppgifterna, inställningarna och andra resurser som krävs för att hantera, optimera och rapportera om era strategier för displayannonsering med Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: acc5b7bb719b655d8b019eee3b5783fec49af0b9
+source-git-commit: e41938befafe54da1466e8faab08f1d7a263f4e0
 workflow-type: tm+mt
 source-wordcount: '738'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
       + [Krav för annonser](https://experienceleague.adobe.com/docs/advertising-cloud/policies/ad-requirements-policy.html)
       + [Riktlinjer för godkända hälsosegment](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
       + [[!DNL DSP] Riktlinjer för dataanvändning](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
-   + [Tillgänglig [!DNL Advanced Measurement Services]](/help/dsp/introduction/advanced-measurement-services.md)
+   + [Tillgänglig [!DNL Advanced Measurement Solutions]](/help/dsp/introduction/advanced-measurement-services.md)
 + Kampanjhantering {#campaign-management}
    + [Översikt över Campaign Management-strukturen](/help/dsp/campaign-management/campaign-management-overview.md)
    + Kampanjer {#campaigns}

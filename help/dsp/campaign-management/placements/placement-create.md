@@ -3,7 +3,7 @@ title: Skapa en placering
 description: Lär dig hur du skapar en placering.
 feature: DSP Placements
 exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 608774723f865c22bfdd5c911ac818600a495114
 workflow-type: tm+mt
 source-wordcount: '634'
 ht-degree: 1%
@@ -29,7 +29,8 @@ ht-degree: 1%
    1. Ange [!UICONTROL Basics]-inställningarna.
 
    1. I avsnittet [!UICONTROL Goals] anger du [!UICONTROL Gross Budget] och, om du vill, anger ytterligare placeringsmål.
-Vissa fält har standardvärden som du kan åsidosätta.
+
+      Vissa fält har standardvärden som du kan åsidosätta.
 
       Om paketet som placeringen är tilldelad till har paketnivåpacing, kommer dina mål och paketinställningar att återspegla paketinställningarna.
 
