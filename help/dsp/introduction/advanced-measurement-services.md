@@ -2,9 +2,9 @@
 title: Tillgänglig [!DNL Advanced Measurement Solutions]
 description: Se en lista över tillgängliga lösningar för avancerad mätning.
 exl-id: 1a8b76ee-d38d-4ee4-981b-e29497fa4095
-source-git-commit: 209dfce05228be879d9ba744590ff52ce572a807
+source-git-commit: d25e768fe5d277ef8d1c9ae7531b7a7d3c563622
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -77,4 +77,4 @@ Alla kunder som vill nå en viss typ av kund för att öka försäljningen i but
 
 ## Mer information
 
-Om du vill veta mer om hur du använder avancerade mättjänster för att skapa en anpassad inlärningsagenda för din kampanj, inklusive regionala begränsningar och priser, kan du kontakta [!DNL Adobe Strategic Advertising Consultants]-teamet på [!DNL asg@adobe.com].
+Om du vill veta mer om hur du använder avancerade mätlösningar för att skapa en anpassad utbildningsagenda för kampanjen, inklusive mätbara format, regionala begränsningar och priser för varje paket, kan du kontakta [!DNL Adobe Strategic Advertising Consultants]-teamet på [!DNL asg@adobe.com].
