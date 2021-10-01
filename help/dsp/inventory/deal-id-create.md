@@ -3,9 +3,9 @@ title: Skapa information om avtal-ID manuellt
 description: Lär dig hur du manuellt anger information för ett avtal-ID.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: cd9763a7-99d4-4881-9df9-b4e24c55be0f
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 7e2a52e7b0d91f9206cd6e9a6ffb41a8399abf00
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    1. I [!UICONTROL Ad & Campaign Selection]-inställningarna väljer du de annonser som ska användas för erbjudandet:
 
-      1. Välj annonsören, kampanjen och annonstypen.
+      1. Välj annonsören, kampanjen och annonstypen. Du kan också välja en annonsstatus att filtrera annonserna med.
 
       1. Markera kryssrutan bredvid varje annons som ska användas för erbjudandet i listan över tillgängliga annonser.
 
@@ -69,3 +69,4 @@ När du har skapat avtalet kan du använda det som ett lagermål för flera plac
 >* [Skicka in en annons för en programmatisk garanterad affär med [!DNL FreeWheel]](freewheel-submit.md)
 >* [Om programmatiska erbjudanden](programmatic-guaranteed-about.md)
 
+<!-- >* [Specify Placements and Ads for a Private Deal](private-deal-attach-placements.md)-->
