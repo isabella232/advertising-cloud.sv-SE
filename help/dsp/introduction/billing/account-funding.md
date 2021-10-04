@@ -3,9 +3,9 @@ title: Kontofinansiering
 description: Läs mer om kontofinansiering för DSP.
 feature: DSP Introduction
 exl-id: c90e88a7-78dd-402c-baba-9bac360093a4
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 4d3020701caae4218aff2ecb7e7c063afebac4d5
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -26,3 +26,8 @@ Finansieringen för klientkonton uppdateras i nära realtid i [!DNL DSP]. Om du 
 ![Användbara medel för ett konto](/help/dsp/assets/account-usable-funds.png)
 
 Adobe förbehåller sig rätten att blockera ditt konto från att spendera på DSP av orsaker som inbegriper överträdelse av DSP [annonskravsprincipen](/help/policies/ad-requirements-policy.md) eller sekretessvillkoren. Om Adobe blockerar ditt konto innehåller dina kontoinställningar ett spärrat meddelande. Samarbeta med din Advertising Cloud [!DNL Client Services]-representant för att ta reda på orsaken till blocket och hur du kan korrigera felet.
+
+>[!MORELIKETHIS]
+>
+>* [Valutor som stöds](/help/dsp/currency.md)
+
