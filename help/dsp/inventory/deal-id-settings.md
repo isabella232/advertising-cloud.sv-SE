@@ -3,9 +3,9 @@ title: Manuella inställningar för avtal-ID
 description: Se beskrivningar av inställningarna för manuellt angivna avtal-ID:n.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 0cd5e9e8-2b13-4b1e-a2e0-b8b492f75acf
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: c3d0783078adc8afafb55d6b6e7e48cdc875ce7c
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 |  | [!UICONTROL External deal ID] | Det ID som din utgivare och SSP använder för att identifiera erbjudandet. | Ja | Nej |
 |  | [!UICONTROL Publisher] | Namnet på utgivaren som säljer det här lagret. | Ja | Nej |
 |  | [!UICONTROL SSP] | Den SSP-plattform som avtalet ska köras genom. | Ja | Nej |
-|  | [!UICONTROL Media type] | Den typ av media som kommer att köpas genom detta avtal: [!UICONTROL Desktop video], [!UICONTROL Mobile video], [!UICONTROL Connected TV], [!UICONTROL Display] eller [!UICONTROL Audio]. Alternativen varierar beroende på SSP. | Ja | Nej |
+|  | [!UICONTROL Media type] | Den typ av media som kommer att köpas genom detta avtal: [!UICONTROL Desktop video], [!UICONTROL Mobile video], [!UICONTROL Connected TV], [!UICONTROL Display] eller [!UICONTROL Audio]. Alternativen varierar beroende på SSP.<br><br> Om avtalet tillåter flera medietyper väljer du medietypen för standardplaceringen när du skapar erbjudandet. Senare kan du välja en annan medietyp och skapa en ny placering med den andra medietypen.<!-- It would be ideal if this field was multi-select rather than a radio button, so you don't have to "change" the value later. --> | Ja | Nej |
 |  | [!UICONTROL Deal type] | Avtalsåtagande och prisstruktur:<br><ul><li>*[!UICONTROL Non guaranteed (floor)]*: Du och utgivaren har inte åtagit sig ett fast antal tryckleveranser. I avtalet anges minimipriset för lagret, men CPM kan variera och öka beroende på marknadsvillkoren.</li><li>*[!UICONTROL Non guaranteed (fixed)]*: Du och utgivaren har inte åtagit sig ett fast antal tryckleveranser. Priserna sätts till en förhandlad fast ränta.</li><li>*[!UICONTROL Guaranteed (fixed)]*: Du och utgivaren har kommit överens om ett fördefinierat antal visningar, målinriktning, flygdatum och fast pris.<br><br><b>Obs!</b> Garanterade erbjudanden kräver flygdatum och ett visst antal visningar i  [!UICONTROL Tracking] avsnittet. Du måste också skapa en standardplacering av en programmatisk garanterad (PG) för erbjudandet, och du kan välja att använda erbjudandet för andra placeringar i stället.</li></ul> | Ja | Nej |
 |  | [!UICONTROL CPM] | Den framförhandlade kostnaden per tusen visningar (CPM). | Ja | Ja |
 |  | [Valuta] | Valutan för erbjudandet.<br><br>Alla SSP accepterar erbjudanden i USD. När SSP godkänner valutan för ditt DSP är även den valutan tillgänglig. | Ja | Nej |
