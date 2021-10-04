@@ -3,9 +3,9 @@ title: Översikt över inventeringsfunktioner i Advertising Cloud DSP
 description: Läs mer om tillgängliga lagerfunktioner.
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 582823095b8d41876676f3f06489030d9950173f
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ Utforska förförhandlade, icke-garanterade avtal som Adobe har ingått med vår
 
 ### Privat lager
 
-Konfigurera och hantera privata marknadsplatserbjudanden (PMP), som är avtal som du har förhandlat direkt 1:1 med utgivaren, så att en eller flera annonsörer på ditt konto kan rikta sig till dem. Utför dessa affärer via avtals-ID eller VAST-taggar (Video Ad Serving Template). Du kan ställa in PMP som inte är garanterade eller konfigurera avtal-ID:n för programmatiska inköp med utvalda SSP:er.
+Konfigurera och hantera privata marknadsplatserbjudanden (PMP), som är avtal som du har förhandlat direkt 1:1 med utgivaren, så att en eller flera annonsörer på ditt konto kan rikta sig till dem. Utför dessa avtal via erbjudande-ID:n. Du kan ställa in PMP som inte är garanterade eller konfigurera avtal-ID:n för programmatiska inköp med utvalda SSP:er.
 
 ### Enkel annonsvisning
 
-[!DNL Simple Ad Serving] har smidig teknik för garanterad, icke-beslutsam leverans och rapportering av annonser. Använd [!DNL Simple Ad Serving] när din utgivare inte kan genomföra ditt avtal via avtal-ID:n. All målgruppsanpassning, budgetering och begränsning samt frekvensbegränsning hanteras av utgivaren. Utför dessa erbjudanden via annonstaggar eller händelsepixlar.
+[!DNL Simple Ad Serving] har smidig teknik för garanterad, icke-beslutsam leverans och rapportering av annonser. Använd [!DNL Simple Ad Serving] när din utgivare inte kan genomföra ditt avtal via avtal-ID:n. All målgruppsanpassning, budgetering och begränsning samt frekvensbegränsning hanteras av utgivaren. Utför dessa erbjudanden via pixlar för händelsespårning.
 
 >[!MORELIKETHIS]
 >
