@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: afdfaed21410fdd1808964d637b5210255af7d81
+source-git-commit: 30521ed6daf38235125acc1f99115bf9f94d6975
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Följande funktioner är nya eller nyligen ändrade.
 
 | Datum | Funktion | Beskrivning | Mer information |
 | ---- | ------- | ----------- | -------------------- |
+| 7 oktober 2021 | Hjälp | Alla [DSP och annan Advertising Cloud-dokumentation](https://experienceleague.adobe.com/docs/advertising-cloud.html) på [!DNL Experience League] är nu maskinöversatta till alla tillgängliga språk. Om du vill ändra vilket språk som visas använder du menyn Ändra språk längst ned till vänster på en sida.<br>![Ändra språk](/help/dsp/assets/change-language.png) |
 | 30 september 2021 | Säker varumärkesexponering | (22 september-versionen) [!DNL DoubleVerify] av produkter som var före offert på varumärkets säkerhet uppdaterades till [!DNL Brand Suitability Tiers], som gör det möjligt för annonsörer att välja mellan tre risknivåer (låg, medel och hög) för specifika segment utan att undvika alla förekomster av ett visst ämne. Historiskt sett innehöll segmenten inga toleransnivåer.<br><br>För att anpassa er till den nya  [!DNL DoubleVerify] segmentstrukturen migrerade DSP era era befintliga varumärkessäkerhetssegment till deras nya, rekommenderade  *medelnivåsegment*. Du kan justera segmentnivån till *låg* eller *hög* om du vill.<br><br>**Obs!** En liten lista med segment har inga nivåer men nya namn, som &quot;Nuisance/Spyware/Malware,Warez&quot; > Incentivized/Malware/Clutter&quot;. | — |
 |  | Optimering | Följande optimeringsmål och föranbudsfilter har tagits bort:<ul><li>Optimeringsmål:<ul><li>[!UICONTROL Always Max Bid & Highest Viewability Rate (Moat – GroupM)]</li><li>[!UICONTROL Always Max Bid & Highest Viewability Rate (Moat – MRC)]</li></ul><li>Filtermål före bud:<ul><li>[!UICONTROL Viewability IAS]</li><li>[!UICONTROL Viewability Moat]</li></ul></ul> | Se &quot;[Optimeringsmål och Så här använder du dem](/help/dsp/optimization/optimization-goals.md)&quot; och &quot;[Pre-Bid-filter på placeringsnivå och Använda dem](/help/dsp/optimization/optimization-pre-bid-filters.md)&quot;. |
 | 28 september 2021 | Vyer för kampanjhantering | En [!UICONTROL Creation date]-kolumn är nu tillgänglig i anpassade kolumnuppsättningar för vyerna [!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements] och [!UICONTROL Ads]. Du kan också filtrera vyerna [!UICONTROL Placements] och [!UICONTROL Ads] med [!UICONTROL Creation date]. | Se &quot;[Skapa en anpassad kolumnvy](/help/dsp/campaign-management/reports/column-view-create.md)&quot; och &quot;[Filtrera kampanjdata](/help/dsp/campaign-management/reports/campaign-data-filter.md).&quot; |
