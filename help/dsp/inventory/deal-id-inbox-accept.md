@@ -1,11 +1,11 @@
 ---
 title: Acceptera ett erbjudande i [!UICONTROL Deal ID Inbox]
-description: Lär dig hur du godkänner ett privat avtal som du redan har förhandlat med en utgivare den [!DNL Google Authorized Buyers], [!DNL FreeWheel], or [!DNL Rubicon] med hjälp av Inkorgen för avtal-ID.
+description: Lär dig hur du godkänner ett privat avtal som du redan har förhandlat med en utgivare den [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (tidigare [!DNL Rubicon]) med hjälp av Inkorgen för avtal-ID.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 55e8ca50-05f5-4f38-9fd5-afaed71315dc
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 8046ec79ec24f47fe33e49c6097e44dbba450f1f
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *Användare i DSP som endast är mappade till SSP-konton*
 
-Använd [!UICONTROL Deal ID inbox] för att snabbt acceptera ett privat avtal som du redan har förhandlat med en utgivare på [!DNL Google Authorized Buyers], [!DNL FreeWheel] eller [!DNL Rubicon].
+Använd [!UICONTROL Deal ID inbox] för att snabbt acceptera ett privat avtal som du redan har förhandlat med en utgivare på [!DNL FreeWheel], [!DNL Google Authorized Buyers] (tidigare [!DNL AdX]) och [!DNL Magnite DV+] (tidigare [!DNL Rubicon]).
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ Använd [!UICONTROL Deal ID inbox] för att snabbt acceptera ett privat avtal so
 
 1. (Valfritt) Om du vill uppdatera avtalsinformationen klickar du på **[!UICONTROL Refresh]**.
 
-   DSP uppdaterar automatiskt alla avtalsdetaljer varje dag kl. 04.30 EST. Den uppdaterar även alla [!DNL FreeWheel]-avtal och uppdaterar befintliga avtal från [!DNL Google] och [!DNL Rubicon] varje timme.
+   DSP uppdaterar automatiskt alla avtalsdetaljer varje dag kl. 04.30 EST. Den uppdaterar även alla [!DNL FreeWheel]-avtal och uppdaterar befintliga avtal från [!DNL Google] och [!DNL Magnite DV+] varje timme.
 
 1. (Om du tidigare ignorerade erbjudandet) Klicka på fliken **[!UICONTROL Ignored Deals]**.
 

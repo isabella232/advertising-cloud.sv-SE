@@ -1,18 +1,18 @@
 ---
 title: Om [!UICONTROL Deal ID Inbox]
-description: Läs mer om funktionen [!UICONTROL Deal ID inbox] som gör att du kan acceptera privata avtal som du redan har förhandlat med utgivare den [!DNL Google Authorized Buyers], [!DNL FreeWheel], and [!DNL Rubicon].
+description: Lär dig mer om funktionen [!UICONTROL Deal ID inbox] som gör att du kan acceptera privata avtal som du redan har förhandlat med utgivare den [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (tidigare [!DNL Rubicon]).
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 8046ec79ec24f47fe33e49c6097e44dbba450f1f
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---
 
 # Om [!UICONTROL Deal ID Inbox]
 
-Med DSP [!UICONTROL Deal ID inbox] kan du snabbt skapa avtal som Advertising Cloud DSP har importerat från utgivare via SSP (Supply Side Plattforms) så att du inte behöver konfigurera varje avtal manuellt. Du kan acceptera de garanterade och ej garanterade privata lagererbjudanden som du redan har förhandlat med utgivare på [!DNL Google Authorized Buyers] (tidigare [!DNL AdX]), [!DNL FreeWheel] och [!DNL Rubicon] från [!UICONTROL Deal ID inbox].
+Med DSP [!UICONTROL Deal ID inbox] kan du snabbt skapa avtal som Advertising Cloud DSP har importerat från utgivare via SSP (Supply Side Plattforms) så att du inte behöver konfigurera varje avtal manuellt. Du kan acceptera de garanterade och ej garanterade privata lagererbjudanden som du redan har förhandlat med utgivare på [!DNL FreeWheel], [!DNL Google Authorized Buyers] (tidigare [!DNL AdX]) och [!DNL Magnite DV+] (tidigare [!DNL Rubicon]) från [!UICONTROL Deal ID inbox].
 
 >[!NOTE]
 >
@@ -20,7 +20,7 @@ Med DSP [!UICONTROL Deal ID inbox] kan du snabbt skapa avtal som Advertising Clo
 
 I [!UICONTROL Deal ID inbox] kan du se detaljerna om erbjudandet så som din utgivare ser dem, snabba upp konfigurationen av erbjudandet och undvika fel vid manuell inmatning.
 
-DSP uppdaterar automatiskt alla avtalsdetaljer varje dag kl. 04.30 EST. Den uppdaterar även alla [!DNL FreeWheel]-avtal och uppdaterar befintliga avtal från [!DNL Google] och [!DNL Rubicon] varje timme. Du kan även uppdatera avtalsinformationen manuellt för att fylla i nya avtal när som helst.
+DSP uppdaterar automatiskt alla avtalsdetaljer varje dag kl. 04.30 EST. Den uppdaterar även alla [!DNL FreeWheel]-avtal och uppdaterar befintliga avtal från [!DNL Google] och [!DNL Magnite DV+] varje timme. Du kan även uppdatera avtalsinformationen manuellt för att fylla i nya avtal när som helst.
 
 <!-- MC: I'm not sure where I got the following. Is this currently true? -->
 >[!NOTE]
@@ -51,13 +51,13 @@ Du kan inte acceptera följande typer av avtal:
 
 * [!DNL Google] erbjudanden som inte är i USD.
 
-* [!DNL Rubicon] erbjudanden som inte är i USD
+* [!DNL Magnite DV+] erbjudanden som inte är i USD
 
 * [!DNL FreeWheel] erbjudanden som inte finns i din kontovaluta.
 
 * Erbjudanden som har ett slutdatum före idag.
 
-* Gamla [!DNL Rubicon]-erbjudanden som är märkta som&quot;flera medietyper&quot;.
+* Gamla [!DNL Magnite DV+]-erbjudanden som är märkta som&quot;flera medietyper&quot;.
 
 Avtalsinformationen innehåller anledningen till att erbjudandet inte är tillgängligt att acceptera.
 
