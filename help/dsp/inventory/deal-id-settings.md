@@ -3,9 +3,9 @@ title: Manuella inställningar för avtal-ID
 description: Se beskrivningar av inställningarna för manuellt angivna avtal-ID:n.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 0cd5e9e8-2b13-4b1e-a2e0-b8b492f75acf
-source-git-commit: c3d0783078adc8afafb55d6b6e7e48cdc875ce7c
+source-git-commit: 5f39608155f9237fb6d69a7b31c007d1b8d0306f
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 | [!UICONTROL Advertisers] | [!UICONTROL Account email] | E-postadressen till det användarkonto som har åtkomst till avtalet. | Nej | Ja |
 |  | [!UICONTROL Advertisers that can access this deal] | De specifika annonsörer på kontot som har tillgång till erbjudandet.<br><br><b>Obs!</b> Du kan dela avtalet med annonsörer i ytterligare konton från  [!UICONTROL Deals] vyn. Klicka på **[!UICONTROL #]** på avtalsraden, klicka på **[!UICONTROL share]** och dela sedan avtalet med en e-postadress. | Ja | Ja |
 | [!UICONTROL Tracking] | [!UICONTROL Flight Dates] | Start- och slutdatum för trafik som använder det här avtalet. Datumet är endast avsett för spårningsändamål och påverkar inte annonsleveransen.<br><br><b>Tips:</b> I  [!UICONTROL Inventory] >- [!UICONTROL Deals] vyn visas i  [!UICONTROL Pacing & Budget] kolumnen hur erbjudandet gäller för angivet flygdatum och angivet inställningsmål. Om leveransen är under- eller överbelagd kontaktar du utgivaren för att justera hur mycket av volymen den skickar genom erbjudandet. | Garanterade erbjudanden: Ja<br>Erbjudanden utan garanti: Nej | Ja |
-|  | [!UICONTROL Impressions] | (Valfritt för erbjudanden utan garanti) Det uppskattade antalet visningar som du förväntar dig att göra med det här erbjudandet. Detta värde är endast spårningsändamål; utgivaren kontrollerar och levererar. | Garanterade erbjudanden: Ja<br>Erbjudanden utan garanti: Nej | Ja |
+|  | [!UICONTROL Impressions] | (Valfritt för erbjudanden utan garanti) Det uppskattade antalet visningar som du förväntar dig att göra med det här erbjudandet. Detta värde är endast avsett för spårning. utgivaren kontrollerar och levererar. | Garanterade erbjudanden: Ja<br>Erbjudanden utan garanti: Nej | Ja |
 
 {style=&quot;table-layout:auto&quot;}
 
