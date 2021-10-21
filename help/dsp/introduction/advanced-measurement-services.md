@@ -2,9 +2,9 @@
 title: Avancerade mätningslösningar
 description: Se en lista över tillgängliga lösningar för avancerad mätning.
 exl-id: 1a8b76ee-d38d-4ee4-981b-e29497fa4095
-source-git-commit: 851b3e5ebb6f6e8dcd6ea672c7220ed28f52dba4
+source-git-commit: 1f1dc0b4b38652beb9bc7392ee17fa4eefad987b
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -59,37 +59,37 @@ Följande mätningslösningspaket finns tillgängliga för att validera framgån
 
 ## Hitta den perfekta måttenheten: Lodräta lösningar
 
-### Valfri lodrät
+* Valfri lodrät
 
-* Experimentera med designern (Placebo- och A/B-testning)
+   * Experimentera med designern (Placebo- och A/B-testning)
 
-* Personbaserad räckvidd
+   * Personbaserad räckvidd
 
-   Alla organisationer som vill mäta i olika digitala strategier. organisationer som vill visa upp värdet av ljud
+      Alla organisationer som vill mäta i olika digitala strategier. organisationer som vill visa upp värdet av ljud
 
-* Hushållsbaserad mätning av räckvidd, frekvens och konvertering
+   * Hushållsbaserad mätning av räckvidd, frekvens och konvertering
 
-   Alla kunder som vill förstå räckvidd/inkrementell räckvidd och kostnadsbaserade effektivitetsvinster och/eller konverteringsvärden över flera digitala strategier
+      Alla kunder som vill förstå räckvidd/inkrementell räckvidd och kostnadsbaserade effektivitetsvinster och/eller konverteringsvärden över flera digitala strategier
 
-* Mätning av skärmens räckvidd, frekvens och konvertering
+   * Mätning av skärmens räckvidd, frekvens och konvertering
 
-   Alla kunder som vill förstå räckvidd/inkrementell räckvidd och kostnadsbaserade effektivitetsvinster och/eller konverteringsmått i olika digitala strategier i förhållande till investeringar i Linear TV
+      Alla kunder som vill förstå räckvidd/inkrementell räckvidd och kostnadsbaserade effektivitetsvinster och/eller konverteringsmått i olika digitala strategier i förhållande till investeringar i Linear TV
 
-* Panelbaserade undersökningar på Dynata
+   * Panelbaserade undersökningar på Dynata
 
-   Alla kunder som vill mäta varumärkets medvetenhet och uppfattning på flera skärmar. passar bäst för nischade målgrupper
+      Alla kunder som vill mäta varumärkets medvetenhet och uppfattning på flera skärmar. passar bäst för nischade målgrupper
 
-### QSR, Retail (Brick and Mortar)
+* QSR, Retail (Brick and Mortar)
 
-* Transaktionsmätning
+   * Transaktionsmätning
 
-* Mätning av fottrafik
+   * Mätning av fottrafik
 
-### QSR, detaljhandel, resor
+* QSR, detaljhandel, resor
 
-* Transaktionsinsikter
+   * Transaktionsinsikter
 
-   Alla kunder som vill nå en viss typ av kund för att öka försäljningen i butiken och online
+      Alla kunder som vill nå en viss typ av kund för att öka försäljningen i butiken och online
 
 ## Mer information
 
