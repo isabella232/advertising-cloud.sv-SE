@@ -3,9 +3,9 @@ title: Certifierade annonserande partners
 description: Se alla certifierade annonsservrar och annonsenheter.
 feature: DSP Ads
 exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -35,13 +35,13 @@ ht-degree: 0%
 | [!DNL Flashtalking] | X | X |  | X |  |
 | [!DNL Frequency] | X |  |  |  |  |
 | [!DNL Gum Gum] |  |  | X |  |  |
-| [!DNL HUMAN] (Tidigare  [!DNL White Ops]) | X | X |  | X |  |
+| [!DNL HUMAN] (Tidigare [!DNL White Ops]) | X | X |  | X |  |
 | [!DNL IAS] | X | X |  | X |  |
 | [!DNL IBM] |  | X |  | X |  |
 | [!DNL Innovid] | X | X |  | X |  |
 | [!DNL InSkin] |  |  | X |  | Slagskal med hög effekt måste levereras från ett 180 × 150-ID för visningsavtal i Inskin-lagernätverket. |
 | [!DNL Jivox] |  | X |  |  |  |
-| [!DNL Kargo] |  | X |  |  | 320x50 ankare, BYOC, Hover, Breakout och Sidekick; 300x250 Outstream </br></br>Kontakta din kontoansvarige på Adobe för att få hjälp med att konfigurera annonsenheter. |
+| [!DNL Kargo] |  | X |  |  | 320x50 ankare, BYOC, Hover, Breakout och Sidekick; 300x250 Outstream </br></br>Kontakta [!DNL Adobe] kontoansvarig för hjälp med att ställa in annonsenheter. |
 | [!DNL Linkstorm] |  |  | X |  |  |
 | [!DNL mCanvas] |  |  | X |  |  |
 | [!DNL Medialets] |  | X |  |  |  |
@@ -50,13 +50,13 @@ ht-degree: 0%
 | [!DNL Pubmatic] |  |  |  | X | Endast VAST |
 | [!DNL RevJet] |  |  |  | X | Endast VAST |
 | [!DNL Seedtag] |  | X |  |  |  |
-| [!DNL Sizmek] |  | X |  |  | Om du vill att taggarna ska återges i användargränssnittet kapslar du in taggen med `<a>`-taggar (i början och i slutet). Se exempeltaggen nedan:</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
+| [!DNL Sizmek] |  | X |  |  | Om du vill att taggarna ska återges i användargränssnittet omsluter du taggen med `<a>` -taggar (i början och slutet). Se exempeltaggen nedan:</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
 | [!DNL Spaceback] |  | X |  |  |  |
 | [!DNL Spirable] |  | X |  |  |  |
 | [!DNL SUBLIME] |  |  | X |  |  |
 | [!DNL SundaySky] |  |  |  | X |  |
 | [!DNL Trueffect] |  | X |  |  |  |
-| [!DNL Undertone] |  |  | X |  | En anpassad annonsenhet för Page Grabber överförd som 180x150 i Advertising Cloud DSP</br></br>När Index Exchange skickar en 180x150-auktion och DSP bud på auktionen och ger ett intryck, utvidgas den kreativa sidan till en helsidesannons.</br></br>Inledningsvis certifierad för annonsenheterna Page Grabber, Expandable Adhesion och Screen Shift. Detta måste certifieras på nytt, med steg markerade för processer. |
+| [!DNL Undertone] |  |  | X |  | Anpassa sidnummer som har laddats upp som 180 × 150 i Advertising Cloud DSP</br></br>När Index Exchange skickar en 180 × 150-auktion och DSP bud på auktionen och ger ett intryck, utvidgas den kreativa processen till en helsidesannons.</br></br>Inledningsvis certifierad för annonsenheterna Page Grabber, Expandable Adhesion och Screen Shift. Detta måste certifieras på nytt, med steg markerade för processer. |
 | [!DNL Vox] |  |  | X |  | [!DNL Athena] annonsenheter |
 | [!DNL Wunderkind] |  | X |  |  |  |
 

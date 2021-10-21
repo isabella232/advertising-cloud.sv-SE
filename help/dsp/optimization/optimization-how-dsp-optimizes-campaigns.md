@@ -3,16 +3,16 @@ title: Hur DSP optimerar era kampanjer
 description: Lär dig hur DSP optimerar paketen i era kampanjer.
 feature: DSP Optimization
 exl-id: 054582ef-b677-4725-b25c-b82bf3e5b43e
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '682'
 ht-degree: 0%
 
 ---
 
 # Hur DSP optimerar era kampanjer
 
-På den här sidan beskrivs hur Advertising Cloud DSP optimeringsmotor, som drivs av [!DNL Adobe Sensei], optimerar paketen i era kampanjer. Om du vill ha tips och råd om hur du optimerar kampanjer manuellt kontaktar du kontohanteraren för Adobe. <!-- add link to trading playbook if we add it to help -->
+På den här sidan beskrivs hur Advertising Cloud DSP optimeringsmotor, som [!DNL Adobe Sensei], optimerar paketen i era kampanjer. Om du vill ha tips och råd om hur ni optimerar kampanjer manuellt kontaktar du [!DNL Adobe] kontoansvarig. <!-- add link to trading playbook if we add it to help -->
 
 Paketoptimeringsmålen fungerar på två nivåer:
 
@@ -32,17 +32,17 @@ DSP kan optimera leveransen på två grundläggande sätt, med 20 olika variante
 
 * Prioritera balansering av kostnadseffektivitet med prestandahastighet
 
-Se [Optimeringsmål och Använda dem](optimization-goals.md) för att avgöra vilket optimeringsmål som ska hjälpa dig att uppnå dina KPI:er.
+Se [Optimeringsmål och Så här använder du dem](optimization-goals.md) för att avgöra vilket optimeringsmål som hjälper dig att uppnå dina nyckeltal.
 
 ### Paket som prioriterar prestandahastigheten
 
-För optimeringsmål som prioriterar prestandakursen förutser DSP resultatet för varje auktion och alltid offerter vid det högsta anbudet. Exempel på tillämpliga optimeringsmål är [!UICONTROL Highest Viewability Rate], [!UICONTROL Highest Clickthrough Rate] och så vidare.
+För optimeringsmål som prioriterar prestandakursen förutser DSP resultatet för varje auktion och alltid offerter vid det högsta anbudet. Exempel på tillämpliga optimeringsmål är [!UICONTROL Highest Viewability Rate], [!UICONTROL Highest Clickthrough Rate]och så vidare.
 
 Det här optimeringsläget fungerar bra om:
 
 * Du känner redan till den effektiva/godtagbara CPM-nivån (till exempel ett historiskt riktmärke).
 
-* Du kan justera [!UICONTROL Max Bid] manuellt för varje placering om det uppstår problem med skalningen.
+* Du kan justera [!UICONTROL Max Bid] för varje placering om du har problem med skalning.
 
 * Du prioriterar skala framför effektivitet.
 
@@ -58,15 +58,15 @@ När den har exekverat paketeringslogiken, kör DSP det föreslagna anbudet geno
 
 ### Paket som prioriterar balansering av kostnadseffektivitet med prestandahastighet
 
-För vissa optimeringsmål förutser DSP resultatet för varje auktion och justerar budpriserna automatiskt, utan att överskrida en placerings [!UICONTROL Max Bid]. Exempel på tillämpliga optimeringsmål är [!UICONTROL Lowest CPM], [!UICONTROL Lowest CPA], [!UICONTROL Lowest Cost per View], [!UICONTROL Lowest Cost per Click] och så vidare.
+För vissa optimeringsmål förutser DSP resultatet för varje auktion och justerar budpriserna automatiskt, utan att överskrida en placerings [!UICONTROL Max Bid]. Exempel på tillämpliga optimeringsmål är [!UICONTROL Lowest CPM], [!UICONTROL Lowest CPA], [!UICONTROL Lowest Cost per View], [!UICONTROL Lowest Cost per Click]och så vidare.
 
 #### Paketlogik {#pacing-logic-balanced}
 
 * Om utgifterna är i takt med detta blir DSP mer priskänslig och lägger lägre belopp för att kompensera vinsten med paketplanen.
 
-* Om ett prestandamått också balanseras (alla mål utom [!UICONTROL Lowest CPM]) blandas den förväntade KPI:n in i beloppet som anbudet gäller. Ni lägger därför ett högre bud på auktioner som förutspås bli mer presterande på&quot;kostnad per&quot;-basis.
+* Om ett prestandamått också balanseras (alla mål utom [!UICONTROL Lowest CPM]), blandas den förväntade KPI:n med beloppet som är anbudet. Ni lägger därför ett högre bud på auktioner som förutspås bli mer presterande på&quot;kostnad per&quot;-basis.
 
-* Om utgiftsnivån ligger efter blir DSP mindre priskänslig och offrar högre belopp, upp till [!UICONTROL Max Bid], för att kompensera vinsten med paketplanen.
+* Om utgiftsnivån ligger efter blir DSP mindre priskänslig och offrar högre belopp, upp till [!UICONTROL Max Bid], för att sälja in vinsten med paketplanen.
 
 #### Rensa pris/budskugga {#clearing-price-balanced}
 
@@ -80,7 +80,7 @@ Placering av filter före bud är det enklaste sättet att säkerställa höga p
 >
 >Vilka filter som är tillgängliga för förbud varierar beroende på annonstyp. För en standardplacering kan du till exempel filtrera genom klickfrekvens och visningsbarhet, men inte efter slutförandegrad.
 
-Se [Pre-Bid Filters på placeringsnivå och Använda dem](optimization-pre-bid-filters.md) för att avgöra vilket pre-bid filter som hjälper dig att uppnå dina KPI:er.
+Se [Pre-Bid-filter på placeringsnivå och Så här använder du dem](optimization-pre-bid-filters.md) för att avgöra vilket föranbudsfilter som hjälper dig att uppnå dina KPI:er.
 
 >[!MORELIKETHIS]
 >

@@ -1,47 +1,47 @@
 ---
-title: Visa status för dina  [!DNL On Demand] avtalsbegäranden och prenumerationer
-description: Lär dig hur du ser statusen för dina  [!DNL On Demand] avtalsbegäranden och prenumerationer.
+title: Visa din [!DNL On Demand] Avtalsförfrågningar och prenumerationer
+description: Lär dig hur du ser statusen för [!DNL On Demand] beställningar och prenumerationer.
 feature: DSP On Demand Inventory
 exl-id: 8dd6d922-c4a3-4ddb-bca9-f6f782da1320
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
 
-# Visa status för dina [!DNL On Demand] avtalsbegäranden och prenumerationer
+# Visa din [!DNL On Demand] Avtalsförfrågningar och prenumerationer
 
 När du har beställt ett enskilt avtal eller en prenumeration på alla utgivarerbjudanden, se om utgivaren har godkänt eller avvisat varje erbjudande för varje annonsör på ditt konto.
 
-1. Klicka på **[!UICONTROL Inventory]>[!UICONTROL On Demand]** på huvudmenyn.
+1. Klicka på **[!UICONTROL Inventory]>[!UICONTROL On Demand]**.
 1. Filtrera de tillgängliga erbjudandena så att de omfattar erbjudanden som du har begärt eller prenumererat på (**[!UICONTROL Currently subscribed to]**)**.
 1. Gör något av följande:
-   * Om du vill visa erbjudandena i vyn [!UICONTROL Deal] klickar du på **[!UICONTROL Deal view]**.
-   * Så här visar du erbjudandena i vyn [!UICONTROL Subscription]:
+   * Så här ser du erbjudandena i [!UICONTROL Deal] visa, klicka **[!UICONTROL Deal view]**.
+   * Så här ser du erbjudandena i [!UICONTROL Subscription] vy:
       1. Klicka på **[!UICONTROL Subscription view]**.
       1. Håll markören över utgivarens logotyp och klicka sedan på **[!UICONTROL See Deals]**.
-1. Leta reda på kolumnen [!UICONTROL Status] för att se godkännandestatusen.
+1. Leta reda på [!UICONTROL Status] för att se godkännandestatus.
 
 ## Avtalsstatus
 
 Godkännande eller nekande av utgivare kan baseras på kontotypen och kampanjkategorin för kontot, annonsörkategorin och utgivarens lista över blockerade annonsörer.
 
-* ![fullständigt ](/help/dsp/assets/approved.png) godkänd för anbudsförfrågningar som godkänts för alla annonsörer i kontot
+* ![fullständigt godkänd](/help/dsp/assets/approved.png) för anbudsförfrågningar som godkänts för alla annonsörer i kontot
 
-* ![delvis ](/help/dsp/assets/partly-approved.png) godkända för anbudsförfrågningar som godkänts för vissa, men inte alla, annonsörer i kontot
+* ![delvis godkänd](/help/dsp/assets/partly-approved.png) för anbudsförfrågningar som godkänts för vissa, men inte alla, annonsörer i kontot
 
-   Klicka ![delvis godkänd](/help/dsp/assets/partly-approved.png) för att se varför en begäran nekades för en annonsörer.
+   Om du vill se varför en annonsörs nekades en begäran klickar du på ![delvis godkänd](/help/dsp/assets/partly-approved.png).
 
-* ![Nekad ](/help/dsp/assets/denied.png) för anbudsförfrågningar som nekats för alla annonsörer i kontot
+* ![nekad](/help/dsp/assets/denied.png) för anbudsförfrågningar som har nekats för alla annonsörer i kontot
 
-   Om du vill se varför en begäran nekades för varje annonsörer klickar du på ![Nekad](/help/dsp/assets/denied.png). Om orsaken till nekandet är något som kan lösas kan du [begära om avtalet](/help/dsp/inventory/on-demand-inventory-rerequest.md).
+   Om du vill se varför en begäran nekades för varje annonsörer klickar du på ![nekad](/help/dsp/assets/denied.png). Om orsaken till nekandet är något som kan lösas kan du [begär om erbjudandet](/help/dsp/inventory/on-demand-inventory-rerequest.md).
 
-Kontakta din kontoansvarige på Adobe om du har några frågor om godkännandeprocessen.
+Om du har frågor om godkännandeprocessen kan du kontakta [!DNL Adobe] kontoansvarig.
 
 >[!MORELIKETHIS]
 >
->* [Prenumerera och begär åtkomst  [!DNL On Demand] till Premium Inventory Deals](on-demand-inventory-subscribe.md)
+>* [Prenumerera och begär åtkomst till [!DNL On Demand] Premium Inventory Devices](on-demand-inventory-subscribe.md)
 >* [Begär Premium-erbjudanden på begäran igen](on-demand-inventory-rerequest.md)
 >* [[!DNL On Demand] Premium Inventory Publishers i Asien-Stillahavsområdet](on-demand-inventory-publishers-apac.md)
 >* [[!DNL On Demand] Premium Inventory Publishers i Australien och Nya Zeeland](on-demand-inventory-publishers-anz.md)

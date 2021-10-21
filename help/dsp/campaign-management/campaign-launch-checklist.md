@@ -3,9 +3,9 @@ title: Checklista för kampanjstart
 description: Lär dig vad du behöver göra innan du lanserar en kampanj.
 feature: DSP Placements, DSP Ads
 exl-id: bf0147d0-0b58-435d-a2de-5b98e0d3488c
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Kontofinansiering
 
-Se till att ditt konto har tillräckligt med kredit för att köra hela kampanjen. Du kan kontrollera och fylla i kontomedel i [!UICONTROL Settings] > [!UICONTROL Account] eller genom att kontakta din kontoansvarige på Adobe.
+Se till att ditt konto har tillräckligt med kredit för att köra hela kampanjen. Du kan kontrollera och fylla i kontomedel i [!UICONTROL Settings] > [!UICONTROL Account] eller genom att kontakta [!DNL Adobe] kontoansvarig.
 
 ## Kampanjstatus
 
@@ -22,7 +22,7 @@ Bekräfta att kampanjdatum och budget är korrekt inställda.
 
 ## Placeringsstatus
 
-Kontrollera att placeringsstatusen är [!UICONTROL Active] eller [!UICONTROL Scheduled]. Kontrollera även att övriga placeringsparametrar (som platslistan, budget, mål, flygdatum och frekvens) är korrekta.
+Kontrollera att placeringsstatusen är &quot;[!UICONTROL Active]&quot; eller &quot;[!UICONTROL Scheduled].&quot; Kontrollera även att övriga placeringsparametrar (som platslistan, budget, mål, flygdatum och frekvens) är korrekta.
 
 ## Annonsstatus
 

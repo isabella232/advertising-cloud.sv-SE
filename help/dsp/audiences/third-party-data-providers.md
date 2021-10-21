@@ -3,9 +3,9 @@ title: Tillgängliga dataproviders från tredje part i Advertising Cloud DSP
 description: Se en lista över alla tillgängliga tredjepartsdataleverantörer.
 feature: DSP Audiences
 exl-id: f67d81a0-bd31-48d8-9bcf-1888afd43894
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Tillgängliga dataproviders från tredje part i Advertising Cloud DSP
 
-Datakategorier och segment för följande tredjepartsdataleverantörer är tillgängliga som placeringsmål i [!DNL DSP]. Dessa segment är tillgängliga för i första hand amerikanska målgrupper.
+Datakategorier och segment för följande tredjepartsleverantörer av data finns som placeringsmål i [!DNL DSP]. Dessa segment är tillgängliga för i första hand amerikanska målgrupper.
 
 Avgiften för att använda varje segment visas bredvid segmentnamnet i placeringsinställningarna och i sparade målgruppsinställningar.
 
@@ -51,7 +51,7 @@ Avgiften för att använda varje segment visas bredvid segmentnamnet i placering
 * [!DNL TruSignal]
 * [!DNL Weborama]
 
-Mer information om hur du importerar anpassade tredjepartssegment för ditt konto får du av din kontoansvarige på Adobe.
+Om du vill ha mer information om hur du importerar anpassade tredjepartssegment för ditt konto kontaktar du [!DNL Adobe] kontoansvarig.
 
 >[!MORELIKETHIS]
 >
