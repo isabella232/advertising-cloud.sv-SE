@@ -2,7 +2,7 @@
 title: Avancerade mätningslösningar
 description: Se en lista över tillgängliga lösningar för avancerad mätning.
 exl-id: 1a8b76ee-d38d-4ee4-981b-e29497fa4095
-source-git-commit: 1f1dc0b4b38652beb9bc7392ee17fa4eefad987b
+source-git-commit: b4976cdce6b4d5870c5cc3a1a09c1b5545cd3200
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -59,7 +59,7 @@ Följande mätningslösningspaket finns tillgängliga för att validera framgån
 
 ## Hitta den perfekta måttenheten: Lodräta lösningar
 
-* Valfri lodrät
+* **Valfri lodrät:**
 
    * Experimentera med designern (Placebo- och A/B-testning)
 
@@ -79,13 +79,13 @@ Följande mätningslösningspaket finns tillgängliga för att validera framgån
 
       Alla kunder som vill mäta varumärkets medvetenhet och uppfattning på flera skärmar. passar bäst för nischade målgrupper
 
-* QSR, Retail (Brick and Mortar)
+* **QSR, Retail (Brick and Mortar):**
 
    * Transaktionsmätning
 
    * Mätning av fottrafik
 
-* QSR, detaljhandel, resor
+* **QSR, Retail, Travel:**
 
    * Transaktionsinsikter
 
