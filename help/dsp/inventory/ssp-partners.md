@@ -3,7 +3,7 @@ title: SSP-partners
 description: Se en lista över tillgängliga plattformar på utbudssidan (SSP) och öppna Exchange-partners.
 feature: DSP Private Inventory
 exl-id: 8487f4ce-0232-4145-ad8b-b0631fd0ab7f,None
-source-git-commit: 13b060a15d7661e8e65893fff0df01bf01f75a0a
+source-git-commit: 962013a80a968d3c6bf761c1a5145ece0eb7924c
 workflow-type: tm+mt
 source-wordcount: '451'
 ht-degree: 0%
@@ -21,16 +21,16 @@ En SSP (Supply-side Platform) är en plattform för annonseringsteknologi som an
 | SSP-lista | Företag | Plats-ID | Programmatiskt garanterat stöd | Län | Valuta som stöds | Video Desktop | Video Mobile | Video CTV | Display Desktop | Visa mobil | Inbyggd visning | Ljuddator och mobil |
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 | [!DNL Adap.tv] | [!DNL Verizon Media Group] | [!DNL TubeMogul] eller Adobe Advertising Cloud | Nej | Global | USD | X | X | X |  |  |  |  |
-| [!DNL AdColony] (tidigare  [!DNL Opera]) | [!DNL Digital Turbine] | [!DNL TubeMogul] | Nej | Global | USD |  | x |  |  |  |  |  |
+| [!DNL AdColony] (tidigare [!DNL Opera]) | [!DNL Digital Turbine] | [!DNL TubeMogul] | Nej | Global | USD |  | x |  |  |  |  |  |
 | [!DNL AdsWizz] | [!DNL Sirius XM Pandora] | Adobe Advertising Cloud | Nej | Global | US-dollar, EUR, GBP |  |  |  |  |  |  | x |
 | [!DNL Ambient Digital] | n/a | [!DNL TubeMogul] | Ja | SEA | USD |  | x |  | x |  |  | x |
-| [!DNL AppNexus] | [!DNL Xandr] | ID för videoplats: 9094<br>ID för visningsplats: 3939 | Nej | Global | USD | x | x | x | x | x |  |  |
+| [!DNL AppNexus] | [!DNL Xandr] | ID för videoplats: 9094<br>Visa plats-ID: 3939 | Nej | Global | USD | x | x | x | x | x |  |  |
 | [!DNL DailyMotion] | n/a | [!DNL TubeMogul] eller Adobe Advertising Cloud | Nej | USA och EMEA | USD, EUR | x | x | x |  |  |  |  |
 | [!DNL DistrictM] |  | Adobe | Nej | USA/CA | USD |  |  |  | x | x |  |  |
 | [!DNL EMX Digital] |  | Adobe Advertising Cloud | Nej | USA/CA | USD | x | x | x |  |  |  |  |
-| [!DNL FreeWheel] (tidigare  [!DNL StickyAds]) | [!DNL Comcast] | [!DNL TubeMogul] eller Adobe Advertising Cloud | Ja | Global | USD, EUR, AUD, GBP | x | x | x |  |  |  |  |
+| [!DNL FreeWheel] (tidigare [!DNL StickyAds]) | [!DNL Comcast] | [!DNL TubeMogul] eller Adobe Advertising Cloud | Ja | Global | USD, EUR, AUD, GBP | x | x | x |  |  |  |  |
 | [!DNL Fyber]/[!DNL Inneractive] |  | [!DNL TubeMogul] | Nej | Global | USD | x | x |  |  |  |  |  |
-| [!DNL Google AdX] (nu  [!DNL Google Authorized Buyers]) | [!DNL Google] | Adobe NA - 44912714<br>Adobe EU - 94893418<br>Adobe APAC - 89185975 | Ja | Global | USD, BRL | x | x | x | x | x |  | x |
+| [!DNL Google AdX] (nu [!DNL Google Authorized Buyers]) | [!DNL Google] | Adobe NA - 44912714<br>Adobe EU - 94893418<br>Adobe APAC - 89185975 | Ja | Global | USD, BRL | x | x | x | x | x |  | x |
 | [!DNL GumGum] |  | Adobe Advertising Cloud | Nej | USA/CA | USD | x | x |  | x | x |  |  |
 | [!DNL Index] | [!DNL Index] | [!DNL Adobe Display]<br>[!DNL Adobe Video] | Nej | Global | USD | x | x | x | x | x |  |  |
 | [!DNL MoPub] | [!DNL Twitter] | [!DNL TubeMogul] | Nej | Global | USD |  | x |  |  |  |  |  |
@@ -47,11 +47,11 @@ En SSP (Supply-side Platform) är en plattform för annonseringsteknologi som an
 | [!DNL Stroer] |  | Adobe Advertising Cloud | Nej | EMEA | USD | x | x |  | x | x |  |  |
 | [!DNL Taboola] |  | Adobe Advertising Cloud | Nej | USA/CA | USD | x | x |  |  |  |  |  |
 | [!DNL Teads] |  | [!DNL TubeMogul] eller Adobe Advertising Cloud | Nej | Outstream Video = Global<br>Display = NA + EMEA | USD | x | x |  | x | x |  |  |
-| [!DNL Magnite CTV] | [!DNL Magnite CTV] (tidigare  [!DNL Telaria] och  [!DNL Tremor]) | [!DNL TubeMogul] eller Adobe Advertising Cloud | Ja | Global | AUD, USD | x | x | x |  |  |  |  |
+| [!DNL Magnite CTV] | [!DNL Magnite] (tidigare [!DNL Telaria] och [!DNL Tremor]) | [!DNL TubeMogul] eller Adobe Advertising Cloud | Ja | Global | AUD, USD | x | x | x |  |  |  |  |
+| [!DNL Tremor] | [!DNL Rhythm One] | Adobe Advertising Cloud | Nej | USA och EMEA | USD | x | x |  |  |  |  |  |
 | [!DNL TripleLift] |  | [!DNL TubeMogul] eller Adobe Advertising Cloud | Nej | Global | USD |  |  |  |  |  | x |  |
 | [!DNL TripleLift Display & Outstream] |  | [!DNL TubeMogul] eller Adobe Advertising Cloud | Nej | Global | USD | x | x |  | x | x |  |  |
 | [!DNL Triton] |  | Adobe Advertising Cloud | Nej | Global | USD |  |  |  |  |  |  | x |
-| [!DNL UnRuly] | [!DNL Rhythm One] | Adobe Advertising Cloud | Nej | USA och EMEA | USD | x | x |  |  |  |  |  |
 | [!DNL Yahoo] | [!DNL Verizon Media Group] | [!DNL TubeMogul] eller Adobe Advertising Cloud | Nej | Global | USD |  |  |  | x | x |  |  |
 
 {style=&quot;table-layout:auto&quot;}
