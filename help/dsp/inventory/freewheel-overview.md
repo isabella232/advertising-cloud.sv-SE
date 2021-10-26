@@ -3,9 +3,9 @@ title: Översikt över konfiguration av PG-erbjudanden i FreeWheel
 description: 'Lär dig mer om förutsättningarna och de extra steg som krävs för att köra annonser för programmatiska annonsköp med utgivare på FreeWheel. '
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: dfd5992f059645622b3a75d092d3eb7fe1bfa696
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Att konfigurera programmatiska, garanterade avtal med utgivare på FreeWheel kr�
 
 >[!PREREQUISITES]
 >
->Samarbeta med ditt Adobe-kontoteam för att säkerställa att ditt [!DNL DSP]-konto har följande behörigheter.
+>Arbeta med dina [!DNL Adobe] kontoteam för att säkerställa att [!DNL DSP] kontot har följande behörigheter.
 >
->1. Behörighet att använda det programmatiska garanterade arbetsflödet [!DNL FreeWheel], som krävs för att skicka en annons för ett programmatiskt erbjudande till [!DNL FreeWheel].
+>1. Behörighet att använda [!DNL FreeWheel] programmatiskt garanterat arbetsflöde, som krävs för att skicka in en annons för ett programmatiskt garanterat erbjudande till [!DNL FreeWheel].
 >
 >1. (Om du arbetar med utgivare i Storbritannien som behöver ett Clearcast-klocknummer med varje annons) Tillstånd att inkludera klocknummer i dina annonser.
 
@@ -29,7 +29,7 @@ Att konfigurera programmatiska, garanterade avtal med utgivare på FreeWheel kr�
 
    För vissa utgivare i Storbritannien måste du inkludera ett Clearcast-klocknummer tillsammans med din annons.
 
-1. [Godkänn det ](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) avtals-ID som du redan har förhandlat med en utgivare på FreeWheel med hjälp av Inkorgen för ditt avtal-ID.
+1. [Godkänn erbjudande-ID](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) du redan har förhandlat med en utgivare på FreeWheel med hjälp av Inkorgen för avtal-ID.
 
    När du har godkänt erbjudandet följer du instruktionerna för 1) väljer annonsen som ska användas för erbjudandet och 2) skapar en programmatisk garanterad standardplacering för annonsen.
 
@@ -37,12 +37,12 @@ Att konfigurera programmatiska, garanterade avtal med utgivare på FreeWheel kr�
 
    Annonsen måste skickas och godkännas innan den kan köras.
 
-1. [Kontrollera status](freewheel-check-status.md) för annonsinlämning.
+1. [Kontrollera status för annonsinlämning](freewheel-check-status.md).
 
 >[!MORELIKETHIS]
 >
 >* [Acceptera ett avtal i Inkorgen för avtal-ID](deal-id-inbox-accept.md)
 >* [Skicka en annons för ett program med garanterad programmering till FreeWheel](freewheel-submit.md)
->* [Kontrollera status för annonser  [!DNL FreeWheel] för programmatiska erbjudanden](freewheel-check-status.md)
+>* [Kontrollera status för annonserna [!DNL FreeWheel] Programmatiska garanterade erbjudanden](freewheel-check-status.md)
 >* [Felkoder för FreeWheel Ad-överföringar](freewheel-error-codes.md)
 
