@@ -3,9 +3,9 @@ title: Om rapporter på plattformen
 description: Läs mer om rapportdata som ingår i kampanjhanteringsvyer.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: b2393d5e66ba5d3d2dc9816825c05eda076eaad1
+source-git-commit: 0b0f5df3ae9180dcbc2aeb5d7833956934767915
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Du kan också täcka över de tre mätvärdena för att enkelt upptäcka avvikel
 
 Du kan [anpassa trenddiagram](campaign-data-visualization-manage.md) efter kampanj, och samma mätvärden bevaras för alla trenddiagram för kampanjen.
 
-### Placement Inspector
+### Placement [!UICONTROL Inspector] {#placement-inspector}
 
 För varje placering kan du [öppna en (detaljvy) [!UICONTROL Inspector])](placement-details-view.md), som innehåller följande detaljerade data:
 
@@ -63,7 +63,25 @@ För varje placering kan du [öppna en (detaljvy) [!UICONTROL Inspector])](place
    * det uppskattade antalet avtryck på den angivna frekvensnivån
    * den uppskattade genomsnittliga frekvensen för den angivna frekvensnivån. Detta värde är lika med (Estimated Impressions)/(Estimated Uniques).
 
-![placeringsinspektör](/help/dsp/assets/placement-inspector-sites.png)
+* **[!UICONTROL Inventory]:** Information om alla avtal som är inriktade på placeringen.
+
+   The [!UICONTROL Inventory] -fliken innehåller sök- och filterfunktioner, samma standardalternativ och anpassade kolumnvisningsalternativ som finns på huvudsidan samt snabbåtgärdsknappar på varje rad, som [!UICONTROL Edit] och [!UICONTROL View Report]. The [!UICONTROL Inventory] -fliken möjliggör snabb felsökning genom att visa prestandastatistik, som [!UICONTROL Auctions], [!UICONTROL Bids]och [!UICONTROL Win Rate].
+
+#### Felsökning av lager
+
+| Problem | Möjlig orsak | Åtgärder att vidta |
+| -----------| ---------- | ---------- |
+| [!UICONTROL Zero Auctions] | Utgivaren har inte börjat skicka anbudsförfrågningar. | Kontakta utgivaren för att aktivera erbjudandet. |
+|  | Avtalet ställdes in felaktigt, till exempel genom att ett felaktigt externt avtal-ID angavs. | Bekräfta avtalsinformationen och redigera erbjudandet. |
+| [!UICONTROL Auctions but no Bids] | Placeringsmålet matchar inte inkommande anbudsförfrågningar för erbjudandet. <br><br> En placering kan till exempel vara inriktad på en geografi som inte är berättigad till erbjudandet. | Redigera placeringsmålen efter behov för att undvika felaktiga målmatchningar. |
+|  | Placeringen har ingen aktiv annons med den medietyp som krävs för erbjudandet. | Skapa och bifoga en annons med rätt medietyp till placeringen. |
+|  | Placeringen har inte tillräcklig budget. | Öka placeringsbudgeten för att tillåta offerter på inkommande begäranden. |
+|  | Flightdatumen för placeringen överlappar inte leveransdatumen för erbjudandet. | Redigera placeringens flygdatum efter behov. |
+| [!UICONTROL Low Win Rate] | Placeringens högsta bud (golv eller fast) ligger under det minimiantal som krävs för erbjudandet. | Öka placeringens [!UICONTROL Max Bid] efter behov. |
+|  | I placeringen används filter som begränsar budgivning. | Sänk tröskelvärdena för föranbudsfiltren så att fler budgivningar tillåts. |
+|  | Målgruppsanpassningen för placeringen är för restriktiv. | Kontrollera om de angivna målgruppsmålen har tillräckligt många aktiva användare och utöka målgruppen om möjligt. |
+
+![placeringsinspektör](/help/dsp/assets/placement-inspector.png)
 
 Du kan exportera data på [!UICONTROL Sites], [!UICONTROL Ads], eller [!UICONTROL Frequency] som en rapport i XLSM-format.
 

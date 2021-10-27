@@ -3,9 +3,9 @@ title: Om Placement Management i Advertising Cloud DSP
 description: Lär dig mer om placeringshantering.
 feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: 4a30463e9cb5783beab0ea3fa6989089e7f90457
+source-git-commit: 0d6d5e807053f042e0da1da65fed5e33a34dd4a9
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,9 @@ Du kan skapa en placering manuellt eller genom att duplicera en befintlig. Du ka
 * Ljud
 * Ansluten TV
 
-## Kontrollpanelen för [!UICONTROL Placements]
+## The [!UICONTROL Placements] Kontrollpanel
 
-Kontrollpanelen [!UICONTROL Placements] centraliserar prestanda och ekonomisk rapportering för alla dina praktik och ger snabba ögonblicksbilder av hur dina placeringar har utförts under ett visst datumintervall.
+The [!UICONTROL Placements] Kontrollpanelen centraliserar prestanda och ekonomisk rapportering för alla era praktik och ger snabba ögonblicksbilder av hur dina praktikanter har utfört under ett visst datumintervall.
 
 ![Kontrollpanel för placeringar](/help/dsp/assets/placement-dashboard.png)
 
@@ -37,7 +37,7 @@ Kontrollpanelen innehåller ett anpassningsbart trenddiagram på hög nivå med 
 
 På kontrollpanelen visas även plats- och leveransmått som standard. Du kan också visa resultatmått för placeringarna och skapa anpassade kolumnuppsättningar. Du kan hämta hela datatabellen till webbläsarens standardmapp för hämtning som en rapport i XLSM-format (makroaktiverat Excel-kalkylblad).
 
-För varje placering kan du öppna en detaljvy ([the [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md)) som innehåller resultatmått, avstånd och leveransmått samt anpassade kolumnuppsättningar per webbplats och annons. och frekvensvärden. Du kan också vidta snabba åtgärder på de inkluderade webbplatserna och annonserna, som att utesluta en webbplats eller pausa en annons. Håll markören över placeringsraden, klicka på **[!UICONTROL More]** och sedan på **[!UICONTROL Sites]**, **[!UICONTROL Ads]** eller **[!UICONTROL Frequency]** för att öppna kontrollen. Du kan exportera data på fliken [!UICONTROL Sites], [!UICONTROL Ads] eller [!UICONTROL Frequency] till webbläsarens standardmapp för hämtning som en rapport i XLSM-format.
+Du kan öppna en detaljerad vy ([den [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md)), som innehåller resultatvärden, pacing- och leveransstatistik samt anpassade kolumnuppsättningar per webbplats, annons och lager. och även frekvensvärden. Du kan också vidta snabba åtgärder för de inkluderade webbplatserna, annonserna och lagren, som att utesluta en webbplats, pausa en annons eller redigera ett avtal. Håll markören över placeringsraden och klicka på **[!UICONTROL More]** och klicka sedan på **[!UICONTROL Sites]**, **[!UICONTROL Ads]**, **[!UICONTROL Frequency]** eller **[!UICONTROL Inventory]**. Du kan exportera data på [!UICONTROL Sites], [!UICONTROL Ads], [!UICONTROL Frequency], eller [!UICONTROL Inventory]  som en rapport i XLSM-format.
 
 >[!NOTE]
 >
