@@ -3,9 +3,9 @@ title: Krav och viktig information för implementering [!DNL Analytics for Adver
 description: Krav och viktig information för implementering [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
-source-git-commit: bfbfc293ad04b294c813ce7c8a11200e70fc812f
+source-git-commit: 688aece01640647a61df730cbe464597b476b033
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
@@ -18,13 +18,15 @@ Läs följande information innan du integrerar Advertising Cloud med Adobe Analy
 
 ## Krav för rapportering av Advertising Cloud-data i [!DNL Analytics]
 
-* Identitetstjänst för Experience Cloud: `visitorAPI.js` version 2.0 eller senare
+* Något av följande:
+   * Adobe Experience Platform Web SDK: `alloy.js`
+   * Identitetstjänst för Experience Cloud: `visitorAPI.js` version 2.0 eller senare
 * Alla versioner av Adobe Analytics (inklusive [!DNL Prime], [!DNL Premium], eller [!DNL Ultimate])
 * Adobe Analytics: `appMeasurement.js` version 2.1 eller senare
 
 >[!TIP]
 >
->Använd den senaste versionen av Experience Cloud Identity Service med CNAME-stöd samt den senaste versionen av Analytics AppMeasurement for JavaScript för att förbättra datakvaliteten.
+>Använd den senaste versionen av varje bibliotek för att förbättra datakvaliteten.
 
 ## Krav för delning av analyssegment med Advertising Cloud
 
