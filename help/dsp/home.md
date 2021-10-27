@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 07687a569ba9f24a944bd899524bb2a6a4070204
+source-git-commit: 99d0e178209af42a2e2c71f57980761baf0bfb36
 workflow-type: tm+mt
-source-wordcount: '1066'
+source-wordcount: '1165'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,7 @@ Följande funktioner är nya eller nyligen ändrade.
 
 | Datum | Funktion | Beskrivning | Mer information |
 | ---- | ------- | ----------- | -------------------- |
+| 28 oktober 2021 | Anpassade rapporter | Nu kan du skapa och hantera [!DNL Amazon S3] och olika typer av FTP-leveransplatser, så kallade *[!DNL report destinations]*, för dina anpassade rapporter. När du har konfigurerat rapportdestinationer kan du konfigurera alla dina nya anpassade rapporter så att de levereras till en eller flera platser av samma typ eller till e-postmottagare. Uppdateringar av [!DNL Amazon S3] och FTP-inloggningsuppgifterna avbryter inte rapportleveransen.<br><br>Dina befintliga rapporter skickas fortfarande till de angivna e-postmottagarna. Om du vill konfigurera leverans till ett annat rapportmål skapar du en ny rapport med det nya målet. | Se &quot;[Om [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md),&quot; &quot;[Skapa en [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md),&quot; &quot;[[!UICONTROL Report Destination] Inställningar](/help/dsp/reports/report-destinations/report-destination-settings.md),&quot; och &quot;[Anpassade rapportinställningar](/help/dsp/reports/report-settings.md).&quot; |
 | 7 oktober 2021 | Hjälp | Alla [DSP och annan dokumentation från Advertising Cloud](https://experienceleague.adobe.com/docs/advertising-cloud.html) på [!DNL Experience League] är nu maskinöversatt till alla tillgängliga språk. Om du vill ändra vilket språk som visas använder du menyn Ändra språk längst ned till vänster på en sida.<br>![Ändra språk](/help/dsp/assets/change-language.png) |
 | 30 september 2021 | Säker varumärkesexponering | (version 22 september) [!DNL DoubleVerify] produkter för varumärkessäkerhet före anbudet uppdaterades till [!DNL Brand Suitability Tiers], som gör det möjligt för annonsörer att välja mellan tre risknivåer (låg, medel och hög) för specifika segment utan att undvika alla förekomster av ett visst ämne. Historiskt sett innehöll segmenten inga toleransnivåer.<br><br>Justera mot den nya [!DNL DoubleVerify] segmentstruktur, DSP migrera era era befintliga varumärkessäkerhetssegment till deras nya, rekommenderade *medium*-level segment. Du kan justera segmentnivån till *låg* eller *hög*.<br><br>**Obs!** En liten lista med segment saknar nivåer men har nya namn, till exempel&quot;Nuisance/Spyware/Malware,Warez&quot; > Incentivized/Malware/Clutter&quot;. | — |
 |  | Optimering | Följande optimeringsmål och föranbudsfilter har tagits bort:<ul><li>Optimeringsmål:<ul><li>[!UICONTROL Always Max Bid & Highest Viewability Rate (Moat – GroupM)]</li><li>[!UICONTROL Always Max Bid & Highest Viewability Rate (Moat – MRC)]</li></ul><li>Filtermål före bud:<ul><li>[!UICONTROL Viewability IAS]</li><li>[!UICONTROL Viewability Moat]</li></ul></ul> | Se &quot;[Optimeringsmål och Så här använder du dem](/help/dsp/optimization/optimization-goals.md)&quot; och &quot;[Pre-Bid-filter på placeringsnivå och Så här använder du dem](/help/dsp/optimization/optimization-pre-bid-filters.md).&quot; |

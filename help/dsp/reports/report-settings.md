@@ -2,9 +2,9 @@
 title: Anpassade rapportinställningar
 description: Se beskrivningar av anpassade rapportinställningar.
 feature: DSP Custom Reports
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: ff14691fd2b6fa56c303dca3ac0e4c897c322f72
 workflow-type: tm+mt
-source-wordcount: '941'
+source-wordcount: '1129'
 ht-degree: 0%
 
 ---
@@ -107,11 +107,35 @@ Läs mer om [lösningar för olika enheter](/help/dsp/introduction/features/cros
 
 * *[!UICONTROL Event Timestamp]:* Konverteringar rapporteras baserat på datumet för det intryck eller klick som orsakade konverteringen, enligt det angivna [!UICONTROL Attribution Rule Settings].
 
-## [!UICONTROL Add Email Recipients] Avsnitt
+## [!UICONTROL Add Report Destinations] Avsnitt
 
-**[!UICONTROL Email]:** E-postadress(er) dit slutförda rapporter eller meddelanden ska skickas om rapporten har avbrutits på grund av fel. Om du vill ange flera adresser avgränsar du dem med kommatecken eller mellanslag.
+**[!UICONTROL Destination Type]:** Välj någon av följande måltyper:
 
-**[!UICONTROL Frequency]:** Hur ofta ska rapporten skickas: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, eller *[!UICONTROL Monthly]*.
+* *[!UICONTROL S3]:* Skicka den färdiga rapporten till en eller flera [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) -platser, som du anger i **[!UICONTROL Destination Name]** fält.
+* *[!UICONTROL sFTP]:* Skicka den färdiga rapporten till en eller flera SFTP-platser, som du anger i dialogrutan **[!UICONTROL Destination Name]** fält.
+* *[!UICONTROL FTP]:* Skicka den färdiga rapporten till en eller flera FTP-platser, som du anger i dialogrutan **[!UICONTROL Destination Name]** fält.
+* *[!UICONTROL FTP SSL](För närvarande i betaversion):* Skicka den färdiga rapporten till en eller flera FTP SSL-platser, som du anger i dialogrutan **[!UICONTROL Destination Name]** fält.
+* *[!UICONTROL Email]:* Ange e-postadresser dit slutförda rapporter eller meddelanden ska skickas om rapporten avbryts på grund av fel. Om du vill ange flera adresser avgränsar du dem med kommatecken eller mellanslag.
+
+>[!NOTE]
+>
+> Du kan inte ändra måltypen när du har sparat rapporten.
+
+**[!UICONTROL Destination Name]:** (Endast måltyperna S3, FTP, sFTP och FTP SSL) Namnen på rapportdestinationerna som den anpassade rapporten ska skickas till.
+
+* Om du vill ange ett befintligt mål väljer du ett målnamn i listan. Du kan markera flera målnamn separat.
+
+* Så här skapar du ett nytt mål:
+
+   1. Klicka **Lägg till nytt mål**.
+
+   1. Ange [inställningar för rapportmål](/help/dsp/reports/report-destinations/report-destination-settings.md)och klicka **Spara**.
+
+   1. Tillbaka i rapportinställningarna, klicka på **Uppdatera målnamn.**
+
+      Det nya målet är nu tillgängligt i listan över befintliga mål och du kan lägga till det i rapporten om du vill.
+
+**[!UICONTROL Frequency]:** (För varje [!UICONTROL Destination Name] Hur ofta rapporten ska skickas till målet: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, eller *[!UICONTROL Monthly]*.
 
 ## [!UICONTROL Save Report] Avsnitt
 
@@ -129,5 +153,6 @@ Läs mer om [lösningar för olika enheter](/help/dsp/introduction/features/cros
 >* [Redigera en anpassad rapport](/help/dsp/reports/report-edit.md)
 >* [Kör en anpassad rapport](/help/dsp/reports/report-run-now.md)
 >* [Anpassade rapportinställningar](/help/dsp/reports/report-settings.md)
+>* [Om rapportdestinationer](/help/dsp/reports/report-destinations/report-destination-about.md)
 
 * [Tillgängliga rapportkolumner](/help/dsp/reports/report-columns.md)

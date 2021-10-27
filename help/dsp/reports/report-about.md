@@ -3,9 +3,9 @@ title: Om anpassade rapporter
 description: Lär dig mer om alternativ för att skapa anpassade rapporter manuellt eller med förkonfigurerade rapportmallar.
 feature: DSP Custom Reports
 exl-id: 59fc1894-1c9d-451d-b644-5640dd311547
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: ff14691fd2b6fa56c303dca3ac0e4c897c322f72
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '652'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,20 @@ Med anpassade rapporter kan ni anpassa innehållet i och leveransen av rapportda
 * Konfigurera kampanjresultatrapporter helt och hållet på detaljnivå.
 * Välj bland förkonfigurerade rapportmallar och anpassa dem ytterligare.
 
-Du kan generera rapporter en gång eller schemalägga att de ska genereras varje dag, vecka eller månad klockan 03:00 i den angivna tidszonen. När en rapport har skapats skickas ett meddelande till varje angiven e-postmottagare med en länk som filen kan hämtas från.
+Du kan generera rapporter en gång eller schemalägga att de ska genereras varje dag, vecka eller månad klockan 03:00 i den angivna tidszonen. När en rapport har skapats levereras den till varje angiven e-postmottagare eller till länkad [rapportdestinationer](/help/dsp/reports/report-destinations/report-destination-about.md) av följande typer:
+
+* [!DNL Amazon Simple Storage Service] ([!DNL S3])
+* FTP
+* SFTP
+* FTP SSL (i beta)
 
 >[!NOTE]
 >
->Du kan även visa on demand-data på alla nivåer i en kampanj (kampanj, paket, placering eller annons) [i den relevanta kampanjhanteringsvyn](/help/dsp/campaign-management/reports/campaign-reports-about.md).
+>Du kan även visa on demand-data på alla nivåer i en kampanj (kampanj, paket, placering eller annons) [inom den relevanta kampanjhanteringsvyn](/help/dsp/campaign-management/reports/campaign-reports-about.md).
 
 ## Tillgängliga rapporttyper
 
-* **[!UICONTROL Custom]:** Den här rapporten är en tom mall som du kan använda för att skapa en egen anpassad rapport med de flesta mått och mätvärden. [!UICONTROL Conversion],  [!UICONTROL Device],  [!UICONTROL Geo]och  [!UICONTROL Site] rapporter är variationer av den här mallen med förvalda kolumner och dimensioner för respektive användningsfall.
+* **[!UICONTROL Custom]:** Den här rapporten är en tom mall som du kan använda för att skapa en egen anpassad rapport med de flesta dimensioner och mätvärden. [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo]och [!UICONTROL Site] -rapporter är variationer av den här mallen med förvalda kolumner och dimensioner för respektive användningsfall.
 
 * Förkonfigurerade rapportmallar
 
@@ -37,9 +42,9 @@ Du kan generera rapporter en gång eller schemalägga att de ska genereras varje
 
    * **[!UICONTROL Conversion]:** Använd den här rapporten för att förstå hur era kampanjer fungerar baserat på konverteringsstatistik som hämtats med hjälp av Advertising Cloud konverteringsspårning. Den här rapporten innehåller multitouch-attribuering.
 
-   * **[!UICONTROL Device]:** Använd den här förifyllda mallen för att se nyckeltal efter enhetsrelaterade dimensioner.
+   * **[!UICONTROL Device]:** Använd den här förifyllda mallen för att se nyckelvärden efter enhetsrelaterade dimensioner.
 
-   * **[!UICONTROL Frequency (by Impression)]:** Använd den här rapporten för att förstå hur visningar ska visas för unika tittare (t.ex. hur många unika tittare som såg ett intryck, två visningar, tre exponeringar osv.). Data är tillgängliga via placering eller kampanj.
+   * **[!UICONTROL Frequency (by Impression)]:** Använd den här rapporten för att förstå hur visningar som visas för unika tittare är fördelade (t.ex. hur många unika tittare som såg ett intryck, två visningar, tre exponeringar osv.). Data är tillgängliga via placering eller kampanj.
 
       >[!NOTE]
       >
@@ -48,7 +53,7 @@ Du kan generera rapporter en gång eller schemalägga att de ska genereras varje
       >* För en del lager skickas ingen enhets-ID, vilket förhindrar frekvensspårning. Den här rapporten innehåller bara avtryck som det fanns en enhetsidentifierare för.
 
 
-   * **[!UICONTROL Frequency (by App/Site)]:** Använd den här rapporten för att förstå hur många unika användare som nås via app eller per webbplats. Du kan också se hur många unika användare som har nåtts via en viss app eller webbplats (&quot;distinkta unika användare&quot;).
+   * **[!UICONTROL Frequency (by App/Site)]:** Använd den här rapporten för att förstå hur många unika användare som nås via appar eller per webbplats. Du kan också se hur många unika användare som har nåtts via en viss app eller webbplats (&quot;distinkta unika användare&quot;).
 
       >[!NOTE]
       >
@@ -74,9 +79,9 @@ Du kan generera rapporter en gång eller schemalägga att de ska genereras varje
 
 Alla organisationer som har flera DSP-konton kan välja att aktivera kontoöverskridande data i anpassade rapporter, beroende på organisationens behov. Du kan till exempel ge konto A åtkomst till data för konto B och ge konto B åtkomst till data för konto C (men inte konto A). Kontakta din kontoansvarige om du vill aktivera och konfigurera den här funktionen.
 
-När funktionen har aktiverats för din organisation kan du [filtrera](report-settings.md) någon av följande rapporttyper efter konto:  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)] och [!UICONTROL Conversion].
+När funktionen är aktiverad för din organisation kan du [filter](report-settings.md) någon av följande rapporttyper efter konto:  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)]och [!UICONTROL Conversion].
 
-Kontoinställningarna på [!UICONTROL Settings] > [!UICONTROL Account] anger a) de andra konton vars data är tillgängliga för ditt konto och b) de andra konton som kan komma åt dina kontodata.
+Dina kontoinställningar på [!UICONTROL Settings] > [!UICONTROL Account] ange a) de andra konton vars data är tillgängliga för ditt konto och b) de andra konton som kan komma åt dina kontodata.
 
 >[!MORELIKETHIS]
 >
@@ -84,4 +89,5 @@ Kontoinställningarna på [!UICONTROL Settings] > [!UICONTROL Account] anger a) 
 >* [Anpassade rapportinställningar](/help/dsp/reports/report-settings.md)
 >* [Om rapporter på plattformen](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [Tillgängliga rapportkolumner](/help/dsp/reports/report-columns.md)
+>* [Om [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
 
