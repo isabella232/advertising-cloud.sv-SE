@@ -5,7 +5,7 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 1c59de261bb9ffcb382009bd1e988124ad5aa2f0
+source-git-commit: 07687a569ba9f24a944bd899524bb2a6a4070204
 workflow-type: tm+mt
 source-wordcount: '1066'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Följande funktioner är nya eller nyligen ändrade.
 
-<!-- | 19  October 2021 | The [!UICONTROL Deal ID] settings and other places in the user interface reflect new branding for [!DNL Magnite] SSP:<ul><li>The SSP "[!DNL Tremor]" ([!DNL Telaria]) is now "[!DNL Magnite CTV]."</li><li>[!DNL Rubicon]" is now "[!DNL Magnite DV+]," where [!DNL DV+] stands for display, video, and other formats such as audio.</li></ul> | See "[SSP Partners](/help/dsp/inventory/ssp-partners.md)." | -->
+<!-- | 27  October 2021 | The [!UICONTROL Deal ID] settings and other places in the user interface reflect new branding for [!DNL Magnite] SSP:<ul><li>The SSP "[!DNL Tremor]" ([!DNL Telaria]) is now "[!DNL Magnite CTV]."</li><li>[!DNL Rubicon]" will soon change to "[!DNL Magnite DV+]," where [!DNL DV+] stands for display, video, and other formats such as audio.</li></ul> | See "[SSP Partners](/help/dsp/inventory/ssp-partners.md)." | -->
 
 | Datum | Funktion | Beskrivning | Mer information |
 | ---- | ------- | ----------- | -------------------- |
