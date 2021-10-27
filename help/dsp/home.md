@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 4e09e4afe0befb40518c847b99d35689ed2f87a8
+source-git-commit: e758e4e7cbe4c4fa0fd7e7e82e6e4e167a8ef37a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1364'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Följande funktioner är nya eller nyligen ändrade.
 | ---- | ------- | ----------- | -------------------- |
 | 27 oktober 2021 | Anpassade rapporter | Nu kan du skapa och hantera [!DNL Amazon S3] och olika typer av FTP-leveransplatser, så kallade *[!DNL report destinations]*, för dina anpassade rapporter. När du har konfigurerat rapportdestinationer kan du konfigurera alla dina nya anpassade rapporter så att de levereras till en eller flera platser av samma typ eller till e-postmottagare. Uppdateringar av [!DNL Amazon S3] och FTP-inloggningsuppgifterna avbryter inte rapportleveransen.<br><br>Dina befintliga rapporter skickas fortfarande till de angivna e-postmottagarna. Om du vill konfigurera leverans till ett annat rapportmål skapar du en ny rapport med det nya målet. | Se &quot;[Om [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md),&quot; &quot;[Skapa en [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md),&quot; &quot;[[!UICONTROL Report Destination] Inställningar](/help/dsp/reports/report-destinations/report-destination-settings.md),&quot; och &quot;[Anpassade rapportinställningar](/help/dsp/reports/report-settings.md).&quot; |
 |  | [!UICONTROL Packages], [!UICONTROL Placements]och [!UICONTROL Ads] vyer | När du visar data för en enstaka dag inkluderar trenddiagrammen nu timdata. Håll markören över en punkt om du vill visa data för den timmen. | Se &quot;[Single Campaign Reporting](/help/dsp/campaign-management/reports/campaign-reports-about.md#single-campaign-reporting).&quot; |
-|  | Placeringar | Placeringen [!UICONTROL Inspector] innehåller nu [!UICONTROL Inventory] som visar alla erbjudanden och deras associerade mätvärden för placeringen. Använd informationen för att göra snabba justeringar eller felsöka problem utan att generera en anpassad rapport. | Se &quot;[Placement [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md#placement-inspector).&quot; |
+|  | [!UICONTROL Placements] | Placeringen [!UICONTROL Inspector] innehåller nu [!UICONTROL Inventory] som visar alla erbjudanden och deras associerade mätvärden för placeringen. Använd informationen för att göra snabba justeringar eller felsöka problem utan att generera en anpassad rapport. | Se &quot;[Placement [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md#placement-inspector).&quot; |
 |  | [!UICONTROL Ads] | (Användare som har behörighet att inkludera Clearcastclock-nummer i sina annonser) DSP visar inte längre ett fel om du använder ett klocknummer som är kopplat till en annan annons. **Obs!**  Det bästa sättet är att använda ett unikt klocknummer för varje videoannons. Annars godkänner utgivaren inte alla annonser. | — |
 |  | [!UICONTROL Deal IDs] | The [!UICONTROL Deal ID] inställningar och andra platser i användargränssnittet återspeglar den nya varumärkningen för [!DNL Magnite] SSP:<br><ul><li>SSP &quot;[!DNL Tremor]&quot; ([!DNL Telaria]) är nu &quot;[!DNL Magnite CTV].&quot;</li><li>Under de kommande veckorna [!DNL Rubicon]&quot; ändras till &quot;[!DNL Magnite DV+],&quot; där [!DNL DV+] används för visning, video och andra format som ljud.</li></ul> | Se &quot;[SSP-partners](/help/dsp/inventory/ssp-partners.md).&quot; |
 |  | [!DNL Freewheel] garanterad programmatisk annonsering | Nu kan du hitta status för annonser för [!DNL Freewheel] garanterad programmatisk marknadsföring från [!UICONTROL Ads] vy. Tidigare kunde du bara kontrollera statusen från [!UICONTROL Deals] vy. | Se &quot;[Kontrollera status för annonserna [!DNL Freewheel] Programmatiska garanterade erbjudanden](/help/dsp/inventory/freewheel-check-status.md).&quot; |
