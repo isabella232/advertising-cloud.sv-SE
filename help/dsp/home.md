@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 202b537dba5af3e8926584ae2d5df04df0763a70
+source-git-commit: 4e09e4afe0befb40518c847b99d35689ed2f87a8
 workflow-type: tm+mt
-source-wordcount: '1362'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -50,3 +50,5 @@ Följande funktioner är nya eller nyligen ändrade.
 | 15 oktober 2020 | Privat lager | Alla användare kan nu konfigurera och redigera information om avtal-ID med ett nytt formulär för avtal-ID, som är en förenklad version av det äldre [!UICONTROL Smart Ad Serving] formulär. Gå till [!UICONTROL Inventory] > [!UICONTROL Deals], klicka [!UICONTROL Create]och klicka sedan på [!UICONTROL Deal ID Beta]. | Se &quot;[Skapa information om avtal-ID manuellt](/help/dsp/inventory/deal-id-create.md)&quot; och &quot;[Manuella inställningar för avtal-ID](/help/dsp/inventory/deal-id-settings.md).&quot; |
 |  | Placeringsprognos | För placeringar med placeringsnivåpacing är [!UICONTROL Forecast] i placeringsinställningarna finns en ny [!UICONTROL Estimated Maximums] som anger hur mycket mer kapacitet som är tillgänglig med den aktuella målinriktningskonfigurationen. | — |
 | 2 september 2020 | Rapporter | Alla organisationer som har flera DSP-konton kan välja att aktivera kontoöverskridande data i anpassade rapporter, beroende på organisationens behov. | Se avsnittet&quot;Korskontorapportering&quot; i &quot;[Om anpassade rapporter](/help/dsp/reports/report-about.md#cross-account-reporting).&quot; |
+
+{style=&quot;table-layout:auto&quot;}
