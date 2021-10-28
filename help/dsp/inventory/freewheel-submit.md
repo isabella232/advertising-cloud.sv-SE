@@ -3,7 +3,7 @@ title: Skicka en annons för ett PG-avtal till [!DNL FreeWheel]
 description: Lär dig hur du begär godkännande av en annons för ett programmatiskt garanterat avtal med en utgivare på FreeWheel.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: 99f1a9060aa90bb4110b4017573adb8e0effb989
+source-git-commit: 6316ae0ede2f149d71623836b0ceb1a694e4fc4a
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -37,10 +37,9 @@ En gång [acceptera ett programmatiskt garanterat avtal med en utgivare på Free
 1. Skicka annonsen till FreeWheel:
 
    1. Gör något av följande:
+   * Klicka på bredvid annonsnamnet  **[!UICONTROL ...]>[!UICONTROL submit to FreeWheel]**.
 
-      * Klicka på bredvid annonsnamnet  **[!UICONTROL ...]>[!UICONTROL submit to FreeWheel]**.
-
-      * Klicka på **[!UICONTROL Inventory]> [!UICONTROL Deals].** Klicka på ![Alternativ-menyn](/help/dsp/assets/options-menu.png) **>[!UICONTROL submit to FreeWheel]**.
+   * Klicka på **[!UICONTROL Inventory]> [!UICONTROL Deals].** Klicka på ![Alternativ-menyn](/help/dsp/assets/options-menu.png) **>[!UICONTROL submit to FreeWheel]**.
    1. Verifiera erbjudande-ID, ange **[!UICONTROL Ad Key]** du kopierade i steg 1 och sedan klicka **[!UICONTROL Submit]**.
 
    Annonsen måste skickas och godkännas innan den kan köras.
