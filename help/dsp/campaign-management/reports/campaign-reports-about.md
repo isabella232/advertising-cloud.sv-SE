@@ -3,9 +3,9 @@ title: Om rapporter på plattformen
 description: Läs mer om rapportdata som ingår i kampanjhanteringsvyer.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 0b0f5df3ae9180dcbc2aeb5d7833956934767915
+source-git-commit: 1ca7639fac40eb8d3fbc3b4f7e0f45b29368f49b
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '929'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Inom en kampanj kan ni filtrera data baserat på kampanjentiteten: [!UICONTROL P
 
 På varje enhetsflik innehåller varje rad som standard värden för avstånd och leverans, men du kan [ändra kolumnvyn](column-view-change.md) eller jämn [skapa en anpassad kolumnvy](column-view-create.md) som ska gälla alla underflikar för kampanjen. Du kan fortsätta [anpassa datatabellerna](campaign-data-views-about.md) på ytterligare sätt. Varje datatabell innehåller en [!UICONTROL Subtotals] rad, som visar antingen summan eller det genomsnittliga värdet för varje mätvärde över alla synliga rader.
 
-För varje kampanj kan ni också anpassa trenddiagram för tidsserier med tre mätvärden, som är tillgängliga i varje enhetsvy. Som standard används data för [!UICONTROL Net Spend], [!UICONTROL Impressions]och [!UICONTROL Net CPM] ingår i separata diagram (trellis charts). Du kan ändra måtten om du vill.
+För varje kampanj kan ni också anpassa trenddiagram för tidsserier med tre mätvärden, som är tillgängliga i varje enhetsvy. Som standard används data för [!UICONTROL Net Spend], [!UICONTROL Impressions]och [!UICONTROL Net CPM] ingår i separata diagram (trellis charts). Du kan ändra måtten om du vill. Om du vill aktivera timdata i trenddiagram för tidsserier ändrar du datumvalet till en enda dag ([!UICONTROL Today], [!UICONTROL Yesterday], eller en viss dag).
 
 ![separata trenddiagram för tre mätvärden](/help/dsp/assets/trend-chart-separate.png)
 
