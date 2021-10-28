@@ -3,9 +3,9 @@ title: Kontrollera status för annonser för en [!DNL [!DNL FreeWheel]] PG-erbju
 description: Lär dig hur du hittar status för annonser för [!DNL Freewheel] garanterad programmatisk annonsering.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: 07b964aca7f634a29342e4d09a5e5352570f4d79
+source-git-commit: a0619f77aac5e6c527fc344570bbcedf17dcfe36
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -48,8 +48,8 @@ Om du har ytterligare frågor eller problem med att skicka in ansökningar igen 
 
 >[!MORELIKETHIS]
 >
->* [Översikt över hur man ställer in garantierbjudanden i FreeWheel](freewheel-overview.md)
->* [Skicka en annons för ett program med garanterad programmering till FreeWheel](freewheel-submit.md)
->* [Felkoder för FreeWheel Ad-överföringar](freewheel-error-codes.md)
+>* [Översikt över hur man ställer in garantierbjudanden för programmatiska inköp i [!DNL Freewheel]](freewheel-overview.md)
+>* [Skicka in en annons för en programmatisk garanterad affär till [!DNL Freewheel]](freewheel-submit.md)
+>* [Felkoder för [!DNL Freewheel] Annonsmaterial](freewheel-error-codes.md)
 >* [Acceptera ett avtal i Inkorgen för avtal-ID](deal-id-inbox-accept.md)
 

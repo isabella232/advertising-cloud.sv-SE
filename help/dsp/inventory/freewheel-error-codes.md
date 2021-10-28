@@ -3,9 +3,9 @@ title: Felkoder för [!DNL FreeWheel] Annonsmaterial
 description: Referera felkoderna som returneras för annonsinskick till [!DNL FreeWheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: a0619f77aac5e6c527fc344570bbcedf17dcfe36
 workflow-type: tm+mt
-source-wordcount: '688'
+source-wordcount: '684'
 ht-degree: 2%
 
 ---
@@ -29,7 +29,7 @@ Felmeddelanden för misslyckade annonsinskick kan komma från antingen Advertisi
 
 {style=&quot;table-layout:auto&quot;}
 
-## FreeWheel API-fel
+## [!DNL Freewheel] API-fel
 
 | Code | Betydelse | Beskrivning | Nästa steg |
 |--- |--- |--- |--- |
@@ -43,7 +43,7 @@ Felmeddelanden för misslyckade annonsinskick kan komma från antingen Advertisi
 
 {style=&quot;table-layout:auto&quot;}
 
-## FreeWheel API 422-fel {#freewheel-422-errors}
+## [!DNL Freewheel] API 422-fel {#freewheel-422-errors}
 
 | Code | HTTP-kod | Beskrivning |
 |--- |--- |--- |
@@ -64,8 +64,8 @@ Felmeddelanden för misslyckade annonsinskick kan komma från antingen Advertisi
 
 >[!MORELIKETHIS]
 >
->* [Översikt över hur man ställer in garantierbjudanden i FreeWheel](/help/dsp/inventory/freewheel-overview.md)
+>* [Översikt över hur man ställer in garantierbjudanden för programmatiska inköp i [!DNL Freewheel]](/help/dsp/inventory/freewheel-overview.md)
 >* [Acceptera ett avtal i Inkorgen för avtal-ID](deal-id-inbox-accept.md)
->* [Skicka en annons för ett program med garanterad programmering till FreeWheel](/help/dsp/inventory/freewheel-submit.md)
+>* [Skicka in en annons för en programmatisk garanterad affär till [!DNL Freewheel]](/help/dsp/inventory/freewheel-submit.md)
 >* [Kontrollera status för annonserna [!DNL FreeWheel] Programmatiska garanterade erbjudanden](/help/dsp/inventory/freewheel-check-status.md)
 
