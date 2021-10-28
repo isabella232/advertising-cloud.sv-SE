@@ -2,9 +2,9 @@
 title: Avancerade mätningslösningar
 description: Se en lista över tillgängliga lösningar för avancerad mätning.
 exl-id: 1a8b76ee-d38d-4ee4-981b-e29497fa4095
-source-git-commit: b4976cdce6b4d5870c5cc3a1a09c1b5545cd3200
+source-git-commit: 927fd18c39ff93fae6222c0376cbe41810c06ca2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '520'
 ht-degree: 0%
 
 ---
@@ -93,4 +93,4 @@ Följande mätningslösningspaket finns tillgängliga för att validera framgån
 
 ## Mer information
 
-Mer information om alla mätningserbjudanden från [!DNL Strategic Advertising Consulting], med detaljerad prisinformation samt tillgängliga format och regioner för varje lösning, kontaktar du er Customer Success Manager. Lösningsspecifika fallstudier finns också tillgängliga på begäran.
+Kontakta [!DNL Adobe] Customer Success Manager. Lösningsspecifika fallstudier finns också tillgängliga på begäran.
