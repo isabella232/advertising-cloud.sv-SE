@@ -3,7 +3,7 @@ title: Kontrollera status för annonser för en [!DNL [!DNL FreeWheel]] PG-erbju
 description: Lär dig hur du hittar status för annonser för [!DNL Freewheel] garanterad programmatisk annonsering.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: 55854d9ab1a535767315941fe4ca5777a8069b5e
+source-git-commit: 07b964aca7f634a29342e4d09a5e5352570f4d79
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -15,6 +15,18 @@ ht-degree: 0%
 Se om annonser skickas till [!DNL Freewheel] lyckades. Du kan skicka om alla annonser efter behov.
 
 Om du har ytterligare frågor eller problem med att skicka in ansökningar igen kontaktar du [!DNL Adobe] kontoansvarig.
+
+## Kontrollera status i dialogrutan [!UICONTROL Ads] Visa
+
+1. Klicka på **[!UICONTROL Campaigns]**.
+
+1. Klicka på kampanjens namn.
+
+1. Klicka på **[!UICONTROL Ads]**.
+
+1. Klicka på bredvid annonsnamnet  **[!UICONTROL ...]>[!UICONTROL see Freewheel status]**.
+
+1. (Valfritt) Om du vill skicka om en annons för godkännande håller du markören över annonsraden och klickar sedan på **[!UICONTROL More]>[!UICONTROL Resubmit]**.
 
 ## Kontrollera status i dialogrutan [!UICONTROL Deals] Visa
 
@@ -31,18 +43,6 @@ Om du har ytterligare frågor eller problem med att skicka in ansökningar igen 
    The [!UICONTROL Submission Status] kolumn anger om annonsen har skickats och godkänts.
 
    För misslyckade inskickade svar [!UICONTROL API] Svarskolumnen anger felet. En fullständig lista över felkoder för misslyckade överföringar och nästa steg för att korrigera dem finns i &quot;[Felkoder för [!DNL FreeWheel] Annonsmaterial](freewheel-error-codes.md).&quot;
-
-1. (Valfritt) Om du vill skicka om en annons för godkännande håller du markören över annonsraden och klickar sedan på **[!UICONTROL More]>[!UICONTROL Resubmit]**.
-
-## Kontrollera status i dialogrutan [!UICONTROL Ads] Visa
-
-1. Klicka på **[!UICONTROL Campaigns]**.
-
-1. Klicka på kampanjens namn.
-
-1. Klicka på **[!UICONTROL Ads]**.
-
-1. Klicka på bredvid annonsnamnet  **... >[!UICONTROL see Freewheel status]**.
 
 1. (Valfritt) Om du vill skicka om en annons för godkännande håller du markören över annonsraden och klickar sedan på **[!UICONTROL More]>[!UICONTROL Resubmit]**.
 
