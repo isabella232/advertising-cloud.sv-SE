@@ -3,9 +3,9 @@ title: Kontrollera status för annonser för en [!DNL [!DNL FreeWheel]] PG-erbju
 description: Lär dig hur du hittar status för annonser för [!DNL Freewheel] garanterad programmatisk annonsering.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: 55854d9ab1a535767315941fe4ca5777a8069b5e
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Kontrollera status för annonserna [!DNL Freewheel] Programmatiska garanterade erbjudanden
 
 Se om annonser skickas till [!DNL Freewheel] lyckades. Du kan skicka om alla annonser efter behov.
+
+Om du har ytterligare frågor eller problem med att skicka in ansökningar igen kontaktar du [!DNL Adobe] kontoansvarig.
+
+## Kontrollera status i dialogrutan [!UICONTROL Deals] Visa
 
 1. Klicka på **[!UICONTROL Inventory]> [!UICONTROL Deals].**
 
@@ -30,7 +34,17 @@ Se om annonser skickas till [!DNL Freewheel] lyckades. Du kan skicka om alla ann
 
 1. (Valfritt) Om du vill skicka om en annons för godkännande håller du markören över annonsraden och klickar sedan på **[!UICONTROL More]>[!UICONTROL Resubmit]**.
 
-Om du har ytterligare frågor eller problem med att skicka in ansökningar igen kontaktar du [!DNL Adobe] kontoansvarig.
+## Kontrollera status i dialogrutan [!UICONTROL Ads] Visa
+
+1. Klicka på **[!UICONTROL Campaigns]**.
+
+1. Klicka på kampanjens namn.
+
+1. Klicka på **[!UICONTROL Ads]**.
+
+1. Klicka på bredvid annonsnamnet  **... >[!UICONTROL see Freewheel status]**.
+
+1. (Valfritt) Om du vill skicka om en annons för godkännande håller du markören över annonsraden och klickar sedan på **[!UICONTROL More]>[!UICONTROL Resubmit]**.
 
 >[!MORELIKETHIS]
 >
