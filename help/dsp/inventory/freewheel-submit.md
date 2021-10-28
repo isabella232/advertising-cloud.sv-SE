@@ -3,9 +3,9 @@ title: Skicka en annons för ett PG-avtal till [!DNL FreeWheel]
 description: Lär dig hur du begär godkännande av en annons för ett programmatiskt garanterat avtal med en utgivare på FreeWheel.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: b149804bc3e9de5cd48a00f0611c09d1f2e7c7ca
+source-git-commit: c2caed80f0afc0cbe3572d01dc2c89f13ed13712
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -20,27 +20,41 @@ En gång [acceptera ett programmatiskt garanterat avtal med en utgivare på Free
 >
 >Arbeta med dina [!DNL Adobe] kontoteam för att säkerställa att [!DNL DSP] kontot har behörighet att använda [!DNL FreeWheel] programmatiskt garanterat arbetsflöde.
 
-1. Kopiera annonstangenten för annonsen som används med erbjudandet FreeWheel:
+## Kopiera en annonsnyckel att använda med [!DNL FreeWheel] Erbjudande {#copy-ad-key}
 
-   1. Klicka på kampanjens namn.
+1. Klicka på kampanjens namn.
 
-   1. Klicka på **[!UICONTROL Ads]**.
+1. Klicka på **[!UICONTROL Ads]**.
 
-   1. Klicka  **[!UICONTROL ...]>[!UICONTROL Edit]** bredvid annonsnamnet.
+1. Klicka  **[!UICONTROL ...]>[!UICONTROL Edit]** bredvid annonsnamnet.
 
-   1. När annonsinställningarna är öppna kopierar du den alfanumeriska annonstangenten i den URL som visas i webbläsarens adressfält.
+1. När annonsinställningarna är öppna kopierar du den alfanumeriska annonstangenten i den URL som visas i webbläsarens adressfält.
 
-      I följande URL är annonsnyckeln `3NtNC5ZbaGZtqbei8jD3`
+I följande URL är annonsnyckeln `3NtNC5ZbaGZtqbei8jD3`
 
-      `https://advertising.adobe.com/configurator/ad/3NtNC5ZbaGZtqbei8jD3?referrer=/playtime/ads`
+`https://advertising.adobe.com/configurator/ad/3NtNC5ZbaGZtqbei8jD3?referrer=/playtime/ads`
 
-1. Skicka annonsen till FreeWheel:
+## Skicka en annons från [!UICONTROL Ads] Visa
 
-   1. I [!UICONTROL Deals] hitta avtalet.
+1. [Kopiera annonsnyckeln för annonsen](#copy-ad-key).
 
-   1. Klicka på ![Alternativ-menyn](/help/dsp/assets/options-menu.png) **>[!UICONTROL submit to [!DNL FreeWheel]]**.
+1. Klicka på bredvid annonsnamnet  **[!UICONTROL ...]>[!UICONTROL submit to FreeWheel]**.
 
-   1. Verifiera erbjudande-ID, ange **[!UICONTROL Ad Key]** du kopierade i steg 1 och sedan klicka **[!UICONTROL Submit]**.
+1. Verifiera erbjudande-ID, ange [den **[!UICONTROL Ad Key]**](#copy-ad-key)och klicka sedan på&#x200B;**[!UICONTROL Submit]**.
+
+   Annonsen måste skickas och godkännas innan den kan köras.
+
+1. [Kontrollera status för annonsinlämning](freewheel-check-status.md).
+
+## Skicka en annons från [!UICONTROL Deals] Visa
+
+1. [Kopiera annonsnyckeln för annonsen](#copy-ad-key).
+
+1. Klicka på **[!UICONTROL Inventory]> [!UICONTROL Deals].**
+
+1. Klicka på ![Alternativ-menyn](/help/dsp/assets/options-menu.png) **>[!UICONTROL submit to FreeWheel]**.
+
+1. Verifiera erbjudande-ID, ange [den **[!UICONTROL Ad Key]**](#copy-ad-key)och klicka sedan på&#x200B;**[!UICONTROL Submit]**.
 
    Annonsen måste skickas och godkännas innan den kan köras.
 
