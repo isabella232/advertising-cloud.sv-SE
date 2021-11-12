@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: ab6005d01e74c66cb1c95503d454f45e72fbc85b
+source-git-commit: 8721411c1cd9905d362dff6ea5da39767dcb2c9b
 workflow-type: tm+mt
-source-wordcount: '1376'
+source-wordcount: '1411'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,7 @@ Följande funktioner är nya eller nyligen ändrade.
 
 | Datum | Funktion | Beskrivning | Mer information |
 | ---- | ------- | ----------- | -------------------- |
+| 12 november 2021 | [!UICONTROL Deal IDs] | I [!UICONTROL Deal ID] inställningar, &quot;[!DNL Rubicon]&quot; ändrades till &quot;[!DNL Magnite DV+],&quot; där [!DNL DV+] används för visning, video och andra format som ljud. Detta återspeglar det nya varumärket för [!DNL Magnite] SSP. **Obs!** [!DNL Magnite DV+] finns fortfarande med som &quot;[!DNL Rubicon]&quot; i [!UICONTROL Deal ID Inbox]. | Se &quot;[SSP-partners](/help/dsp/inventory/ssp-partners.md).&quot; |
 | 27 oktober 2021 | Anpassade rapporter | Nu kan du skapa och hantera [!DNL Amazon S3] och olika typer av FTP-leveransplatser, så kallade *[!DNL report destinations]*, för dina anpassade rapporter. När du har konfigurerat rapportdestinationer kan du konfigurera alla dina nya anpassade rapporter så att de levereras till en eller flera platser av samma typ eller till e-postmottagare. Uppdateringar av [!DNL Amazon S3] och FTP-inloggningsuppgifterna avbryter inte rapportleveransen.<br><br>Dina befintliga rapporter skickas fortfarande till de angivna e-postmottagarna. Om du vill konfigurera leverans till ett annat rapportmål skapar du en ny rapport med det nya målet. | Se &quot;[Om [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md),&quot; &quot;[Skapa en [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md),&quot; &quot;[[!UICONTROL Report Destination] Inställningar](/help/dsp/reports/report-destinations/report-destination-settings.md),&quot; och &quot;[Anpassade rapportinställningar](/help/dsp/reports/report-settings.md).&quot; |
 |  | [!UICONTROL Packages], [!UICONTROL Placements]och [!UICONTROL Ads] vyer | När du visar data för en enstaka dag inkluderar trenddiagrammen nu timdata. Håll markören över en punkt om du vill visa data för den timmen. | Se &quot;[Single Campaign Reporting](/help/dsp/campaign-management/reports/campaign-reports-about.md#single-campaign-reporting).&quot; |
 |  | [!UICONTROL Placements] | Placeringen [!UICONTROL Inspector] innehåller nu [!UICONTROL Inventory] som visar alla erbjudanden och deras associerade mätvärden för placeringen. Använd informationen för att göra snabba justeringar eller felsöka problem utan att generera en anpassad rapport. | Se &quot;[Placement [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md#placement-inspector).&quot; |
