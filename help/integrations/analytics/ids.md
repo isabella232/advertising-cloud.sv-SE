@@ -3,9 +3,9 @@ title: Advertising Cloud ID:n som används av [!DNL Analytics]
 description: Advertising Cloud ID:n som används av [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: 1ba45d789c4ad365166df829ac74e0200cdc8851
+source-git-commit: 143e8e756d13597bf923d0b6f5b2510f834e6e0f
 workflow-type: tm+mt
-source-wordcount: '1156'
+source-wordcount: '1157'
 ht-degree: 0%
 
 ---
@@ -69,13 +69,13 @@ Exempel `EF `ID: WcmibgAAHJK1RyY:1551968087687:d
 
 I [!DNL Analytics] rapporter kan du hitta data för EF ID genom att söka efter [!UICONTROL EF ID] och använda [!UICONTROL EF ID Instance] mätvärden.
 
-`EF IDs` omfattas av den unika identifierargränsen på 500 kB i Analysis Workspace. När 500 kB-värdet har uppnåtts rapporteras alla nya spårningskoder under rubriken&quot; på en rad[!UICONTROL Low Traffic].&quot; På grund av risken för att rapportens följsamhet saknas kan `EF IDs` är inte klassificerade och du bör inte använda dem för segment eller rapportering i [!DNL Analytics].
+EF ID:n omfattas av den unika identifierargränsen på 500 kB i Analysis Workspace. När 500 kB-värdet har uppnåtts rapporteras alla nya spårningskoder under rubriken&quot; på en rad[!UICONTROL Low Traffic].&quot; På grund av risken för att rapporteringsnoggrannheten saknas klassificeras inte dessa EF-ID:n, och du bör inte använda dem för segment eller rapportering i [!DNL Analytics].
 
 ## Advertising Cloud AMO ID
 
 AMO ID spårar varje unik annonskombination på en mindre detaljerad nivå och används för [!DNL Analytics] dataklassificering och konsumtion av reklamstatistik (t.ex. visningar, klickningar och kostnader) från Advertising Cloud. AMO-ID:t lagras i en [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) eller rVar dimension (AMO ID) och används exklusivt för rapportering i [!DNL Analytics].
 
-AMO-ID:t kallas även `s_kwcid`, som ibland kallas&quot;bläckfisken&quot;.
+AMO-ID:t kallas även `s_kwcid`, som ibland uttalas som[!DNL the squid].&quot;
 
 ### AMO ID-format för [!DNL DSP]
 
