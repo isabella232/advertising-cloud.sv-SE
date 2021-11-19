@@ -3,7 +3,7 @@ title: Advertising Cloud ID:n som används av [!DNL Analytics]
 description: Advertising Cloud ID:n som används av [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: bfbfc293ad04b294c813ce7c8a11200e70fc812f
+source-git-commit: 1ba45d789c4ad365166df829ac74e0200cdc8851
 workflow-type: tm+mt
 source-wordcount: '1156'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 *Gäller Advertising Cloud DSP och Advertising Cloud Search*
 
-Advertising Cloud använder två ID:n för prestandaspårning på plats: EF ID och AMO ID.
+Advertising Cloud använder två ID:n för prestandaspårning på plats: den *EF ID* och *AMO-ID*.
 
 När ett annonsintryck inträffar skapar Advertising Cloud värdena för AMO ID och EF ID och lagrar dem. När en besökare som har sett en annons komma in på webbplatsen utan att klicka på en annons, [!DNL Analytics] anropar dessa värden från Advertising Cloud via [!DNL Analytics for Advertising Cloud] JavaScript-kod. För genomskinlig trafik [!DNL Analytics] genererar ett extra ID (`SDID`), som används för att sammanfoga EES ID och AMO ID till [!DNL Analytics]. För genomklickningstrafik inkluderas dessa ID:n i landningssidans URL med hjälp av `s_kwcid` och `ef_id` frågesträngsparametrar.
 
