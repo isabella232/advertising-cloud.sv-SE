@@ -2,8 +2,7 @@
 title: Ta bort en anpassad rapport
 description: Lär dig hur du tar bort en anpassad rapport.
 feature: DSP Custom Reports
-exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -13,9 +12,9 @@ ht-degree: 0%
 
 # Ta bort en anpassad rapport
 
-1. Klicka på **[!UICONTROL Reports]** på huvudmenyn.
-1. Klicka på **[!UICONTROL options]>[!UICONTROL Delete]** i kolumnen [!UICONTROL Options] för rapportraden.
-1. Klicka på **[!UICONTROL OK]** i bekräftelsemeddelandet.
+1. På huvudmenyn klickar du på **[!UICONTROL Reports]**.
+1. I [!UICONTROL Options] kolumn för rapportraden klickar du på **[!UICONTROL options]>[!UICONTROL Delete]**.
+1. Klicka på **[!UICONTROL OK]**.
 
 >[!MORELIKETHIS]
 >

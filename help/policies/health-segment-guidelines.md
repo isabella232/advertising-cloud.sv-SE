@@ -2,8 +2,7 @@
 title: Adobe Advertising Cloud godtagbara hälsosegment
 description: Se riktlinjer för godtagbara hälsorelaterade målgruppssegment och taktik att använda som alternativ till att inrikta sig på hälsorelaterade målgruppssegment.
 feature: Policies
-exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -18,7 +17,7 @@ I följande riktlinjer beskrivs oacceptabla och godtagbara hälsorelaterade mål
 
 Dessa riktlinjer sammanfattas i [!DNL Network Advertising Alliance (NAI)].
 
-Se även [Advertising Cloud Ads Requirements Policy](/help/policies/ad-requirements-policy.md) för att avgöra om ett hälsorelaterat målgruppssegment är användbart enligt Adobe Advertising Cloud målinriktningspolicy.
+Se även [Krav för Advertising Cloud Ads](/help/policies/ad-requirements-policy.md) för att avgöra om ett hälsorelaterat målgruppssegment är användbart enligt Adobe Advertising Cloud målinriktningspolicy.
 
 ## Hälsosegment som inte ska användas
 

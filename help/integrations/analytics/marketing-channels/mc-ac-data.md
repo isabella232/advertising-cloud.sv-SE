@@ -1,9 +1,8 @@
 ---
 title: Använda [!DNL Marketing Channels] med Advertising Cloud Data
-description: Lär dig hur du använder Advertising Cloud-data i [!DNL Analytics Marketing Channels].
+description: Lär dig använda Advertising Cloud-data i [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
-exl-id: null
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '706'
 ht-degree: 0%
@@ -14,31 +13,31 @@ ht-degree: 0%
 
 *Annonsörer med endast Advertising Cloud-Adobe Analytics-integrering*
 
-Genom att använda både Advertising Cloud- och [!DNL Marketing Channels]-rapporterna kan ni få värdefulla insikter om hur era digitala medier påverkar webbplatsaktiviteten.
+Genom att använda både Advertising Cloud och [!DNL Marketing Channels] kan ni få värdefulla insikter om hur era digitala medier påverkar webbplatsaktiviteten.
 
 <!-- from video: By using Marketing Channels with your Advertising Cloud data, you can get a more holistic view of how your advertising efforts are affecting site behavior. In particular, you can see the value of your view-through and click-through data, and how your advertising assists or is assisted by other channels. -->
 
-Följande bild visar hur Advertising Cloud och [!DNL Marketing Channels] spårar de enskilda besök som utgör en besökares resa. Advertising Cloud-rapporter i [!DNL Analytics] är begränsade till endast betald displayannonsering och sökannonsering som handlas via Advertising Cloud, med hjälp av AMO-ID:t. [!DNL Marketing Channels] spårar dock alla kanaler som konfigurerats i bearbetningsreglerna för [!DNL Marketing Channels].
+Följande bild visar hur Advertising Cloud och [!DNL Marketing Channels] spåra de enskilda besök som utgör en besökares resa. Advertising Cloud rapporterar i [!DNL Analytics] begränsas till enbart betalannonsering och sökannonsering som handlas via Advertising Cloud med hjälp av AMO-ID:t. Men [!DNL Marketing Channels] spårar alla kanaler som konfigurerats i [!DNL Marketing Channels] Bearbetar regler.
 
-![Hur Advertising Cloud och  [!DNL Marketing Channels] spårar de enskilda besöken på en besökares resa](/help/integrations/assets/a4adc-mc-sample-journey2.png)
+![Hur Advertising Cloud och [!DNL Marketing Channels] spåra de enskilda besöken på en besökares resa,](/help/integrations/assets/a4adc-mc-sample-journey2.png)
 
-Vid det första besöket gick användaren in på webbplatsen via en e-postkampanj, genomförde tio sidvisningar och sedan gick han/hon. Vid det andra besöket gick användaren in på webbplatsen via en displayannons, genomförde tio sidvisningar och sedan gick han/hon. Vid det tredje besöket gick användaren in på webbplatsen via naturlig sökning, utförde fem sidvisningar, genomförde en konvertering på 250 dollar och åt vänster. Lägg märke till skillnaden i spårning mellan [!DNL Marketing Channels] och Advertising Cloud. Den enda kanal som Advertising Cloud spårar på den här resan är [!UICONTROL Display]. Advertising Cloud spårar kanalbesöket [!UICONTROL Display] och attribuerar efterföljande engagemangsdata (som sidvisningar) och konverterar tillbaka till den reklamens påverkan. [!DNL Marketing Channels], å andra sidan, ger en fullständig bild av alla kanaler.
+Vid det första besöket gick användaren in på webbplatsen via en e-postkampanj, genomförde tio sidvisningar och sedan gick han/hon. Vid det andra besöket gick användaren in på webbplatsen via en displayannons, genomförde tio sidvisningar och sedan gick han/hon. Vid det tredje besöket gick användaren in på webbplatsen via naturlig sökning, utförde fem sidvisningar, genomförde en konvertering på 250 dollar och åt vänster. Lägg märke till skillnaden i spårning mellan [!DNL Marketing Channels] och Advertising Cloud. Den enda kanal som Advertising Cloud spårar på den här resan är [!UICONTROL Display]. Advertising Cloud håller reda på [!UICONTROL Display] kanalbesök och attribuerar efterföljande engagemangsdata (t.ex. sidvisningar) och konverteringar tillbaka till reklamens påverkan. [!DNL Marketing Channels], å andra sidan, ger en fullständig bild av alla kanaler.
 
-Eftersom AMO-ID:t finns kvar under besökarens resa kan du använda AMO-ID-data för att se hur Advertising Cloud påverkar andra marknadsföringskanaler. AMO-ID:t [kvarstår i 60 dagar som standard](/help/integrations/analytics/overview.md), men du kan konfigurera persistensen efter behov.
+Eftersom AMO-ID:t finns kvar under besökarens resa kan du använda AMO-ID-data för att se hur Advertising Cloud påverkar andra marknadsföringskanaler. AMO-ID [kvarstår i 60 dagar som standard](/help/integrations/analytics/overview.md), men du kan konfigurera beständigheten efter behov.
 
 ## Kombinera data från Advertising Cloud och marknadsföringskanaler för att analysera medieprestanda
 
-Inom [!DNL Analytics] kan ni kombinera Advertising Cloud beständiga betalda annonser och de omfattande besöksdata [!DNL Marketing Channels] för att bättre analysera ert medieprestanda så att ni bättre kan påverka kundresan.
+Inom [!DNL Analytics]kan du kombinera Advertising Cloud beständiga betalda annonsdata med [!DNL Marketing Channels] omfattande besöksdata för att bättre analysera hur ert material fungerar så att ni bättre kan påverka kundresan.
 
 I följande analys används Advertising Cloud-data för att visa olika versioner av hur en annonsering påverkar webbplatskonverteringen. Alla tre kolumnerna använder samma konverteringsmått, men varje kolumn ger en egen berättelse:
 
-* I kolumn 1 behandlas AMO ID-data som är permanenta under besökarens resa. Kolumn 1 anger att 641-program som startas vid ett tillfälle var länkade till en Advertising Cloud-annons, antingen via en genomgång eller en klickningshändelse. I den här vyn beaktas ingen annan [!DNL Marketing Channels]-attribuering.
+* I kolumn 1 behandlas AMO ID-data som är permanenta under besökarens resa. Kolumn 1 anger att 641-program som startas vid ett tillfälle var länkade till en Advertising Cloud-annons, antingen via en genomgång eller en klickningshändelse. Den här vyn kan inte visas på något annat sätt [!DNL Marketing Channels] attribuering i beaktande.
 
-* I [!DNL Marketing Channels]-datauppsättningen tillskrivs dock 641 Applications Starts andra marknadsföringskanaler. De sista två kolumnerna tar 641 Applications Starts och begränsar data till kanalerna [!UICONTROL Display Click-Through] och [!UICONTROL Display View-Through], vilket visar konverteringarna som inträffar i en senaste pekattribueringsmodell.
+* I [!DNL Marketing Channels] Men de 641 Applications Starts kan tillskrivas andra marknadsföringskanaler. De sista två kolumnerna tar 641 Applications Starts och begränsar data till [!UICONTROL Display Click-Through] och [!UICONTROL Display View-Through] kanaler, visa konverteringar som inträffar i en senaste pekattribueringsmodell.
 
 ![exempel på hur en displayannons påverkar webbplatskonverteringen](/help/integrations/assets/a4adc-mc-display-impact.png)
 
-Du kan gå ett steg längre med den här analysen. Du kan dela upp Advertising Cloud-raden ytterligare via en marknadsföringskanal för att se var Advertising Cloud-konverteringarna är kopplade till 641 Applications Starts. Du vet redan att fem av dessa konverteringar är kopplade till en sista pekskärm genom klickning och 19 är kopplade till en sista pekskärm genom. Det betyder fortfarande att 617 Applications Starts kan tillskrivas andra marknadsföringskanaler. Du kan dra och släppa dimensionen Sista beröringskanalen ovanpå Advertising Cloud DSP-radobjektet för att visa kanalattribueringen för resten av programmen Starts och visa visningskanalens påverkan över flera kanaler.
+Du kan gå ett steg längre med den här analysen. Du kan dela upp Advertising Cloud-raden ytterligare via en marknadsföringskanal för att se var Advertising Cloud-konverteringarna är kopplade till 641 Applications Starts. Du vet redan att fem av dessa konverteringar är kopplade till en sista pekskärm genom klickning och 19 är kopplade till en sista pekskärm genom. Det betyder fortfarande att 617 Applications Starts kan tillskrivas andra marknadsföringskanaler. Du kan dra och släppa dimensionen Sista beröringskanalen ovanpå Advertising Cloud DSP-radobjektet för att visa kanalattribueringen för resten av programmen startar och visa effekten av Display-kanalen i flera kanaler.
 
 ![Så här lägger du till dimensionen Sista beröringskanalen](/help/integrations/assets/a4adc-mc-display-impact-ltc.png)
 
@@ -53,7 +52,7 @@ Du kan förbättra analysen ytterligare genom att använda ett Staplingsdiagram 
 >[!MORELIKETHIS]
 >
 >* [Grundläggande om [!DNL Analytics Marketing Channels]](mc-overview.md)
->* [Använda Advertising Cloud ID:n för att  [!DNL Marketing Channels] skapa bearbetningsregler](mc-ids.md)
+>* [Använda Advertising Cloud ID för att skapa [!DNL Marketing Channels] Bearbetar regler](mc-ids.md)
 >* [Varför olika kanaldata kan variera mellan Advertising Cloud och [!DNL Marketing Channels]](mc-data-variances.md)
 >* [Video: Rapportera med Advertising Cloud [!DNL Marketing Channels]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html)
 >* [Översikt över [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/overview.md)

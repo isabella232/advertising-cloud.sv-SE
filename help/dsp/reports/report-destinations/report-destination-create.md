@@ -2,8 +2,7 @@
 title: Skapa ett rapportmål
 description: Lär dig hur du skapar en destination för leverans av anpassade rapporter.
 feature: DSP Custom Reports
-exl-id: null
-source-git-commit: ff14691fd2b6fa56c303dca3ac0e4c897c322f72
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 2%
@@ -13,7 +12,7 @@ ht-degree: 2%
 
 # Skapa ett rapportmål
 
-1. Klicka på **[!UICONTROL Reports]>[!UICONTROL Report Destinations]**.
+1. På huvudmenyn klickar du på **[!UICONTROL Reports]>[!UICONTROL Report Destinations]**.
 
 1. Klicka på **[!UICONTROL Add Destination]**.
 

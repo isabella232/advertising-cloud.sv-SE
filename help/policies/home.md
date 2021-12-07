@@ -4,8 +4,7 @@ description: Läs mer om policyer och riktlinjer för Advertising Cloud DSP och 
 index: true
 cloud: Experience Cloud
 product: advertising cloud
-exl-id: null
-source-git-commit: ec21d8c18bced3fcd635df8b9b2734e028ceb118
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%

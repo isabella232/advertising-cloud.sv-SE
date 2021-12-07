@@ -2,8 +2,7 @@
 title: Kontrollera status för annonser för en [!DNL [!DNL FreeWheel]] PG-erbjudande
 description: Lär dig hur du hittar status för annonser för [!DNL Freewheel] garanterad programmatisk annonsering.
 feature: DSP Private Inventory, DSP Deal IDs
-exl-id: null
-source-git-commit: a0619f77aac5e6c527fc344570bbcedf17dcfe36
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -18,7 +17,7 @@ Om du har ytterligare frågor eller problem med att skicka in ansökningar igen 
 
 ## Kontrollera status i dialogrutan [!UICONTROL Ads] Visa
 
-1. Klicka på **[!UICONTROL Campaigns]**.
+1. På huvudmenyn klickar du på **[!UICONTROL Campaigns]**.
 
 1. Klicka på kampanjens namn.
 
@@ -30,7 +29,7 @@ Om du har ytterligare frågor eller problem med att skicka in ansökningar igen 
 
 ## Kontrollera status i dialogrutan [!UICONTROL Deals] Visa
 
-1. Klicka på **[!UICONTROL Inventory]> [!UICONTROL Deals].**
+1. På huvudmenyn klickar du på **[!UICONTROL Inventory]> [!UICONTROL Deals].**
 
 1. Gör något av följande:
 

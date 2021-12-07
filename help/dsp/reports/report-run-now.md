@@ -2,8 +2,7 @@
 title: Kör en anpassad rapport
 description: Lär dig hur du kör en anpassad rapport direkt.
 feature: DSP Custom Reports
-exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -15,11 +14,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Du kan också köra en anpassad rapport när du [skapar](report-create.md) eller [redigerar](report-edit.md) den.
+>Du kan också köra en anpassad rapport när du [skapa](report-create.md) eller [redigera](report-edit.md) den.
 
-1. Klicka på **[!UICONTROL Reports]** på huvudmenyn.
-1. Klicka på **[!UICONTROL options]>[!UICONTROL Run Now]** i kolumnen [!UICONTROL Options] för rapportraden.
-1. Klicka på **[!UICONTROL OK]** i bekräftelsemeddelandet.
+1. På huvudmenyn klickar du på **[!UICONTROL Reports]**.
+1. I [!UICONTROL Options] kolumn för rapportraden klickar du på **[!UICONTROL options]>[!UICONTROL Run Now]**.
+1. Klicka på **[!UICONTROL OK]**.
 
    När rapporten är klar skickas den till alla e-postadresser som anges i rapportinställningarna.
 

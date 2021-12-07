@@ -2,8 +2,7 @@
 title: Ta bort ett rapportmål
 description: Lär dig hur du tar bort ett rapportmål.
 feature: DSP Custom Reports
-exl-id: null
-source-git-commit: a4b37bf370dba3d3ec8406f4b86c1fa0c63ae5bb
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Om du tar bort ett rapportmål påverkas leveransen av alla länkade anpassade rapporter.
 
-1. Klicka på **[!UICONTROL Reports]>[!UICONTROL Report Destinations]**.
+1. På huvudmenyn klickar du på **[!UICONTROL Reports]>[!UICONTROL Report Destinations]**.
 
 1. Håll markören över rapportens målrad och klicka sedan på **[!UICONTROL More]>[!UICONTROL Delete]**.
 
