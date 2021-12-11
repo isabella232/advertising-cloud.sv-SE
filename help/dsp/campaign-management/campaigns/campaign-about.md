@@ -3,9 +3,9 @@ title: Om kampanjhantering i Advertising Cloud DSP
 description: Läs om kampanjhantering.
 feature: DSP Campaigns
 exl-id: f9f3aba2-995c-45df-8e65-52999f9cc539
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,10 @@ Kampanjer är det övergripande ramverket för flyginställningar. Alla inställ
 
 Du kan skapa kampanjer manuellt eller genom att duplicera befintliga kampanjer. Ni kan också redigera befintliga kampanjer.
 
-## Kontrollpanelen för [!UICONTROL Campaigns]
+## The [!UICONTROL Campaigns] Kontrollpanel
 
 <!-- standardize on "dashboard" or "view" -->
-Kontrollpanelen [!UICONTROL Campaigns] centraliserar resultatet och den ekonomiska rapporteringen för alla era kampanjer, vilket ger en snabb ögonblicksbild av hur era kampanjer har utförts under ett visst datumintervall.
+The [!UICONTROL Campaigns] Instrumentpanelen centraliserar resultatet och den ekonomiska rapporteringen för alla era kampanjer, vilket ger en snabb ögonblicksbild av hur era kampanjer har genomförts under ett visst datumintervall.
 
 ![Kontrollpanel för kampanjer](/help/dsp/assets/campaign-dashboard.png)
 
@@ -27,7 +27,7 @@ Som standard visas pacing- och leveransmått per kampanj på kontrollpanelen. Du
 
 >[!NOTE]
 >
->Du kan anpassa innehållet i och leveransen av kampanjrapporter ytterligare via [anpassade rapporter](/help/dsp/reports/report-about.md).
+>Ni kan anpassa innehållet i och leveransen av kampanjrapporter ytterligare via [anpassade rapporter](/help/dsp/reports/report-about.md).
 
 Klicka på kampanjnamnet om du vill se alla paket, placeringar och annonser i en kampanj.
 
@@ -35,4 +35,5 @@ Klicka på kampanjnamnet om du vill se alla paket, placeringar och annonser i en
 >
 >* [Skapa en kampanj](campaign-create.md)
 >* [Kampanjinställningar](campaign-settings.md)
+>* [Video: DSP kontostruktur och användargränssnitt](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/ui.html)
 
