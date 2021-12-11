@@ -3,9 +3,9 @@ title: Översikt över kampanjhantering i Advertising Cloud DSP
 description: Lär dig mer om kampanjhanteringshierarkin och komponenter.
 feature: DSP Packages, DSP Placements, DSP Ads
 exl-id: c94e08d0-0dd5-4cf9-8df2-9eb4c591375c
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ In Advertising Cloud DSP, an insertion order is represented as a campaign, and l
 
 ## [!UICONTROL Campaigns]
 
-[](/help/dsp/campaign-management/campaigns/campaign-about.md) Campaign är det övergripande ramverket för flyginställningar. Varje kampanj är konfigurerad med en annonsörer, start- och slutdatum, en övergripande budget, ett alternativ för målinriktning mellan olika enheter och standardfrekvens samt rapporteringsalternativ för visningsbarhet, bedrägeri, varumärkessäkerhet och målgruppsverifiering. Alla inställningar på kampanjnivå gäller automatiskt för varje paket och placering i kampanjen.
+[Kampanjer](/help/dsp/campaign-management/campaigns/campaign-about.md) är det övergripande ramverket för flyginställningar. Varje kampanj är konfigurerad med en annonsörer, start- och slutdatum, en övergripande budget, ett alternativ för målinriktning mellan olika enheter och standardfrekvens samt rapporteringsalternativ för visningsbarhet, bedrägeri, varumärkessäkerhet och målgruppsverifiering. Alla inställningar på kampanjnivå gäller automatiskt för varje paket och placering i kampanjen.
 
 ## [!UICONTROL Packages]
 
-Varje kampanj kan innehålla ett eller flera [paket](/help/dsp/campaign-management/packages/package-about.md), där vart och ett innehåller en uppsättning placeringar.
+Varje kampanj kan innehålla en eller flera [paket](/help/dsp/campaign-management/packages/package-about.md), som alla innehåller en uppsättning placeringar.
 
 Använd paket för att gruppera placeringar för leverans till en fast budget, prestationsmål och anpassad paketeringsstrategi. DSP optimerar paket genom att flytta budgeten till de bästa placeringarna i paketet. Du kan ordna paket efter placeringsformat, lagertyp, dataleverantör, persona eller andra särskiljbara egenskaper.
 
@@ -39,11 +39,11 @@ Paket är valfria men rekommenderas.
 
 ## [!UICONTROL Placements]
 
-En [placering](/help/dsp/campaign-management/placements/placement-about.md) lagrar målparametrar för en eller flera annonser av samma annonstyp. Du kan skapa en placering för en enskild kampanj eller ett paket och sedan tilldela annonser till den.
+A [placering](/help/dsp/campaign-management/placements/placement-about.md) lagrar målparametrar för en eller flera annonser av samma annonstyp. Du kan skapa en placering för en enskild kampanj eller ett paket och sedan tilldela annonser till den.
 
 ## [!UICONTROL Ads]
 
-[Lägg ](/help/dsp/campaign-management/ads/ad-about.md) in kreativt material och spåra URL:er. Du kan antingen överföra ditt kreativa material och DSP skicka annonser som använder dem kostnadsfritt, eller så kan du överföra annonsserverkod från tredje part.
+[Annonser](/help/dsp/campaign-management/ads/ad-about.md) innehåller kreativa resurser och spårnings-URL:er. Du kan antingen överföra ditt kreativa material och DSP skicka annonser som använder dem kostnadsfritt, eller så kan du överföra annonsserverkod från tredje part.
 
 När ni väl har ställt in era annonser måste ni bifoga varje annons på en plats. Du kan bifoga en annons till en eller flera ersättningar.
 
@@ -66,4 +66,5 @@ Du kan omedelbart skapa en annons med den överförda kreativa annonsen eller sk
 >* [Bästa metoder för att konfigurera resultatkampanjer](/help/dsp/optimization/campaign-best-practices-performance.md)
 >* [Om rapporter på plattformen](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [Om kampanjdatavyer](/help/dsp/campaign-management/reports/campaign-data-views-about.md)
+>* [Video: DSP kontostruktur och användargränssnitt](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/ui.html)
 
