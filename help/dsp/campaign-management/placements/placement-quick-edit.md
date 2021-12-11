@@ -3,10 +3,10 @@ title: Redigera inställningar för tangentmontering snabbt
 description: Lär dig hur du snabbt ändrar inställningar för tangentplacering.
 feature: DSP Placements
 exl-id: 107ec263-a0f2-491b-8380-2cceaf51cae9
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 1%
+source-wordcount: '116'
+ht-degree: 0%
 
 ---
 
@@ -18,12 +18,12 @@ Du kan redigera placeringsnamnet, status, högsta bud och budget utan att öppna
 
 >[!TIP]
 >
-> Om du vill redigera en placeringsinställning läser du i &quot;[Redigera en placering](/help/dsp/campaign-management/placements/placement-edit.md)&quot;.
+> Om du vill redigera en placeringsinställning läser du &quot;[Redigera en placering](/help/dsp/campaign-management/placements/placement-edit.md).&quot;
 
-1. Klicka på **[!UICONTROL Campaigns]** på huvudmenyn.
+1. På huvudmenyn klickar du på **[!UICONTROL Campaigns]**.
 1. Klicka på kampanjens namn.
-1. Klicka på **[!UICONTROL Placements]** på undermenyn.
-1. Klicka på **[!UICONTROL ...]>[!UICONTROL Quick Edit]** bredvid placeringsnamnet.
+1. Klicka på **[!UICONTROL Placements]**.
+1. Klicka på bredvid placeringsnamnet  **[!UICONTROL ...]>[!UICONTROL Quick Edit]**.
 1. Redigera alla tillgängliga [placeringsinställningar](placement-settings.md):  **[!UICONTROL Placement Name]**, **[!UICONTROL Status]**, **[!UICONTROL Max Bid]** och **[!UICONTROL Budget]**.
 1. Klicka på **[!UICONTROL Apply]**.
 
@@ -36,4 +36,5 @@ Du kan redigera placeringsnamnet, status, högsta bud och budget utan att öppna
 >* [Redigera annonsschemat för en placering](placement-edit-ad-schedule.md)
 >* [Pausa eller aktivera en placering](placement-pause-activate.md)
 >* [Placeringsinställningar](placement-settings.md)
+>* [Video: Redigera placeringar med gruppredigeringsverktyg](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-edit-placement-tools.html)
 
