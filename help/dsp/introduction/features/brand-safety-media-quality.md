@@ -3,9 +3,9 @@ title: Varumärkessäkerhet och mediakvalitet
 description: Läs mer om varumärkessäkerhet och funktioner för mediekvalitet.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: 7d158d5882bf23582c274ad49d632e0d937a1bd3
+source-git-commit: 6a0b863d1cdf31eb8a659196a83e9636a3a49ff5
 workflow-type: tm+mt
-source-wordcount: '1308'
+source-wordcount: '1315'
 ht-degree: 0%
 
 ---
@@ -114,13 +114,13 @@ Du kan ange standardfilter för visning för varje annonsörer<!-- [default pre-
 
 ### Målgruppsanpassning
 
-DSP kan ni rikta in er på eller blockera nyckelordslistor genom att utnyttja våra branschledande sammanhangsbaserade partner [!DNL Comscore] och [!DNL Oracle Data Cloud] ([!DNL Grapeshot]).
-
-Ämnesinriktningen hjälper er att se till att era annonser alltid får plats i en miljö som är anpassad efter ert varumärke, oavsett om det handlar om att blockera skadligt innehåll eller säkerställa utgifter i ett sammanhang som garanterar ett bättre resultat.
+DSP kan ni rikta in er på eller blockera nyckelordslistor genom att utnyttja våra branschledande sammanhangsbaserade partner [!DNL Comscore] och [!DNL Oracle Data Cloud] ([!DNL Grapeshot]). Ämnesinriktningen hjälper er att se till att era annonser alltid får plats i en miljö som är anpassad efter ert varumärke, oavsett om det handlar om att blockera skadligt innehåll eller säkerställa utgifter i ett sammanhang som garanterar ett bättre resultat.
 
 För målinriktning mot ämnen måste du skapa anpassade ämnessegment direkt med [!DNL Comscore] eller [!DNL Grapeshot] (med [!DNL Oracle Data Cloud]). När de har skapats på partnerplattformen kan du [mål eller exkludera ett segment-ID i [!UICONTROL Audience Targeting] sektion för varje placering](/help/dsp/campaign-management/placements/placement-settings.md). Ytterligare avgifter kan tillkomma för den här funktionen.
 
-* Skapa en [!DNL Comscore] konto och skapa anpassade segment, kan du begära inloggning för [!DNL Activation Segment Manager] på http://agents.comscore.com/. Se [[!DNL Comscore] hjälpcenter](https://comscoreactivation.zendesk.com/hc/) om du vill ha fullständiga anvisningar om hur du ställer in anpassade segment. Avgifter för anpassade segment visas i [!DNL Segment Manager] när du skapar dem.
+Så här skapar du anpassade ämnessegment:
+
+* Skapa en [!DNL Comscore] konto och skapa anpassade segment, kan du begära inloggning för [!DNL Activation Segment Manager] på [http://agents.comscore.com](http://agents.comscore.com). Se [[!DNL Comscore] hjälpcenter](https://comscoreactivation.zendesk.com/hc/) om du vill ha fullständiga anvisningar om hur du ställer in anpassade segment. Avgifter för anpassade segment visas i [!DNL Segment Manager] när du skapar dem.
 
 * Så här kommer du igång med [!DNL Oracle Data Cloud], kontakt [!DNL Oracle Data Cloud] eller [!DNL Adobe] kontoansvarig.
 
