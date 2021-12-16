@@ -3,9 +3,9 @@ title: Varumärkessäkerhet och mediakvalitet
 description: Läs mer om varumärkessäkerhet och funktioner för mediekvalitet.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: 7d158d5882bf23582c274ad49d632e0d937a1bd3
 workflow-type: tm+mt
-source-wordcount: '1263'
+source-wordcount: '1308'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Förutom att tillhandahålla central kvalitetsstyrning anser vi att annonsörern
 
 ### Lagerverifiering med [!DNL Ads.txt] Support
 
-[[!DNL Ads.txt], which stands for [!DNL Authorized Digital Sellers]](https://iabtechlab.com/ads-txt) är ett initiativ som [!DNL Interactive Advertising Bureau] ([!DNL IAB]) i juni 2017 för att underlätta en korrekt återgivning av lagret på den öppna marknaden och därmed motverka olagliga källor till trafik och domänförfalskning. Deltagande utgivare och distributörer offentliggör de företag som är auktoriserade att sälja sitt digitala lager, och vilken typ av relation det rör sig om, genom att upprätthålla en `ads.txt` på domänens översta nivå (t.ex. `example.com/ads.txt`).
+[[!DNL Ads.txt], som står för [!DNL Authorized Digital Sellers]](https://iabtechlab.com/ads-txt) är ett initiativ som [!DNL Interactive Advertising Bureau] ([!DNL IAB]) i juni 2017 för att underlätta en korrekt återgivning av lagret på den öppna marknaden och därmed motverka olagliga källor till trafik och domänförfalskning. Deltagande utgivare och distributörer offentliggör de företag som är auktoriserade att sälja sitt digitala lager, och vilken typ av relation det rör sig om, genom att upprätthålla en `ads.txt` på domänens översta nivå (t.ex. `example.com/ads.txt`).
 
 DSP [!DNL ads.txt] genom att läsa varje utgivares `ads.txt` och ger dig möjlighet att köpa endast från verifierad [!DNL ads.txt] säljare. Genom att matcha säljarna ser vi till exempel åtkomst `nytimes.com` till New York Times&#39; `ads.txt` kan vi identifiera vilka som är berättigade och vilka som inte är det, och vi kommer att blockera förbrytarna om placeringen är konfigurerad att endast köpa från verifierade säljare. <!-- can we actually mention NY Times? -->
 
@@ -118,9 +118,11 @@ DSP kan ni rikta in er på eller blockera nyckelordslistor genom att utnyttja v�
 
 Ämnesinriktningen hjälper er att se till att era annonser alltid får plats i en miljö som är anpassad efter ert varumärke, oavsett om det handlar om att blockera skadligt innehåll eller säkerställa utgifter i ett sammanhang som garanterar ett bättre resultat.
 
-För målinriktning mot ämnen måste du skapa ämnessegment direkt med [!DNL Comscore] eller [!DNL Grapeshot] (med [!DNL Oracle Data Cloud]). När de har skapats på partnerplattformen kan du [mål eller exkludera ett segment-ID i[!UICONTROL  Audience Targeting] sektion för varje placering](/help/dsp/campaign-management/placements/placement-settings.md). Ytterligare avgifter kan tillkomma för den här funktionen.
+För målinriktning mot ämnen måste du skapa anpassade ämnessegment direkt med [!DNL Comscore] eller [!DNL Grapeshot] (med [!DNL Oracle Data Cloud]). När de har skapats på partnerplattformen kan du [mål eller exkludera ett segment-ID i [!UICONTROL Audience Targeting] sektion för varje placering](/help/dsp/campaign-management/placements/placement-settings.md). Ytterligare avgifter kan tillkomma för den här funktionen.
 
-Kontakta din leverantör eller [!DNL Adobe] kontoansvarig.
+* Skapa en [!DNL Comscore] konto och skapa anpassade segment, kan du begära inloggning för [!DNL Activation Segment Manager] på http://agents.comscore.com/. Se [[!DNL Comscore] hjälpcenter](https://comscoreactivation.zendesk.com/hc/) om du vill ha fullständiga anvisningar om hur du ställer in anpassade segment. Avgifter för anpassade segment visas i [!DNL Segment Manager] när du skapar dem.
+
+* Så här kommer du igång med [!DNL Oracle Data Cloud], kontakt [!DNL Oracle Data Cloud] eller [!DNL Adobe] kontoansvarig.
 
 ![Comscore logo](/help/dsp/assets/comscore-logo.png) ![Grapeshot logo](/help/dsp/assets/oracle-grapeshot-logo.png)
 
