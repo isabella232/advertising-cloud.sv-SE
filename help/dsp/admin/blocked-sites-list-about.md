@@ -1,7 +1,7 @@
 ---
 title: Om blockerade webbplatser på kontonivå och annonsnivå
 description: Läs mer om listan över blockerade webbplatser för ett konto eller en annonsörer.
-source-git-commit: 32988f3bd4e4b63304f6b2a53949eda7842a60f0
+source-git-commit: 490147fb8479474ce95c17d59b512254596746c2
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Annonsnivålistor åsidosätter kontonivålistor.
 
 >[!NOTE]
 >
->* Listor över blockerade webbplatser på kontonivå och annonsörnivå används utöver Advertising Cloud DSP [globalt blockerad webbplatslista](/help/dsp/introduction/features/brand-safety-media-quality.md), som innehåller webbplatser som inte anses säkra för annonser.
+>* Listor över blockerade webbplatser på kontonivå och annonsörnivå används utöver Advertising Cloud DSP [globalt blockerad webbplatslista](/help/dsp/introduction/features/brand-safety-media-quality.md#global-blocked-sites), som innehåller webbplatser som inte anses säkra för annonser.
 >* Användarna kan också lägga till riktade webbplatser på alla platser.
 >* Listor med blockerade webbplatser åsidosätter alltid målwebbplatslistor. Om en placering båda utesluter och innehåller samma mål för en annons, utesluts målet.
 

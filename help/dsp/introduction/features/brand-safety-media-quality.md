@@ -3,7 +3,7 @@ title: Varumärkessäkerhet och mediakvalitet
 description: Läs mer om varumärkessäkerhet och funktioner för mediekvalitet.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: 6a0b863d1cdf31eb8a659196a83e9636a3a49ff5
+source-git-commit: fac152a5e3d040bcfacda97f05f3990fd17f677d
 workflow-type: tm+mt
 source-wordcount: '1315'
 ht-degree: 0%
@@ -72,7 +72,7 @@ Inventariemappning är den detaljerade process för granskning och introduktion 
 
 Advertising Cloud DSP tillhandahåller både en global lista över blockerade webbplatser och alternativet att skapa anpassade listor över blockerade webbplatser för annonsörer och konton.
 
-#### Advertising Cloud DSP Global Blocked Sites List
+#### Advertising Cloud DSP Global Blocked Sites List {#global-blocked-sites}
 
 Advertising Cloud DSP har en global lista över blockerade webbplatser som anses osäkra att köra annonser på. Den här listan innehåller webbplatser med stötande innehåll (till exempel hat eller terror) och webbplatser som infekterats med botar, falska förrullningsdomäner, felmatchade domäner och annan bedräglig aktivitet.
 
