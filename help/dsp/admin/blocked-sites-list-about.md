@@ -1,7 +1,7 @@
 ---
 title: Om blockerade webbplatser på kontonivå och annonsnivå
 description: Läs mer om listan över blockerade webbplatser för ett konto eller en annonsörer.
-source-git-commit: fd111b2d11b409b40aacde3cfd94a8865b7bc289
+source-git-commit: 32988f3bd4e4b63304f6b2a53949eda7842a60f0
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%

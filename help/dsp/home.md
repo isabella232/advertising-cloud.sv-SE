@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 99179eab681332ef1e8dc835aab10e113c4b3e0b
+source-git-commit: 5c7eab5f3bc1d8fc4a437e8f5b498caafed9a30f
 workflow-type: tm+mt
-source-wordcount: '1438'
+source-wordcount: '1464'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Följande funktioner är nya eller nyligen ändrade.
 
 | Datum | Funktion | Beskrivning | Mer information |
 | ---- | ------- | ----------- | -------------------- |
+| 17 december 2021 | Hjälp | Nu finns information om blockerade webbplatser. | Se &#39;[Om blockerade webbplatser på kontonivå och annonsnivå](/help/dsp/admin/blocked-sites-list-about.md)&quot; och &quot;[Redigera en blockerad webbplatslista på kontonivå eller annonsnivå](/help/dsp/admin/blocked-sites-list-edit.md).&quot; |
 | 10 december 2021 | Videosjälvstudiekurser | Nya videokurser finns: &quot;Introduktion till Advertising Cloud DSP&quot;,&quot;Kontostruktur och användargränssnitt&quot;,&quot;Så här skapar du ett paket&quot;,&quot;Så här överför du tredjepartstaggar för annonsering&quot; och&quot;Så här redigerar du placeringar med gruppredigeringsverktyg&quot;. | Se &quot;[Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html).&quot; |
 | 12 november 2021 | [!UICONTROL Deal IDs] | I [!UICONTROL Deal ID] inställningar, &quot;[!DNL Rubicon]&quot; ändrades till &quot;[!DNL Magnite DV+],&quot; där [!DNL DV+] används för visning, video och andra format som ljud. Detta återspeglar det nya varumärket för [!DNL Magnite] SSP. **Obs!** [!DNL Magnite DV+] finns fortfarande med som &quot;[!DNL Rubicon]&quot; i [!UICONTROL Deal ID Inbox]. | Se &quot;[SSP-partners](/help/dsp/inventory/ssp-partners.md).&quot; |
 | 27 oktober 2021 | Anpassade rapporter | Nu kan du skapa och hantera [!DNL Amazon S3] och olika typer av FTP-leveransplatser, så kallade *[!DNL report destinations]*, för dina anpassade rapporter. När du har konfigurerat rapportdestinationer kan du konfigurera alla dina nya anpassade rapporter så att de levereras till en eller flera platser av samma typ eller till e-postmottagare. Uppdateringar av [!DNL Amazon S3] och FTP-inloggningsuppgifterna avbryter inte rapportleveransen.<br><br>Dina befintliga rapporter skickas fortfarande till de angivna e-postmottagarna. Om du vill konfigurera leverans till ett annat rapportmål skapar du en ny rapport med det nya målet. | Se &quot;[Om [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md),&quot; &quot;[Skapa en [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md),&quot; &quot;[[!UICONTROL Report Destination] Inställningar](/help/dsp/reports/report-destinations/report-destination-settings.md),&quot; och &quot;[Anpassade rapportinställningar](/help/dsp/reports/report-settings.md).&quot; |
