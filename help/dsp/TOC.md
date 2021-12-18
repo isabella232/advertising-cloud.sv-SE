@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Lär dig mer om de viktigaste funktionerna, arbetsuppgifterna, inställningarna och andra resurser som krävs för att hantera, optimera och rapportera om era strategier för displayannonsering med Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: b113d8337e5108ccc1a2ba99d23900bb1cb72cee
+source-git-commit: aba948d8840aa986bc7fe3e8a167da2316bdbdd0
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '768'
 ht-degree: 0%
 
 ---
@@ -182,6 +182,9 @@ ht-degree: 0%
       + [Redigera en [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
       + [Ta bort en [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
       + [[!UICONTROL Report Destination] Inställningar](/help/dsp/reports/report-destinations/report-destination-settings.md)
++ Administration {#admin}
+   + [Om blockerade webbplatser på kontonivå och annonsnivå](/help/dsp/admin/blocked-sites-list-about.md)
+   + [Redigera en blockerad webbplatslista på kontonivå eller annonsnivå](/help/dsp/admin/blocked-sites-list-edit.md)
 + [Integrering med Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
 + [Kundsupport](https://helpx.adobe.com/se/contact/enterprise-support.ec.html)
 + [Versionsinformation för Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)

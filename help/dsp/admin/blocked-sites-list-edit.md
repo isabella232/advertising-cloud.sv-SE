@@ -1,17 +1,12 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Redigera en blockerad webbplatslista på kontonivå eller annonsnivå
-description: Redigera en blockerad webbplatslista på kontonivå eller annonsnivå
-source-git-commit: 27367fdee872cea9016cccd12aa082aa7455dbce
+description: Lär dig hur du hanterar listan över blockerade webbplatser för ett konto eller en annonsörer.
+source-git-commit: bfed4856e9b67537a84bd3169b284e6e027ca957
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # Redigera en blockerad webbplatslista på kontonivå eller annonsnivå
 
@@ -43,6 +38,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
-> [Varumärkessäkerhet och mediakvalitet](/help/dsp/introduction/features/brand-safety-media-quality.md)
+>* [Om blockerade webbplatser på kontonivå och annonsnivå](/help/dsp/admin/blocked-sites-list-about.md)
+   > [Varumärkessäkerhet och mediakvalitet](/help/dsp/introduction/features/brand-safety-media-quality.md)
 >* [Placeringsinställningar](/help/dsp/campaign-management/placements/placement-settings.md)
 
