@@ -3,7 +3,7 @@ title: Varumärkessäkerhet och mediakvalitet
 description: Läs mer om varumärkessäkerhet och funktioner för mediekvalitet.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: fac152a5e3d040bcfacda97f05f3990fd17f677d
+source-git-commit: 3bca3d5b4a1ec0bf9bb23946248de350b8bbf2a6
 workflow-type: tm+mt
 source-wordcount: '1315'
 ht-degree: 0%
@@ -120,7 +120,7 @@ För målinriktning mot ämnen måste du skapa anpassade ämnessegment direkt me
 
 Så här skapar du anpassade ämnessegment:
 
-* Skapa en [!DNL Comscore] konto och skapa anpassade segment, kan du begära inloggning för [!DNL Activation Segment Manager] på [http://agents.comscore.com](http://agents.comscore.com). Se [[!DNL Comscore] hjälpcenter](https://comscoreactivation.zendesk.com/hc/) om du vill ha fullständiga anvisningar om hur du ställer in anpassade segment. Avgifter för anpassade segment visas i [!DNL Segment Manager] när du skapar dem.
+* Skapa en [!DNL Comscore] konto och skapa anpassade segment, kan du begära inloggning för [!DNL Activation Segment Manager] på [https://agents.comscore.com](https://agents.comscore.com). Se [[!DNL Comscore] hjälpcenter](https://comscoreactivation.zendesk.com/hc/) om du vill ha fullständiga anvisningar om hur du ställer in anpassade segment. Avgifter för anpassade segment visas i [!DNL Segment Manager] när du skapar dem.
 
 * Så här kommer du igång med [!DNL Oracle Data Cloud], kontakt [!DNL Oracle Data Cloud] eller [!DNL Adobe] kontoansvarig.
 
