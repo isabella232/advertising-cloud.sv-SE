@@ -3,9 +3,9 @@ title: 'Adobe Advertising Cloud support for the California Consumer Privacy Act:
 description: Läs mer om stöd för att hämta in förfrågningar om att avanmäla sig från försäljning.
 feature: CCPA
 exl-id: 2c0cd4f5-798f-479a-99cd-f555cd676766
-source-git-commit: e00f87009fb36a057069caa53f30c7414a2ee444
+source-git-commit: adb3118d291d110e653a62cc1a323410b1a596b2
 workflow-type: tm+mt
-source-wordcount: '1035'
+source-wordcount: '1031'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Du kan förmedla önskemål om avanmälan från försäljning till konsumenter g
 
 ### Metod 2: Kommunicera CCPA-förfrågningar om avanmälan vid försäljning med Adobe Experience Platform Privacy Service API
 
-*Annonsörer som endast tilldelats ett Experience Cloud organisation-ID (IMS org-ID)*
+*Annonsörer som tilldelats en Adobe Experience Cloud [!DNL Organization ID] ([!DNL IMS Org ID]) only*
 
 1. Distribuera ett JavaScript-bibliotek för att hämta kundens cookies. Samma bibliotek, `AdobePrivacy.js`, används för alla Adobe Experience Cloud-lösningar.
 
