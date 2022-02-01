@@ -3,9 +3,9 @@ title: Översikt över inventeringsfunktioner i Advertising Cloud DSP
 description: Läs mer om tillgängliga lagerfunktioner.
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
-source-git-commit: 1e2700e99afd05757b8cfb7a8a0fce3d1824507e
+source-git-commit: 877771cbd3a8e0668add8da15bc2abe02ab4380b
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -16,21 +16,13 @@ Advertising Cloud DSP kan stödja era inventeringsbehov, oavsett om ni vill hitt
 
 När ni har tillgång till eller identifierat era lagererbjudanden i DSP kan ni använda dem som placeringsmål för era kampanjer.
 
-## Tillgängliga lagertyper
+Tillgängliga lagertyper är:
 
-### On Demand Inventory
+* **[!DNL On Demand]Lager:** Utforska förförhandlade, icke-garanterade avtal som Adobe har ingått med våra partners för förstklassiga utgivare.
 
-Utforska förförhandlade, icke-garanterade avtal som Adobe har ingått med våra partners för förstklassiga utgivare. Ni kan få tillgång till lagret från de främsta utgivare i regionen utan att behöva förhandla eller teckna kontrakt.
+* **Privat inventering:** Konfigurera och hantera privata marknadsplatserbjudanden som du har förhandlat direkt 1:1 med utgivaren.
 
-### Privat lager
-
-#### Avtals-ID
-
-Konfigurera och hantera privata marknadsplatserbjudanden (PMP), som är avtal som du har förhandlat direkt 1:1 med utgivaren, så att en eller flera annonsörer på ditt konto kan rikta sig till dem. Utför dessa avtal via erbjudande-ID:n. Du kan ställa in PMP som inte är garanterade eller konfigurera avtal-ID:n för programmatiska inköp med utvalda SSP:er.
-
-#### Enkel annonsvisning
-
-[!DNL Simple Ad Serving] har smidig teknik för garanterad, icke-beslutsam leverans och rapportering av annonser. Använd [!DNL Simple Ad Serving] när utgivaren inte kan genomföra ditt avtal via ett erbjudande-ID. All målgruppsanpassning, budgetering och begränsning samt frekvensbegränsning hanteras av utgivaren. Utför dessa erbjudanden via pixlar för händelsespårning.
+* **[!DNL Simple Ad Serving]:** Använd strömlinjeformad teknik för garanterad, icke-beslutad annonsleverans och rapportering när utgivaren inte kan genomföra ditt avtal via ett erbjudande-ID.
 
 >[!MORELIKETHIS]
 >
@@ -38,5 +30,5 @@ Konfigurera och hantera privata marknadsplatserbjudanden (PMP), som är avtal so
 >* [Om Inkorgen för avtal-ID](deal-id-inbox-about.md)
 >* [Om programmatiska erbjudanden](programmatic-guaranteed-about.md)
 >* [SSP-partners](ssp-partners.md)
+>* [Om privat lager](private-inventory-about.md)
 
-<!-- >* [About Private Inventory](private-inventory-about.md) -->
