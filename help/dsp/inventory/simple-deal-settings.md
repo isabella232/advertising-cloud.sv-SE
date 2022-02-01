@@ -2,7 +2,7 @@
 title: '[!UICONTROL Simple Ad Serving] Avtalsinställningar'
 description: Läs mer om de tillgängliga inställningarna för [!UICONTROL Simple Ad Serving] erbjudanden.
 feature: DSP Simple Ad Serving
-source-git-commit: 22f5d8279fadfcf79e2cd41566321f423d63eb16
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '474'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 | Parameter | Beskrivning |
 |-----------|-------------|
 | **[!UICONTROL Serving Type]** | Medietypen för det här erbjudandet: *[!UICONTROL Video],* *[!UICONTROL Display],* eller *[!UICONTROL Audio].* |
-| **[!UICONTROL Publisher Site Served On]** | Namnet på utgivaren som säljer det här lagret. Sök efter en utgivare genom att ange minst de två första tecknen i namnet. Om du vill lägga till en utgivare som inte finns med i listan kontaktar du [!DNL Adobe] kontoansvarig. |
+| **[!UICONTROL Publisher Site Served On]** | Namnet på utgivaren som säljer det här lagret. Sök efter en utgivare genom att ange minst de två första tecknen i namnet. Om du vill lägga till en utgivare som inte finns med i listan kontaktar du [!DNL Adobe] kontoteam. |
 | **[!UICONTROL Advertiser]** | En enskild annonsör på kontot som har åtkomst till erbjudandet. Välj även den kampanj och (valfritt) det paket där erbjudandet är tillgängligt. |
 | **[!UICONTROL Media Quality Assessment?]** | (Vissa användare) Gör att annonsen kan köras på en annan DSP för verifiering från tredje part. <!-- Who can select this? It's disabled for me. Need to see if there are additional fields when this is enabled. --> |
 | **[!UICONTROL Ad Source]** | Det enda alternativet är *[!UICONTROL Site Serve (Event Pixels)]*. |
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 | Parameter | Beskrivning |
 |-----------|-------------|
-| **[!UICONTROL Media CPM]** | Kostnaden per tusen visningar (CPM), vilket framgår av priset för ditt kontrakt. Kontakta [!DNL Adobe] kontohanterare för det här värdet. <br><br>Ange även valutan för erbjudandet. Alla användare kan välja USD eller, om SSP stöder ytterligare valutor, valutan för DSP. |
+| **[!UICONTROL Media CPM]** | Kostnaden per tusen visningar (CPM), vilket framgår av priset för ditt kontrakt. Kontakta [!DNL Adobe] kontoteam för det här värdet. <br><br>Ange även valutan för erbjudandet. Alla användare kan välja USD eller, om SSP stöder ytterligare valutor, valutan för DSP. |
 | **[!UICONTROL Third Party Billed Fees]** | (Valfritt) En statisk tredjepartsavgift som ska spåras som en icke fakturerbar kostnad och valutan för transaktionen.<br><br>Alla användare kan välja USD eller, om SSP stöder ytterligare valutor, valutan för DSP. **OBS!** Faktureringsbara avgifter återspeglas i [!UICONTROL Net CPM] mätvärden. |
 | **[!UICONTROL Third Party Fee Description]** | (Valfritt) En beskrivning av tredjepartsavgifterna. |
 | **[!UICONTROL Flight Dates]** | Start- och slutdatum för trafik som använder det här avtalet. Flygdatum måste inkluderas i kampanjflygdatum. Annonstaggarna returnerar bara ett svar under den angivna flygningen.<br><br> Det bästa sättet att skapa en separat enkel kampanj för annonsvisning med en ettårig varaktighet och att skapa spårningspixlar i den. |

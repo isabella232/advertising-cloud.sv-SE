@@ -3,7 +3,7 @@ title: Om Audience Management i Advertising Cloud DSP
 description: Läs om funktioner för målgruppshantering.
 feature: DSP Audiences, DSP Segments
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1024'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Advertising Cloud DSP kan importera egna datasegment från första part från da
 
 Advertising Cloud DSP kan även importera egna tredjepartssegment, inklusive komplexa kombinationer av tredjepartssegment. Ni kan vid behov tillhandahålla segmenten till valfri uppsättning annonsörer.
 
-Kontakta [!DNL Adobe] kontohanteraren för mer information.
+Kontakta [!DNL Adobe] kontoteam för mer information.
 
 ## Målgrupper som är tillgängliga som placeringsmål
 
@@ -102,11 +102,11 @@ The [!UICONTROL Segments] I visas även följande segmenttyper:
 
 * Alla importerade förstapartssegment som är tillgängliga för användaren.
 
-   Du kan inte redigera eller dela egna segment som delats med dig. Kontakta [!DNL Adobe] kontohanteraren om du behöver dela egna segment med andra användare.
+   Du kan inte redigera eller dela egna segment som delats med dig. Kontakta [!DNL Adobe] kontoteam om ni behöver dela förstahandssegment med andra användare.
 
 * Alla anpassade tredjepartssegment som är tillgängliga för användaren.
 
-   Du kan inte redigera eller dela tredjepartssegment som delats med dig. Kontakta [!DNL Adobe] kontoansvarig om du behöver dela segment från tredje part med andra användare.
+   Du kan inte redigera eller dela tredjepartssegment som delats med dig. Kontakta [!DNL Adobe] kontoteam om ni behöver dela segment från tredje part med andra användare.
 
 >[!MORELIKETHIS]
 >

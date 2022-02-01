@@ -3,7 +3,7 @@ title: Enhetsoberoende lösningar
 description: Läs mer om funktioner för olika enheter.
 feature: DSP Introduction
 exl-id: 29f8ec41-35a6-4a29-a638-82a2929a8fe6
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1110'
 ht-degree: 0%
@@ -85,11 +85,11 @@ Med personbaserad attribuering kan du attribuera konverteringar som ägde rum p�
 
 ### Aktivera personbaserad attribueringsmätning
 
-Om du vill aktivera attribueringsmätning mellan enheter kontaktar du [!DNL Adobe] kontoansvarig. För [!DNL Adobe Device Co-op] måste du ange dina signerade [!DNL Adobe Device Co-op] kontrakt och Experience Cloud [!DNL Organization ID] (kallades tidigare [!DNL IMS org ID]).
+Om du vill aktivera attribueringsmätning mellan enheter kontaktar du [!DNL Adobe] kontoteam. För [!DNL Adobe Device Co-op] måste du ange dina signerade [!DNL Adobe Device Co-op] kontrakt och Experience Cloud [!DNL Organization ID] (kallades tidigare [!DNL IMS org ID]).
 
 Så här ser du om ett annonserarkonto har konfigurerats att använda ett enhetsdiagram för attribueringsmätning:
 
-1. Klicka på **[!UICONTROL Settings]>[!UICONTROL Advertiser]**.
+1. På huvudmenyn klickar du på **[!UICONTROL Settings]>[!UICONTROL Advertiser]**.
 1. Håll markören över annonsörraden och klicka **[!UICONTROL Edit]**.
 1. I [!UICONTROL Integrations] -avsnittet i annonseringsinställningarna, se om [!UICONTROL Cross-Device Attribution] inställningen är aktiv.
 

@@ -3,7 +3,7 @@ title: Placeringsinställningar
 description: Se beskrivningar av tillgängliga placeringsinställningar.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '3280'
 ht-degree: 0%
@@ -76,7 +76,7 @@ Se beskrivningar av alla filter före bud på &quot;[Pre-Bid-filter på placerin
 
 ### Alla andra placeringar
 
-**[!UICONTROL Budget Goal]:** Bruttobudgetens tak och budgetintervallet (*[!UICONTROL All time]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]*).
+**[!UICONTROL Budget Goal]:** Bruttobudgetens övre gräns och budgetintervallet (*[!UICONTROL All time]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]*).
 
 **[!UICONTROL Gross Budget Goal]:** (Placeringar i kampanjer med endast marginalledning) Bruttobudgetens övre gräns och budgetintervallet (*[!UICONTROL All time]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]*).
 
@@ -187,7 +187,7 @@ Så här anger du målinriktning för lager:
 
 >[!TIP]
 >
->Om du prenumererar på [!UICONTROL On Demand] inventera men inte hitta de utgivare eller avtal som ska målgruppsanpassas, och kontrollera sedan status för erbjudandena. Mer information om status finns i [Om [!DNL On Demand] Premiumlager](/help/dsp/inventory/on-demand-inventory-about.md).
+>Om du prenumererar på [!UICONTROL On Demand] inventera men inte hitta de utgivare eller avtal som ska målgruppsanpassas och kontrollera sedan status för erbjudandena. Mer information om status finns i [Om [!DNL On Demand] Premiumlager](/help/dsp/inventory/on-demand-inventory-about.md).
 
 **[!UICONTROL Exclude out-stream]:** (Endast videopappningar) Utesluter trafik utanför strömmen.
 
@@ -281,7 +281,7 @@ Du kan också exportera listan med målwebbplatser och blockerade webbplatser so
 * Om du vill skapa en ny målgrupp klickar du på ![Välj](/help/dsp/assets/chevron-down.png) nästa [!UICONTROL Included Audiences]och sedan markera **[!UICONTROL + Create Audience]**. Instruktioner finns i [Skapa en återanvändbar publik](/help/dsp/audiences/reusable-audience-create.md), med början från steg 3.
 * Om du vill markera specifika målgruppssegment klickar du på **[!UICONTROL Select segments for this placement only]**. Välj segmentlogik, för instruktioner, se steg 6 i &quot;[Skapa en återanvändbar publik](/help/dsp/audiences/reusable-audience-create.md).&quot; När du är klar klickar du på **Spara**.
 
-**[!UICONTROL Excluded Audiences]:** Alla målgrupper som ska uteslutas för placeringen, inklusive målgrupper med [tredjepartssegment, förstapartssegment, Adobe-segment, anpassade segment och sparade målgrupper](/help/dsp/audiences/audience-settings.md). Den totala och aktiva borttagna dubblettstorleken för alla uteslutna målgrupper visas också. Du kan välja en befintlig målgrupp eller skapa en ny som du kan återanvända senare:
+**[!UICONTROL Excluded Audiences]:** Alla målgrupper som ska uteslutas för placeringen, inklusive målgrupper med [tredjepartssegment, förstapartssegment, Adobe-segment, anpassade segment och sparade målgrupper](/help/dsp/audiences/audience-settings.md). Den totala och aktiva borttagna dubblettstorleken för målgrupper visas också för alla uteslutna målgrupper. Du kan välja en befintlig målgrupp eller skapa en ny som du kan återanvända senare:
 
 * Om du vill välja en befintlig målgrupp klickar du på ![Välj](/help/dsp/assets/chevron-down.png) nästa [!UICONTROL Excluded Audiences]och sedan välja målgrupp.
 * Om du vill skapa en ny målgrupp klickar du på ![Välj](/help/dsp/assets/chevron-down.png) nästa [!UICONTROL Excluded Audiences]och sedan markera **+ Skapa publik**. Instruktioner finns i [Skapa en återanvändbar publik](/help/dsp/audiences/reusable-audience-create.md), med början från steg 3.
@@ -304,7 +304,7 @@ Du kan också exportera listan med målwebbplatser och blockerade webbplatser so
    * Om du vill markera ett intervall manuellt klickar du inuti en cell och väljer intervallet genom att dra.
 1. Klicka på **[!UICONTROL Save]**.
 
-**[!UICONTROL Topic Targeting]:** (Valfritt) som är tillgängliga för annonsörer som konfigurerats med [!DNL Comscore] och [!DNL Grapeshot] segment) Specifika segmentnamn eller ID:n från [!DNL Comscore] och [!DNL Grapeshot] som ska inkluderas som mål. Ytterligare avgifter kan tillkomma för den här funktionen. Om du vill aktivera den här funktionen och konfigurera ämnessegment kontaktar du [!DNL Adobe] kontoansvarig.
+**[!UICONTROL Topic Targeting]:** (Valfritt) som är tillgängliga för annonsörer som konfigurerats med [!DNL Comscore] och [!DNL Grapeshot] segment) Specifika segmentnamn eller ID:n från [!DNL Comscore] och [!DNL Grapeshot] som ska inkluderas som mål. Ytterligare avgifter kan tillkomma för den här funktionen. Om du vill aktivera den här funktionen och konfigurera ämnessegment kontaktar du [!DNL Adobe] kontoteam.
 
 Så här anger du målinriktning:
 

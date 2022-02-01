@@ -3,7 +3,7 @@ title: Översikt över [!DNL Analytics for Advertising Cloud]
 description: Översikt över [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 31367c8b-3410-4110-9ae6-11defe625355
-source-git-commit: bfbfc293ad04b294c813ce7c8a11200e70fc812f
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1086'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Fördelar:
 
 Används [!DNL Analytics] som ert betalda medierapporteringsverktyg behöver din organisation logga in på Experience Cloud med tillgång till Analysis Workspace. Advertising Cloud-teamet hjälper dig att kartlägga dina Advertising Cloud-data till enskilda rapporteringsprogram i Analysis Workspace. Du kan skicka Advertising Cloud-data till alla rapporteringsprogram, men du bör vara medveten om vilka rapportsviter som har mappats till Advertising Cloud och vilka som inte har det. Beroende på rapportsviten kan detta ändra rapporterade data.
 
-[Advertising Cloud ID:n i [!DNL Analytics]](ids.md) fungerar som andra eVars-variabler med en anpassad, permanent förfallotid. Som standard är attributsökningsfönstret inställt på 60 dagar under Advertising Cloud-implementeringen. Om du vill ändra den här inställningen arbetar du med [!DNL Adobe] kontoansvarig.
+[Advertising Cloud ID:n i [!DNL Analytics]](ids.md) fungerar som andra eVars-variabler med en anpassad, permanent förfallotid. Som standard är attributsökningsfönstret inställt på 60 dagar under Advertising Cloud-implementeringen. Om du vill ändra den här inställningen arbetar du med [!DNL Adobe] kontoteam.
 
 Advertising Cloud-dimensioner läggs till med suffixet&quot;(AMO ID)&quot; (t.ex.&quot;Ad Type (AMO ID)&quot;). Se &quot;[Advertising Cloud Metrics in Analysis Workspace](advertising-cloud-metrics-in-analytics.md)&quot; för en lista över tillgängliga dimensioner.
 

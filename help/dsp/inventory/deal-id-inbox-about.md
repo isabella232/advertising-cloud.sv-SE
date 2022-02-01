@@ -1,11 +1,11 @@
 ---
 title: Om [!UICONTROL Deal ID Inbox]
-description: Läs mer om [!UICONTROL Deal ID inbox] som gör att du kan acceptera privata avtal som du redan har förhandlat med utgivare om [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (tidigare [!DNL Rubicon]).
+description: Läs mer om [!UICONTROL Deal ID inbox] som gör att du kan acceptera privata avtal som du redan har förhandlat med utgivare om [!DNL FreeWheel], [!DNL Google Authorized Buyers] (tidigare känt som [!DNL AdX]), and [!DNL Magnite DV+] (tidigare [!DNL Rubicon]).
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
-source-git-commit: 2539d9b8ec7de7202dd6c3400dda85aa133853e3
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ You can accept any available deal or move an incorrect deal to the Ignored Deals
 For each deal, you can select one publisher and one media type (Desktop Video, Mobile Video, Connected TV, Display, or Audio), and you can share the deal with specific advertisers and with all advertisers for a specific account.
  -->
 
-DSP uppdaterar automatiskt alla avtalsdetaljer varje dag kl. 04.30 EST. Den uppdaterar även alla [!DNL FreeWheel] Erbjudanden och uppdateringar från befintliga avtal [!DNL Google] och [!DNL Magnite DV+] varje timme. Du kan även uppdatera avtalsinformationen manuellt för att fylla i nya avtal när som helst.
+DSP uppdaterar automatiskt alla avtalsdetaljer varje dag kl. 04.30 EST. Den uppdaterar även alla [!DNL FreeWheel] Erbjudanden och uppdateringar av befintliga avtal från [!DNL Google] och [!DNL Magnite DV+] varje timme. Du kan även uppdatera avtalsinformationen manuellt för att fylla i nya avtal när som helst.
 
 <!-- MC: I'm not sure where I got the following. Is this currently true? -->
 >[!NOTE]
@@ -39,7 +39,7 @@ DSP uppdaterar automatiskt alla avtalsdetaljer varje dag kl. 04.30 EST. Den uppd
 
 ## Implementera [!UICONTROL Deal ID Inbox]
 
-För att få dina erbjudanden i [!UICONTROL Deal ID inbox]måste dina SSP-konton mappa din organisations DSP till ditt SSP-konto. DSP delar organisationens kontonamn med de berörda SSP:erna. Kontakta [!DNL Adobe] kontohanteraren för instruktioner.
+För att få dina erbjudanden i [!UICONTROL Deal ID inbox]måste dina SSP-konton mappa din organisations DSP till ditt SSP-konto. DSP delar organisationens kontonamn med de berörda SSP:erna. Kontakta [!DNL Adobe] kontoteam för instruktioner.
 
 Under avtalsförhandlingar ska du be utgivaren att skicka avtalet till din köpare i stället för till det överordnade DSP kontot. Avtalsidentifieraren kan vara ett namn eller ett ID, beroende på SSP.
 

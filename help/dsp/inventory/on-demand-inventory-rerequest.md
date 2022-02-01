@@ -3,7 +3,7 @@ title: Begäran igen [!DNL On Demand] Premium Inventory Devices
 description: Lär dig hur du begär om [!DNL On Demand] avtal som tidigare nekats.
 feature: DSP On Demand Inventory
 exl-id: db5a5708-16e3-4304-8bd0-f1aa8ecd0e3c
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 0%
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 Du kan begära om [!DNL On Demand] lageraffärer för vilka du nekades, inklusive avtal från en utgivare som du prenumererar på. Följ de här stegen för att kontrollera att alla tillämpliga kontoinställningar är korrekta innan du skickar en ny begäran.
 
-Om ett avtal inte godkänns efter att du begärt det igen kontaktar du [!DNL Adobe] kontoansvarig för att se om utgivaren har ytterligare begränsningar som förhindrar ditt konto från att få åtkomst till avtalet.
+Om ett avtal inte godkänns efter att du begärt det igen kontaktar du [!DNL Adobe] kontoteam för att se om utgivaren har ytterligare begränsningar som förbjuder ditt konto att få tillgång till avtalet.
 
 En gång i tiden är det [godkänd](/help/dsp/inventory/on-demand-inventory-view-status.md), ingår som standard som mål för nya placeringar som har alla [!DNL On Demand] lager. Det nya erbjudandet finns också som mål för befintliga ersättningar, men du måste redigera placeringsinställningarna manuellt för att lägga till erbjudandet som ett mål.
 
-1. Bekräfta med [!DNL Adobe] kontohanteraren som [!UICONTROL Account Type] för din organisations DSP konto är korrekt.
+1. Bekräfta med [!DNL Adobe] det kontoteam som [!UICONTROL Account Type] för din organisations DSP konto är korrekt.
 
 1. Bekräfta att annonserarkategorin för det aktuella annonserarkontot är korrekt:
 
-   1. Klicka på **[!UICONTROL Settings]> [!UICONTROL Advertisers].**
+   1. På huvudmenyn klickar du på **[!UICONTROL Settings]> [!UICONTROL Advertisers].**
 
    1. Håll markören över annonsörraden och klicka **[!UICONTROL Edit]**.
 
@@ -34,7 +34,7 @@ En gång i tiden är det [godkänd](/help/dsp/inventory/on-demand-inventory-view
 
 1. Begär om lagret igen:
 
-   1. Klicka på **[!UICONTROL Inventory]>[!UICONTROL On Demand]**.
+   1. På huvudmenyn klickar du på **[!UICONTROL Inventory]>[!UICONTROL On Demand]**.
 
    1. Filtrera de tillgängliga erbjudandena så att de omfattar de erbjudanden du har begärt (**[!UICONTROL Currently subscribed to]**)**.
 

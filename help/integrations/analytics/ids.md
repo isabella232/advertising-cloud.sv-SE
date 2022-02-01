@@ -3,7 +3,7 @@ title: Advertising Cloud ID:n som används av [!DNL Analytics]
 description: Advertising Cloud ID:n som används av [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: 143e8e756d13597bf923d0b6f5b2510f834e6e0f
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1157'
 ht-degree: 0%
@@ -120,7 +120,7 @@ där:
 * `{ef_userid}` är det unika numeriska användar-ID som Advertising Cloud tilldelar annonsören.
 * `{ef_sid}` är det numeriska ID som Advertising Cloud använder för den angivna sökmotorn, till exempel `3` for [!DNL Google Ads] eller `10` for [!DNL Microsoft Advertising].
 
-Nedan följer de fullständiga AMO ID-formaten för ett par sökmotorer. Om du har AMO ID-format för andra sökmotorer kontaktar du [!DNL Adobe] kontoansvarig.
+Nedan följer de fullständiga AMO ID-formaten för ett par sökmotorer. Om du har AMO ID-format för andra sökmotorer kontaktar du [!DNL Adobe] kontoteam.
 
 AMO ID-format för [!DNL Google Ads]:
 

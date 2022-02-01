@@ -3,7 +3,7 @@ title: Bästa metoder för att konfigurera resultatkampanjer
 description: Lär dig de bästa sätten att skapa prestandainriktade kampanjer, som bland annat innehåller placeringar som är optimerade för det lägsta CPA-värdet eller det högsta ROAS-värdet.
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1232'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Lägre trattpaket innehåller placeringar som riktar sig till användare som red
 
 * Om annonsören är kund hos Adobe Analytics eller Adobe Audience Manager kan ni skapa förstahandssegment (som hemsida, produktsidor eller övergivna varukorgar) och använda dem som placeringsmål i Advertising Cloud.
 
-* Undvik att tilldela en målgruppsinriktad placering för mycket budget. Generellt gäller att du budgeterar 30 USD per 1 000 användare per månad.
+* Undvik att tilldela för mycket budget till en målgruppsanpassad placering. Generellt gäller att du budgeterar 30 USD per 1 000 användare per månad.
 
 ## Steg 3 - Skapa paket
 
@@ -140,7 +140,7 @@ Om du vill maximera skalan använder du [!UICONTROL Public] (Open Exchange) och 
 
 * **[!UICONTROL Device Targeting]**:
    * Inkludera [!UICONTROL Computer], [!UICONTROL Mobile]och [!UICONTROL Tablet].
-   * Rikta inte [!UICONTROL Firefox] och [!UICONTROL Safari] på grund av begränsningar i målinriktning och mätning. Kontakta [!DNL Adobe] kontohanterare för mer information om [!DNL Adobe] stöd för [!DNL Safari ITP].
+   * Rikta inte [!UICONTROL Firefox] och [!UICONTROL Safari] på grund av begränsningar i målinriktning och mätning. Kontakta [!DNL Adobe] kontoteam för mer information om [!DNL Adobe] stöd för [!DNL Safari ITP].
    * Inaktivera alla webbläsare utom [!UICONTROL Chrome] och [!UICONTROL Edge].
 
 ### Varumärkessäkerhet och mediakvalitet

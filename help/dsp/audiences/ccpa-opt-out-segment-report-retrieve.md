@@ -3,7 +3,7 @@ title: Hämta rapporter om konsumentavanmälan
 description: Lär dig hur du hämtar rapporter om ID:n som skickats in för begäran om avanmälan från försäljning.
 feature: CCPA, DSP Segments
 exl-id: 8ada787a-6dcf-455b-88f4-701743e68292
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -16,9 +16,9 @@ Du kan hämta månadsrapporter om ID:n som kunder har skickat in för att avanm�
 
 >[!NOTE]
 >
->Du kan även hämta rapporter om när kunden avanmäler sig från försäljningen med Advertising Cloud [!DNL Trafficking API]. Instruktioner finns i dokumentationen för [!DNL Trafficking API]. Om din organisation inte använder [!DNL Trafficking API] men är intresserad av mer information kan du kontakta [!DNL Adobe] kontoansvarig.
+>Du kan även hämta rapporter om när kunden avanmäler sig från försäljningen med Advertising Cloud [!DNL Trafficking API]. Instruktioner finns i dokumentationen för [!DNL Trafficking API]. Om din organisation inte använder [!DNL Trafficking API] men är intresserad av mer information kan du kontakta [!DNL Adobe] kontoteam.
 
-1. Klicka på **[!UICONTROL Audiences]>[!UICONTROL Segments]**.
+1. På huvudmenyn klickar du på **[!UICONTROL Audiences]>[!UICONTROL Segments]**.
 1. Ovanför segmentlistan klickar du på **[!UICONTROL Access CCPA Reports]**.
 1. Klicka på länken för en eventuell tillgänglig månadsrapport för att hämta en GZIP-fil som du kan extrahera till en tabbseparerad textfil.
 

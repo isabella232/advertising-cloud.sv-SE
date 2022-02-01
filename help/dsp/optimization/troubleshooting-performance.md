@@ -3,7 +3,7 @@ title: Felsökningsprestanda
 description: Se vanliga prestandaproblem och hur du felsöker dem.
 feature: DSP Optimization
 exl-id: adb32257-dede-4623-9840-33221c218443
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '518'
 ht-degree: 0%
@@ -14,10 +14,10 @@ ht-degree: 0%
 
 | Problem | Möjlig orsak | Åtgärder att vidta |
 | --- | --- | --- |
-| Inga utgifter för placering | Monteringen innehåller inte annonser och/eller annonserna är inte aktiva. | Verifiera att alla förväntade annonser är kopplade till placeringen och att de är godkända och aktiva.<br><br>Se även om placeringen innehåller ett anpassat annonseringsschema som kan begränsa flygperioden för varje annons. Om du vill visa annonseringsschemat för en placering från vyn Placeringar klickar du på  **[!UICONTROL ...]>[!UICONTROL Ad schedule]** bredvid placeringsnamnet. |
+| Inga utgifter för placering | Placeringen innehåller inte annonser och/eller annonserna är inte aktiva. | Verifiera att alla förväntade annonser är kopplade till placeringen och att de är godkända och aktiva.<br><br>Se även om placeringen innehåller ett anpassat annonseringsschema som kan begränsa flygperioden för varje annons. Om du vill visa annonseringsschemat för en placering från vyn Placeringar klickar du på  **[!UICONTROL ...]>[!UICONTROL Ad schedule]** bredvid placeringsnamnet. |
 |  | De berörda datumen ligger inte inom de konfigurerade flygdatumen. | Kontrollera att flygdatumen är giltiga på kampanj-, paket- och &#x200B;. |
-|  | Budgetmålet har uppnåtts och/eller är inte tillräckligt högt. | Kontrollera budgetinställningarna på kampanj-, paket- och placeringsnivåer. |
-|  | Kontot har inte tillräckligt med finansiering. | Om du vill se om ditt konto är tillräckligt finansierat går du till **[!UICONTROL Settings]>[!UICONTROL Account]** och se hur mycket [!UICONTROL Usable Funds]. Om du behöver lägga till mer pengar kontaktar du [!DNL Adobe] kontoansvarig. |
+|  | Budgetmålet har uppnåtts och/eller är inte tillräckligt högt. | Kontrollera budgetinställningarna på kampanj-, paket- och placeringsnivå. |
+|  | Kontot har inte tillräckligt med finansiering. | Om du vill se om ditt konto är tillräckligt finansierat går du till **[!UICONTROL Settings]>[!UICONTROL Account]** och se hur mycket [!UICONTROL Usable Funds]. Om du behöver lägga till mer pengar kontaktar du [!DNL Adobe] kontoteam. |
 |  | Det finns inget lager tillgängligt. | Kontrollera om de angivna lagerkällorna ([!UICONTROL Public], [!UICONTROL Private], eller [!UICONTROL On Demand]) är:<ul><li>Konfigurera korrekt.</li><li>Aktiv och skickad genom auktioner.</li><li>Kompatibel med tillämplig annons- och placeringstyp.</li></ul><br>Om alla lagerkällor är giltiga och aktiva, ska du rikta in ytterligare eller alla lagerkällor när det är möjligt. |
 |  | Det finns inga tillgängliga användare. | Kontrollera att de angivna målgruppsmålen innehåller tillräckligt många aktiva användare. Om de inte gör det kan du utöka målgrupperna genom att lägga till fler målgrupper. |
 | Låga utgifter för placering | The [!UICONTROL Non Bids] i placeringsdiagnostikrapporten visas möjliga orsaker till varför placeringen inte lade bud. | [Granska [!UICONTROL Non Bids] rapport](/help/dsp/campaign-management/reports/placement-diagnostics.md) för att förstå varför placeringen inte lade något bud.  <!-- add link/edit text when file available: See the [in-depth guide to possible Non-Bid Reasons (NBR)](link) for more information. --> |

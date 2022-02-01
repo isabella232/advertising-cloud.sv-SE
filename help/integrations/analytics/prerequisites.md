@@ -3,7 +3,7 @@ title: Krav och viktig information för implementering [!DNL Analytics for Adver
 description: Krav och viktig information för implementering [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
-source-git-commit: d4d743ade0e2dad2b967b8316ff2261d0a82d5b0
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '845'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Du hittar båda dessa ID:n på [Sammanfattningsskärmen i Adobe Experience Cloud
 
 ## [!DNL Analytics] Data i Advertising Cloud {#lookback-a4adc}
 
-För [!DNL Analytics] data skickas till Advertising Cloud för rapportering och optimering. Dessa data omfattas av attribueringsreglerna, inklusive vilka fönster som ska visas och klickas, som är konfigurerade för annonsören i Advertising Cloud.
+För [!DNL Analytics] data skickas till Advertising Cloud för rapportering och optimering. Dessa data omfattas av attribueringsreglerna, inklusive fönster för att visa och klicka, som är konfigurerade för annonsören i Advertising Cloud.
 
 ![inställningar för visningsfönster på annonsnivå i Advertising Cloud](/help/integrations/assets/a4adc-lookbacks.png)
 
@@ -61,7 +61,7 @@ The [!DNL Analytics for Advertising Cloud] JavaScript använder dessa inställni
 
 ## Advertising Cloud Data in [!DNL Analytics]
 
-[!DNL Analytics] ställer in Advertising Cloud ID:n (AMO ID:n) i Analytics-träffen, enligt annonsörens inställning för beständighet i eVar, som gäller både klickningar och genomvisningar. Den beständiga inställningen är konfigurerad på Advertising Cloud baksida och din [!DNL Adobe] kontohanteraren kan ändra det.
+[!DNL Analytics] ställer in Advertising Cloud ID:n (AMO ID:n) i Analytics-träffen, enligt annonsörens inställning för beständighet i eVar, som gäller både klickningar och genomvisningar. Den beständiga inställningen är konfigurerad på Advertising Cloud baksida och din [!DNL Adobe] kontoteamet kan ändra det.
 
 * [!DNL Analytics for Advertising Cloud] eVar förfallodatum: 60 dagar som standard för AMO ID:n
 
@@ -77,7 +77,7 @@ The [!DNL Analytics for Advertising Cloud] JavaScript använder dessa inställni
 * Onlinevideo
 * Inbyggt
 
-Kontakta [!DNL Adobe] kontohanterare för de senaste annonsmiljöerna som stöds i varje kanal.
+Kontakta [!DNL Adobe] kontoteam för de senaste annonsmiljöerna som stöds i varje kanal.
 
 ## Saker att känna till innan du implementerar
 
@@ -89,7 +89,7 @@ Kontakta [!DNL Adobe] kontohanterare för de senaste annonsmiljöerna som stöds
 
 * Integreringen godkänns endast [!DNL Analytics] standardhändelser och anpassade händelser till Advertising Cloud för att optimera köp av betalmedia och annonsinsatser. Det går inte [!DNL Analytics] segment, beräknade värden och eVars till Advertising Cloud för optimering av anbud.
 
-* Advertising Cloud skapar beständiga ID:n i [!DNL Analytics] baserat på den senaste annonsen som klickades eller visades innan användaren kom in på webbplatsen, baserat på [klicka och visa sökningsfönster](#lookback-a4adc) konfigurerat i Advertising Cloud. Om en besökare skulle ha båda typerna av webbplatspostinteraktioner i sin profil, och klickningen ligger inom uppslagsperioden, skulle besökarens klicknings-ID åsidosätta det genomsöknings-ID som används för platsrapportering.
+* Advertising Cloud skapar beständiga ID:n i [!DNL Analytics] baserat på den senaste annonsen som klickades eller visades innan användaren kom in på webbplatsen, baserat på [klicka och visa sökningsfönster](#lookback-a4adc) som konfigurerats i Advertising Cloud. Om en besökare skulle ha båda typerna av webbplatspostinteraktioner i sin profil, och klickningen ligger inom uppslagsperioden, skulle besökarens klicknings-ID åsidosätta det genomsöknings-ID som används för platsrapportering.
 
 * [!DNL Analytics for Advertising Cloud] Vid konverteringsspårning i Adobe Analytics används ett konfigurerbart uppföljningsfönster (60 dagar som standard). Advertising Cloud rapporter återspeglar webbplatskonverteringar och engagemang i slutet av detta uppföljningsfönster.
 

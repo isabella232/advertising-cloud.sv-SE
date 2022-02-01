@@ -3,7 +3,7 @@ title: Visa din [!DNL On Demand] Avtalsförfrågningar och prenumerationer
 description: Lär dig hur du ser statusen för [!DNL On Demand] beställningar och prenumerationer.
 feature: DSP On Demand Inventory
 exl-id: 8dd6d922-c4a3-4ddb-bca9-f6f782da1320
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 När du har beställt ett enskilt avtal eller en prenumeration på alla utgivarerbjudanden, se om utgivaren har godkänt eller avvisat varje erbjudande för varje annonsör på ditt konto.
 
-1. Klicka på **[!UICONTROL Inventory]>[!UICONTROL On Demand]**.
+1. På huvudmenyn klickar du på **[!UICONTROL Inventory]>[!UICONTROL On Demand]**.
 1. Filtrera de tillgängliga erbjudandena så att de omfattar erbjudanden som du har begärt eller prenumererat på (**[!UICONTROL Currently subscribed to]**)**.
 1. Gör något av följande:
    * Så här ser du erbjudandena i [!UICONTROL Deal] visa, klicka **[!UICONTROL Deal view]**.
@@ -37,7 +37,7 @@ Godkännande eller nekande av utgivare kan baseras på kontotypen och kampanjkat
 
    Om du vill se varför en begäran nekades för varje annonsörer klickar du på ![nekad](/help/dsp/assets/denied.png). Om orsaken till nekandet är något som kan lösas kan du [begär om erbjudandet](/help/dsp/inventory/on-demand-inventory-rerequest.md).
 
-Om du har frågor om godkännandeprocessen kan du kontakta [!DNL Adobe] kontoansvarig.
+Om du har frågor om godkännandeprocessen kan du kontakta [!DNL Adobe] kontoteam.
 
 >[!MORELIKETHIS]
 >
