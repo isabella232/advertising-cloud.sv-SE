@@ -2,7 +2,8 @@
 title: Redigera annonsörer med åtkomst till ett avtal-ID
 description: Lär dig hur du anger vilka annonsörer som kan få tillgång till ett erbjudande-ID.
 feature: DSP Private Inventory, DSP Deal IDs
-source-git-commit: 22f5d8279fadfcf79e2cd41566321f423d63eb16
+exl-id: 6efbc5dc-90d8-46a5-88fe-218990c6336d
+source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -27,5 +28,4 @@ ht-degree: 0%
 >* [Om privat lager](private-inventory-about.md)
 >* [Redigera konton med åtkomst till ett avtal-ID](/help/dsp/inventory/deal-id-share.md)
 >* [Manuella inställningar för avtal-ID](deal-id-settings.md)
-
 

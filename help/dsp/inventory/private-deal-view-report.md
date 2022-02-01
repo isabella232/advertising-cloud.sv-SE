@@ -2,7 +2,8 @@
 title: Visa en detaljerad rapport om ett privat avtal
 description: Lär dig hur du öppnar en rapport på avtalsnivå.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
-source-git-commit: 22f5d8279fadfcf79e2cd41566321f423d63eb16
+exl-id: 80ed239f-16c9-4aba-b1d2-2471133c676b
+source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%

@@ -2,7 +2,8 @@
 title: Arkivera eller arkivera ett privat avtal
 description: Lär dig arkivera eller arkivera ett privat avtal.
 feature: DSP Private Inventory, DSP Deal IDs
-source-git-commit: fe96cff76755c6eaf3f7fe1ddd784271b6fa7721
+exl-id: 6ecf90b6-a52f-42f3-aa3f-b2c489ea0aa8
+source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
