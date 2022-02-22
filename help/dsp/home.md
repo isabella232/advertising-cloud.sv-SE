@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: b4d8b30ca4563b3b0d2ea1b03b8ef5f2810964a2
+source-git-commit: 3a4f9bf2d2889acde67a10ab0b5895a2c1024b56
 workflow-type: tm+mt
-source-wordcount: '1474'
+source-wordcount: '1481'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Följande funktioner är nya eller nyligen ändrade.
 
 | Datum | Funktion | Beskrivning | Mer information |
 | ---- | ------- | ----------- | -------------------- |
-| 17 februari 2022 | Videosjälvstudiekurser | Det finns en ny video om hur du skapar en standardbildskärmsplacering. | Se [Advertising Cloud Tutorials](https://video.tv.adobe.com/v/340454). |
+| 17 februari 2022 | Videosjälvstudiekurser | Det finns en ny video om hur du skapar en standardbildskärmsplacering. | Se [Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html). |
 | 31 januari 2022 | Hjälp | Ytterligare information om [!DNL Deal IDs] och [!DNL Simple Ad Serving] är nu tillgängligt. | Se underkapitlet Inventory > Private Inventory. |
 | 10 december 2021 | Videosjälvstudiekurser | Nya videokurser finns: &quot;Introduktion till Advertising Cloud DSP&quot;,&quot;Kontostruktur och användargränssnitt&quot;,&quot;Så här skapar du ett paket&quot;,&quot;Så här överför du tredjepartstaggar för annonsering&quot; och&quot;Så här redigerar du placeringar med gruppredigeringsverktyg&quot;. | Se &quot;[Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html).&quot; |
 | 12 november 2021 | [!UICONTROL Deal IDs] | I [!UICONTROL Deal ID] inställningar, &quot;[!DNL Rubicon]&quot; ändrades till &quot;[!DNL Magnite DV+],&quot; där [!DNL DV+] används för visning, video och andra format som ljud. Detta återspeglar det nya varumärket för [!DNL Magnite] SSP. **Obs!** [!DNL Magnite DV+] finns fortfarande med som &quot;[!DNL Rubicon]&quot; i [!UICONTROL Deal ID Inbox]. | Se &quot;[SSP-partners](/help/dsp/inventory/ssp-partners.md).&quot; |
