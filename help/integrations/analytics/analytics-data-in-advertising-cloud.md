@@ -1,9 +1,9 @@
 ---
-title: '[!DNL Analytics] Data i Advertising Cloud'
-description: '[!DNL Analytics] Data i Advertising Cloud'
+title: '"[!DNL Analytics] Data i Advertising Cloud"'
+description: '"[!DNL Analytics] Data i Advertising Cloud"'
 feature: Integration with Adobe Analytics
 exl-id: 79fbc809-9965-41c1-971f-3652cc78fee3
-source-git-commit: 185fc7d79798a0a3a9ad5829b701aeb53a4a47c1
+source-git-commit: 2c94b6c02b4e24878639dd9edbc0455e1751f679
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## Analyssegment
 
-Alla segment som skapats i [!DNL Analytics] och publicerats i Experience Cloud.
+Alla segment skapade i [!DNL Analytics] och publiceras i Experience Cloud.
 
 Det tar 24-48 timmar innan nya segment visas i Advertising Cloud. Uppdateringar av befintliga segment synkroniseras inom cirka åtta timmar.
 
@@ -36,7 +36,7 @@ Det tar 24-48 timmar innan nya segment visas i Advertising Cloud. Uppdateringar 
 * [!UICONTROL Pageviews_total]: Det totala antalet sidvisningar på webbplatsen för alla besök i klickfönstret.
 * [[!UICONTROL Bounces] mått](https://experienceleague.adobe.com/docs/analytics/components/metrics/bounces.html)
 * [[!UICONTROL Visits] mått](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html)
-* [!UICONTROL ef_id_instances]: Antalet gånger som  [!DNL Analytics] samlade in en  [!UICONTROL EF ID].
+* [!UICONTROL ef_id_instances]: Antal gånger som [!DNL Analytics] insamlat [!UICONTROL EF ID].
 
 ## Konverteringsmått
 
