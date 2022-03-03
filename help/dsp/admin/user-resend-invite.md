@@ -1,22 +1,23 @@
 ---
-title: Skicka om en väntande användarinbjudan för ditt organisationskonto
+title: Skicka om en väntande användarinbjudan
 description: Lär dig skicka om en väntande användarinbjudan.
-source-git-commit: 24b14e53322ec2d750319b3929513dc82866a2f0
+source-git-commit: e3d4c2010255ccf821f3a1ae5278bb3414b8783e
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# Skicka om en väntande användarinbjudan för ditt organisationskonto
+# Skicka om en väntande användarinbjudan
 
 *Endast administratörsanvändare*
 
-Du kan skicka om en inbjudan till användaren med en väntande inbjudan till organisationskontot.
+Du kan skicka om en inbjudan till en användare med en väntande inbjudan för organisationskontot.
 
 1. Gör något av följande:
 
    * På huvudmenyn klickar du på **[!UICONTROL Settings]>[!UICONTROL Users]**.
+
    * På huvudmenyn klickar du på **[!UICONTROL Settings]>[!UICONTROL Account]** och klicka sedan på **[!UICONTROL Edit users]**.
 
 1. I **Inbjudningar** avsnitt, klicka ![Skicka igen](/help/dsp/assets/resend.png).

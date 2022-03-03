@@ -1,7 +1,7 @@
 ---
 title: Avbjuda en väntande användare
 description: Lär dig hur du återkallar en väntande användarinbjudan.
-source-git-commit: 93006a63b5d0298d9bd866c2ffd79da67ef11811
+source-git-commit: baa351de79532352f28d2dc5691c2e425a8e3207
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
@@ -17,6 +17,7 @@ Du kan avbjuda en användare med en väntande inbjudan. Om du avbjuder en använ
 1. Gör något av följande:
 
    * På huvudmenyn klickar du på **[!UICONTROL Settings]>[!UICONTROL Users]**.
+
    * På huvudmenyn klickar du på **[!UICONTROL Settings]>[!UICONTROL Account]** och klicka sedan på **[!UICONTROL Edit users]**.
 
 1. I **[!UICONTROL Invitations]** avsnitt, klicka **[!UICONTROL X]** bredvid inbjudan.
