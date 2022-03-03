@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Lär dig mer om de viktigaste funktionerna, arbetsuppgifterna, inställningarna och andra resurser som krävs för att hantera, optimera och rapportera om era strategier för displayannonsering med Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: c44113736f472c4971729403835a61ed6e07b47f
+source-git-commit: 18ae0e34f518e58f045c123cfe75f65b12b46fb7
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '864'
 ht-degree: 0%
 
 ---
@@ -197,8 +197,14 @@ ht-degree: 0%
       + [Ta bort en [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
       + [[!UICONTROL Report Destination] Inställningar](/help/dsp/reports/report-destinations/report-destination-settings.md)
 + Administration {#admin}
-   + [Om blockerade webbplatser på kontonivå och annonsnivå](/help/dsp/admin/blocked-sites-list-about.md)
-   + [Redigera en blockerad webbplatslista på kontonivå eller annonsnivå](/help/dsp/admin/blocked-sites-list-edit.md)
+   + [Redigera din profil](/help/dsp/admin/user-own-profile-edit.md)
+   + Användare {#users}
+      + [Bjud in en ny användare](/help/dsp/admin/user-invite.md)
+      + [Skicka om en väntande användarinbjudan](/help/dsp/admin/user-resend-invite.md)
+      + [Avbjuda en väntande användare](/help/dsp/admin/user-uninvite.md)
+   + Blockerade platser {#sites}
+      + [Om blockerade webbplatser på kontonivå och annonsnivå](/help/dsp/admin/blocked-sites-list-about.md)
+      + [Redigera en blockerad webbplatslista på kontonivå eller annonsnivå](/help/dsp/admin/blocked-sites-list-edit.md)
 + [Integrering med Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
 + [Kundsupport](https://helpx.adobe.com/se/contact/enterprise-support.ec.html)
 + [Versionsinformation för Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
