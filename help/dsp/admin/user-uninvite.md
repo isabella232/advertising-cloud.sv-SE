@@ -1,9 +1,9 @@
 ---
 title: Avbjuda en väntande användare
 description: Lär dig hur du återkallar en väntande användarinbjudan.
-source-git-commit: baa351de79532352f28d2dc5691c2e425a8e3207
+source-git-commit: 315fd6189e1805f9f1f4184cc0aa47d12740616a
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Du kan avbjuda en användare med en väntande inbjudan. Om du avbjuder en använ
 >[!MORELIKETHIS]
 >
 >* [Bjud in en ny användare till ditt organisationskonto](user-invite.md)
->* [Skicka om en väntande användarinbjudan för ditt organisationskonto](user-resend-invite.md)
+>* [Skicka om en väntande användarinbjudan](user-resend-invite.md)
 
 
 <!-- >* [Edit User Permissions or Delete a User](user-edit.md) -->

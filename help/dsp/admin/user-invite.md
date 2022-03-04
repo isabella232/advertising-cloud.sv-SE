@@ -1,9 +1,9 @@
 ---
 title: Bjud in en ny användare till ditt organisationskonto
 description: Lär dig hur du bjuder in en ny användare att gå med i kontot.
-source-git-commit: 65d5b9275b24d66972f464a07d6e1a751721ada2
+source-git-commit: cd1ded08b07735cb3e156ec401e3ea1a920183d3
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Om det behövs kan du avbryta inbjudan till en användare med en väntande inbju
 
 >[!MORELIKETHIS]
 >
->* [Skicka om en väntande användarinbjudan för ditt organisationskonto](user-resend-invite.md)
+>* [Skicka om en väntande användarinbjudan](user-resend-invite.md)
 >* [Avbjuda en väntande användare](user-uninvite.md)
 
 
