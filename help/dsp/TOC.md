@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Lär dig mer om de viktigaste funktionerna, arbetsuppgifterna, inställningarna och andra resurser som krävs för att hantera, optimera och rapportera om era strategier för displayannonsering med Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: 18ae0e34f518e58f045c123cfe75f65b12b46fb7
+source-git-commit: d4537714e884eb1ce1b62d4097b7ad6f30767edf
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '871'
 ht-degree: 0%
 
 ---
@@ -38,9 +38,9 @@ ht-degree: 0%
       + [[!DNL DSP] Riktlinjer för dataanvändning](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
    + [Avancerade mätningslösningar](/help/dsp/introduction/advanced-measurement-services.md)
 + Kampanjhantering {#campaign-management}
-   + [Översikt över Campaign Management-strukturen](/help/dsp/campaign-management/campaign-management-overview.md)
+   + [Översikt över Campaign Management Structure](/help/dsp/campaign-management/campaign-management-overview.md)
    + Kampanjer {#campaigns}
-      + [Om kampanjhantering](/help/dsp/campaign-management/campaigns/campaign-about.md)
+      + [Om Campaign Management](/help/dsp/campaign-management/campaigns/campaign-about.md)
       + [Skapa en kampanj](/help/dsp/campaign-management/campaigns/campaign-create.md)
       + [Redigera en kampanj](/help/dsp/campaign-management/campaigns/campaign-edit.md)
       + [Duplicera en kampanj](/help/dsp/campaign-management/campaigns/campaign-duplicate.md)
@@ -77,7 +77,7 @@ ht-degree: 0%
             + [Ljudannonsinställningar](/help/dsp/campaign-management/ads/ad-settings-audio.md)
             + [Inställningar för ansluten TV](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
             + [Visa annonsinställningar](/help/dsp/campaign-management/ads/ad-settings-display.md)
-            + [Inställningar för mobilannonsering](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+            + [Mobile Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
             + [Inbyggda annonsinställningar](/help/dsp/campaign-management/ads/ad-settings-native.md)
             + [Inställningar för annonsering före registrering](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
          + [De bästa sätten att utforma övertäckningar](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
@@ -94,7 +94,7 @@ ht-degree: 0%
       + [Specifikationer för annonstyper som stöds](/help/dsp/assets/ad-specs.pdf)
    + Kampanjrapporter {#campaign-reports}
       + [Om rapporter på plattformen](/help/dsp/campaign-management/reports/campaign-reports-about.md)
-      + [Exportera data från en kampanjhanteringsvy](/help/dsp/campaign-management/reports/campaign-export-data.md)
+      + [Exportera data från en Campaign Management-vy](/help/dsp/campaign-management/reports/campaign-export-data.md)
       + [Visa Sites, Ads och Frequency Details för en placering](/help/dsp/campaign-management/reports/placement-details-view.md)
       + [Visa diagnostikrapporter för placering](/help/dsp/campaign-management/reports/placement-diagnostics.md)
       + Hantera datavyer {#data-views}
@@ -205,6 +205,9 @@ ht-degree: 0%
    + Blockerade platser {#sites}
       + [Om blockerade webbplatser på kontonivå och annonsnivå](/help/dsp/admin/blocked-sites-list-about.md)
       + [Redigera en blockerad webbplatslista på kontonivå eller annonsnivå](/help/dsp/admin/blocked-sites-list-edit.md)
+   + Meddelanden {#notifications}
+      + [Om aviseringsprenumerationer](/help/dsp/admin/alerts-about.md)
+      + [Hantera aviseringsprenumerationer](/help/dsp/admin/alerts-manage.md)
 + [Integrering med Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
 + [Kundsupport](https://helpx.adobe.com/se/contact/enterprise-support.ec.html)
 + [Versionsinformation för Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)

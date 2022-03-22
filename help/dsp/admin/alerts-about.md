@@ -1,7 +1,7 @@
 ---
 title: Om aviseringsprenumerationer
 description: Läs mer om automatiska e-postaviseringar.
-source-git-commit: 4bc23fb0028af4d0bfff0686ab97964873ce6a54
+source-git-commit: de1ad6e1cfeefc4ac1e8264c3063b550b6548446
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 Du kan skapa grupper med automatiska e-postvarningar, så kallade prenumerationer, som skickar e-postmeddelanden när angivna parametrar för konto, kampanj och privat lagerhantering uppfylls.
 
-Du kan till exempel få en varning när en kampanj har spenderat en viss del av budgeten. Du kan också få en varning när ett privat lageravtal har haft mindre än en angiven vinstfrekvens de senaste N dagarna.
+Du kan till exempel få en varning när en kampanj har spenderat en viss del av budgeten. Du kan också få en varning när ett privat lageravtal har fått mindre än en angiven vinstfrekvens under de senaste N dagarna.
 
 Du kan lägga till eller ta bort aviseringar från en prenumeration, redigera de användare som får e-postaviseringar för en prenumeration, inaktivera och återaktivera aviseringsprenumerationer och ta bort aviseringsprenumerationer.
 
