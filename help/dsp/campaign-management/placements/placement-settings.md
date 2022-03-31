@@ -3,9 +3,9 @@ title: Placeringsinställningar
 description: Se beskrivningar av tillgängliga placeringsinställningar.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: c2fbaf3381ca4380c18d55931e9f4f662da892af
 workflow-type: tm+mt
-source-wordcount: '3280'
+source-wordcount: '3278'
 ht-degree: 0%
 
 ---
@@ -411,7 +411,7 @@ Vilken nivå av [Ads.txt](https://iabtechlab.com/ads-txt-about/) förfiltrera ge
    * Så här skapar du en ny pixel:
       1. Klicka på **[!UICONTROL Create]**.
       1. Ange följande information:
-         * **[!UICONTROL Pixel name]:** Pixelnamnet; får innehålla högst 500 tecken. Använd ett namn som gör det lättare att identifiera pixeln.
+         * **[!UICONTROL Pixel name]:** Pixelnamnet; får innehålla högst 500 tecken. Använd ett namn som gör det enkelt att identifiera pixeln.
          * **[!UICONTROL Pixel event fires on]:** Den händelse som utlöser pixeln som utlöses. Vilka händelser som är tillgängliga varierar beroende på annonstyp.
          * **[!UICONTROL Pixel type]:** Om pixeln är en *[!UICONTROL IMG URL]* (1 × 1 pixelbildfil), *[!UICONTROL HTML]*, eller *[!UICONTROL JavaScript URL]*.
          * **[!UICONTROL Pixel URL]:** Pixelbildens URL.
@@ -426,7 +426,7 @@ Vilken nivå av [Ads.txt](https://iabtechlab.com/ads-txt-about/) förfiltrera ge
    * Så här skapar du en ny pixel:
       1. Klicka på **[!UICONTROL Create]**.
       1. Ange följande information:
-         * **[!UICONTROL Conversion pixel name]:** Pixelnamnet; får innehålla högst 500 tecken. Använd ett namn som gör det lättare att identifiera pixeln.
+         * **[!UICONTROL Conversion pixel name]:** Pixelnamnet; får innehålla högst 500 tecken. Använd ett namn som gör det enkelt att identifiera pixeln.
          * **[!UICONTROL Conversion category]:** Typ av konvertering.
          * **[!UICONTROL Impression conversion window]:** Det antal dagar efter det att ett annonsintryck inträffar där intrycket kan tillskrivas en konvertering. Standardvärdet är 30 dagar.
          * **[!UICONTROL Click conversion window]:** Det antal dagar efter att ett annonsklick inträffar där klickningen kan kopplas till en konvertering. Standardvärdet är 30 dagar.
