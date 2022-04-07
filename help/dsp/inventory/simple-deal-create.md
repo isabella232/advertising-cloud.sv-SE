@@ -3,9 +3,9 @@ title: '"Skapa en [!UICONTROL Simple Ad Serving] Erbjudande"'
 description: '"Lär dig hur du skapar en spårningspixel för en [!UICONTROL Simple Ad Serving] affär."'
 feature: DSP Simple Ad Serving
 exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
-source-git-commit: 05578e9252f0eec6dd4e003d317742007edb3351
+source-git-commit: 3eb63e9d7161c354736ce53ee21518882c541884
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
          * För befintliga annonser väljer du de annonser som ska användas.
 
-         * Skapa en proxy för nya annonser [förstahandsannons](/help/dsp/campaign-management/ads/ad-create.md) eller [annons från tredje part](/help/dsp/campaign-management/ads/ad-create-third-party.md).
+         * Skapa en proxy för nya annonser [annons från tredje part](/help/dsp/campaign-management/ads/ad-create-multiple.md).
       >[!NOTE]
       > DSP kommer faktiskt inte att leverera de annonser du anger. Utgivaren kommer att tjäna annonsen.
 

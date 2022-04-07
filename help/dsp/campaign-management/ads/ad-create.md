@@ -1,50 +1,44 @@
 ---
 title: Skapa en annons
-description: Lär dig hur du skapar en annons.
+description: Lär dig hur du skapar en annons från tredje part.
 feature: DSP Ads
 exl-id: d93c6a66-a5cb-4117-97e8-424422200fce
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 63c8b750c9d5e6816da29fe15416d43d6b3e3726
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Skapa en annons
 
-Du kan skapa en annons från första eller tredje part.
+Du kan skapa en intern displayannons eller en annons från tredje part i olika [annonstyper](ad-about.md#ad-types).
 
-Mer information om hur du skapar flera tredjepartsannonser samtidigt finns i [Skapa flera tredjepartsannonser](ad-create-third-party.md).
+Information om hur du skapar flera tredjepartsannonser samtidigt finns i [Skapa flera tredjepartsannonser](ad-create-multiple.md).
 
 >[!NOTE]
 >
 >Alla inställningar sparas automatiskt, även innan du skickar in annonsen för granskning.
 
-1. Klicka på **[!UICONTROL Campaigns]** på huvudmenyn.
+1. På huvudmenyn klickar du på **[!UICONTROL Campaigns]**.
 
 1. Klicka på namnet på kampanjen där annonsen ska inkluderas.
 
-1. Ovanför datatabellen klickar du på **[!UICONTROL Create]**. Klicka på annonstypen [](ad-types.md) i [!UICONTROL Ad Types]-avsnittet på menyn.
+1. Ovanför datatabellen klickar du på **[!UICONTROL Create]**. I [!UICONTROL Ad Types] väljer du [annonstyp](ad-about.md#ad-types).
 
-1. Ange annonsinställningarna för [ljudannonser](ad-settings-audio.md), [ansluten TV](ad-settings-connected-tv.md), [visningsannonser](ad-settings-display.md), [mobilannonser](ad-settings-mobile.md), [inbyggda annonser](ad-settings-native.md) eller [pre-roll-annonser](ad-settings-pre-roll.md):
+1. Ange annonsinställningar för [ljudannonser](ad-settings-audio.md), [ansluten TV](ad-settings-connected-tv.md), [displayannonser](ad-settings-display.md), [mobilannonser](ad-settings-mobile.md), [inbyggda annonser](ad-settings-native.md), eller [pre-roll ads](ad-settings-pre-roll.md):
 
-   1. (Endast video- och ljudannonser) På [!UICONTROL Upload or Select Creative]-skärmen överför du en raw-kreativ resurs direkt till DSP, väljer en befintlig kreativ resurs eller överför en spårningstagg från en certifierad tredjepartsannonsleverantör.
+   1. På [!UICONTROL Insert Ad Tag] på skärmen anger du information om annonsen från en certifierad tredjepartsleverantör och klickar sedan på **[!UICONTROL Go]**.
 
-   1. På skärmen [!UICONTROL Options]:
+   1. På [!UICONTROL Options] skärm:
 
-      1. Ange annonsinformationen på fliken [!UICONTROL Basics].
+      1. På [!UICONTROL Basics] anger du annonsinformationen.
 
-      1. (Vissa typer av videoreklam med DSP-stöd; (valfritt) På fliken [!UICONTROL Teasers] anger du en teaserbild eller videomaterial för annonsen.
-
-      1. (DSP videoannonser och ljudannonser på förhand, (valfritt) På fliken [!UICONTROL Companion Banners] anger du upp till tre tillhörande banderollresurser för annonsen.
-
-      1. (Vissa DSP mobilannonser och videoannonser före rullning; (valfritt) På fliken [!UICONTROL Overlays] anger du övertäckningsresurser för annonsen.
-
-      1. (Valfritt) På fliken [!UICONTROL Pixel] anger du eventuella spårningspixlar från tredje part som du vill koppla till annonsen.
+      1. (Valfritt) På [!UICONTROL Pixel] anger du eventuella pixlar för spårning från tredje part som du vill bifoga till annonsen.
 
 1. När annonsen är klar klickar du på **[!UICONTROL Save & Submit for Review]**.
 
-   [Reklamgranskningen](ad-about.md) tar 24-48 timmar och innehåller kontroller för känsliga kategorier, klicka på URL-funktioner och förhandsgranska återgivning. Statuskolumnen anger om DSP har godkänt annonsen. Brutna annonser kan ha en väntande status i mer än 24-48 timmar, så du har tid att åtgärda fel innan de avvisas.
+   The [granskning av annonser](ad-about.md) tar 24-48 timmar och innehåller kontroller för känsliga kategorier, klicka på URL-funktioner och förhandsgranska återgivning. Statuskolumnen anger om DSP har godkänt annonsen. Brutna annonser kan ha en väntande status i mer än 24-48 timmar, så du har tid att åtgärda fel innan de avvisas.
 
    >[!NOTE]
    >
@@ -53,8 +47,7 @@ Mer information om hur du skapar flera tredjepartsannonser samtidigt finns i [Sk
 >[!MORELIKETHIS]
 >
 >* [Om annonshantering](ad-about.md)
->* [Skapa flera tredjepartsannonser](ad-create-third-party.md)
+>* [Skapa flera tredjepartsannonser](ad-create-multiple.md)
 >* [Redigera en annons](ad-edit.md)
->* [Tillgängliga annonstyper](ad-types.md)
 >* [Annonsspecifikationer](/help/dsp/assets/ad-specs.pdf)
 

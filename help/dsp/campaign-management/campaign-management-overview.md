@@ -1,16 +1,16 @@
 ---
-title: Översikt över kampanjhantering i Advertising Cloud DSP
+title: Översikt över Campaign Management i Advertising Cloud DSP
 description: Lär dig mer om kampanjhanteringshierarkin och komponenter.
 feature: DSP Packages, DSP Placements, DSP Ads
 exl-id: c94e08d0-0dd5-4cf9-8df2-9eb4c591375c
-source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
+source-git-commit: d180b91f7bf5ae72a51e5335638a98c5fc4b4e86
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
-# Översikt över kampanjhantering i Advertising Cloud DSP
+# Översikt över Campaign Management i Advertising Cloud DSP
 
 Advertising Cloud DSP-kampanjer har följande hierarki:
 
@@ -18,9 +18,7 @@ Advertising Cloud DSP-kampanjer har följande hierarki:
    * Paket
       * Placering(ar)
          * Annonser
-            * Kreativa
 
-<!-- Add "Feature: DSP Creatives" once we have other topics on creatives; get Bob to update the feature list. -->
 <!-- Do clients think in terms of insertion orders? If yes, then work in the following info.:
 In Advertising Cloud DSP, an insertion order is represented as a campaign, and line items are represented as packages. Each package will include placements, which can use different strategies and tactics to deliver the line item requirements.
 -->
@@ -43,22 +41,15 @@ A [placering](/help/dsp/campaign-management/placements/placement-about.md) lagra
 
 ## [!UICONTROL Ads]
 
-[Annonser](/help/dsp/campaign-management/ads/ad-about.md) innehåller kreativa resurser och spårnings-URL:er. Du kan antingen överföra ditt kreativa material och DSP skicka annonser som använder dem kostnadsfritt, eller så kan du överföra annonsserverkod från tredje part.
+[Annonser](/help/dsp/campaign-management/ads/ad-about.md) innehåller kreativa resurser och spårnings-URL:er. Du kan överföra tredjepartsannonser som servar taggar individuellt eller gruppvis med hjälp av partnertaggmallar eller bulktaggmallen. Du kan också skapa inbyggda displayannonser manuellt för DSP.
 
 När ni väl har ställt in era annonser måste ni bifoga varje annons på en plats. Du kan bifoga en annons till en eller flera ersättningar.
 
-Alla aktiva, godkända annonser i en aktiv placering i en aktiv kampanj kan köras baserat på parametrarna för riktade placeringar.
-
-## [!UICONTROL Creatives]
-
-Du kan överföra ljud- och videofiler som ska användas i annonser för angivna kampanjer.
-<!-- add link to [About Creative Management](/help/dsp/campaign-management/creatives/creative-about.md) when it's available-->
-
-Du kan omedelbart skapa en annons med den överförda kreativa annonsen eller skapa en annons senare från antingen vyn Creative Cloud eller vyn Ads.
+All active, approved ads in an active placement in an active campaign are eligible to run based on the placement targeting parameters.
 
 >[!MORELIKETHIS]
 >
->* [Om kampanjhantering](/help/dsp/campaign-management/campaigns/campaign-about.md)
+>* [About Campaign Management](/help/dsp/campaign-management/campaigns/campaign-about.md)
 >* [Om pakethantering](/help/dsp/campaign-management/packages/package-about.md)
 >* [Om Platshantering](/help/dsp/campaign-management/placements/placement-about.md)
 >* [Om annonshantering](/help/dsp/campaign-management/ads/ad-about.md)
@@ -66,5 +57,5 @@ Du kan omedelbart skapa en annons med den överförda kreativa annonsen eller sk
 >* [Bästa metoder för att konfigurera resultatkampanjer](/help/dsp/optimization/campaign-best-practices-performance.md)
 >* [Om rapporter på plattformen](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [Om kampanjdatavyer](/help/dsp/campaign-management/reports/campaign-data-views-about.md)
->* [Video: DSP kontostruktur och användargränssnitt](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/ui.html)
+>* [Video: DSP Account Structure and User Interface](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/ui.html)
 

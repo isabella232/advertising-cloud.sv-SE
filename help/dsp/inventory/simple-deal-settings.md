@@ -1,10 +1,11 @@
 ---
-title: '"[!UICONTROL Simple Ad Serving] Avtalsinställningar"'
+title: '''[!UICONTROL Simple Ad Serving] Avtalsinställningar'
 description: Läs mer om de tillgängliga inställningarna för [!UICONTROL Simple Ad Serving] erbjudanden.
 feature: DSP Simple Ad Serving
-source-git-commit: 2c94b6c02b4e24878639dd9edbc0455e1751f679
+exl-id: 1a8f215c-c52b-4099-a55f-99c4232b7a22
+source-git-commit: 3eb63e9d7161c354736ce53ee21518882c541884
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '471'
 ht-degree: 0%
 
 ---
@@ -33,7 +34,7 @@ ht-degree: 0%
 
 ### [!UICONTROL Select & Upload [Media Type]]
 
-(Endast nya annonser) Skärmar för att skapa en ny [förstahandsannons](/help/dsp/campaign-management/ads/ad-create.md) eller [annons från tredje part](/help/dsp/campaign-management/ads/ad-create-third-party.md).
+(Endast nya annonser) Skärmar för att skapa en ny [annons från tredje part](/help/dsp/campaign-management/ads/ad-create-multiple.md).
 
 ### [!UICONTROL Feed Details]
 

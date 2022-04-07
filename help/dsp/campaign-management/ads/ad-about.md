@@ -3,9 +3,9 @@ title: Om annonshantering i Advertising Cloud DSP
 description: Läs mer om annonshantering.
 feature: DSP Ads
 exl-id: 72c8bbef-d09c-4cf4-994d-99578d043d39
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: ff0e153344f8245ff217cc8b2b276184dd7422b5
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -14,60 +14,38 @@ ht-degree: 0%
 
 <!-- add "The Ads View (Dashboard?)" section -->
 
-Advertising Cloud DSP erbjuder två sätt att serva era annonser:
+Advertising Cloud DSP har stöd för annonsleverans via tredjepartstaggar för annonsvisning (som Google, Flashtalk eller Sizmek) för olika annonstyper och direkt medieöverföring för inbyggda displayannonser. Du kan överföra tredjepartstaggar individuellt eller gruppvis. Överföringar gruppvis använder partnertaggmallar eller en mall för grupptaggar.
 
-* Advertising Cloud DSP levererar annonserna kostnadsfritt när du överför ditt eget material (till exempel banners, videor, ljudfiler eller URL:er) direkt till DSP. För resurser som DSP hanteras har du tillgång till ytterligare funktioner, till exempel övertäckningar.
-
-* Om du använder en annonsserver från tredje part (till exempel Google, Flashtalk eller Sizmek) kan du överföra dina tredjepartstaggar för annonsvisning till DSP enskilt eller gruppvis. För massöverföring måste du antingen a) överföra DoubleClick- och Flashtalk-taggmallar eller b) hämta en mall, ange dina taggar i mallen och sedan överföra mallen igen.<!-- need a list of all supported third-party ad servers; see file in future-tbd folder -->
+<!-- The bulk upload feature requires you to either a) upload DoubleClick and Flashtalking tag sheets or b) download a template, input your tags into the template, and then re-upload the template. -->
+<!-- need a list of all supported third-party ad servers; see file in future-tbd folder -->
 
 När era annonser väl är klara måste ni bifoga varje annons till en placering, som inkluderar målinriktningsparametrar (som geo, målgrupp, enhet och målinriktning mot lager) som styr hur kampanjen kommer att leverera. Du kan bifoga en annons till en eller flera placeringar.
 
-## Tillgängliga annonstyper
+## Tillgängliga annonstyper {#ad-types}
 
-* Ljud
-* Ansluten TV
-* Visa
-* Mobil
-* Inbyggt
-* Före rullning
+Alla följande annonstyper finns i Advertising Cloud DSP. Fullständiga specifikationer för varje annonstyp finns i [Annonsspecifikationer](/help/dsp/assets/ad-specs.pdf).
 
-Mer information om annonstyperna finns i [Tillgängliga annonstyper](ad-types.md) och den fullständiga [annonsspecifikationen](/help/dsp/assets/ad-specs.pdf).
+* **Ljudannonser (endast från tredje part)**: Ljudannonser spelas upp mellan innehåll på digitala utgivarwebbplatser och kan köras fristående som ljudfiler eller tillsammans med andra banners. Ljud används bäst för att öka varumärkeskännedomen och engagera en publik på språng. Viktiga prestandaindikatorer för ljud är bland annat [!UICONTROL Completion Rate] och [!UICONTROL Cost per Completion].
 
-## Special Ad Features
+* **Visa annonser (endast från tredje part)**: Visningsannonser är animerade eller statiska bilder som visas i webbläsare eller i appar. När du klickar på annonsenheten tar det användaren till en varumärkesprofilerad plats eller mikroplats. Skärmen är bäst att använda för att driva effektiva CPM-annonser, öka e-postkopplingen, lägga till fler varumärkes- eller produktkontaktytor och få användarna att stanna längre. Viktiga resultatindikatorer för visning är bland annat [!UICONTROL Clicks], [!UICONTROL Cost per Click], [!UICONTROL Conversions]och [!UICONTROL Cost per Conversion]. DSP har stöd för en mängd olika annonsstorlekar för visningsbanderoller.
 
-Följande funktioner är endast tillgängliga för annonser som DSP administreras.
+* **Mobile Ads (endast från tredje part)**: Mobile annonser kan vara i förhandsgranskningsformat (VAST, MRAID) eller standardformat. Mobile pre-roll-video kan spelas upp automatiskt eller spelas upp klick för uppspelning och är bäst för att nå tittare oavsett skärmtyp. Mobile standardskärm är en statisk bild som visas i webbläsare eller i appar för mobila enheter och är bäst att använda för att komplettera köp av digital video, skapa en meddelandeassociation och lägga till ytterligare branding eller produktkontaktytor. Mobile annonser kan också fungera som helskärmsannonser eller som mobilinterstitialer, som är helskärmsannonser med stor genomslagskraft och som bäst används för att utveckla varumärkeskännedom för mobiler och driva konverteringar.
 
-### Companion Banners
+* **Inbyggda visningsannonser (endast för första part)**: Inbyggda annonser stöds i standardvisningsformat. Interna annonser innehåller en rubrik och/eller titel, beskrivning, logotyp och bild. Annonselementen kombineras och återges så att de matchar utgivarens sidstil, så att annonsen blandas in med utgivarens organiska innehåll och skapar större engagemang. Det inbyggda formatet används bäst för att öka varumärkeskännedomen och öka läsarnas exponering och engagemang med visningsvänlig reklam. Viktiga resultatindikatorer omfattar [!UICONTROL Clicks], [!UICONTROL Cost Per Click], [!UICONTROL Conversions]och [!UICONTROL Cost Per Conversion].
 
-Ledande banners serveras tillsammans med [pre-roll-ads](ad-settings-pre-roll.md) eller (med vissa utgivare) [ljudannonser](ad-settings-audio.md) och kan förstärka varumärkes- och meddelandekopplingen.
+* **Pre-roll Ads (endast från tredje part)**: Pre-roll-annonser (VAST och VPAID) visas före premiumvideomaterial och ger en engagerande, engagerande tittarupplevelse. Videor före filmningen kan vara interaktiva, innehålla multimediefunktioner och innehålla övertäckningar, överrullningar och actionanrop. Viktiga resultatindikatorer för videoannonser före rullning är bland annat [!UICONTROL Video Completion Rate] och [!UICONTROL Viewability Rate].
 
->[!NOTE]
->
->* Inte alla utgivare tillåter komplementbanners. Utgivare som tillåter banners ger inga garantier för banneravtryck.
->* Det är inte alltid möjligt att förhandsgranska hjälpbanners från annonstaggar från tredje part.
-
-
-Du kan överföra din egen tillhörande banderollresurs eller överföra en iFrame- eller skriptbanderolltagg från en certifierad tredjepartsleverantör av annonstjänster.
-
-### Övertäckningar
-
-Övertäckningar hjälper till med beständig branding i hela videon och kan få fler klick. Överläggsfunktionen är tillgänglig för [interaktiva pre-roll-ads](ad-settings-pre-roll.md) och för [mobilannonser i interaktiva och tryck-för-spela-format](ad-settings-mobile.md).
-
-Se de [bästa sätten att utforma övertäckningar](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
-
-### Lärare
-
-Ett teaser är en slående bild som lockar tittaren att spela upp en annons. Teasers apply only to mobile tap-to-play ad ad annonsformat.
+* **Anslutna TV-annonser (endast från tredje part)**: Anslutna TV-annonser visas före och under Premium TV-videomaterial. Alla anslutna TV-inventeringar körs på tv-enheter, vilket innebär att videon spelas upp automatiskt i en återgivningsmiljö i helskärmsläge som tittarna inte kan hoppa över. Uppkopplad TV är det närmaste digitala videoformatet för TV-reklamen. Viktiga resultatindikatorer för uppkopplad TV är bland annat [!UICONTROL Completion Rate].
 
 ## Advertising Cloud DSP Ad Approvals
 
 När du skapar en annons granskar Advertising Cloud DSP den för att se om det finns känsliga kategorier, klickar på URL-funktionen och förhandsgranskar återgivningen.
 
-Till att börja med visas en röd punkt i kolumnen [!UICONTROL Status]. Granskningsprocessen tar normalt 24-48 timmar. En trasig annons kan dock ha en väntande status i mer än 48 timmar, så du har tid att åtgärda fel innan annonsen refuseras. Avvisade annonser innehåller en orsak till refuseringen.
+Till att börja med visas en röd punkt i [!UICONTROL Status] kolumn. Granskningsprocessen tar normalt 24-48 timmar. En trasig annons kan dock ha en väntande status i mer än 48 timmar, så du har tid att åtgärda fel innan annonsen refuseras. Avvisade annonser innehåller en orsak till refuseringen.
 
 När DSP godkänner en annons visas en grön punkt i statuskolumnen.
 
-![godkännandeindikator i  [!UICONTROL Status] kolumn](/help/dsp/assets/ad-approval-status.png)
+![godkännandeindikator i [!UICONTROL Status] kolumn](/help/dsp/assets/ad-approval-status.png)
 
 >[!NOTE]
 >
@@ -76,7 +54,6 @@ När DSP godkänner en annons visas en grön punkt i statuskolumnen.
 >[!MORELIKETHIS]
 >
 >* [Skapa en annons](ad-create.md)
->* [Skapa flera tredjepartsannonser](ad-create-third-party.md)
->* [Tillgängliga annonstyper](ad-types.md)
+>* [Skapa flera tredjepartsannonser](ad-create-multiple.md)
 >* [Annonsspecifikationer](/help/dsp/assets/ad-specs.pdf)
 
