@@ -3,9 +3,9 @@ title: Krav och viktig information för implementering [!DNL Analytics for Adver
 description: Krav och viktig information för implementering [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 11a13816ccd2ef0c47efa615c54c0f7ce2f83734
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Ge Advertising Cloud implementeringsteam följande information:
 * The [!DNL Analytics] Rapportera det programsvit-ID som ska användas för rapportering av betalmediaaktivitet och för matning av webbplatsaktivitet för optimering och rapportering i Advertising Cloud
 * Företagets organisations-ID (Org-ID) för Experience Cloud.
 
-Du hittar båda dessa ID:n på [Sammanfattningsskärmen i Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/run-debugger.html).
+Du hittar båda dessa ID:n på [Fliken Sammanfattning i Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html).
 
 ![Sammanfattningsskärmen för Experience Cloud Debugger](/help/integrations/assets/a4adc-debugger-summary.png)
 
@@ -111,7 +111,7 @@ Exempel: `sdid=2F3C18E511F618CC-45F83E994AEE93A0`
 
 Alla Advertising Cloud-samtal som används av en [!DNL Analytics for Advertising Cloud] aktivitet för att leverera innehåll eller registrera målmåttet måste ha en motsvarande [!DNL Analytics] en träff som delar samma extra ID.
 
-När du felsöker i [!DNL Analytics]måste du bekräfta att det kompletterande ID:t finns för [!DNL Analytics] träffar. I [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html)kan du se detta ID på fliken Advertising Cloud som `sdid` parameter.
+När du felsöker i [!DNL Analytics]måste du bekräfta att det kompletterande ID:t finns för [!DNL Analytics] träffar. I [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html)kan du se detta ID på fliken Advertising Cloud som `sdid` parameter.
 
 >[!NOTE]
 >
