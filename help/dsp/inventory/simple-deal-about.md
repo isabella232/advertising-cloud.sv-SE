@@ -3,9 +3,9 @@ title: Om [!UICONTROL Simple Ad Serving]
 description: Läs mer om [!UICONTROL Simple Ad Serving] hanterar med händelsespårande pixlar.
 feature: DSP Simple Ad Serving
 exl-id: d65d1d8e-4d10-4d1d-86d3-f4457c29ae8d
-source-git-commit: 05578e9252f0eec6dd4e003d317742007edb3351
+source-git-commit: 5a8aaa3fba6cca33915fc9720c78493f98244b61
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 [!UICONTROL Simple Ad Serving] ger garanterad, obeslutad annonsleverans och rapportering för en viss utgivare och en viss annonstyp med en enda dedikerad placering. Använd [!DNL Simple Ad Serving] när utgivaren inte kan genomföra ditt avtal via ett erbjudande-ID. All målgruppsanpassning, budgetering och begränsning samt frekvensbegränsning hanteras av utgivaren. Utför dessa erbjudanden via pixlar för händelsespårning.
 
-Med [!UICONTROL Simple Ad Serving], hanteras varje annons direkt av utgivaren (webbplatsservern) och DSP tillhandahåller en pixel för händelsespårning som skickas till utgivaren, som måste implementera pixeln och trafikera DSP annonser. Beroende på lagertypen mäter händelsepixlarna händelser som intryckt, klickfrekvens och video som spelas upp.
+Med [!UICONTROL Simple Ad Serving], hanteras varje annons direkt av utgivaren (webbplatsservern) och DSP tillhandahåller en pixel för händelsespårning som skickas till utgivaren, som måste implementera pixeln och trafikera DSP annonser. Beroende på lagertypen mäter händelsepixlarna intryckta händelser, klickfrekvens och videouppspelningshändelser.
 
 Följande annonstyper är tillgängliga:
 
