@@ -2,9 +2,10 @@
 title: Annonsspecifikationer
 description: Referera till allmänna och utgivarspecifika annonsspecifikationer.
 feature: DSP Ads
-source-git-commit: 2110a30cf41a5cc091ec6224a7cbaf9b170ef1db
+exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
+source-git-commit: f3d4dcfdaaaa4b9546e92ac6d1087e73e5054a26
 workflow-type: tm+mt
-source-wordcount: '848'
+source-wordcount: '855'
 ht-degree: 0%
 
 ---
@@ -110,7 +111,7 @@ Stationär dator, mobil, surfplatta, smarta högtalare och ansluten TV
 
 ### Tredjeparts annonsservrar som stöds
 
-En fullständig lista över leverantörer som stöds finns i &quot;[Certifierade annonserande partners](certified-ad-servers.md).&quot;
+Du kan använda märkordsblad från [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid]och [!DNL Sizmek]. En fullständig lista över leverantörer som stöds finns i &quot;[Certifierade annonserande partners](certified-ad-servers.md).&quot;
 
 ### Krav för ljudresurser (obligatoriskt)
 
