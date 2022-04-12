@@ -3,9 +3,9 @@ title: Mobile Ad Settings
 description: Se beskrivningar av tillgängliga annonsinställningar för mobilannonser.
 feature: DSP Ads
 exl-id: f67c4ba0-1011-4ad6-bd36-98c312b81b67
-source-git-commit: 68af6b1846a37689dce0ca13a05cc1611b1f35a9
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '620'
 ht-degree: 0%
 
 ---
@@ -105,6 +105,6 @@ Föråldrat
 >* [Om annonshantering](ad-about.md)
 >* [Skapa en annons](ad-create.md)
 >* [Visa en lista över placeringar som är kopplade till en annons](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [Annonsspecifikationer](/help/dsp/assets/ad-specs.pdf)
+>* [Annonsspecifikationer](ad-specs.md)
 >* [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
 

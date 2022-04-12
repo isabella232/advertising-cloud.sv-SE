@@ -3,9 +3,9 @@ title: Skapa en annons
 description: Lär dig hur du skapar en annons från tredje part.
 feature: DSP Ads
 exl-id: d93c6a66-a5cb-4117-97e8-424422200fce
-source-git-commit: 63c8b750c9d5e6816da29fe15416d43d6b3e3726
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -49,5 +49,5 @@ Information om hur du skapar flera tredjepartsannonser samtidigt finns i [Skapa 
 >* [Om annonshantering](ad-about.md)
 >* [Skapa flera tredjepartsannonser](ad-create-multiple.md)
 >* [Redigera en annons](ad-edit.md)
->* [Annonsspecifikationer](/help/dsp/assets/ad-specs.pdf)
+>* [Annonsspecifikationer](ad-specs.md)
 

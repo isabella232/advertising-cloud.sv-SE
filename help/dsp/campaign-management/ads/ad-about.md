@@ -3,9 +3,9 @@ title: Om annonshantering i Advertising Cloud DSP
 description: Läs mer om annonshantering.
 feature: DSP Ads
 exl-id: 72c8bbef-d09c-4cf4-994d-99578d043d39
-source-git-commit: ff0e153344f8245ff217cc8b2b276184dd7422b5
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '664'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,13 @@ När era annonser väl är klara måste ni bifoga varje annons till en placering
 
 ## Tillgängliga annonstyper {#ad-types}
 
-Alla följande annonstyper finns i Advertising Cloud DSP. Fullständiga specifikationer för varje annonstyp finns i [Annonsspecifikationer](/help/dsp/assets/ad-specs.pdf).
+Alla följande annonstyper finns i Advertising Cloud DSP. Fullständiga specifikationer för varje annonstyp finns i [Annonsspecifikationer](ad-specs.md).
 
 * **Ljudannonser (endast från tredje part)**: Ljudannonser spelas upp mellan innehåll på digitala utgivarwebbplatser och kan köras fristående som ljudfiler eller tillsammans med andra banners. Ljud används bäst för att öka varumärkeskännedomen och engagera en publik på språng. Viktiga prestandaindikatorer för ljud är bland annat [!UICONTROL Completion Rate] och [!UICONTROL Cost per Completion].
 
 * **Visa annonser (endast från tredje part)**: Visningsannonser är animerade eller statiska bilder som visas i webbläsare eller i appar. När du klickar på annonsenheten tar det användaren till en varumärkesprofilerad plats eller mikroplats. Skärmen är bäst att använda för att driva effektiva CPM-annonser, öka e-postkopplingen, lägga till fler varumärkes- eller produktkontaktytor och få användarna att stanna längre. Viktiga resultatindikatorer för visning är bland annat [!UICONTROL Clicks], [!UICONTROL Cost per Click], [!UICONTROL Conversions]och [!UICONTROL Cost per Conversion]. DSP har stöd för en mängd olika annonsstorlekar för visningsbanderoller.
 
-* **Mobile Ads (endast från tredje part)**: Mobile annonser kan vara i förhandsgranskningsformat (VAST, MRAID) eller standardformat. Mobile pre-roll-video kan spelas upp automatiskt eller spelas upp klick för uppspelning och är bäst för att nå tittare oavsett skärmtyp. Mobile standardskärm är en statisk bild som visas i webbläsare eller i appar för mobila enheter och är bäst att använda för att komplettera köp av digital video, skapa en meddelandeassociation och lägga till ytterligare branding eller produktkontaktytor. Mobile annonser kan också fungera som helskärmsannonser eller som mobilinterstitialer, som är helskärmsannonser med stor genomslagskraft och som bäst används för att utveckla varumärkeskännedom för mobiler och driva konverteringar.
+* **Mobilannonser (endast från tredje part)**: Mobilannonser kan vara i förrullningsvideo (VAST, MRAID) eller standardvisningsformat. Mobil pre-roll-video kan spelas upp automatiskt eller spelas upp klick för uppspelning och är bäst för att nå tittare på olika skärmar. Visning av mobilstandard är en statisk bild som visas i webbläsare eller i appar för mobila enheter och är bäst att använda för att komplettera köp av digital video, skapa en meddelandeassociation och lägga till ytterligare varumärke eller produktkontaktytor. Mobile annonser kan också fungera som helskärmsannonser eller som mobilinterstitialer, som är helskärmsannonser med stor genomslagskraft och som bäst används för att utveckla varumärkeskännedom för mobiler och driva konverteringar.
 
 * **Inbyggda visningsannonser (endast för första part)**: Inbyggda annonser stöds i standardvisningsformat. Interna annonser innehåller en rubrik och/eller titel, beskrivning, logotyp och bild. Annonselementen kombineras och återges så att de matchar utgivarens sidstil, så att annonsen blandas in med utgivarens organiska innehåll och skapar större engagemang. Det inbyggda formatet används bäst för att öka varumärkeskännedomen och öka läsarnas exponering och engagemang med visningsvänlig reklam. Viktiga resultatindikatorer omfattar [!UICONTROL Clicks], [!UICONTROL Cost Per Click], [!UICONTROL Conversions]och [!UICONTROL Cost Per Conversion].
 
@@ -55,5 +55,5 @@ När DSP godkänner en annons visas en grön punkt i statuskolumnen.
 >
 >* [Skapa en annons](ad-create.md)
 >* [Skapa flera tredjepartsannonser](ad-create-multiple.md)
->* [Annonsspecifikationer](/help/dsp/assets/ad-specs.pdf)
+>* [Annonsspecifikationer](ad-specs.md)
 

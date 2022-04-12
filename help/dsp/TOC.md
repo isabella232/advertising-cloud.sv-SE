@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Lär dig mer om de viktigaste funktionerna, arbetsuppgifterna, inställningarna och andra resurser som krävs för att hantera, optimera och rapportera om era strategier för displayannonsering med Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: e77f70e414a1c8d2fe4937766ecddca9fdb6893e
+source-git-commit: 4dd819cd5feb47bce8ad56e5210c6d3c224389cb
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '859'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 0%
       + [Riktlinjer för godkända hälsosegment](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
       + [[!DNL DSP] Riktlinjer för dataanvändning](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
    + [Avancerade mätningslösningar](/help/dsp/introduction/advanced-measurement-services.md)
-+ Campaign Management {#campaign-management}
++ Kampanjhantering {#campaign-management}
    + [Översikt över Campaign Management Structure](/help/dsp/campaign-management/campaign-management-overview.md)
    + Kampanjer {#campaigns}
       + [Om Campaign Management](/help/dsp/campaign-management/campaigns/campaign-about.md)
@@ -84,10 +84,10 @@ ht-degree: 0%
          + [Ljudannonsinställningar](/help/dsp/campaign-management/ads/ad-settings-audio.md)
          + [Inställningar för ansluten TV](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
          + [Visa annonsinställningar](/help/dsp/campaign-management/ads/ad-settings-display.md)
-         + [Inställningar för mobilannonsering](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+         + [Mobile Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
          + [Annonsinställningar för inbyggd visning](/help/dsp/campaign-management/ads/ad-settings-native.md)
          + [Inställningar för annonsering före registrering](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
-      + [Specifikationer för annonstyper som stöds](/help/dsp/assets/ad-specs.pdf)
+      + [Specifikationer för annonstyper som stöds](/help/dsp/campaign-management/ads/ad-specs.md)
    + Kampanjrapporter {#campaign-reports}
       + [Om rapporter på plattformen](/help/dsp/campaign-management/reports/campaign-reports-about.md)
       + [Exportera data från en Campaign Management-vy](/help/dsp/campaign-management/reports/campaign-export-data.md)
@@ -108,7 +108,7 @@ ht-degree: 0%
       + [Kolumner i hämtade/överförda kalkylblad](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
    + [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
    + [Kortkommandon](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
-   + [Vanliga frågor om kampanjhantering](/help/dsp/campaign-management/campaign-management-faq.md)
+   + [Frågor och svar om Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 + Optimering {#optimization}
    + [Hur [!DNL DSP] Optimerar era kampanjer](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
    + [Optimeringsmål och Så här använder du dem](/help/dsp/optimization/optimization-goals.md)

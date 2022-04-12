@@ -3,9 +3,9 @@ title: Visa annonsinställningar
 description: Se beskrivningar av tillgängliga annonsinställningar för displayannonser.
 feature: DSP Ads
 exl-id: ae88dfab-0b0c-42ab-9135-422b20a4b6cd
-source-git-commit: 68af6b1846a37689dce0ca13a05cc1611b1f35a9
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Följande inställningar gäller för vanliga displayannonser.
 
 **[!UICONTROL Final Display Code]:** (Endast annonser från tredje part) URL:en för den kreativa resursen från tredje part, med nödvändiga [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) infogad, om tillämpligt.
 
-**[!UICONTROL Ad Size]:** Annonsens bredd och höjd. Det måste vara en [stöd för standardstorlek](/help/dsp/assets/ad-specs.pdf). Du kan ange annonsstorleken manuellt innan du överför annonsen eller ange en [!UICONTROL Display Code]. Om du inte anger annonsstorleken anges dimensionerna för den överförda annonstaggen eller annonstaggen automatiskt som skrivskyddade. Observera att annonsen för bildskärm inte sparas om dimensionerna inte finns i standardvisning i storlekar - t.ex. 301x250 i stället för 300x250 i annonsstorlek.
+**[!UICONTROL Ad Size]:** Annonsens bredd och höjd. Det måste vara en [stöd för standardstorlek](ad-specs.md). Du kan ange annonsstorleken manuellt innan du överför annonsen eller ange en [!UICONTROL Display Code]. Om du inte anger annonsstorleken anges dimensionerna för den överförda annonstaggen eller annonstaggen automatiskt som skrivskyddade. Observera att annonsen för bildskärm inte sparas om dimensionerna inte finns i standardvisning i storlekar - t.ex. 301x250 i stället för 300x250 i annonsstorlek.
 
 >[!IMPORTANT]
 >
@@ -67,6 +67,6 @@ Följande inställningar gäller för varje pixel som du skapar eller redigerar.
 >* [Om annonshantering](ad-about.md)
 >* [Skapa en annons](ad-create.md)
 >* [Visa en lista över placeringar som är kopplade till en annons](ad-list-placements.md)
->* [Annonsspecifikationer](/help/dsp/assets/ad-specs.pdf)
+>* [Annonsspecifikationer](ad-specs.md)
 >* [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
 

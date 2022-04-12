@@ -3,9 +3,9 @@ title: Inställningar för annonsering före registrering
 description: Se beskrivningar av tillgängliga annonsinställningar för förrollsannonser.
 feature: DSP Ads
 exl-id: 638d5a3d-3dff-40b6-a3ba-7ab3f08282b9
-source-git-commit: 68af6b1846a37689dce0ca13a05cc1611b1f35a9
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '552'
 ht-degree: 0%
 
 ---
@@ -87,6 +87,6 @@ Följande inställningar gäller för varje pixel som du skapar eller redigerar.
 >* [Om annonshantering](ad-about.md)
 >* [Skapa en annons](ad-create.md)
 >* [Visa en lista över placeringar som är kopplade till en annons](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [Annonsspecifikationer](/help/dsp/assets/ad-specs.pdf)
+>* [Annonsspecifikationer](ad-specs.md)
 >* [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
 

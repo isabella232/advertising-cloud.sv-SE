@@ -3,9 +3,9 @@ title: Redigera en annons
 description: Lär dig hur du redigerar en annons.
 feature: DSP Ads
 exl-id: ef140d61-f04e-4c1c-acdd-9985730dfb07
-source-git-commit: 8d6bb45d90f56331ff52e6514e4732f1ac32d022
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -37,5 +37,5 @@ ht-degree: 0%
 >* [Skapa flera tredjepartsannonser](ad-create-multiple.md)
 >* [Duplicera en annons](ad-duplicate.md)
 >* [Visa en lista över placeringar som är kopplade till en annons](ad-list-placements.md)
->* [Annonsspecifikationer](/help/dsp/assets/ad-specs.pdf)
+>* [Annonsspecifikationer](ad-specs.md)
 

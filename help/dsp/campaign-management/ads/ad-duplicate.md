@@ -3,9 +3,9 @@ title: Duplicera en annons
 description: Lär dig hur du duplicerar en annons.
 feature: DSP Ads
 exl-id: 65c29be7-ca88-4608-bde2-5f1267d095ef
-source-git-commit: 322823a1df355b687827544f5464d01093b94213
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -35,5 +35,5 @@ Du kan duplicera en annons inom samma kampanj.
 >* [Skapa en annons](ad-create.md)
 >* [Skapa flera tredjepartsannonser](ad-create-multiple.md)
 >* [Redigera en annons](ad-edit.md)
->* [Annonsspecifikationer](/help/dsp/assets/ad-specs.pdf)
+>* [Annonsspecifikationer](ad-specs.md)
 
