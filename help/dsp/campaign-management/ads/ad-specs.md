@@ -2,14 +2,14 @@
 title: Annonsspecifikationer
 description: Referera till allmänna och utgivarspecifika annonsspecifikationer.
 feature: DSP Ads
-source-git-commit: 212409be98cb6f48d5aaf13e3ba44e37d2c5342b
+source-git-commit: 2110a30cf41a5cc091ec6224a7cbaf9b170ef1db
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '848'
 ht-degree: 0%
 
 ---
 
-# Annonsspecifikationer
+# Specifikationer för annonstyper som stöds
 
 ## Video Ads (Pre-Roll och CTV)
 
@@ -108,7 +108,9 @@ Universell visning stöds.
 
 Stationär dator, mobil, surfplatta, smarta högtalare och ansluten TV
 
-### [Tredjeparts annonsservrar som stöds](certified-ad-servers.md)
+### Tredjeparts annonsservrar som stöds
+
+En fullständig lista över leverantörer som stöds finns i &quot;[Certifierade annonserande partners](certified-ad-servers.md).&quot;
 
 ### Krav för ljudresurser (obligatoriskt)
 
