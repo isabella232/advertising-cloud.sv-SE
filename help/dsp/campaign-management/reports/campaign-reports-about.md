@@ -3,9 +3,9 @@ title: Om rapporter på plattformen
 description: Läs mer om rapportdata som ingår i kampanjhanteringsvyer.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 1ca7639fac40eb8d3fbc3b4f7e0f45b29368f49b
+source-git-commit: 0adbb7876e38a8fc7b8c42e9897492bb6255e2c3
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '928'
 ht-degree: 0%
 
 ---
@@ -87,7 +87,7 @@ Du kan exportera data på [!UICONTROL Sites], [!UICONTROL Ads], eller [!UICONTRO
 
 ### Andra typer av kampanjnivårapportering
 
-Om du vill se andra databrytningar [de äldre rapportsidorna på kampanjnivå](/help/dsp/campaign-management/campaigns/campaign-view-report.md) från [!UICONTROL Campaigns Classic]. Den äldre rapporten innehåller avsnitt om [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability]och [!UICONTROL Audience Performance] data.
+Om du vill se andra databrytningar [de äldre rapportsidorna på kampanjnivå](/help/dsp/campaign-management/campaigns/campaign-view-report.md). Den äldre rapporten innehåller avsnitt om [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability]och [!UICONTROL Audience Performance] data.
 
 >[!MORELIKETHIS]
 >
