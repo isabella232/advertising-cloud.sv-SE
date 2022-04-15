@@ -3,9 +3,9 @@ title: Om rapporter på plattformen
 description: Läs mer om rapportdata som ingår i kampanjhanteringsvyer.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 0adbb7876e38a8fc7b8c42e9897492bb6255e2c3
+source-git-commit: 1292f39cb2d7d690a46d4e943ed09d98c349ce41
 workflow-type: tm+mt
-source-wordcount: '928'
+source-wordcount: '960'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,21 @@ ht-degree: 0%
 <!-- rename "About Performance Reports in Campaign Management Views?" -->
 Vyerna för kampanjhantering omfattar omfattande rapportdata. De tillgängliga rapporterna hjälper dig att identifiera de paket och placeringar som fungerar bra och de som behöver din uppmärksamhet. Snabba åtgärdsknappar gör dig också mer produktiv.
 
-## Alla kampanjlistor
+## Vyn Alla kampanjer
 
-The [!UICONTROL Campaigns] visas en lista med alla kampanjer på ditt konto. The [!UICONTROL Subtotals] raden visar antingen summan eller det genomsnittliga värdet för varje mätvärde över alla synliga rader.
+The [!UICONTROL Campaigns] visas en lista med alla kampanjer på ditt konto. &lt;!— [!UICONTROL Subtotals] raden visar antingen summan eller det genomsnittliga värdet för varje mätvärde över alla synliga rader. — Finns det fortfarande en rad med delsummor? Jag ser ingen. —>
+
+### Diagramvy {#chart-view}
+
+Du kan [anpassa trenddiagram för tidsserier](campaign-data-visualization-manage.md) för alla kampanjer med tre mätvärden. Som standard används data för [!UICONTROL Net Spend], [!UICONTROL Impressions]och [!UICONTROL Net CPM] ingår i separata diagram (trellis charts). Du kan ändra måtten om du vill. Om du vill aktivera timdata i trenddiagram för tidsserier ändrar du datumvalet till en enda dag ([!UICONTROL Today], [!UICONTROL Yesterday], eller en viss dag).
+
+![separata trenddiagram för tre mätvärden](/help/dsp/assets/trend-chart-separate.png)
+
+Du kan också täcka över de tre mätvärdena för att enkelt upptäcka avvikelser och områden där du kan förbättra skalan eller prestandan.
+
+![trenddiagram med övertäckning](/help/dsp/assets/trend-chart.png)
+
+### Tabellvy
 
 ![Kampanjlista](/help/dsp/assets/campaigns-list.png)
 
@@ -33,17 +45,15 @@ Inom en kampanj kan ni filtrera data baserat på kampanjentiteten: [!UICONTROL P
 
 ![Kampanjentitetsflikar](/help/dsp/assets/campaign-subtabs.png)
 
+### Diagramvy
+
+För varje kampanj kan ni [anpassa trenddiagram för tidsserier](campaign-data-visualization-manage.md) med tre mätvärden som är tillgängliga i varje enhetsvy. Samma mätvärden används för alla trenddiagram för kampanjen.
+
+Se [Diagramvy om kampanjstatistik](#chart-view) för mer information.
+
+### Tabellvy
+
 På varje enhetsflik innehåller varje rad som standard värden för avstånd och leverans, men du kan [ändra kolumnvyn](column-view-change.md) eller jämn [skapa en anpassad kolumnvy](column-view-create.md) som ska gälla alla underflikar för kampanjen. Du kan fortsätta [anpassa datatabellerna](campaign-data-views-about.md) på ytterligare sätt. Varje datatabell innehåller en [!UICONTROL Subtotals] rad, som visar antingen summan eller det genomsnittliga värdet för varje mätvärde över alla synliga rader.
-
-För varje kampanj kan ni också anpassa trenddiagram för tidsserier med tre mätvärden, som är tillgängliga i varje enhetsvy. Som standard används data för [!UICONTROL Net Spend], [!UICONTROL Impressions]och [!UICONTROL Net CPM] ingår i separata diagram (trellis charts). Du kan ändra måtten om du vill. Om du vill aktivera timdata i trenddiagram för tidsserier ändrar du datumvalet till en enda dag ([!UICONTROL Today], [!UICONTROL Yesterday], eller en viss dag).
-
-![separata trenddiagram för tre mätvärden](/help/dsp/assets/trend-chart-separate.png)
-
-Du kan också täcka över de tre mätvärdena för att enkelt upptäcka avvikelser och områden där du kan förbättra skalan eller prestandan.
-
-![trenddiagram med övertäckning](/help/dsp/assets/trend-chart.png)
-
-Du kan [anpassa trenddiagram](campaign-data-visualization-manage.md) efter kampanj, och samma mätvärden bevaras för alla trenddiagram för kampanjen.
 
 ### Placement [!UICONTROL Inspector] {#placement-inspector}
 
