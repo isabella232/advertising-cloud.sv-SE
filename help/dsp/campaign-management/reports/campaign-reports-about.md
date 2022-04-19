@@ -3,9 +3,9 @@ title: Om rapporter på plattformen
 description: Läs mer om rapportdata som ingår i kampanjhanteringsvyer.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 1292f39cb2d7d690a46d4e943ed09d98c349ce41
+source-git-commit: 2f985d9ae8343ea0005f1aa9c33acd603d514f1d
 workflow-type: tm+mt
-source-wordcount: '960'
+source-wordcount: '958'
 ht-degree: 0%
 
 ---
@@ -97,7 +97,7 @@ Du kan exportera data på [!UICONTROL Sites], [!UICONTROL Ads], eller [!UICONTRO
 
 ### Andra typer av kampanjnivårapportering
 
-Om du vill se andra databrytningar [de äldre rapportsidorna på kampanjnivå](/help/dsp/campaign-management/campaigns/campaign-view-report.md). Den äldre rapporten innehåller avsnitt om [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability]och [!UICONTROL Audience Performance] data.
+Om du vill se andra databrytningar [rapportsidor på kampanjnivå](/help/dsp/campaign-management/campaigns/campaign-view-report.md). The <!--legacy --> rapporten innehåller avsnitt om [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability]och [!UICONTROL Audience Performance] data.
 
 >[!MORELIKETHIS]
 >
@@ -106,6 +106,6 @@ Om du vill se andra databrytningar [de äldre rapportsidorna på kampanjnivå](/
 >* [Skapa en anpassad kolumnvy](column-view-create.md)
 >* [Ändra kolumnvyn](column-view-change.md)
 >* [Hantera datavisualiseringar](campaign-data-visualization-manage.md)
->* [Exportera data från en kampanjhanteringsvy](campaign-export-data.md)
+>* [Exportera data från en Campaign Management-vy](campaign-export-data.md)
 >* [Visa en detaljerad rapport för en kampanj](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
 
