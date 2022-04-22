@@ -3,9 +3,9 @@ title: Om rapporter på plattformen
 description: Läs mer om rapportdata som ingår i kampanjhanteringsvyer.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 2f985d9ae8343ea0005f1aa9c33acd603d514f1d
+source-git-commit: 7d081583ff10675b515aafdd97ccb3053f19c32d
 workflow-type: tm+mt
-source-wordcount: '958'
+source-wordcount: '938'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Vyerna för kampanjhantering omfattar omfattande rapportdata. De tillgängliga r
 
 ## Vyn Alla kampanjer
 
-The [!UICONTROL Campaigns] visas en lista med alla kampanjer på ditt konto. &lt;!— [!UICONTROL Subtotals] raden visar antingen summan eller det genomsnittliga värdet för varje mätvärde över alla synliga rader. — Finns det fortfarande en rad med delsummor? Jag ser ingen. —>
+The [!UICONTROL Campaigns] -vyn öppnas med en uppsättning resultatdata och en lista över alla kampanjer på ditt konto.
 
 ### Diagramvy {#chart-view}
 
@@ -106,6 +106,6 @@ Om du vill se andra databrytningar [rapportsidor på kampanjnivå](/help/dsp/cam
 >* [Skapa en anpassad kolumnvy](column-view-create.md)
 >* [Ändra kolumnvyn](column-view-change.md)
 >* [Hantera datavisualiseringar](campaign-data-visualization-manage.md)
->* [Exportera data från en Campaign Management-vy](campaign-export-data.md)
+>* [Exportera data från en kampanjhanteringsvy](campaign-export-data.md)
 >* [Visa en detaljerad rapport för en kampanj](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
 
