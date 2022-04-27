@@ -2,9 +2,9 @@
 title: Lägg till [!DNL Analytics for Advertising Cloud] Makron till [!DNL Google Campaign Manager 360] Annonstaggar
 description: Lär dig varför och hur du lägger till [!DNL Analytics for Advertising Cloud] makron till [!DNL Google Campaign Manager 360] annonstaggar
 feature: Integration with Adobe Analytics
-source-git-commit: 2ba5656704319584e475f8c6c68943f215196ae2
+source-git-commit: 2dfb609e73902fcd929d96c55fbc79588074c65e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -52,12 +52,16 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 1. Klicka på annonsörens namn.
 1. I [!UICONTROL Landing page URL suffix] inställningar, inkludera `%pamo!;` i [!UICONTROL URL suffix] fält.
 
+![Inställningar på annonsörnivå](/help/integrations/assets/macro-ggl360-advertiser.png)
+
 ### Konfigurera URL-suffixet för landningssida på kampanjnivå
 
 1. Klicka på [!UICONTROL Campaigns] -fliken.
 1. Klicka på kampanjnamnet.
 1. Klicka på [!UICONTROL Properties].
 1. I [!UICONTROL Landing page URL suffix] inställningar, inkludera `%pamo!;` i [!UICONTROL URL suffix] fält.
+
+![inställningar på kampanjnivå](/help/integrations/assets/macro-ggl360-campaign.png)
 
 ### Konfigurera URL-suffixet för landningssida på Creative-nivå
 
@@ -66,6 +70,8 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 1. I [!UICONTROL Views] meny, välja [!UICONTROL Creatives].
 1. Klicka på det kreativa namnet.
 1. I [!UICONTROL Click tags] inställning, inkludera `%pamo!;` i [!UICONTROL Landing page] kolumn för click-taggen.
+
+![inställningar på kreativ nivå](/help/integrations/assets/macro-ggl360-creative.png)
 
 ## Hur [!DNL Analytics for Advertising Cloud] Makron utökas i DSP
 
