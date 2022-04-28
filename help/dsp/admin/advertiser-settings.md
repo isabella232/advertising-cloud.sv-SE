@@ -1,9 +1,9 @@
 ---
 title: Kontoinställningar för Advertiser
 description: Se beskrivningar av tillgängliga inställningar för annonsörer.
-source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
+source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
 workflow-type: tm+mt
-source-wordcount: '972'
+source-wordcount: '975'
 ht-degree: 0%
 
 ---
@@ -30,13 +30,13 @@ ht-degree: 0%
 
 Annonsörer med andra Adobe Experience Cloud-produkter kan dela data mellan vissa produkter med hjälp av organisationens unika ID för Experience Cloud. Du kan konfigurera specifika produktintegreringar i [!UICONTROL Integrations] -avsnitt.
 
-**[!UICONTROL Account IMS org and ID]:** (Annonsörer med ytterligare Experience Cloud-produkter som licensieras via ett Experience Cloud-konto hos flera annonsörer. (valfritt) Organisationens Experience Cloud-ID.
+**[!UICONTROL Account IMS org and ID]:** (Annonsörer med ytterligare Experience Cloud-produkter som licensieras via ett Experience Cloud-konto hos flera annonsörer. (valfritt) Annonsörens organisations-ID för Experience Cloud.
 
-**[!UICONTROL Advertiser IMS org and ID]:** (Annonsörer med direktlicens för ytterligare Experience Cloud-produkter. (valfritt) Organisationens Experience Cloud-ID.
+**[!UICONTROL Advertiser IMS org and ID]:** (Annonsörer med direktlicens för ytterligare Experience Cloud-produkter. (valfritt) Annonsörens organisations-ID för Experience Cloud.
 
 ### [!UICONTROL Integrations]
 
-(Valfritt) Ytterligare Experience Cloud-produkter som är kopplade till DSP konto. Produkterna måste vara kopplade till samma Experience Cloud-ID som anges i [!UICONTROL Adobe IMS IDs] -avsnitt.
+(Valfritt) Ytterligare Experience Cloud-produkter som är kopplade till DSP konto. Produkterna måste vara kopplade till samma Experience Cloud-organisations-ID som anges i [!UICONTROL Adobe IMS IDs] -avsnitt.
 
 **[!UICONTROL Adobe Media Optimizer]:** (Annonsörer med Advertising Cloud Search eller som använder Advertising Cloud konverteringspixlar) A [!DNL Search] konto som DSP ska använda för att utbyta attribueringsdata.
 

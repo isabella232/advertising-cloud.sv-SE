@@ -3,9 +3,9 @@ title: 'Adobe Advertising Cloud support for the California Consumer Privacy Act:
 description: Läs mer om stöd för att hämta in förfrågningar om att avanmäla sig från försäljning.
 feature: CCPA
 exl-id: 2c0cd4f5-798f-479a-99cd-f555cd676766
-source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
+source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
 workflow-type: tm+mt
-source-wordcount: '1020'
+source-wordcount: '1028'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Du kan förmedla önskemål om avanmälan från försäljning till konsumenter g
 
 ### Metod 2: Kommunicera CCPA-förfrågningar om avanmälan vid försäljning med Adobe Experience Platform Privacy Service API
 
-*Annonsörer tilldelade endast ett Adobe Experience Cloud ID*
+*Annonsörer tilldelade endast ett Adobe Experience Cloud-organisations-ID*
 
 1. Distribuera ett JavaScript-bibliotek för att hämta kundens cookies. Samma bibliotek, `AdobePrivacy.js`, används för alla Adobe Experience Cloud-lösningar.
 
@@ -58,20 +58,20 @@ Du kan förmedla önskemål om avanmälan från försäljning till konsumenter g
 
    Du bör distribuera biblioteket på webbsidan där dina kunder kan skicka in begäran om att avanmäla dig, till exempel företagets integritetsportal. Biblioteket hjälper dig att hämta Adobe-cookies (namnområdes-ID: `gsurferID`) så att du kan skicka in dessa identiteter som en del av begäran om att avanmäla dig via Adobe Experience Platform Privacy Service API.
 
-1. Identifiera ditt Experience Cloud-ID och se till att det är länkat till dina Advertising Cloud-konton.
+1. Identifiera ditt organisations-ID för Experience Cloud och se till att det är länkat till dina Advertising Cloud-konton.
 
-   Ett Experience Cloud-ID är en 24 tecken lång alfanumerisk sträng som läggs till med &quot;@AdobeOrg&quot;. De flesta Experience Cloud-kunder har tilldelats ett ID. Om ditt marknadsföringsteam eller den interna systemadministratören i Adobe inte känner till din organisations ID, eller inte vet om det har etablerats, kan du kontakta Adobe kundtjänst på gdprsupport@adobe.com. Du måste ha ID:t för att kunna skicka begäranden till sekretess-API:t med hjälp av `imsOrgID` namnutrymme.
+   Ett Experience Cloud-organisations-ID är en 24 tecken lång alfanumerisk sträng som läggs till med &quot;@AdobeOrg&quot;. De flesta Experience Cloud-kunder har tilldelats ett organisations-ID. Om ditt marknadsföringsteam eller den interna systemadministratören i Adobe inte känner till ditt företags-ID eller inte vet om det har etablerats kontaktar du Adobe kundtjänst på gdprsupport@adobe.com. Du behöver organisations-ID:t för att kunna skicka begäranden till sekretess-API:t med hjälp av `imsOrgID` namnutrymme.
 
    >[!IMPORTANT]
    >
-   >Kontakta Advertising Cloud för att bekräfta att alla era Advertising Cloud-konton - inklusive [!DNL DSP] Konton eller annonsörer. [!DNL Search] konton, och [!DNL Creative] eller [!DNL DCO] konton - är länkade till ditt Experience Cloud-ID.
+   >Kontakta Advertising Cloud för att bekräfta att alla era Advertising Cloud-konton - inklusive [!DNL DSP] Konton eller annonsörer. [!DNL Search] konton, och [!DNL Creative] eller [!DNL DCO] konton - är länkade till ditt företags-ID för Experience Cloud.
 
 1. Använd Adobe Experience Platform Privacy Service API för att [skicka begäran om avanmälan](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/consent.html) till Advertising Cloud för konsumenternas räkning och för att kontrollera status för befintliga förfrågningar.
 
    Se bilagan nedan för ett exempel på en begäran om avanmälan från försäljning.
 
    >[!NOTE]
-   Om ditt företag har flera Experience Cloud ID:n måste du skicka separata API-förfrågningar för varje. Du kan dock göra en API-begäran till flera Advertising Cloud-underlösningar ([!DNL Search], [!DNL Creative], [!DNL DSP]och [!DNL DCO]), med ett konto per dellösning.
+   Om ditt företag har flera Experience Cloud-organisations-ID:n måste du skicka separata API-förfrågningar för varje. Du kan dock göra en API-begäran till flera Advertising Cloud-underlösningar ([!DNL Search], [!DNL Creative], [!DNL DSP]och [!DNL DCO]), med ett konto per dellösning.
 
 Alla dessa steg är nödvändiga för att få support från Advertising Cloud. Mer information om dessa och andra relaterade uppgifter du behöver utföra med Adobe Experience Platform Privacy Service, och var du hittar de objekt du behöver finns i [https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).
 
