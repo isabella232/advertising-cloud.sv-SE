@@ -3,9 +3,9 @@ title: Adobe Advertising Cloud Support for the General Data Protection Regulatio
 description: Lär dig mer om vilka dataförfrågningstyper som stöds, obligatoriska inställnings- och fältvärden samt exempel på API-åtkomstbegäranden som använder äldre produkt-ID:n och returnerade datafält
 feature: GDPR
 exl-id: 304d88d0-d63d-4b32-8d4d-c61ba2409adc
-source-git-commit: 56ac178bf10d8c934297521ca3075783e1bc2c36
+source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
 workflow-type: tm+mt
-source-wordcount: '1058'
+source-wordcount: '1046'
 ht-degree: 0%
 
 ---
@@ -24,14 +24,14 @@ Adobe Experience Cloud fungerar som personuppgiftsbiträde för alla personuppgi
 
 I det här dokumentet beskrivs hur Advertising Cloud Search, Advertising Cloud Creative, Advertising Cloud DSP (Demand Side Platform) och Media Optimizer DCO stöder de registrerades GDPR-rättigheter för dataåtkomst och radering med hjälp av Adobe Experience Platform Privacy Service API och användargränssnittet för Privacy Service.
 
-Mer information om vad GDPR innebär för ditt företag finns i [GDPR och Ditt företag](https://www.adobe.com/privacy/general-data-protection-regulation.html).
+Mer information om vad GDPR innebär för ditt företag finns i [GDPR och er verksamhet](https://www.adobe.com/privacy/general-data-protection-regulation.html).
 
 ## Dataförfrågningstyper som stöds för Advertising Cloud
 
 Adobe Experience Platform ger företag möjlighet att utföra följande uppgifter:
 
-* Få åtkomst till data på cookie-nivå eller data på enhets-ID-nivå (för annonser i mobilappar) i [!DNL Search], [!DNL Creative], [!DNL DSP] eller [!DNL DCO].
-* Ta bort data på cookie-nivå som lagras i [!DNL Search], [!DNL Creative], [!DNL DSP] eller [!DNL DCO] för registrerade i en webbläsare; eller ta bort data på ID-nivå som lagras i [!DNL DSP] för registrerade som använder appar på mobila enheter.
+* Åtkomst till data på cookie-nivå eller data på enhets-ID-nivå (för annonser i mobilappar) inom [!DNL Search], [!DNL Creative], [!DNL DSP], eller [!DNL DCO].
+* Ta bort data på cookie-nivå som lagras i [!DNL Search], [!DNL Creative], [!DNL DSP], eller [!DNL DCO] för registrerade i en webbläsare, eller ta bort data på ID-nivå som lagras i [!DNL DSP] för registrerade som använder appar på mobila enheter.
 * Kontrollera status för en eller alla befintliga begäranden.
 
 ## Nödvändiga inställningar för att skicka begäranden för Advertising Cloud
@@ -50,17 +50,17 @@ Om du vill begära åtkomst till och ta bort data för Advertising Cloud måste 
 
    >[!NOTE]
    >
-   >Att ta bort personuppgifter skiljer sig från avanmäl dig, vilket stoppar målsättningen för en slutanvändare med målgruppssegment. Men när en registrerade begär att få ta bort personuppgifter från [!DNL Creative], [!DNL DSP] eller [!DNL DCO], skickar biblioteket också en begäran till Advertising Cloud om att avanmäla den registrerade från segmentmål. För annonsörer med [!DNL Search] rekommenderar vi att du ger de registrerade en länk till [https://www.adobe.com/privacy/opt-out.html](https://www.adobe.com/privacy/opt-out.html), som förklarar hur du avanmäler dig från målgruppssegmentering.
+   >Att ta bort personuppgifter skiljer sig från avanmäl dig, vilket stoppar målsättningen för en slutanvändare med målgruppssegment. När en registrerade begär att få ta bort personuppgifter från [!DNL Creative], [!DNL DSP], eller [!DNL DCO]skickar biblioteket också en begäran till Advertising Cloud om att avanmäla den registrerade från segmentmålinriktning. För annonsörer med [!DNL Search]rekommenderar vi att du ger de registrerade en länk till [https://www.adobe.com/privacy/opt-out.html](https://www.adobe.com/privacy/opt-out.html), som förklarar hur man avanmäler sig från målgruppssegmentsmålgruppsanpassning.
 
-1. Identifiera ditt IMS-organisations-ID och se till att det är länkat till dina Advertising Cloud-konton.
+1. Identifiera ditt Experience Cloud-ID och se till att det är länkat till dina Advertising Cloud-konton.
 
-   Ett IMS-organisations-ID är en 24 tecken lång alfanumerisk sträng som läggs till med @AdobeOrg. De flesta Adobe Experience Cloud-kunder har tilldelats ett IMS-organisationsnummer. Om ditt marknadsföringsteam eller den interna systemadministratören i Adobe inte känner till din organisations IMS-organisation eller inte vet om den har etablerats kan du kontakta Adobe kundtjänst på gdprsupport@adobe.com. Du måste ha IMS-organisations-ID för att kunna skicka begäranden till sekretess-API:t.
+   Ett Experience Cloud-ID är en 24 tecken lång alfanumerisk sträng som läggs till med &quot;@AdobeOrg&quot;. De flesta Experience Cloud-kunder har tilldelats ett ID. Om ditt marknadsföringsteam eller den interna systemadministratören i Adobe inte känner till din organisations ID, eller inte vet om det har etablerats, kan du kontakta Adobe kundtjänst på gdprsupport@adobe.com. Du måste ha ID:t för att kunna skicka begäranden till sekretess-API:t med hjälp av `imsOrgID` namnutrymme.
 
    >[!IMPORTANT]
    >
-   >Kontakta företagets Advertising Cloud-representant för att bekräfta att alla din organisations Advertising Cloud-konton - inklusive [!DNL DSP]-konton eller annonsörer, [!DNL Search]-konton och [!DNL Creative]- eller [!DNL DCO]-konton - är kopplade till ditt IMS Org ID.
+   >Kontakta Advertising Cloud för att bekräfta att alla era Advertising Cloud-konton - inklusive [!DNL DSP] Konton eller annonsörer. [!DNL Search] konton, och [!DNL Creative] eller [!DNL DCO] konton - är länkade till ditt Experience Cloud-ID.
 
-1. Använd antingen [Adobe Experience Platform Privacy Service API](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/privacy-jobs.html) (för automatiserade begäranden) eller [Privacy Servicens användargränssnitt](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html) (för ad hoc-begäranden) för att skicka begäran om åtkomst och borttagning till Advertising Cloud för de registrerade och för att kontrollera status för befintliga begäranden.
+1. Använd antingen [Adobe Experience Platform Privacy Service API](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/privacy-jobs.html) (för automatiska förfrågningar) eller [Privacy Servicens användargränssnitt](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html) (vid ad hoc-begäran) att skicka in begäran om åtkomst och radering till Advertising Cloud för de registrerade samt att kontrollera status för befintliga ansökningar.
 
    För annonsörer som har en mobilapp för att interagera med registrerade personer och starta kampanjer med DSP måste du ladda ned de sekretessfärdiga SDK:erna för Experience Cloud. Med Mobile SDK:er kan personuppgiftsansvariga ange statusflaggor för avanmälan, hämta den registrerade personens enhets-ID (namnområdes-ID: deviceID) och skicka begäranden till Privacy Services-API. Din mobilapp kräver SDK version 4.15.0 eller senare.
 
@@ -69,34 +69,34 @@ Om du vill begära åtkomst till och ta bort data för Advertising Cloud måste 
    När du skickar en begäran om borttagning av en registrerad tas cookie-ID:t eller enhets-ID:t och alla kostnads-, klicknings- och intäktsdata som är kopplade till cookien bort från servern.
 
    >[!NOTE]
-   Om ditt företag har flera Adobe Experience Cloud Identity Management Service Organization ID:n (IMS Org ID:n) måste du skicka separata API-begäranden för varje. Du kan dock göra en API-begäran till flera Advertising Cloud-underlösningar ([!DNL Search], [!DNL Creative], [!DNL DSP] och [!DNL DCO]), med ett konto per underlösning.
+   Om ditt företag har flera Experience Cloud ID:n måste du skicka separata API-förfrågningar för varje. Du kan dock göra en API-begäran till flera Advertising Cloud-underlösningar ([!DNL Search], [!DNL Creative], [!DNL DSP]och [!DNL DCO]), med ett konto per dellösning.
 
-Alla dessa steg är nödvändiga för Advertising Cloud. Mer information om dessa och andra relaterade uppgifter som du behöver utföra med Adobe Experience Platform Privacy Service, och var du hittar de objekt du behöver, finns i [www.adobe.io/apis/cloudplatform/gdpr.html](https://www.adobe.io/apis/experienceplatform/gdpr.html).
+Alla dessa steg är nödvändiga för Advertising Cloud. Mer information om dessa och andra relaterade uppgifter du behöver utföra med Adobe Experience Platform Privacy Service, och var du hittar de objekt du behöver finns i [www.adobe.io/apis/cloudplatform/gdpr.html](https://www.adobe.io/apis/experienceplatform/gdpr.html).
 
 ## Obligatoriska fältvärden i Advertising Cloud JSON-begäranden
 
 &quot;&quot;företagskontext&quot;:
 
 * `"namespace": **imsOrgID**`
-* `"value":` &lt;>ditt IMS-organisations-ID-värde *>*
+* `"value":` &lt;*ditt IMS-organisations-ID-värde*>
 
 `"users":`
 
-* `"key":` &lt;>vanligtvis namnet på den registrerade *>*
+* `"key":` &lt;*vanligtvis namnet på den registrerade*>
 
-* `"action":` antingen  `**access**` eller  `**delete**`
+* `"action":` antingen `**access**` eller `**delete**`
 
 * `"user IDs":`
 
-   * `"namespace": **411**` (vilket anger  [!DNL adcloud] cookie-utrymmet)
+   * `"namespace": **411**` (som anger [!DNL adcloud] cookie space)
 
-   * `"value":` &lt;>den registrerade personens cookie ID-värde som hämtats från  `AdobePrivacy.js`*>*
+   * `"value":` &lt;*den registrerade personens cookie-ID-värde som hämtats från`AdobePrivacy.js`*>
 
 * `"include": **adCloud**` (som är den Adobe-produkt som är tillämplig på ansökan)
 
 * `"regulation": **gdpr**` (som är den sekretessregel som gäller för begäran)
 
-## Exempel på begäran som skickats av den registrerade med ett användar-ID från Advertising Cloud som hämtats från `AdobePrivacy.js`
+## Exempel på begäran som skickats av den registrerade med ett användar-ID från Advertising Cloud `AdobePrivacy.js`
 
 ```
 {

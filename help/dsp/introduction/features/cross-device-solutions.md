@@ -3,9 +3,9 @@ title: Enhetsoberoende lösningar
 description: Läs mer om funktioner för olika enheter.
 feature: DSP Introduction
 exl-id: 29f8ec41-35a6-4a29-a638-82a2929a8fe6
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
 workflow-type: tm+mt
-source-wordcount: '1110'
+source-wordcount: '1113'
 ht-degree: 0%
 
 ---
@@ -85,7 +85,7 @@ Med personbaserad attribuering kan du attribuera konverteringar som ägde rum p�
 
 ### Aktivera personbaserad attribueringsmätning
 
-Om du vill aktivera attribueringsmätning mellan enheter kontaktar du [!DNL Adobe] kontoteam. För [!DNL Adobe Device Co-op] måste du ange dina signerade [!DNL Adobe Device Co-op] kontrakt och Experience Cloud [!DNL Organization ID] (kallades tidigare [!DNL IMS org ID]).
+Om du vill aktivera attribueringsmätning mellan enheter kontaktar du [!DNL Adobe] kontoteam. För [!DNL Adobe Device Co-op] måste du ange dina signerade [!DNL Adobe Device Co-op] kontrakt och organisationens Experience Cloud ID (kallades tidigare [!DNL IMS org ID]).
 
 Så här ser du om ett annonserarkonto har konfigurerats att använda ett enhetsdiagram för attribueringsmätning:
 
