@@ -3,9 +3,9 @@ title: Ställ in en programgarantiavtal
 description: Lär dig hur du skapar ett programmatiskt garantiavtal (PG) som du har förhandlat fram med en utgivare.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 9e371606-5428-4635-9653-7dc43449e489
-source-git-commit: 8046ec79ec24f47fe33e49c6097e44dbba450f1f
+source-git-commit: 81b1074f86685f863f89a07ecd33e892e4933512
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 *[Endast plattformar som stöds](programmatic-guaranteed-about.md)*
 
-När du har förhandlat om en programmatisk garanti (PG) med en utgivare som stöds, kan du konfigurera avtalet inom DSP antingen med hjälp av [!DNL Deal ID inbox] eller genom att ange avtalsinformationen manuellt.
+När du har förhandlat om en programmatisk garanti (PG) med en utgivare som stöds kan du konfigurera avtalet i DSP med [!DNL Deal ID inbox] eller genom att ange avtalsinformationen manuellt.
 
 >[!NOTE]
 >
 > För PG-avtal hanterar utgivaren allt budgetutrymme, budgetbegränsning och målinriktning. Alla SSP:er som tillåter PG via DSP bekräftar att utgivaren kan ställa in budgetbegränsning.
 >
-> Om du vill konfigurera programmatiska, garanterade avtal med utgivare på [!DNL FreeWheel] måste du ha extra behörigheter och steg. Mer information finns i &quot;[Översikt över hur du ställer in garantierbjudanden för programmering i [!DNL FreeWheel]](freewheel-overview.md)&quot;.
+> Konfigurera programmatiska garanterade avtal med utgivare på [!DNL FreeWheel] kräver extra behörigheter och steg. Se &quot;[Översikt över hur man ställer in garantierbjudanden för programmatiska inköp i [!DNL FreeWheel]](freewheel-overview.md)&quot; för mer information.
 
-## Ställ in en programmatisk garanterad affär med [!DNL Deal ID Inbox] {#pg-setup-deal-id-inbox}
+## Konfigurera en programmatisk garanterad affär med [!DNL Deal ID Inbox] {#pg-setup-deal-id-inbox}
 
-Detta är den metod som rekommenderas för [!DNL FreeWheel], [!DNL Google Authorized Buyers] och [!DNL Magnite DV+].
+Detta är den metod som rekommenderas för [!DNL FreeWheel], [!DNL Google Authorized Buyers]och [!DNL Magnite DV+].
 
 1. [Acceptera erbjudandet](deal-id-inbox-accept.md).
 
@@ -34,23 +34,32 @@ Detta är den metod som rekommenderas för [!DNL FreeWheel], [!DNL Google Author
 
    * Om du bara tecknar ett enstaka erbjudande omdirigeras du automatiskt till arbetsflödet för att skapa standardplaceringar i PG.
 
-      Alla [!DNL FreeWheel]-erbjudanden föreslås som ett enda avtal.
+      Alla [!DNL FreeWheel] Erbjudandena föreslås som ett enda avtal.
 
    * Om du godkänner ett förslag med flera PDF-avtal-ID:n ska du identifiera varje PG-standardplacering som du måste skapa. När du har skapat alla obligatoriska placeringar aktiveras knappen Fortsätt.
 
-1. (Valfritt) Rikta in dig på PG-erbjudandet i andra placeringar än PG.
+1. (Valfritt) Rikta in dig på PG-erbjudandet genom att klicka på ![Alternativ-menyn](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
+
+>[!NOTE]
+>
+>Det går att bifoga flera placeringar med stöd för olika typer (CTV, Desktop, Audio etc.) till samma erbjudande.
 
 ## Ställ in en programmatisk garanterad affär manuellt
 
 Använd den här metoden för alla andra SSP:er.
 
-1. [Ställ in information](deal-id-create.md) om erbjudande-ID manuellt.
+1. [Ställ in detaljer för erbjudande-ID manuellt](deal-id-create.md).
 
 1. När du har sparat erbjudandet väljer du de annonser som ska användas för erbjudandet och skapar en standardplacering för PG, enligt uppmaningen.
 
    Det är obligatoriskt att skapa en PG-standardplacering för erbjudandet för att få 100 % av köpet. Den här typen av placering har ingen inriktning så DSP kan returnera ett bud till alla anbudsförfrågningar från utgivaren.
 
-1. (Valfritt) Rikta in dig på PG-erbjudandet i andra placeringar än PG.
+1. (Valfritt) Rikta in dig på PG-erbjudandet genom att klicka på ![Alternativ-menyn](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
+
+>[!NOTE]
+>
+>Det går att bifoga flera placeringar med stöd för olika typer (CTV, Desktop, Audio etc.) till samma erbjudande.
+
 
 >[!MORELIKETHIS]
 >
