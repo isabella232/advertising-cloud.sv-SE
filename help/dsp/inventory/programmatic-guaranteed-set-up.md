@@ -3,9 +3,9 @@ title: Ställ in en programgarantiavtal
 description: Lär dig hur du skapar ett programmatiskt garantiavtal (PG) som du har förhandlat fram med en utgivare.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 9e371606-5428-4635-9653-7dc43449e489
-source-git-commit: 81b1074f86685f863f89a07ecd33e892e4933512
+source-git-commit: 3c9822890e96035fc9e44f8832efcc2889a8cb5f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -40,9 +40,7 @@ Detta är den metod som rekommenderas för [!DNL FreeWheel], [!DNL Google Author
 
 1. (Valfritt) Rikta in dig på PG-erbjudandet genom att klicka på ![Alternativ-menyn](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
 
->[!NOTE]
->
->Det går att bifoga flera placeringar med stöd för olika typer (CTV, Desktop, Audio etc.) till samma erbjudande.
+   Ett avtal kan vara avsett för flera praktik som stöder valfri kombination av medietyper (som ansluten TV, dator och ljud).
 
 ## Ställ in en programmatisk garanterad affär manuellt
 
@@ -56,10 +54,7 @@ Använd den här metoden för alla andra SSP:er.
 
 1. (Valfritt) Rikta in dig på PG-erbjudandet genom att klicka på ![Alternativ-menyn](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
 
->[!NOTE]
->
->Det går att bifoga flera placeringar med stöd för olika typer (CTV, Desktop, Audio etc.) till samma erbjudande.
-
+   Ett avtal kan vara avsett för flera praktik som stöder valfri kombination av medietyper (som ansluten TV, dator och ljud).
 
 >[!MORELIKETHIS]
 >
