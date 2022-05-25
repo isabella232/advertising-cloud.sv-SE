@@ -3,9 +3,9 @@ title: Annonsspecifikationer
 description: Referera till allmänna och utgivarspecifika annonsspecifikationer.
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: f3d4dcfdaaaa4b9546e92ac6d1087e73e5054a26
+source-git-commit: 3c5a114339c2bf41637027c8580316626656fbba
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '901'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,22 @@ Du kan använda märkordsblad från [!DNL DCM], [!DNL Flashtalking], [!DNL Innov
 #### Ytterligare utgivarkrav för anslutna TV-annonser
 
 * **Hulu:** Se Hulu&#39;s [annonsspecifikationer](https://advertising.hulu.com/ad-products/video-commercial/).
+
+* **Paramount:** Se Paramount&#39;s [annonsspecifikationer](https://www.paramount.com/digital-ads).
+
+* **Identifiering:** Se Identifierings [annonsspecifikationer](/help/dsp/assets/discovery-networks-ad-specs.pdf).
+
+* **HBO Max:** Se HBO Max [annonsspecifikationer](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
+
+* **A+E-nätverk:** Se A+E-nätverkets [annonsspecifikationer](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
+
+* **NBCUnversal:**
+
+   * [Digital Video](https://together.nbcuni.com/nbcu-creative-guidelines/digital-video/)
+
+   * [Livesream](https://together.nbcuni.com/nbcu-creative-guidelines/livestream/)
+
+   * [Peacock](https://together.nbcuni.com/nbcu-creative-guidelines/peacock/)
 
 * **Disney:**
 
