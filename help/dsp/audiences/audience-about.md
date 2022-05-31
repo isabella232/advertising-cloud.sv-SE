@@ -3,9 +3,9 @@ title: Om Audience Management i Advertising Cloud DSP
 description: Läs om funktioner för målgruppshantering.
 feature: DSP Audiences, DSP Segments
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 3b44e8e019bfc4bab2ee65ac028313752cb4a0e0
 workflow-type: tm+mt
-source-wordcount: '1024'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,11 @@ Det finns även andra typer av målgrupper att tillgå för riktad marknadsföri
 
 ## Importera datasegment från första och tredje part
 
-Advertising Cloud DSP kan importera egna datasegment från första part från datahanteringsplattformen (DMP) och tillhandahålla dem till alla typer av annonsörer efter behov.
+DSP kan importera egna datasegment från första part från datahanteringsplattformen (DMP) och tillhandahålla dem till alla typer av annonsörer efter behov.
 
-Advertising Cloud DSP kan även importera egna tredjepartssegment, inklusive komplexa kombinationer av tredjepartssegment. Ni kan vid behov tillhandahålla segmenten till valfri uppsättning annonsörer.
+DSP är ett integrerat mål för [den [!DNL Adobe Real-Time Customer Data Profile (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html)så att ni kan dela autentiserade förstahandssegment med godkända annonsörer och användare för kampanjaktivering. Mer information om Real-Time CDP-integrationen finns i [Avsnittet Källor](/help/dsp/audiences/sources/source-about.md).
+
+DSP kan även importera egna tredjepartssegment, inklusive komplexa kombinationer av tredjepartssegment. Ni kan vid behov tillhandahålla segmenten till valfri uppsättning annonsörer.
 
 Kontakta [!DNL Adobe] kontoteam för mer information.
 
@@ -40,9 +42,9 @@ Kontakta [!DNL Adobe] kontoteam för mer information.
 
 Du kan rikta dina placeringar till alla följande typer av målgrupper.
 
-* Alla användarskapade målgruppsuppsättningar som sparades i Advertising Cloud DSP.
+* Alla användarskapade målgruppsuppsättningar som sparades i DSP.
 
-* Alla användarskapade målgruppssegment som skapades i Advertising Cloud DSP:
+* Alla användarskapade målgruppssegment som skapades i DSP:
 
    * Anpassade segment för användare som besökte specifika webbsidor och användare som exponerats för visningar av specifika annonser.
 
@@ -52,21 +54,21 @@ Du kan rikta dina placeringar till alla följande typer av målgrupper.
 
 * Alla importerade anpassade datasegment från tredje part.
 
-* (Endast praktik i USA) [Alla tredjepartsdatasegment som är tillgängliga för Advertising Cloud DSP-kunder från över 30 leverantörer](/help/dsp/audiences/third-party-data-providers.md), inklusive [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast]och många fler.
+* (Endast praktik i USA) [Alla tredjepartsdatasegment som är tillgängliga för DSP kunder från över 30 leverantörer](/help/dsp/audiences/third-party-data-providers.md), inklusive [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast]och många fler.
 
    Du kan rikta in dig på specifika segment, som riktar sig till användare baserat på målgruppsdata (t.ex. användare med specifika demografiska profiler, intressen eller avsikter samt/eller beteendeprofiler). Du kan bläddra efter dataleverantör och kategori, söka efter segment efter namn eller segment-ID eller filtrera resultaten efter dataleverantör, total segmentstorlek, webbläsarantal eller antal enheter.
 
    Extra avgifter tillkommer för segment från tredje part, vilket anges bredvid varje segmentnamn.
 
-* (Annonsörer med Adobe Experience Cloud, Adobe Audience Manager eller Adobe Analytics som endast använder Advertising Cloud JavaScript-konverteringstaggar) Alla tillgängliga första-, andra- eller tredjepartssegment som skapats i Adobe Experience Cloud, skapats i Audience Manager eller publicerats i Adobe Experience Cloud från Audience Manager eller [!DNL Analytics].
+* (Annonsörer med Adobe Experience Platform och [!DNL Real-Time CDP], Adobe Audience Manager eller Adobe Analytics som endast använder Advertising Cloud JavaScript-konverteringstaggar) Alla tillgängliga första-, andra- eller tredjepartssegment som skapats i [!DNL Real-Time CDP], skapat i Audience Manager eller publicerat till Adobe Experience Cloud från Audience Manager eller [!DNL Analytics].
 
-   Priset för segmenten är förförhandlat och syns inte i Advertising Cloud.  <!-- Verify -->
+   Priset för segmenten är förförhandlat och syns inte i DSP.
 
-   Segment från Adobe Experience Cloud är tillgängliga ungefär en timme efter att du har skapat eller publicerat dem i Adobe Experience Cloud. Segment som kommer direkt från Audience Manager är tillgängliga cirka 24 timmar efter att du har skapat dem. <!-- Verify all -->
+   Segment från [!DNL Analytics] är tillgängliga ungefär en timme efter att du har skapat eller publicerat dem som Experience Cloud-målgrupper. Segment som kommer direkt från Audience Manager eller [!DNL Real-Time CDP] är tillgängliga inom 24 timmar efter att du delat dem.
 
    >[!NOTE]
    >
-   >Läs dokumentationen för [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analyser](https://experienceleague.adobe.com/docs/analytics.html)och [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) för information om hur du ställer in och samlar in data för segment i dessa lösningar.
+   >Läs dokumentationen för [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analyser](https://experienceleague.adobe.com/docs/analytics.html)och [den [!DNL Real-Time CDP]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segment-builder-guide.html) för information om hur du ställer in och samlar in data för segment i dessa lösningar.
 
 ## Målgruppsstorleksdata
 

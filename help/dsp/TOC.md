@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Lär dig mer om de viktigaste funktionerna, arbetsuppgifterna, inställningarna och andra resurser som krävs för att hantera, optimera och rapportera om era strategier för displayannonsering med Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: 4dd819cd5feb47bce8ad56e5210c6d3c224389cb
+source-git-commit: b56bda435ef8a34b4dd695a45dea28cef2b51c85
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 0%
       + [Riktlinjer för godkända hälsosegment](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
       + [[!DNL DSP] Riktlinjer för dataanvändning](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
    + [Avancerade mätningslösningar](/help/dsp/introduction/advanced-measurement-services.md)
-+ Kampanjhantering {#campaign-management}
++ Campaign Management {#campaign-management}
    + [Översikt över Campaign Management Structure](/help/dsp/campaign-management/campaign-management-overview.md)
    + Kampanjer {#campaigns}
       + [Om Campaign Management](/help/dsp/campaign-management/campaigns/campaign-about.md)
@@ -84,7 +84,7 @@ ht-degree: 0%
          + [Ljudannonsinställningar](/help/dsp/campaign-management/ads/ad-settings-audio.md)
          + [Inställningar för ansluten TV](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
          + [Visa annonsinställningar](/help/dsp/campaign-management/ads/ad-settings-display.md)
-         + [Mobile Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+         + [Inställningar för mobilannonsering](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
          + [Annonsinställningar för inbyggd visning](/help/dsp/campaign-management/ads/ad-settings-native.md)
          + [Inställningar för annonsering före registrering](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
       + [Specifikationer för annonstyper som stöds](/help/dsp/campaign-management/ads/ad-specs.md)
@@ -131,6 +131,11 @@ ht-degree: 0%
       + [Skapa en återanvändbar publik](/help/dsp/audiences/reusable-audience-create.md)
       + [Målgruppsinställningar](/help/dsp/audiences/audience-settings.md)
       + [Syntax för målgruppssegmentslogik](/help/dsp/audiences/audience-segment-logic-syntax.md)
+   + Hantera källor {#sources}
+      + [Om aktivering av autentiserade segment från målgruppskällor](/help/dsp/audiences/sources/source-about.md)
+      + [Aktivera autentiserade segment från varaktiga ID-partners](/help/dsp/audiences/sources/source-durable-id.md)
+      + [Skapa en målgruppskälla för att aktivera förstahandspubliker](/help/dsp/audiences/sources/source-create.md)
+      + [Inställningar för målgruppskälla](/help/dsp/audiences/sources/source-settings.md)
    + [Tillgängliga dataproviders från tredje part](/help/dsp/audiences/third-party-data-providers.md)
 + Lager {#inventory}
    + [Översikt över inventeringsfunktioner](/help/dsp/inventory/inventory-overview.md)
