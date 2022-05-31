@@ -2,9 +2,9 @@
 title: 'Aktivera autentiserade segment från varaktiga ID-partners '
 description: Lär dig hur du aktiverar autentiserade målgrupper med en hållbar ID-lösning.
 feature: DSP Audiences
-source-git-commit: 8550b539676588c3a6bc07abe088b38bd4251725
+source-git-commit: 155ab740084bebfba5fd992a23706129668fcc90
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ Läs mer om DSP integration med [!DNL LiveRamp], kontakt `adcloud-support@adobe.
 
 >[!MORELIKETHIS]
 >
->*[Om aktivering av autentiserade segment från målgruppskällor](source-about.md)
+>* [Om aktivering av autentiserade segment från målgruppskällor](source-about.md)
 >* [Skapa en målgruppskälla för att aktivera förstahandspubliker](source-create.md)
 >* [Inställningar för målgruppskälla](source-settings.md)
 >* [Adobe Advertising Cloud DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
