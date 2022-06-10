@@ -3,9 +3,9 @@ title: Certifierade annonserande partners
 description: Se alla certifierade annonsservrar och annonsenheter.
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: ed8e81a87a03d604a002937c5071873fc530f100
+source-git-commit: 97085be7b8c1e7ab741c76801fb258295eb4714c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 0%
 | [!DNL Innovid] | X | X |  | X |  |
 | [!DNL InSkin] |  |  | X |  | Slagskal med hög effekt måste levereras från ett 180 × 150-ID för visningsavtal i Inskin-lagernätverket. |
 | [!DNL Jivox] |  | X |  |  |  |
-| [!DNL Kargo] |  | X |  |  | 320x50 ankare, BYOC, Hover, Breakout och Sidekick; 300x250 Outstream; Standardannonser för Desktop Display (specifika plugin-id:n för annonser krävs inte).</br></br>Kontakta [!DNL Adobe] kontoteam för hjälp med att konfigurera annonsenheter. |
+| [!DNL Kargo] |  | X |  |  | 320x50 ankare, BYOC, Hover, Breakout och Sidekick; 300x250 Outstream; Standardvisning för skrivbord (specifika plugin-id:n för annonser krävs inte).</br></br>Kontakta [!DNL Adobe] kontoteam för hjälp med att konfigurera annonsenheter. |
 | [!DNL Linkstorm] |  |  | X |  |  |
 | [!DNL mCanvas] |  |  | X |  |  |
 | [!DNL Medialets] |  | X |  |  |  |
@@ -50,12 +50,12 @@ ht-degree: 0%
 | [!DNL Pubmatic] |  |  |  | X | Endast VAST |
 | [!DNL RevJet] |  |  |  | X | Endast VAST |
 | [!DNL Seedtag] |  | X |  |  |  |
-| [!DNL Sizmek] |  | X |  |  | Certifierad för OLV och CTV.</br></br>Om du vill att taggarna ska återges i användargränssnittet omsluter du taggen med `<a>` -taggar (i början och slutet). Se exempeltaggen nedan:</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
+| [!DNL Sizmek] |  | X |  |  | OLV och CTV</br></br>Om du vill att taggarna ska återges i användargränssnittet omsluter du taggen med `<a>` -taggar (i början och slutet). Se exempeltaggen nedan:</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
 | [!DNL Spaceback] |  | X |  |  |  |
 | [!DNL Spirable] |  | X |  |  |  |
 | [!DNL SUBLIME] |  |  | X |  |  |
 | [!DNL SundaySky] |  |  |  | X |  |
-| [!DNL Teads] |  | X |  |  |  | Advertising Cloud DSP stöder inte VPAID i Outstream-lager. |
+| [!DNL Teads] |  | X |  |  | Advertising Cloud DSP stöder inte VPAID i Outstream-lager. |
 | [!DNL Trueffect] |  | X |  |  |  |
 | [!DNL Undertone] |  |  | X |  | Anpassa sidnummer har överförts som 180 x 150 i DSP</br></br>När Index Exchange skickar en 180 × 150-auktion och DSP bud på auktionen och ger ett intryck, utvidgas den kreativa processen till en helsidesannons.</br></br>Inledningsvis certifierad för annonsenheterna Page Grabber, Expandable Adhesion och Screen Shift. Detta måste certifieras på nytt, med steg markerade för processer. |
 | [!DNL Vox] |  |  | X |  | [!DNL Athena] annonsenheter |
