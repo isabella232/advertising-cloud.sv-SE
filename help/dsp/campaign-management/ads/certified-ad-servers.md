@@ -3,9 +3,9 @@ title: Certifierade annonserande partners
 description: Se alla certifierade annonsservrar och annonsenheter.
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: f9b2dc85c71ac603609d3cd7168cb09b1b7cac16
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -41,23 +41,10 @@ ht-degree: 0%
 | [!DNL Innovid] | X | X |  | X |  |
 | [!DNL InSkin] |  |  | X |  | Slagskal med hög effekt måste levereras från ett 180 × 150-ID för visningsavtal i Inskin-lagernätverket. |
 | [!DNL Jivox] |  | X |  |  |  |
-| [!DNL Kargo] |  | X |  |  | 320x50 ankare, BYOC, Hover, Breakout och Sidekick; 300x250 Outstream </br></br>Kontakta [!DNL Adobe] kontoteam för hjälp med att konfigurera annonsenheter. |
-| [!DNL Linkstorm] |  |  | X |  |  |
-| [!DNL mCanvas] |  |  | X |  |  |
-| [!DNL Medialets] |  | X |  |  |  |
-| [!DNL Moat] | X | X |  | X |  |
-| [!DNL PLAYGROUND XYZ] |  |  | X |  |  |
-| [!DNL Pubmatic] |  |  |  | X | Endast VAST |
-| [!DNL RevJet] |  |  |  | X | Endast VAST |
-| [!DNL Seedtag] |  | X |  |  |  |
-| [!DNL Sizmek] |  | X |  |  | Om du vill att taggarna ska återges i användargränssnittet omsluter du taggen med `<a>` -taggar (i början och slutet). Se exempeltaggen nedan:</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
-| [!DNL Spaceback] |  | X |  |  |  |
-| [!DNL Spirable] |  | X |  |  |  |
-| [!DNL SUBLIME] |  |  | X |  |  |
-| [!DNL SundaySky] |  |  |  | X |  |
-| [!DNL Trueffect] |  | X |  |  |  |
-| [!DNL Undertone] |  |  | X |  | Anpassa sidnummer som har laddats upp som 180 × 150 i Advertising Cloud DSP</br></br>När Index Exchange skickar en 180 × 150-auktion och DSP bud på auktionen och ger ett intryck, utvidgas den kreativa processen till en helsidesannons.</br></br>Inledningsvis certifierad för annonsenheterna Page Grabber, Expandable Adhesion och Screen Shift. Detta måste certifieras på nytt, med steg markerade för processer. |
-| [!DNL Vox] |  |  | X |  | [!DNL Athena] annonsenheter |
-| [!DNL Wunderkind] |  | X |  |  |  |
+| [!DNL Kargo] |  | X |  |  | 320x50 ankare, BYOC, Hover, Breakout och Sidekick; 300x250 Outstream |
+Standardannonser för Desktop Display (specifika plugin-ID:n för annonser krävs INTE).
+</br></br>Kontakta [!DNL Adobe] kontoteam för hjälp med att konfigurera annonsenheter. | | [!DNL Linkstorm] | | | X | | | | [!DNL mCanvas] | | | X | | | | [!DNL Medialets] | | X | | | | | [!DNL Moat] | X | X | | X | | | [!DNL PLAYGROUND XYZ] | | | X | | | | [!DNL Pubmatic] | | | | X | Endast VAST | | [!DNL RevJet] | | | | X | Endast VAST | | [!DNL Seedtag] | | X | | | | | [!DNL Sizmek] | | X | | | Sizmek är certifierat för OLV och CTV. Ljudet är inte certifierat.
+Om du vill att taggarna ska återges i användargränssnittet omsluter du taggen med `<a>` -taggar (i början och slutet). Se exempeltaggen nedan:</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` | | [!DNL Spaceback] | | X | | | | | [!DNL Spirable] | | X | | | | | [!DNL SUBLIME] | | | X | | | | [!DNL SundaySky] | | | | X | | | [!DNL Teads] | | X | | | | Team certifierade för bildskärm. Adobe stöder inte VPAID i utgående lager.
+| [!DNL Trueffect] | | X | | | | | [!DNL Undertone] | | | X | | Anpassad sidbrytningsannonsenhet överförd som 180x150 i Advertising Cloud DSP</br></br>När Index Exchange skickar en 180 × 150-auktion och DSP bud på auktionen och ger ett intryck, utvidgas den kreativa processen till en helsidesannons.</br></br>Inledningsvis certifierad för annonsenheterna Page Grabber, Expandable Adhesion och Screen Shift. Detta måste certifieras på nytt, med steg markerade för processer. | | [!DNL Vox] | | | X | | [!DNL Athena] annonsenheter | | [!DNL Wunderkind] | | X | | | |
 
 {style=&quot;table-layout:auto&quot;}
