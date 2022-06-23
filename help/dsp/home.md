@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 611589fd6fa7067a6e5c6ddfb1f8bb5ed700a44b
+source-git-commit: 602d2dd36a83f5f438c444e8ccaaec92054f0186
 workflow-type: tm+mt
-source-wordcount: '1530'
+source-wordcount: '1560'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,7 @@ Följande funktioner är nya eller nyligen ändrade.
 | Datum | Funktion | Beskrivning | Mer information |
 | ---- | ------- | ----------- | -------------------- |
 | 31 maj 2022 | Målgruppskällor | (Betafunktion) Advertising Cloud DSP kan nu importera förstahandssegment som består av autentiserade signaler som är byggda inom en kunddataplattform (CDP). | Se &quot;[Om aktivering av autentiserade segment från målgruppskällor](/help/dsp/audiences/sources/source-about.md).&quot; |
+| 25 maj 2022 | Optimeringsmål | Video och inbyggda utskrifter kan nu inkluderas i paket med de anpassade målen Högsta ROAS och Lägsta CPA. | Se &quot;[Optimeringsmål och Så här använder du dem](/help/dsp/optimization/optimization-goals.md).&quot; |
 | 12 april 2022 | Campaign Management | Ad-specifikationerna uppdaterades för att återspegla det aktuella stödet. | Se &quot;[Specifikationer för annonstyper som stöds](/help/dsp/campaign-management/ads/ad-specs.md).&quot; |
 | 17 februari 2022 | Videosjälvstudiekurser | Det finns en ny video om hur du skapar en standardbildskärmsplacering. | Se [Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html). |
 | 31 januari 2022 | Hjälp | Ytterligare information om [!DNL Deal IDs] och [!DNL Simple Ad Serving] är nu tillgängligt. | Se underkapitlet Inventory > Private Inventory. |
