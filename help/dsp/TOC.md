@@ -8,7 +8,7 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Lär dig mer om de viktigaste funktionerna, arbetsuppgifterna, inställningarna och andra resurser som krävs för att hantera, optimera och rapportera om era strategier för displayannonsering med Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: b56bda435ef8a34b4dd695a45dea28cef2b51c85
+source-git-commit: f4719ee56f340c5969795dfc482e2b409244757b
 workflow-type: tm+mt
 source-wordcount: '886'
 ht-degree: 0%
@@ -165,10 +165,10 @@ ht-degree: 0%
             + [Tips för att förhandla om ett program med garanterad programmering](/help/dsp/inventory/programmatic-guaranteed-tips.md)
             + [Ställ in en programgarantiavtal](/help/dsp/inventory/programmatic-guaranteed-set-up.md)
             + [!DNL FreeWheel] Programmatiska garanterade erbjudanden {#freewheel}
-            + [Översikt över hur man ställer in garantierbjudanden för programmatiska inköp i [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
-            + [Skicka in en annons för en programmatisk garanterad affär till [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
-            + [Kontrollera status för annonserna [!DNL FreeWheel] Programmatiska garanterade erbjudanden](/help/dsp/inventory/freewheel-check-status.md)
-            + [Felkoder för FreeWheel Ad-överföringar](/help/dsp/inventory/freewheel-error-codes.md)
+               + [Översikt över hur man ställer in garantierbjudanden för programmatiska inköp i [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
+               + [Skicka in en annons för en programmatisk garanterad affär till [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
+               + [Kontrollera status för annonserna [!DNL FreeWheel] Programmatiska garanterade erbjudanden](/help/dsp/inventory/freewheel-check-status.md)
+               + [Felkoder för FreeWheel Ad-överföringar](/help/dsp/inventory/freewheel-error-codes.md)
          + [Redigera inställningar för avtal-ID](/help/dsp/inventory/deal-id-edit.md)
          + [Ange placeringar och annonser för ett avtal-ID](/help/dsp/inventory/deal-id-attach-placements.md)
          + [Redigera konton med åtkomst till ett avtal-ID](/help/dsp/inventory/deal-id-share.md)
