@@ -3,9 +3,9 @@ title: Skapa och implementera ett anpassat segment
 description: Lär dig hur du skapar och implementerar ett anpassat segment för att spåra användare som exponeras för annonser eller användare som besöker dina webbsidor.
 feature: DSP Segments
 exl-id: 691903e2-773e-4205-837e-822f435f57a7
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: b6e77b91ad5626bb9ece45ec3f01126715dbe37b
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -16,17 +16,17 @@ Ni kan samla in era egna data från förstapartsmålgrupper genom att skapa och 
 
 >[!NOTE]
 >
->Om du vill spåra användar-ID:n från förfrågningar om avanmälan från försäljning på din webbplats, enligt California Consumer Privacy Act (CCPA), skapar du ett [CCPA-segment för avanmälan från försäljning](ccpa-opt-out-segment-create.md).
+>Om du vill spåra användar-ID:n från förfrågningar om avanmälan till försäljning på din webbplats, enligt California Consumer Privacy Act (CCPA), skapar du en [CCPA Avanmäl segmentet](ccpa-opt-out-segment-create.md).
 
 1. Skapa segmentet:
 
-   1. Klicka på **[!UICONTROL Audiences]>[!UICONTROL Segments]** på huvudmenyn.
+   1. På huvudmenyn klickar du på **[!UICONTROL Audiences]>[!UICONTROL Segments]**.
 
    1. Ovanför datatabellen klickar du på **[!UICONTROL Create]**.
 
    1. Ange ett unikt **[!UICONTROL Segment Name]**.
 
-   1. Välj **[!UICONTROL Custom]** för [!UICONTROL Segment Type].
+   1. För [!UICONTROL Segment Type], markera **[!UICONTROL Custom]**.
 
    1. Ange segmentfönstret, vilket är antalet dagar som en användares cookie stannar kvar i segmentet.
 
@@ -36,22 +36,22 @@ Ni kan samla in era egna data från förstapartsmålgrupper genom att skapa och 
 
 1. Kopiera och implementera taggar för att spåra segmentet efter behov:
 
-   1. Gå tillbaka till **[!UICONTROL Audiences]>[!UICONTROL Segments]**.
+   1. Återgå till **[!UICONTROL Audiences]>[!UICONTROL Segments]**.
 
-   2. Håll markören över segmentraden och klicka på **[!UICONTROL Get pixel]**.
+   2. Håll markören över segmentraden och klicka **[!UICONTROL Get pixel]**.
 
       * Så här spårar du besökare på en webbsida:
 
-         1. Kopiera spårningstaggen för sidvyn, som heter &quot;[!UICONTROL Desktop or mobile websites]&quot;.
+         1. Kopiera spårningstaggen för sidvyn, som har etiketten[!UICONTROL Desktop or mobile websites].&quot;
 
          1. Ge annonsören eller webbplatskontakten taggen för distribution.
 
             Annonsörens IT-avdelning eller annan grupp kan behöva schemalägga, eller få information om, tagghanteringen.
       * Så här spårar du användare som exponeras för en annonsenhet på datorer, mobila enheter eller CTV-enheter:
 
-         1. Kopiera taggen för visningsspårning, som är märkt [!UICONTROL Desktop or mobile ads].
+         1. Kopiera taggen för visningsspårning, som har etiketten &quot;[!UICONTROL Desktop or mobile ads].&quot;
 
-         1. Lägg till taggen på fliken [!UICONTROL Pixel] för valfri annons. <!-- I'll add cross-reference to ad settings later. -->
+         1. Lägg till taggen i antingen [!UICONTROL Pixel] flik för varje relevant annons eller för [!UICONTROL Event Pixels] i [[!UICONTROL Tracking] inställningar för varje relevant placering](/help/dsp/campaign-management/placements/placement-settings.html#placement-tracking).
 
 
 När du har implementerat en spårningstagg kan du använda segmentet i målgruppen eller exkluderingarna för alla placeringar.
@@ -63,7 +63,7 @@ När du har implementerat en spårningstagg kan du använda segmentet i målgrup
 >[!MORELIKETHIS]
 >
 >* [Om Audience Management](audience-about.md)
->* [Skapa och implementera ett  [!UICONTROL CCPA Opt-Out-of-Sale] segment](ccpa-opt-out-segment-create.md)
+>* [Skapa och implementera en [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
 >* [Skapa en återanvändbar publik](reusable-audience-create.md)
 >* [Målgruppsinställningar](audience-settings.md)
 >* [Tillgängliga dataproviders från tredje part](third-party-data-providers.md)
