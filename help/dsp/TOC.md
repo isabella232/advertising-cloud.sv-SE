@@ -8,15 +8,23 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Lär dig mer om de viktigaste funktionerna, arbetsuppgifterna, inställningarna och andra resurser som krävs för att hantera, optimera och rapportera om era strategier för displayannonsering med Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: f4719ee56f340c5969795dfc482e2b409244757b
+source-git-commit: d72707f9628e8e39eae36115b057d1cd332012f5
 workflow-type: tm+mt
-source-wordcount: '886'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
 # Advertising Cloud DSP Guide {#dsp}
+
+<!-- add back to about below "Edit the Advertisers with Access to a Deal ID" when reintroduced:
+      + [Edit the Attribute Tags for a Deal ID](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
+-->
+
+<!-- add back to Inventory > SAS section when reimplemented:
+      +  [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-show-pixels.md)
+-->
 
 + [Nyheter](/help/dsp/home.md)
 + Introduktion {#introduction}
@@ -169,19 +177,18 @@ ht-degree: 0%
                + [Skicka in en annons för en programmatisk garanterad affär till [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
                + [Kontrollera status för annonserna [!DNL FreeWheel] Programmatiska garanterade erbjudanden](/help/dsp/inventory/freewheel-check-status.md)
                + [Felkoder för FreeWheel Ad-överföringar](/help/dsp/inventory/freewheel-error-codes.md)
-         + [Redigera inställningar för avtal-ID](/help/dsp/inventory/deal-id-edit.md)
-         + [Ange placeringar och annonser för ett avtal-ID](/help/dsp/inventory/deal-id-attach-placements.md)
-         + [Redigera konton med åtkomst till ett avtal-ID](/help/dsp/inventory/deal-id-share.md)
-         + [Redigera annonsörer med åtkomst till ett avtal-ID](/help/dsp/inventory/deal-id-edit-advertisers.md)
-         + [Redigera attributtaggar för ett erbjudande-ID](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
-      + [!UICONTROL Simple Ad Serving] Erbjudanden {#sas}
-         + [Om [!UICONTROL Simple Ad Serving]](/help/dsp/inventory/simple-deal-about.md)
-         + [Skapa en [!UICONTROL Simple Ad Serving] Erbjudande](/help/dsp/inventory/simple-deal-create.md)
-         + [[!UICONTROL Simple Ad Serving] Avtalsinställningar](/help/dsp/inventory/simple-deal-settings.md)
-         + [Visa händelsespårningspixlar för en [!UICONTROL Simple Ad Serving] Erbjudande](/help/dsp/inventory/simple-deal-show-pixels.md)
+      + [Redigera inställningar för privat avtal](/help/dsp/inventory/deal-id-edit.md)
+      + [Ange placeringar och annonser för ett privat avtal](/help/dsp/inventory/deal-id-attach-placements.md)
+      + [Redigera konton med åtkomst till ett privat avtal](/help/dsp/inventory/deal-id-share.md)
+      + [Redigera annonsörer med tillgång till ett privat avtal](/help/dsp/inventory/deal-id-edit-advertisers.md)
       + [Lista placeringar och annonser för ett privat avtal](/help/dsp/inventory/private-deal-view-placements.md)
-      + [Visa en detaljerad rapport om ett privat avtal](/help/dsp/inventory/private-deal-view-report.md)
       + [Arkivera eller arkivera ett privat avtal](/help/dsp/inventory/private-deal-archive-unarchive.md)
+   + [!UICONTROL Simple Ad Serving] Erbjudanden {#sas}
+      + [Om [!UICONTROL Simple Ad Serving]](/help/dsp/inventory/simple-deal-about.md)
+      + [Skapa en [!UICONTROL Simple Ad Serving] Erbjudande](/help/dsp/inventory/simple-deal-create.md)
+      + [Redigera [!UICONTROL Simple Ad Serving] Avtalsinställningar](/help/dsp/inventory/simple-deal-edit.md)
+      + [[!UICONTROL Simple Ad Serving] Avtalsinställningar](/help/dsp/inventory/simple-deal-settings.md)
+   + [Visa en detaljerad rapport för ett avtal](/help/dsp/inventory/deal-view-report.md)
 + Anpassade rapporter {#custom-reports}
    + [Om anpassade rapporter](/help/dsp/reports/report-about.md)
    + [Skapa en anpassad rapport](/help/dsp/reports/report-create.md)
