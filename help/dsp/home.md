@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: e29853b728cd3efbb374179ca6af8d095b77df43
+source-git-commit: c5441225b9bf4013e81d0631ccb67c3505ee34f4
 workflow-type: tm+mt
-source-wordcount: '1611'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,7 @@ Följande funktioner är nya eller nyligen ändrade.
 | Datum | Funktion | Beskrivning | Mer information |
 | ---- | ------- | ----------- | -------------------- |
 | 29 juni 2022 | Lager | Den nya [!UICONTROL Inventory] > [!UICONTROL Deals] vyn innehåller samma funktioner för dataanpassning som [!UICONTROL Campaigns] vyer, inklusive ytterligare filter, kolumnanpassning och möjlighet att spara anpassade vyer, kolumnsortering och diagramvyer. Du kan öppna en kommandomeny i varje rad genom att klicka på [!UICONTROL ...] efter avtalsnamnet. | Se &quot;[Översikt över inventeringsfunktioner](/help/dsp/inventory/inventory-overview.md).&quot; |
+|  | Lager [!UICONTROL Inspector] | The [!UICONTROL Inventory] placeringsfliken [!UICONTROL Inspector] inkluderar nu anpassningsbara datavisualiseringskartor och utökade prestandamått, som [!UICONTROL Viewability Rate], [!UICONTROL Clicks]och [!UICONTROL Yesterday's CPM]. | Se &quot;[Visa Sites, Ads, Frequency och Inventory Details för en placering](/help/dsp/campaign-management/reports/placement-details-view.md).&quot; |
 | 31 maj 2022 | Målgruppskällor | (Betafunktion) Advertising Cloud DSP kan nu importera förstahandssegment som består av autentiserade signaler som är byggda inom en kunddataplattform (CDP). | Se &quot;[Om aktivering av autentiserade segment från målgruppskällor](/help/dsp/audiences/sources/source-about.md).&quot; |
 | 25 maj 2022 | Optimeringsmål | Video och inbyggda utskrifter kan nu inkluderas i paket med de anpassade målen Högsta ROAS och Lägsta CPA. | Se &quot;[Optimeringsmål och Så här använder du dem](/help/dsp/optimization/optimization-goals.md).&quot; |
 | 12 april 2022 | Campaign Management | Ad-specifikationerna uppdaterades för att återspegla det aktuella stödet. | Se &quot;[Specifikationer för annonstyper som stöds](/help/dsp/campaign-management/ads/ad-specs.md).&quot; |
