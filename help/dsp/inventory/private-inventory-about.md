@@ -3,9 +3,9 @@ title: Om privat lager
 description: Om privat lager
 feature: DSP Private Inventory
 exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
-source-git-commit: ad4bdfdc637af34b02c42d6547c39301f2a0cf47
+source-git-commit: 0fb8417ed6ed261077affd4db071e207731058f9
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,8 @@ Ni kan använda varje privat erbjudande som ett placeringsmål för flera kampan
 ## Vyn Erbjudanden
 
 I [!UICONTROL Inventory] > [!UICONTROL Deals] kan du skapa inställningar för privata avtal. Du kan även redigera vissa inställningar för avtal; göra en lista över placeringar och annonser och bifoga ytterligare placeringar och annonser till ett avtal, redigera de annonsörer och konton som har tillgång till ett avtal, visa en rapport om ett privat avtal, eller arkivera eller arkivera ett avtal.<!-- ; or edit the attribute tags for a deal -->
+
+Du kan anpassa hur befintliga avtalsdata presenteras ytterligare genom att använda filter, anpassa de synliga kolumnerna och eventuellt spara anpassade vyer, sortera kolumnerna och visa data som diagram.
 
 >[!MORELIKETHIS]
 >

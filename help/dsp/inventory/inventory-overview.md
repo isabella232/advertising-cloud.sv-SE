@@ -3,9 +3,9 @@ title: Översikt över inventeringsfunktioner i Advertising Cloud DSP
 description: Läs mer om tillgängliga lagerfunktioner.
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: e80eccbf2f87c1ad86a2cb689b44ca67e08248be
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,12 @@ Tillgängliga lagertyper är:
 * **Privat lager [!DNL Deal IDs]:** Konfigurera och hantera privata marknadsplatserbjudanden som du har förhandlat direkt 1:1 med utgivaren.
 
 * **[!DNL Simple Ad Serving]:** Använd strömlinjeformad teknik för garanterad, icke-beslutad annonsleverans och rapportering när utgivaren inte kan genomföra ditt avtal via ett erbjudande-ID.
+
+## Vyn Erbjudanden
+
+Du kan se alla dina befintliga erbjudanden i [!UICONTROL Inventory] > [!UICONTROL Deals] vy. Du kan anpassa hur befintliga avtalsdata presenteras ytterligare genom att använda filter, anpassa de synliga kolumnerna och eventuellt spara anpassade vyer, sortera kolumnerna och visa data som diagram.
+
+Du kan också skapa och hantera inställningar för privata avtal och [!DNL Simple Ad Serving] erbjudanden från [!UICONTROL Deals] vy. Visa och hantera [!DNL On Demand] lager, gå till [!UICONTROL Inventory] > [!UICONTROL On Demand].
 
 >[!MORELIKETHIS]
 >
