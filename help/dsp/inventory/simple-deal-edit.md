@@ -2,7 +2,8 @@
 title: Redigera [!UICONTROL Simple Ad Serving] Avtalsinställningar
 description: Lär dig hur du redigerar inställningarna för en [!UICONTROL Simple Ad Serving] erbjudande.
 feature: DSP Simple Ad Serving
-source-git-commit: cc0b5d73712fa1ab8955c444899a3e93ef1393b2
+exl-id: 025b299b-05ba-4e4e-ac92-8a738303bc32
+source-git-commit: f1fce966c8db2f4cde72ecf1cc900f3d5fb1a1a5
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 1%

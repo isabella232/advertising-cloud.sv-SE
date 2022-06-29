@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 602d2dd36a83f5f438c444e8ccaaec92054f0186
+source-git-commit: 6d9c4db1b16a68217c6bc110cf3e0b9a93c2caa6
 workflow-type: tm+mt
-source-wordcount: '1560'
+source-wordcount: '1604'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Följande funktioner är nya eller nyligen ändrade.
 
 | Datum | Funktion | Beskrivning | Mer information |
 | ---- | ------- | ----------- | -------------------- |
+| 29 juni 2022 | Lager | Den nya [!UICONTROL Inventory] > [!UICONTROL Deals] vyn har samma funktioner som [!UICONTROL Campaigns] vyer, inklusive filtrering, möjlighet att använda standardvyer och anpassade vyer, kolumnsortering samt tabell- och diagramvyer. Du kan öppna en kommandomeny i varje rad genom att klicka på [!UICONTROL ...] efter avtalsnamnet. | — |
 | 31 maj 2022 | Målgruppskällor | (Betafunktion) Advertising Cloud DSP kan nu importera förstahandssegment som består av autentiserade signaler som är byggda inom en kunddataplattform (CDP). | Se &quot;[Om aktivering av autentiserade segment från målgruppskällor](/help/dsp/audiences/sources/source-about.md).&quot; |
 | 25 maj 2022 | Optimeringsmål | Video och inbyggda utskrifter kan nu inkluderas i paket med de anpassade målen Högsta ROAS och Lägsta CPA. | Se &quot;[Optimeringsmål och Så här använder du dem](/help/dsp/optimization/optimization-goals.md).&quot; |
 | 12 april 2022 | Campaign Management | Ad-specifikationerna uppdaterades för att återspegla det aktuella stödet. | Se &quot;[Specifikationer för annonstyper som stöds](/help/dsp/campaign-management/ads/ad-specs.md).&quot; |

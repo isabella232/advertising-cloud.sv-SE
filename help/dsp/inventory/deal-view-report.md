@@ -2,7 +2,8 @@
 title: Visa en detaljerad rapport för en privat användare, [!UICONTROL On Demand], eller [!UICONTROL Simple Ad Serving] Erbjudande
 description: Lär dig hur du öppnar en rapport på avtalsnivå.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals, DSP On Demand Inventory, DSP Simple Ad Serving
-source-git-commit: 08b58c1d5c46761c7ab3ebf88ca87dddaadaaa47
+exl-id: cd39582e-0445-48ca-b2f6-90b410ce4a1c
+source-git-commit: f1fce966c8db2f4cde72ecf1cc900f3d5fb1a1a5
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
