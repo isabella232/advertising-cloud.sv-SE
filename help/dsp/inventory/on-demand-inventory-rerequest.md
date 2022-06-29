@@ -3,7 +3,7 @@ title: Begäran igen [!DNL On Demand] Premium Inventory Devices
 description: Lär dig hur du begär om [!DNL On Demand] avtal som tidigare nekats.
 feature: DSP On Demand Inventory
 exl-id: db5a5708-16e3-4304-8bd0-f1aa8ecd0e3c
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 0%
@@ -36,9 +36,9 @@ En gång i tiden är det [godkänd](/help/dsp/inventory/on-demand-inventory-view
 
    1. På huvudmenyn klickar du på **[!UICONTROL Inventory]>[!UICONTROL On Demand]**.
 
-   1. Filtrera de tillgängliga erbjudandena så att de omfattar de erbjudanden du har begärt (**[!UICONTROL Currently subscribed to]**)**.
+   1. Filtrera de tillgängliga erbjudandena så att de innehåller erbjudanden som du har begärt (**[!UICONTROL Currently subscribed to]**)**.
 
-   1. (Valfritt) Växla mellan [!UICONTROL Subscriptio] som visar alla utgivares logotyper baserat på dina filter och [!UICONTROL Deal] visa, som listar alla erbjudanden för varje utgivare baserat på dina filter, genom att klicka på **[!UICONTROL Subscription view]** och **[!UICONTROL Deal view]**, efter behov.
+   1. (Valfritt) Växla mellan [!UICONTROL Subscription] som visar alla utgivares logotyper baserat på dina filter och [!UICONTROL Deal] visa, som listar alla erbjudanden för varje utgivare baserat på dina filter, genom att klicka på **[!UICONTROL Subscription view]** och **[!UICONTROL Deal view]**, efter behov.
 
    1. Begär om de enskilda erbjudandena på nytt:
    * Från [!UICONTROL Deal] visa, klicka **[!UICONTROL Rerequest]** i [!UICONTROL Action] kolumn för den relevanta raden.

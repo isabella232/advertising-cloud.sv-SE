@@ -3,9 +3,9 @@ title: Om [!UICONTROL Deal ID Inbox]
 description: Läs mer om [!UICONTROL Deal ID inbox] som gör att du kan acceptera privata avtal som du redan har förhandlat med utgivare om [!DNL FreeWheel], [!DNL Google Authorized Buyers] (tidigare känt som [!DNL AdX]), and [!DNL Magnite DV+] (tidigare [!DNL Rubicon]).
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ Du kan inte acceptera följande typer av avtal:
 
 * Gammal [!DNL Magnite DV+] Erbjudanden som är märkta som&quot;flera medietyper&quot;.
 
-Avtalsinformationen innehåller anledningen till att erbjudandet inte är tillgängligt att acceptera.
+Avtalsdetaljerna innehåller anledningen till att erbjudandet inte är tillgängligt att acceptera.
 
 >[!MORELIKETHIS]
 >

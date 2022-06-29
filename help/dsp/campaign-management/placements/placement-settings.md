@@ -3,9 +3,9 @@ title: Placeringsinställningar
 description: Se beskrivningar av tillgängliga placeringsinställningar.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: c2fbaf3381ca4380c18d55931e9f4f662da892af
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '3278'
+source-wordcount: '3277'
 ht-degree: 0%
 
 ---
@@ -440,7 +440,7 @@ Vilken nivå av [Ads.txt](https://iabtechlab.com/ads-txt-about/) förfiltrera ge
             Annonsörens IT-avdelning eller annan grupp kan behöva schemalägga, eller få information om, tagghanteringen.
    1. Klicka på **[!UICONTROL Save]**.
 
-**[!UICONTROL 3rd-party Fees]:** (Valfritt) En statisk tredjepartsavgift som ska spåras som en icke fakturerbar kostnad per tusen visningar. Standardvärdet på paketnivå används automatiskt för nya placeringar, om det är tillämpligt, såvida du inte anger ett annat värde.
+**[!UICONTROL 3rd-party Fees]:** (Valfritt) En statisk tredjepartsavgift som ska spåras som en icke fakturerbar kostnad per 1 000 visningar. Standardvärdet på paketnivå används automatiskt för nya placeringar, om det är tillämpligt, såvida du inte anger ett annat värde.
 
 >[!NOTE]
 >
@@ -452,5 +452,5 @@ Vilken nivå av [Ads.txt](https://iabtechlab.com/ads-txt-about/) förfiltrera ge
 >* [Skapa en placering](placement-create.md)
 >* [Redigera en placering](placement-edit.md)
 >* [Kortkommandon](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
->* [Vanliga frågor om kampanjhantering](/help/dsp/campaign-management/campaign-management-faq.md)
+>* [Frågor och svar om Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 

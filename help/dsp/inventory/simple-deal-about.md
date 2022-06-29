@@ -3,9 +3,9 @@ title: Om [!UICONTROL Simple Ad Serving]
 description: Läs mer om [!UICONTROL Simple Ad Serving] hanterar med händelsespårande pixlar.
 feature: DSP Simple Ad Serving
 exl-id: d65d1d8e-4d10-4d1d-86d3-f4457c29ae8d
-source-git-commit: 5a8aaa3fba6cca33915fc9720c78493f98244b61
+source-git-commit: cdb4f7c014ee4c7606c2e6acd5b3e2bfd08b275d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,11 @@ Du kan skapa en [!UICONTROL Simple Ad Serving] i [!UICONTROL Inventory] > [!UICO
 >[!MORELIKETHIS]
 >
 >* [Skapa en [!UICONTROL Simple Ad Serving] Erbjudande](simple-deal-create.md)
+>* [Redigera [!UICONTROL Simple Ad Serving] Avtalsinställningar](simple-deal-edit.md)
 >* [[!UICONTROL Simple Ad Serving] Inställningar](simple-deal-settings.md)
->* [Visa händelsespårningspixlar för en [!UICONTROL Simple Ad Serving] Erbjudande](simple-deal-show-pixels.md)
+>* [Visa en detaljerad rapport för ett avtal](/help/dsp/inventory/deal-view-report.md)
 
+
+<!-- add back when reimplemented:
+>* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+-->

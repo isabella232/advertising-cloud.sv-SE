@@ -3,9 +3,9 @@ title: Visa din [!DNL On Demand] Avtalsförfrågningar och prenumerationer
 description: Lär dig hur du ser statusen för [!DNL On Demand] beställningar och prenumerationer.
 feature: DSP On Demand Inventory
 exl-id: 8dd6d922-c4a3-4ddb-bca9-f6f782da1320
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 När du har beställt ett enskilt avtal eller en prenumeration på alla utgivarerbjudanden, se om utgivaren har godkänt eller avvisat varje erbjudande för varje annonsör på ditt konto.
 
 1. På huvudmenyn klickar du på **[!UICONTROL Inventory]>[!UICONTROL On Demand]**.
-1. Filtrera de tillgängliga erbjudandena så att de omfattar erbjudanden som du har begärt eller prenumererat på (**[!UICONTROL Currently subscribed to]**)**.
+1. Filtrera de tillgängliga erbjudandena så att de innehåller erbjudanden som du har begärt eller prenumererat på (**[!UICONTROL Currently subscribed to]**)**.
 1. Gör något av följande:
    * Så här ser du erbjudandena i [!UICONTROL Deal] visa, klicka **[!UICONTROL Deal view]**.
    * Så här ser du erbjudandena i [!UICONTROL Subscription] vy:

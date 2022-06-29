@@ -3,9 +3,9 @@ title: Ställ in en programgarantiavtal
 description: Lär dig hur du skapar ett programmatiskt garantiavtal (PG) som du har förhandlat fram med en utgivare.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 9e371606-5428-4635-9653-7dc43449e489
-source-git-commit: 3c9822890e96035fc9e44f8832efcc2889a8cb5f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ När du har förhandlat om en programmatisk garanti (PG) med en utgivare som st�
 
 ## Konfigurera en programmatisk garanterad affär med [!DNL Deal ID Inbox] {#pg-setup-deal-id-inbox}
 
-Detta är den metod som rekommenderas för [!DNL FreeWheel], [!DNL Google Authorized Buyers]och [!DNL Magnite DV+].
+Följande metod rekommenderas för [!DNL FreeWheel], [!DNL Google Authorized Buyers]och [!DNL Magnite DV+].
 
 1. [Acceptera erbjudandet](deal-id-inbox-accept.md).
 

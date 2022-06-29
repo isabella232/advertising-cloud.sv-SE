@@ -3,9 +3,9 @@ title: Kolumner i hämtade/överförda kalkylblad
 description: Referera kolumnerna i hämtade och överförda Excel QA-kalkylblad.
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 15f1e22dbc742d372dcabf2c029f2f7d72ff1d2f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '733'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ ht-degree: 0%
 | [!UICONTROL Brand Safety] | [!UICONTROL Site Safety Block] | Om Site Safety Block är aktiverat eller inte: *[!UICONTROL ON]* eller *[!UICONTROL OFF]*.<!-- Whether or not the advertiser-level setting Enable Site Safety Block is enabled: *ON* or *OFF*.I don’t see this option at the placement level. Should there be one? --> | — |
 | [!UICONTROL Tracking] | [!UICONTROL Tracking Pixels #] | Antalet pixlar för händelsespårning från tredje part som är kopplade till placeringen, eller *[!UICONTROL None]*. | — |
 | [!UICONTROL Tracking] | [!UICONTROL Conversion Pixels #] | Antalet pixlar för konverteringsspårning som är kopplade till placeringen, eller *[!UICONTROL None]*. | — |
-| [!UICONTROL Tracking] | [!UICONTROL 3rd-party fees] | En statisk tredjepartsavgift som ska spåras som en icke fakturerbar kostnad per tusen visningar, om tillämpligt. | — |
+| [!UICONTROL Tracking] | [!UICONTROL 3rd-party fees] | En statisk tredjepartsavgift som ska spåras som en icke fakturerbar kostnad per 1000 visningar, om tillämpligt. | — |
 | [!UICONTROL Ads] | [!UICONTROL # of Ads Attached] | Antalet annonser som är kopplade till placeringen, om sådana finns, eller *[!UICONTROL None]*. | — |
 | [!UICONTROL Ads] | [!UICONTROL Ad Names] | Namnen på annonserna som är kopplade till placeringen, om sådana finns, eller *[!UICONTROL None]*. | — |
 

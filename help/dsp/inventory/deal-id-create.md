@@ -3,9 +3,9 @@ title: Skapa information om avtal-ID manuellt
 description: Lär dig hur du manuellt anger information för ett avtal-ID.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: cd9763a7-99d4-4881-9df9-b4e24c55be0f
-source-git-commit: 593bfc03d2dd182b817be9eac4792dfd690132a2
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 1. Ange [inställningar](deal-id-settings.md):
 
-   1. I [!UICONTROL Deal ID basics] , ange avtalsinformation och vilka annonsörer som har tillgång till erbjudandet. För garanterade erbjudanden måste du även ange planerade flygdatum och uppskattat antal visningar, endast i spårningssyfte.
+   1. I [!UICONTROL Deal ID basics] , ange avtalsinformation och vilka annonsörer som har tillgång till erbjudandet. För garanterade erbjudanden måste du även ange planerade flygdatum och det uppskattade antalet avtryck, endast i spårningssyfte.
 
    1. (Endast administratörsanvändare; valfritt) [!UICONTROL Technical] redigerar du standardinställningarna efter behov.
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 1. (Garanterade erbjudanden) Välj de annonser som ska användas för erbjudandet och skapa en standardplacering med programgaranti (PG).
 
-   Standardplaceringar av PG-paket ser till att ditt avtal alltid returnerar ett bud för varje anbudsförfrågan. Om du inte skapar en standardplacering i PDF-format kommer inga erbjudanden att skickas in om de inte är rätt konfigurerade. Du bör alltid skapa en standardplacering för PG. I [!UICONTROL Placements] vy, standardplaceringar i PG har en [!UICONTROL Sub-type] kolumnvärde för &quot;[!UICONTROL PG Default].&quot;
+   Standardplaceringar av PG-paket ser till att ditt avtal alltid returnerar ett bud för varje anbudsförfrågan. Om du inte skapar en standardplacering i PG-format lägger inte eventuella placeringar som är avsedda för erbjudandet anbud om de inte är rätt konfigurerade. Du bör alltid skapa en standardplacering för PG. I [!UICONTROL Placements] vy, standardplaceringar i PG har en [!UICONTROL Sub-type] kolumnvärde för &quot;[!UICONTROL PG Default].&quot;
 
    Du kan också använda erbjudandet som ett lagermål i ytterligare placeringar, men du måste konfigurera dem på rätt sätt för att placera offerter.
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
       1. Välj annonsören, kampanjen och annonstypen. Du kan också välja en annonsstatus att filtrera annonserna med.
 
-      1. Markera kryssrutan bredvid varje annons som ska användas för erbjudandet i listan över tillgängliga annonser.
+      1. I listan med tillgängliga annonser markerar du kryssrutan bredvid varje annons som ska användas för erbjudandet.
 
       1. Klicka på **[!UICONTROL Apply]**.
    1. På skärmen för placeringsinställningar:

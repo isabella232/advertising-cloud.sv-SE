@@ -1,16 +1,16 @@
 ---
-title: Redigera annonsörer med åtkomst till ett avtal-ID
-description: Lär dig hur du anger vilka annonsörer som kan få tillgång till ett erbjudande-ID.
+title: Redigera annonsörer med tillgång till ett privat avtal
+description: Lär dig hur du anger vilka annonsörer som har tillgång till ett privat avtal.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 6efbc5dc-90d8-46a5-88fe-218990c6336d
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: a29019ee7af0124ad9182f0578811c4d0e666937
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# Redigera annonsörer med åtkomst till ett avtal-ID
+# Redigera annonsörer med tillgång till ett privat avtal
 
 >[!NOTE]
 >
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 1. På huvudmenyn klickar du på **[!UICONTROL Inventory]> [!UICONTROL Deals].**
 
-1. Klicka på  ![Alternativ-menyn](/help/dsp/assets/options-menu.png) **>[!UICONTROL manage advertisers]**.
+1. Klicka på  **[!UICONTROL ...]>[!UICONTROL Manage Advertisers]**.
 
-1. Markera kryssrutan bredvid varje annonsör som ska ha tillgång till erbjudandet och avmarkera kryssrutan bredvid varje annonsör som inte ska ha tillgång till erbjudandet.
+1. Markera kryssrutan bredvid varje annonsör som ska ha tillgång till erbjudandet i avtalsinställningarna och avmarkera kryssrutan bredvid varje annonsör som inte ska ha tillgång till erbjudandet.
 
-1. Klicka på **[!UICONTROL Update]**.
+1. Klicka **[!UICONTROL Save]** för att spara avtalsinställningarna.
 
 >[!MORELIKETHIS]
 >* [Om privat lager](private-inventory-about.md)

@@ -3,9 +3,9 @@ title: Om [!DNL On Demand] Premiumlager
 description: Läs mer om de avtal som DSP har förhandlat fram i förväg med förstklassiga utgivarpartners.
 feature: DSP On Demand Inventory
 exl-id: d23d4e4e-f29f-4dba-afe3-7198ef4ee544
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *Inte tillgängligt för användare med kontotyper [!UICONTROL Ad Network], [!UICONTROL Publisher Audience Extension]och [!UICONTROL Other]; annonsörer med kategorin [!UICONTROL Other]; och återförsäljare*
 
-The [!DNL On Demand] Gallery är ett premiumverktyg för inventaridentifiering som utforskar förförhandlade avtal som Advertising Cloud DSP har ingått med våra partners. Ni kan få tillgång till icke-garanterat lager från de ledande utgivare i regionen utan att behöva förhandla eller teckna kontrakt. Du kan beställa enskilda avtal och du kan prenumerera på en utgivare för att begära alla utgivare samtidigt.
+The [!DNL On Demand] Gallery är ett premiumverktyg för inventaridentifiering som utforskar förförhandlade avtal som Advertising Cloud DSP har ingått med förstklassiga utgivare. Ni kan få tillgång till icke-garanterat lager från de ledande utgivare i regionen utan att behöva förhandla eller teckna kontrakt. Du kan beställa enskilda avtal och du kan prenumerera på en utgivare för att begära alla utgivare samtidigt.
 
 På Advertising Cloud DSP Premium Marketplace kan du
 

@@ -3,7 +3,7 @@ title: '''[!UICONTROL Simple Ad Serving] Avtalsinställningar'
 description: Läs mer om de tillgängliga inställningarna för [!UICONTROL Simple Ad Serving] erbjudanden.
 feature: DSP Simple Ad Serving
 exl-id: 1a8f215c-c52b-4099-a55f-99c4232b7a22
-source-git-commit: 3eb63e9d7161c354736ce53ee21518882c541884
+source-git-commit: 17a73b5177b3dd79a32cd0b03bfa28d8ac8bf996
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 | **[!UICONTROL Media Quality Assessment?]** | (Vissa användare) Gör att annonsen kan köras på en annan DSP för verifiering från tredje part. <!-- Who can select this? It's disabled for me. Need to see if there are additional fields when this is enabled. --> |
 | **[!UICONTROL Ad Source]** | Det enda alternativet är *[!UICONTROL Site Serve (Event Pixels)]*. |
 | **[!UICONTROL Ad Creation]** | (Endast nya erbjudanden) Om du vill:<ul><li>*[!UICONTROL Create New]:* För att skapa en annons för det här erbjudandet.</li><li>*[!UICONTROL Select Ads]:* Att använda en befintlig annons för det här erbjudandet.</li></ul> |
-| **[!UICONTROL Ad Type]** | Annonstypen för det här erbjudandet. Om du ska skapa nya annonser för erbjudandet ska du inkludera annonsstorleken eller -längden, enligt förfrågan. Vilka alternativ som är tillgängliga varierar beroende på medietyp. |
+| **[!UICONTROL Ad Type]** | Annonstypen för det här erbjudandet. Om du ska skapa annonser för erbjudandet ska du inkludera annonsstorlek eller varaktighet, på begäran. Vilka alternativ som är tillgängliga varierar beroende på medietyp. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -40,12 +40,12 @@ ht-degree: 0%
 
 | Parameter | Beskrivning |
 |-----------|-------------|
-| **[!UICONTROL Media CPM]** | Kostnaden per tusen visningar (CPM), vilket framgår av priset för ditt kontrakt. Kontakta [!DNL Adobe] kontoteam för det här värdet. <br><br>Ange även valutan för erbjudandet. Alla användare kan välja USD eller, om SSP stöder ytterligare valutor, valutan för DSP. |
+| **[!UICONTROL Media CPM]** | Kostnaden per 1 000 visningar (CPM), vilket framgår av priset för ditt kontrakt. Kontakta [!DNL Adobe] kontoteam för det här värdet. <br><br>Ange även valutan för erbjudandet. Alla användare kan välja USD eller, om SSP stöder ytterligare valutor, valutan för DSP. |
 | **[!UICONTROL Third Party Billed Fees]** | (Valfritt) En statisk tredjepartsavgift som ska spåras som en icke fakturerbar kostnad och valutan för transaktionen.<br><br>Alla användare kan välja USD eller, om SSP stöder ytterligare valutor, valutan för DSP. **OBS!** Faktureringsbara avgifter återspeglas i [!UICONTROL Net CPM] mätvärden. |
 | **[!UICONTROL Third Party Fee Description]** | (Valfritt) En beskrivning av tredjepartsavgifterna. |
 | **[!UICONTROL Flight Dates]** | Start- och slutdatum för trafik som använder det här avtalet. Flygdatum måste inkluderas i kampanjflygdatum. Annonstaggarna returnerar bara ett svar under den angivna flygningen.<br><br> Det bästa sättet att skapa en separat enkel kampanj för annonsvisning med en ettårig varaktighet och att skapa spårningspixlar i den. |
 | **[!UICONTROL Impressions]** | (Valfritt) Det uppskattade antalet visningar som du förväntar dig att kunna göra med det här erbjudandet. Detta värde används endast för spårningsändamål och för att flagga när leveransmålen uppfylls. utgivaren kontrollerar faktisk annonsleverans. Det bästa sättet är att ange ett stort antal visningar för att hålla taggen aktiv i DSP så att den kan förnyas eller utökas vid behov. |
-| **[!UICONTROL Deal Name]** | Avtalsnamnet. Ange ett namn eller markera *[!UICONTROL Auto Generate Deal Name]* för att DSP ska kunna generera ett namn baserat på avtalsinformationen.<br><br>Exempel på ett namn som genererats automatiskt: `Campaign-desktop_video_preroll_15-24Kitchen-$10_USD-jdoe-SAS` |
+| **[!UICONTROL Deal Name]** | Avtalsnamnet. Ange ett namn eller markera *[!UICONTROL Auto Generate Deal Name]* för att DSP ska kunna generera ett namn baserat på avtalsinformationen.<br><br>Exempel på ett automatiskt genererat namn: `Campaign-desktop_video_preroll_15-24Kitchen-$10_USD-jdoe-SAS` |
 | **[!UICONTROL Attached Ads]** | (Skrivskyddat) Annonserna som ingår i erbjudandet. Om du vill redigera en annons klickar du på annonsens namn. Om du vill ta bort en annons från erbjudandet klickar du **[!UICONTROL X]** bredvid annonsnamnet. |
 
 {style=&quot;table-layout:auto&quot;}
@@ -82,5 +82,10 @@ But I see:
 >
 >* [Om [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
 >* [Skapa en [!UICONTROL Simple Ad Serving] Erbjudande](simple-deal-create.md)
->* [Visa händelsespårningspixlar för en [!UICONTROL Simple Ad Serving] Erbjudande](simple-deal-show-pixels.md)
+>* [Redigera [!UICONTROL Simple Ad Serving] Avtalsinställningar](simple-deal-edit.md)
+>* [Visa en detaljerad rapport för ett avtal](/help/dsp/inventory/deal-view-report.md)
 
+
+<!-- add back when reimplemented:
+>* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+-->

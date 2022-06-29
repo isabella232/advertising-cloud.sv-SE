@@ -3,7 +3,7 @@ title: Felkoder för [!DNL FreeWheel] Annonsmaterial
 description: Referera felkoderna som returneras för annonsinskick till [!DNL FreeWheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 2eb93971-ba82-4de8-96c5-48524d628b70
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
 source-wordcount: '679'
 ht-degree: 2%
@@ -37,7 +37,7 @@ Felmeddelanden för misslyckade annonsinskick kan komma från antingen Advertisi
 | 403 | Förbjuden | Servern förstod begäran men vägrar godkänna den. | Kontakta [!DNL Adobe] kontoteam. |
 | 404 | Hittades inte | Resursen du begärde är inte tillgänglig. Om Creative ID:t inte hittas i åtgärden PUT returneras 404. | Kontakta [!DNL Adobe] kontoteam. |
 | 405 | Metoden tillåts inte | En begäran gjordes om en resurs med en begärandemetod som inte stöds av den resursen (till exempel med GET på en metod som kräver att data skickas av POSTEN eller med PUT på en skrivskyddad resurs). | Kontakta [!DNL Adobe] kontoteam. |
-| 408 | Timeout för begäran | En timeout uppstod när den här begäran bearbetades. Timeout orsakas oftast av samtidiga begäranden om exklusiv åtkomst till vissa resurser. | Skicka begäran igen när du får den här statusen. Om problemet kvarstår kontaktar du [!DNL Adobe] kontoteam. |
+| 408 | Timeout för begäran | En timeout uppstod när den här begäran bearbetades. Timeout orsakas vanligtvis av samtidiga begäranden om exklusiv åtkomst till vissa resurser. | Skicka begäran igen när du får den här statusen. Om problemet kvarstår kontaktar du [!DNL Adobe] kontoteam. |
 | 422 | Enhet som inte kan bearbetas | Ogiltig resurs. Det här felet inträffar när begärandetexten är ogiltig eller när den skapade/uppdaterade resursen är ogiltig (t.ex. om det inte gick att hitta något avtal-ID). Se [FreeWheel API 422-fel](#freewheel-422-errors) för mer information. | Kontakta [!DNL Adobe] kontoteam. |
 | 500 | Internt serverfel | API-systemfel. | Kontakta [!DNL Adobe] kontoteam. |
 

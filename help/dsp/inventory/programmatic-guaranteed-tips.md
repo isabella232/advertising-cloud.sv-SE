@@ -3,16 +3,16 @@ title: Tips för att förhandla om ett program med garanterad programmering
 description: Lär dig tips om hur du förhandlar om ett avtal om en programmatisk garanti (PG) och listor över köparens och utgivarens ansvar.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: b754f993-b52f-4527-a246-bf232038c7cd
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
 # Tips för att förhandla om ett program med garanterad programmering
 
-Vid förhandlingar om ett programmatiskt garanterat avtal måste köparen och utgivaren diskutera och bekräfta följande punkter:
+När köparen och utgivaren förhandlar om en programgaranterad affär måste de diskutera och bekräfta följande punkter:
 
 * Flygdatum
 * Geos

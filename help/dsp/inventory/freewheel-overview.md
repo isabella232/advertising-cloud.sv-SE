@@ -1,10 +1,11 @@
 ---
 title: Översikt över konfiguration av PG-erbjudanden i [!DNL Freewheel]
-description: 'Läs om förutsättningarna och de extra steg som krävs för att köra annonser för programmatiska annonsköp med utgivare på [!DNL Freewheel]. '
+description: Läs om förutsättningarna och de extra steg som krävs för att köra annonser för programmatiska annonsköp med utgivare på [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: acf8351b-88fb-4f18-8fca-9a2d6674cdec
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,7 @@ Konfigurera programmatiska garanterade avtal med utgivare på [!DNL Freewheel] k
 
    För vissa utgivare i Storbritannien måste du inkludera en [!DNL Clearcast] telefonnummer med annonsen.
 
-1. [Godkänn erbjudande-ID](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) du redan har förhandlat med en utgivare på [!DNL Freewheel] med hjälp av Inkorgen för avtal-ID.
+1. [Godkänn erbjudande-ID](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) som du redan har förhandlat med en utgivare på [!DNL Freewheel] med hjälp av Inkorgen för avtal-ID.
 
    När du har godkänt erbjudandet följer du instruktionerna för 1) väljer annonsen som ska användas för erbjudandet och 2) skapar en programmatisk garanterad standardplacering för annonsen.
 
