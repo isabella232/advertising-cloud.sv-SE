@@ -3,9 +3,9 @@ title: Varumärkessäkerhet och mediakvalitet
 description: Läs mer om varumärkessäkerhet och funktioner för mediekvalitet.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: b436936e3a0edcb78497fadb6f3c4086412baaa5
 workflow-type: tm+mt
-source-wordcount: '1315'
+source-wordcount: '1365'
 ht-degree: 0%
 
 ---
@@ -79,6 +79,10 @@ Advertising Cloud DSP har en global lista över blockerade webbplatser som anses
 Som en del av vårt varumärkessäkerhetsinitiativ för att rota bort aktiviteter som lockar annonsörer, skärs alla webbplatser med hjälp av åtgärderna i listan över blockerade webbplatser. Alla webbplatser som inte godkänns i varumärkessäkerhetskontrollerna läggs till i listan över globalt blockerade platser. Eftersom Advertising Cloud DSP hanterar den här listan dynamiskt kan webbplatserna när som helst fortsätta eller lämna listan baserat på den senaste varumärkessäkerhetsanalysen.
 
 När du tar med en plats i den globalt blockerade platslistan som placeringsmål flaggas platsen med ett rött utropstecken (!). Detta anger att annonser inte kommer att köras på den flaggade webbplatsen.
+
+>[!NOTE]
+>
+>Du kan också kringgå den globala listan över blockerade webbplatser för standarddisplayannonser som är kopplade till en betrodd privat affär genom att aktivera[!UICONTROL Allow unscreened sites]&quot; i [placeringsinställningar](/help/dsp/campaign-management/placements/placement-settings.md). Om det behövs kan [!DNL Adobe] kontoteamet kan även inaktivera webbplatsblockering för ett offentligt (auktionsnivå) erbjudande i utgivarinställningarna för avtalet.
 
 #### Blockerade webbplatslistor på kontonivå och annonsnivå
 

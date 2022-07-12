@@ -3,9 +3,9 @@ title: Kolumner i hämtade/överförda kalkylblad
 description: Referera kolumnerna i hämtade och överförda Excel QA-kalkylblad.
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: 0c3984d755131ad98b7ddecfd9567ff4be54b64e
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '751'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ ht-degree: 0%
 | [!UICONTROL Sites] | [!UICONTROL Categories - Excluded #] | Antalet uteslutna webbplatskategorier, om sådana finns, eller *[!UICONTROL All]*. | — |
 | [!UICONTROL Sites] | [!UICONTROL Excluded Sites] | de utelämnade platserna, om sådana finns specificerade, eller *[!UICONTROL None]*. | — |
 | [!UICONTROL Sites] | [!UICONTROL Language] | Målwebbplatsspråken. | — |
-| [!UICONTROL Sites] | [!UICONTROL Allow unscreened sites] | Om annonser ska kunna levereras på icke-granskade webbplatser eller inte: *[!UICONTROL ON]* eller *[!UICONTROL OFF]*. | — |
+| [!UICONTROL Sites] | [!UICONTROL Allow unscreened sites] | (Endast standardbildskärmsplaceringar) Om annonsleverans ska tillåtas på webbplatser som inte är granskade eller inte: *[!UICONTROL ON]* eller *[!UICONTROL OFF]*. När placeringen avser privat lager kan det här alternativet leverera annonser på blockerade webbplatser. | — |
 | [!UICONTROL Sites] | [!UICONTROL Targeted Sites] | antalet målwebbplatser, om sådana finns, eller *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Included] | målgrupperna, om sådana finns, eller *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Excluded] | de uteslutna målgrupperna, om sådana finns, eller *[!UICONTROL None]*. | — |
