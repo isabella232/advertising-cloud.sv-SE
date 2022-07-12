@@ -3,9 +3,9 @@ title: Certifierade annonserande partners
 description: Se alla certifierade annonsservrar och annonsenheter.
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: 84a3cbce1993fbb7b1a3d526f3bf8a1266635ce9
+source-git-commit: d3b2941af8d27447301fd6a4080ebab6352d503d
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 | [!DNL ADventori] |  | X |  |  |  |
 | [!DNL Artsai] |  | X |  | X |  |
 | [!DNL Atlas] |  |  |  | X |  |
-| [!DNL Big Ads] |  |  | X |  |  | Kub (skrivbord), kub (mobil), kort (skrivbord), Big Reveal (skrivbord). Observera att alla fyra annonserna har konfigurerats i användargränssnittet i Adobe som 300x250. Endast certifierad via Magnite DV+ |
+| [!DNL Big Ads] |  |  | X |  | Kub (skrivbord), kub (mobil), kort (skrivbord), Big Reveal (skrivbord). Ställ in alla dessa annonstyper i DSP till 300x250. Certifierad endast via [!DNL Magnite DV+]. |
 | [!DNL Bonzai] |  |  | X |  |  |
 | [!DNL Contobox] |  |  | X |  |  |
 | [!DNL Conversant] |  | X |  |  |  |
