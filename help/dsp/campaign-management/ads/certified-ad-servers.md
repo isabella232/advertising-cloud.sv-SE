@@ -3,9 +3,9 @@ title: Certifierade annonserande partners
 description: Se alla certifierade annonsservrar och annonsenheter.
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: eeb7b84e8090f0831aea75a731d022cc099709a3
+source-git-commit: 84a3cbce1993fbb7b1a3d526f3bf8a1266635ce9
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 0%
 | [!DNL ADventori] |  | X |  |  |  |
 | [!DNL Artsai] |  | X |  | X |  |
 | [!DNL Atlas] |  |  |  | X |  |
+| [!DNL Big Ads] |  |  | X |  |  | Kub (skrivbord), kub (mobil), kort (skrivbord), Big Reveal (skrivbord). Observera att alla fyra annonserna har konfigurerats i användargränssnittet i Adobe som 300x250. Endast certifierad via Magnite DV+ |
 | [!DNL Bonzai] |  |  | X |  |  |
 | [!DNL Contobox] |  |  | X |  |  |
 | [!DNL Conversant] |  | X |  |  |  |
@@ -50,7 +51,7 @@ ht-degree: 0%
 | [!DNL Pubmatic] |  |  |  | X | Endast VAST |
 | [!DNL RevJet] |  |  |  | X | Endast VAST |
 | [!DNL Seedtag] |  | X |  |  |  |
-| [!DNL Sizmek] |  | X |  | X | OLV och CTV</br></br>Om du vill att taggarna ska återges i användargränssnittet omsluter du taggen med `<a>` -taggar (i början och slutet). Se exempeltaggen nedan:</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
+| [!DNL Sizmek] | X | X |  | X | OLV och CTV</br></br>Om du vill att taggarna ska återges i användargränssnittet omsluter du taggen med `<a>` -taggar (i början och slutet). Se exempeltaggen nedan:</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
 | [!DNL Spaceback] |  | X |  |  |  |
 | [!DNL Spirable] |  | X |  |  |  |
 | [!DNL SUBLIME] |  |  | X |  |  |
