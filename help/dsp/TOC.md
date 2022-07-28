@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Lär dig mer om de viktigaste funktionerna, arbetsuppgifterna, inställningarna och andra resurser som krävs för att hantera, optimera och rapportera om era strategier för displayannonsering med Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: d72707f9628e8e39eae36115b057d1cd332012f5
+source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '881'
 ht-degree: 0%
 
 ---
@@ -181,6 +181,7 @@ ht-degree: 0%
       + [Ange placeringar och annonser för ett privat avtal](/help/dsp/inventory/deal-id-attach-placements.md)
       + [Redigera konton med åtkomst till ett privat avtal](/help/dsp/inventory/deal-id-share.md)
       + [Redigera annonsörer med tillgång till ett privat avtal](/help/dsp/inventory/deal-id-edit-advertisers.md)
+      + [Visa auktionsinsikter för ett privat avtal](/help/dsp/inventory/private-deal-auction-insights.md)
       + [Lista placeringar och annonser för ett privat avtal](/help/dsp/inventory/private-deal-view-placements.md)
       + [Arkivera eller arkivera ett privat avtal](/help/dsp/inventory/private-deal-archive-unarchive.md)
    + [!UICONTROL Simple Ad Serving] Erbjudanden {#sas}

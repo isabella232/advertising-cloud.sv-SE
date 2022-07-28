@@ -3,9 +3,9 @@ title: Om rapporter på plattformen
 description: Läs mer om rapportdata som ingår i kampanjhanteringsvyer.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 7d081583ff10675b515aafdd97ccb3053f19c32d
+source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
 workflow-type: tm+mt
-source-wordcount: '938'
+source-wordcount: '940'
 ht-degree: 0%
 
 ---
@@ -75,7 +75,7 @@ För varje placering kan du [öppna en (detaljvy) [!UICONTROL Inspector])](place
 
 * **[!UICONTROL Inventory]:** Information om alla avtal som är inriktade på placeringen.
 
-   The [!UICONTROL Inventory] -fliken innehåller sök- och filterfunktioner, samma standardalternativ och anpassade kolumnvisningsalternativ som finns på huvudsidan samt snabbåtgärdsknappar på varje rad, som [!UICONTROL Edit] och [!UICONTROL View Report]. The [!UICONTROL Inventory] -fliken möjliggör snabb felsökning genom att visa prestandastatistik, som [!UICONTROL Auctions], [!UICONTROL Bids]och [!UICONTROL Win Rate].
+   The [!UICONTROL Inventory] -fliken möjliggör snabb felsökning genom att visa prestandastatistik, som [!UICONTROL Auctions], [!UICONTROL Bids]och [!UICONTROL Win Rate]. Fliken innehåller sök- och filterfunktioner, samma standardalternativ och anpassade kolumnvisningsalternativ som finns på huvudsidan samt snabbåtgärdsknappar i varje rad, inklusive [!UICONTROL Edit], [!UICONTROL View Report]och [[!UICONTROL Auction Insights] för ytterligare felsökning](/help/dsp/inventory/private-deal-auction-insights.md).
 
 #### Felsökning av lager
 
@@ -106,6 +106,6 @@ Om du vill se andra databrytningar [rapportsidor på kampanjnivå](/help/dsp/cam
 >* [Skapa en anpassad kolumnvy](column-view-create.md)
 >* [Ändra kolumnvyn](column-view-change.md)
 >* [Hantera datavisualiseringar](campaign-data-visualization-manage.md)
->* [Exportera data från en kampanjhanteringsvy](campaign-export-data.md)
+>* [Exportera data från en Campaign Management-vy](campaign-export-data.md)
 >* [Visa en detaljerad rapport för en kampanj](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
 

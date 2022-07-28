@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 99c808d63e1d17d91832fdd38a2bce3fdf90aa44
+source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
 workflow-type: tm+mt
-source-wordcount: '954'
+source-wordcount: '1023'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Följande funktioner är nya eller nyligen ändrade.
 
 | Datum | Funktion | Beskrivning | Mer information |
 | ---- | ------- | ----------- | -------------------- |
+| 27 juli 2022 | Lager | Auction Insights är ett nytt felsökningsverktyg som gör att du kan analysera hur avtalet ser ut både när det gäller garanterade och icke-garanterade privata avtal. Med datavisualiseringar visar det här verktyget trenden och relativa proportioner för värden som tagits emot för attribut för nyckelauktioner inom en viss tidsperiod.<br><br>Med transparens i anbudsförfrågningsdata från utgivare kan ni undvika tidskrävande felsökningssteg. | Se &quot;[Visa auktionsinsikter för ett privat avtal](/help/dsp/inventory/private-deal-auction-insights.md).&quot; |
 | 29 juni 2022 | Lager | Den nya [!UICONTROL Inventory] > [!UICONTROL Deals] vyn innehåller samma funktioner för dataanpassning som [!UICONTROL Campaigns] vyer, inklusive ytterligare filter, kolumnanpassning och möjlighet att spara anpassade vyer, kolumnsortering och datavisualisering (diagram). Du kan öppna en kommandomeny i varje rad genom att klicka på [!UICONTROL ...] efter avtalsnamnet. | Se &quot;[Översikt över inventeringsfunktioner](/help/dsp/inventory/inventory-overview.md).&quot; |
 |  | Lager [!UICONTROL Inspector] | The [!UICONTROL Inventory] placeringsfliken [!UICONTROL Inspector] inkluderar nu anpassningsbara datavisualiseringskartor och utökade prestandamått, som [!UICONTROL Viewability Rate], [!UICONTROL Clicks]och [!UICONTROL Yesterday's CPM]. | Se &quot;[Visa Sites, Ads, Frequency och Inventory Details för en placering](/help/dsp/campaign-management/reports/placement-details-view.md).&quot; |
 | 31 maj 2022 | Målgruppskällor | (Betafunktion) Advertising Cloud DSP kan nu importera förstahandssegment som består av autentiserade signaler som är byggda inom en kunddataplattform (CDP). | Se &quot;[Om aktivering av autentiserade segment från målgruppskällor](/help/dsp/audiences/sources/source-about.md).&quot; |
