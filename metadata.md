@@ -4,7 +4,7 @@ cloud: Experience Cloud
 solution: Advertising Cloud
 feature-set: Advertising Cloud
 product: advertising cloud
-git-repo: https://git.corp.adobe.com/AdobeDocs/advertising-cloud.sv-SE
+git-repo: https://github.com/AdobeDocs/advertising-cloud.sv-SE
 source-git-commit: 501b145f8c7fbe52309dffa16537ae9cb7343b16
 workflow-type: tm+mt
 source-wordcount: '130'
