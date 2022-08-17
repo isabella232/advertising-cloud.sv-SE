@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 0808d101-3c6b-4671-b9e3-6f588427f8b5
-source-git-commit: b73abe16578069a0037cfb0a8520485a5d27790f
+source-git-commit: 5180665a7342d7222aa350298298d5bcc9b2e449
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Följande funktioner är nya eller nyligen ändrade.
 
 | Datum | Funktion | Beskrivning | Mer information |
 | ---- | ------- | ----------- | -------------------- |
+| 17 augusti 2022 | Hjälp | I ett nytt kapitel förklaras alla sätt som Advertising Cloud är integrerat med Adobe Audience Manager på. | Se kapitlet om&quot;Integrering med Adobe Audience Manager&quot; med en översikt över &quot;[Advertising Cloud-integrering med Adobe Audience Manager](/help/integrations/audience-manager/overview.md).&quot; |
 | 27 april 2021 | [!DNL Analytics for Advertising Cloud] | Lär dig varför och hur du lägger till [!DNL Analytics for Advertising Cloud] makron till [!DNL Google Campaign Manager 360] annonstaggar för att skicka klickdata till Adobe Analytics. | Se &quot;[Lägg till [!DNL Analytics for Advertising Cloud] Makron till [!DNL Google Campaign Manager 360] Annonstaggar](/help/integrations/analytics/macros-google-campaign-manager.md).&quot; |
 | 19 april 2021 | [!DNL Analytics for Advertising Cloud] | Lär dig varför och hur du lägger till makron i dina [!DNL Flashtalking] annonstaggar för att skicka klickdata till Adobe Analytics. | Se &quot;[Lägg till [!DNL Analytics for Advertising Cloud] Makron till [!DNL Flashtalking] Annonstaggar](/help/integrations/analytics/macros-flashtalking.md).&quot; |
 | 27 oktober 2021 | [!DNL Analytics for Advertising Cloud] | Om din organisation vill byta från att använda den gamla Adobe Analytics `visitorAPI.js` till [Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html) bibliotek (`alloy.js`) för datainsamling måste du göra några ändringar för att aktivera ID-sammanslagning. | Se &quot;[Använda [!DNL Last Event Service] JavaScript-bibliotek med Adobe Experience Platform [!DNL Web SDK]](/help/integrations/analytics/web-sdk.md).&quot; |
