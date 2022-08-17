@@ -3,9 +3,9 @@ user-guide-title: Integrering med Adobe Experience Cloud
 user-guide-description: Läs om Advertising Cloud DSP- och Advertising Cloud Search-integreringar med andra produkter och tjänster från Adobe Experience Cloud.
 breadcrumb-title: Integrering med Experience Cloud
 index: true
-source-git-commit: 5884da8177dac1313f69ba67a46713b4fd047640
+source-git-commit: c047238f0d92b5218df6245c004607ac1e48e345
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -35,4 +35,12 @@ ht-degree: 0%
       + [Använda Advertising Cloud ID för att skapa [!DNL Marketing Channels] Bearbetar regler](/help/integrations/analytics/marketing-channels/mc-ids.md)
       + [Använda [!DNL Marketing Channels] med Advertising Cloud Data](/help/integrations/analytics/marketing-channels/mc-ac-data.md)
       + [Varför olika kanaldata kan variera mellan Advertising Cloud och [!DNL Marketing Channels]](/help/integrations/analytics/marketing-channels/mc-data-variances.md)
++ [Integrering med Adobe Audience Manager] {#audience-manager}
+   + [Advertising Cloud-integrering med Adobe Audience Manager](/help/integrations/audience-manager/overview.md)
+   + [Importera Audience Manager-segment till Advertising Cloud](/help/integrations/audience-manager/import-audiences.md)
+   + DSP mediedataintegrering med Adobe Audience Manager {#media-data-ingestion}
+      + [Översikt över att skicka DSP exponeringsdata till Adobe Audience Manager](/help/integrations/audience-manager/media-data-integration/overview.md)
+      + [Samla in impression och klicka på Data från DSP Campaigns](/help/integrations/audience-manager/media-data-integration/collect.md)
+      + [Användningsexempel](/help/integrations/audience-manager/media-data-integration/use-cases.md)
+   + [Adobe Audience Analytics för Advertising Cloud-kunder](/help/integrations/audience-manager/audience-analytics.md)
 + [Videofilmer om Advertising Cloud-integreringar på Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html)<!-- rename if the tutorials TOC structure changes -->
