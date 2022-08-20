@@ -3,9 +3,9 @@ title: Certifierade annonserande partners
 description: Se alla certifierade annonsservrar och annonsenheter.
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: d3b2941af8d27447301fd6a4080ebab6352d503d
+source-git-commit: d04672f1daddb7b57a7ab2ab9a0ad25a7ad40812
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 | [!DNL ADventori] |  | X |  |  |  |
 | [!DNL Artsai] |  | X |  | X |  |
 | [!DNL Atlas] |  |  |  | X |  |
-| [!DNL Big Ads] |  |  | X |  | Kub (skrivbord), kub (mobil), kort (skrivbord), Big Reveal (skrivbord). Ställ in alla dessa annonstyper i DSP till 300x250. Certifierad endast via [!DNL Magnite DV+]. |
+| [!DNL Big Ads] |  |  | X |  | Kub (skrivbord), kub (mobil), kort (skrivbord), Big Reveal (skrivbord), kub (skrivbord), kinematik (skrivbord). Ställ in alla dessa annonstyper i DSP till 300x250. Certifierad endast via [!DNL Magnite DV+]. |
 | [!DNL Bonzai] |  |  | X |  |  |
 | [!DNL Contobox] |  |  | X |  |  |
 | [!DNL Conversant] |  | X |  |  |  |
@@ -40,7 +40,7 @@ ht-degree: 0%
 | [!DNL IAS] | X | X |  | X |  |
 | [!DNL IBM] |  | X |  | X |  |
 | [!DNL Innovid] | X | X |  | X |  |
-| [!DNL InSkin] |  |  | X |  | Slagskal med hög effekt måste levereras från ett 180 × 150-ID för visningsavtal i Inskin-lagernätverket. |
+| [!DNL InSkin] |  |  | X |  | Slagskal med hög effekt (inklusive Cavai Conversational AD) måste hanteras av ett 180 × 150-ID för visningsavtal i Inskin-lagernätverket. |
 | [!DNL Jivox] |  | X |  |  |  |
 | [!DNL Kargo] |  | X |  |  | 320x50 ankare, BYOC, Hover, Breakout och Sidekick; 300x250 Outstream; Standardvisning för skrivbord (specifika plugin-id:n för annonser krävs inte).</br></br>Kontakta [!DNL Adobe] kontoteam för hjälp med att konfigurera annonsenheter. |
 | [!DNL Linkstorm] |  |  | X |  |  |
