@@ -3,9 +3,9 @@ title: Advertising Cloud ID:n som används av [!DNL Analytics]
 description: Advertising Cloud ID:n som används av [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 8f0765251234b09eddaee721018285aee6b44b6a
 workflow-type: tm+mt
-source-wordcount: '1157'
+source-wordcount: '1194'
 ht-degree: 0%
 
 ---
@@ -43,6 +43,30 @@ EF ID är en unik variabel som Advertising Cloud använder för att koppla aktiv
 
 ### EF ID-format
 
+>[!NOTE]
+>
+>EF ID:n är skiftlägeskänsliga. Om en [!DNL Analytics] implementeringen tvingar URL-spårning till gemener, så Advertising Cloud känner inte igen EF-ID:t. Detta påverkar Advertising Cloud budgivning och rapportering men påverkar inte Advertising Cloud rapportering inom [!DNL Analytics].
+
+#### [!DNL Google Ads] sökannonser
+
+```{gclid}:G:s```
+
+där:
+
+* `gclid` är [!DNL Google Click ID] (GCLID).
+* `s` är nätverkstypen (&quot;s&quot; för sökning).
+
+#### Microsoft Advertising - sökannonser
+
+```{msclkid}:G:s```
+
+där:
+
+* `msclkid` är [!DNL Microsoft Click ID] (MSCLKID).
+* `s` är nätverkstypen (&quot;s&quot; för sökning).
+
+#### Visa annonser och sökannonser i andra sökmotorer
+
 ```<Advertising Cloud visitor ID>:<timestamp>:<channel type>```
 
 <!-- <*Advertising Cloud visitor ID*>:<*timestamp*>:<*channel type*> -->
@@ -60,10 +84,6 @@ där:
    * `s` för att klicka på en sökannons (sök-klickning).
 
 Exempel `EF `ID: WcmibgAAHJK1RyY:1551968087687:d
-
->[!NOTE]
->
->EF ID:n är skiftlägeskänsliga. Om en [!DNL Analytics] implementeringen tvingar URL-spårning till gemener, så Advertising Cloud känner inte igen EF-ID:t. Detta påverkar Advertising Cloud budgivning och rapportering men påverkar inte Advertising Cloud rapportering inom [!DNL Analytics].
 
 ### EF ID-Dimensionen i [!DNL Analytics]
 
