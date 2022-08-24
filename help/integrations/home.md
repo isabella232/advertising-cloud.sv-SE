@@ -5,7 +5,7 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 0808d101-3c6b-4671-b9e3-6f588427f8b5
-source-git-commit: 5180665a7342d7222aa350298298d5bcc9b2e449
+source-git-commit: 9d6177c90fb5507b4e1d281847e7ce3fe89ab9d3
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -37,5 +37,4 @@ Adobe Advertising Cloud is integrated with the following Adobe Experience Cloud 
 
 * Adobe Campaign (Advertising Cloud Search only)
 
-* Adobe Experience Cloud Device Co-op
  -->
