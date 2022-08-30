@@ -1,9 +1,9 @@
 ---
 title: Kontoinställningar för Advertiser
 description: Se beskrivningar av tillgängliga inställningar för annonsörer.
-source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
+source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
 workflow-type: tm+mt
-source-wordcount: '975'
+source-wordcount: '874'
 ht-degree: 0%
 
 ---
@@ -38,25 +38,19 @@ Annonsörer med andra Adobe Experience Cloud-produkter kan dela data mellan viss
 
 (Valfritt) Ytterligare Experience Cloud-produkter som är kopplade till DSP konto. Produkterna måste vara kopplade till samma Experience Cloud-organisations-ID som anges i [!UICONTROL Adobe IMS IDs] -avsnitt.
 
-**[!UICONTROL Adobe Media Optimizer]:** (Annonsörer med Advertising Cloud Search eller som använder Advertising Cloud konverteringspixlar) A [!DNL Search] konto som DSP ska använda för att utbyta attribueringsdata.
+**[!UICONTROL Attribution services]> [!UICONTROL Adobe Media Optimizer]:** (Annonsörer med Advertising Cloud Search eller som använder Advertising Cloud konverteringspixlar) A [!DNL Search] konto som DSP ska använda för att utbyta attribueringsdata.
 
-**[!UICONTROL Adobe Device Co-op or 3rd Party Graph]:** (Annonsörer som använder Advertising Cloud konverteringspixlar; (valfritt) Du kan använda ett enhetsdiagram för personbaserad attribuering från annonsörens kontoinställningar i Advertising Cloud Search.
+**[!UICONTROL Report suites]> [!UICONTROL Adobe Analytics]:** (Advertisers with Adobe Analytics; frivilligt, endast för data som samlats in med hjälp av Advertising Cloud taggar för konverteringsspårning som innehåller en [!DNL EF Redirect] och endast token) en eller flera [!DNL Analytics] rapportera programsviter till vilka DSP skickar data som samlas in från utgivare och leverantörer. Analyserna skickar också de data som samlas in från kundens webbplats till DSP.
 
->[!NOTE]
->
-> * Enhetsattribuering är endast tillgängligt för konverteringar som spåras med Advertising Cloud-tjänsten för konverteringsspårning, inte konverteringar som spåras av Adobe Analytics.
-> * Du kan också välja ett personbaserat enhetsdiagram för målinriktning mellan olika enheter och frekvenshantering på [kampanjnivå](/help/dsp/campaign-management/campaigns/campaign-settings.md). Sedan kan du konfigurera målinriktning mellan olika enheter på [placeringsnivå](/help/dsp/campaign-management/placements/placement-settings.md) och fler frekvensändpunkter på [paketnivå](/help/dsp/campaign-management/packages/package-settings.md) och [placeringsnivå](/help/dsp/campaign-management/placements/placement-settings.md). Målinriktning och frekvenshantering på olika enheter kräver inte attribueringsmätning på annonsörnivå. i stället fungerar de med det enhetsdiagram som anges i kampanjinställningarna.
-
-
-**[!UICONTROL Adobe Analytics]:** (Advertisers with Adobe Analytics; frivilligt, endast för data som samlats in med hjälp av Advertising Cloud taggar för konverteringsspårning som innehåller en [!DNL EF Redirect] och endast token) en eller flera [!DNL Analytics] rapportera programsviter till vilka DSP skickar data som samlas in från utgivare och leverantörer. Analyserna skickar också de data som samlas in från kundens webbplats till DSP.
-
-För att data ska visas i rapportsviterna [!DNL Search] inställning på annonsörnivå till[!UICONTROL Enable tracking for SAINT feeds]måste vara aktiverat. Annonsörens [!DNL Analytics] kontot måste vara konfigurerat för att ta emot data från Advertising Cloud. <!-- from Advertising Cloud or DSP in particular? Add cross-reference to file in Integrations section. -->
+För att data ska visas i rapportsviterna [!DNL Search] inställning på annonsörnivå till[!UICONTROL Enable tracking for SAINT feeds]måste vara aktiverat. Annonsörens [!DNL Analytics] kontot måste vara konfigurerat för att ta emot data från Advertising Cloud.
 
 >[!WARNING]
 >
->Om du tar bort en tidigare länkad rapportsvit kommer DSP inte längre att utbyta data med den sviten. Förvänta dig att se fluktuationer i data. <!-- Fluctuations where? Clarify -->
+>Om du tar bort en tidigare länkad rapportsvit kommer DSP inte längre att utbyta data med den sviten. Förvänta dig att se fluktuationer i data.
 
-**[!UICONTROL Adobe Analytics Cloud]:** (Annonsörer med Adobe Audience Manager eller Adobe Analytics. valfritt) En Audience Manager eller [!DNL Analytics] vilket konto som DSP kommer att hämta in segmentmetadata, hierarkidata och unika målgruppsdata för alla annonsörernas Adobe-målgrupper. Detta inkluderar data för:
+Mer information om integrationen med [!DNL Analytics], se &quot;[Översikt över [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/overview.md).&quot;
+
+**[!UICONTROL Audiences]> [!UICONTROL Adobe Analytics Cloud]:** (Annonsörer med Adobe Audience Manager eller Adobe Analytics. valfritt) En Audience Manager eller [!DNL Analytics] vilket konto som DSP kommer att hämta in segmentmetadata, hierarkidata och unika målgruppsdata för alla annonsörernas Adobe-målgrupper. Detta inkluderar data för:
 
 * Audience Manager segment
 * [!DNL Analytics] segment som publiceras till Adobe Experience Cloud

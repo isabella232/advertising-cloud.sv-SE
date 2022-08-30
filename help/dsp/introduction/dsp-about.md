@@ -3,7 +3,7 @@ title: Om Adobe Advertising Cloud DSP
 description: Om Adobe Advertising Cloud DSP
 feature: DSP Introduction
 exl-id: def006b2-eb51-4942-b277-a2e673bccc7f
-source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
+source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Adobe Advertising Cloud DSP lyfter fram annonsörernas mediestrategier genom ava
 
 * [**Optimering**](features/optimization.md): Vårt nya mål för kampanjhantering, [!DNL Campaign Home], ger er de avancerade verktygen, sorteringen och insikterna för att optimera era kampanjer snabbare än någonsin. Dessutom förutser prognoser och utgiftsrekommendationer vilka strategier som förväntas fungera bra, inte nödvändigtvis vad som fungerar bäst just nu, så att ni kan optimera med data.
 
-* [**Enhetsoberoende lösningar**](features/cross-device-solutions.md): Advertising Cloud DSP-integrering med [!DNL LiveRamp] och [!DNL Adobe Device Co-Op] gör att ni kan nå ut till alla kundens kända enheter och använda frekvensgränser och mäta attribuering på alla dessa enheter.
+* [**Enhetsoberoende lösningar**](features/cross-device-solutions.md): Advertising Cloud DSP-integrering med [!DNL LiveRamp] gör att ni kan nå ut till alla kundens kända enheter, och tillämpa frekvensgränser och mäta attribuering på alla dessa enheter.
 
 * [**Media Quality Suite**](features/brand-safety-media-quality.md): Advertising Cloud DSP arbetar aktivt med frågor som kan påverka era varumärkes- och annonsinvesteringar. DSP är 100 % transparent och har en mångfacetterad strategi för att säkerställa att annonsörens investeringar skyddas. Detta innefattar varumärkessäkerhet, synlighet, skydd mot bedrägeri och [!DNL Ads.Txt].
 

@@ -3,16 +3,16 @@ title: Enhetsoberoende lösningar
 description: Läs mer om funktioner för olika enheter.
 feature: DSP Introduction
 exl-id: 29f8ec41-35a6-4a29-a638-82a2929a8fe6
-source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
+source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
 workflow-type: tm+mt
-source-wordcount: '1113'
+source-wordcount: '1006'
 ht-degree: 0%
 
 ---
 
 # Enhetsoberoende lösningar
 
-Advertising Cloud DSP-integrering med [!DNL LiveRamp] och [!DNL Adobe Device Co-op] kan ni utöka er målgrupp till alla de enheter som är kända, inte bara de enheter som ert varumärke har spårat. Integreringarna ger även frekvensbegränsning och attribueringsmätning på alla enheter.
+Advertising Cloud DSP-integrering med [!DNL LiveRamp] gör att ni kan nå ut till hela målgruppen, inte bara till de enheter som ert varumärke har spårat. Integreringen ger även frekvensbegränsning och attribueringsmätning på alla enheter.
 
 När du använder ett personbaserat enhetsdiagram som stöds kan du:
 
@@ -20,22 +20,19 @@ När du använder ett personbaserat enhetsdiagram som stöds kan du:
 * Balansera annonsexponering genom förståelse och frekvens mellan olika individer.
 * Testa strategier som visar och konverterar målgrupper över olika kanaler och enheter.
 
-## Fördelar med varje enhetsdiagram
+## Fördelar med [!DNL LiveRamp] Enhetsdiagram
 
-* [!DNL Adobe Device Co-op]:
-   * Tillhandahåller en pool med deltagande Adobe-annonsörer för deterministiska och sannolika uppgifter
-   * Ger starka cookie ID-anslutningar som drivs av webbesökare på datorer och mobila enheter
-   * Inkluderar data främst från USA och Kanada
-   * Har inga användningsavgifter
+* Tillhandahåller en deterministisk datapool, inklusive kunddata offline
 
-* [!DNL LiveRamp] enhetsdiagram:
-   * Tillhandahåller en deterministisk datapool, inklusive kunddata offline
-   * Gäller även cookie-ID:n och mobila enhets-ID:n
-   * Inkluderar data främst från USA
-   * Är kostnadsfritt för frekvensbegränsning och attribueringsmätning
-   * Prissatt till $0,35 CPM för utökade visningar (visningar som levereras enbart med [!DNL LiveRamp] enhetsdiagram i stället för på enheter som hittas inom målgruppssegmenten)
+* Gäller även cookie-ID:n och mobila enhets-ID:n
 
-      Kursen visas på ditt kontokort.
+* Inkluderar data främst från USA
+
+* Är kostnadsfritt för frekvensbegränsning och attribueringsmätning
+
+* Prissatt till $0,35 CPM för utökade visningar (visningar som levereras enbart med [!DNL LiveRamp] enhetsdiagram i stället för på enheter som hittas inom målgruppssegmenten)
+
+   Kursen visas på ditt kontokort.
 
 ## Personbaserad frekvenshantering
 
@@ -85,15 +82,7 @@ Med personbaserad attribuering kan du attribuera konverteringar som ägde rum p�
 
 ### Aktivera personbaserad attribueringsmätning
 
-Om du vill aktivera attribueringsmätning mellan enheter kontaktar du [!DNL Adobe] kontoteam. För [!DNL Adobe Device Co-op] måste du ange dina signerade [!DNL Adobe Device Co-op] kontrakt och Experience Cloud organisations-ID (kallades tidigare [!DNL IMS org ID]).
-
-Så här ser du om ett annonserarkonto har konfigurerats att använda ett enhetsdiagram för attribueringsmätning:
-
-1. På huvudmenyn klickar du på **[!UICONTROL Settings]>[!UICONTROL Advertiser]**.
-1. Håll markören över annonsörraden och klicka **[!UICONTROL Edit]**.
-1. I [!UICONTROL Integrations] -avsnittet i annonseringsinställningarna, se om [!UICONTROL Cross-Device Attribution] inställningen är aktiv.
-
-   För aktiva integreringar anges enhetsdiagrammet.
+Om du vill aktivera attribueringsmätning mellan enheter kontaktar du [!DNL Adobe] kontoteam.
 
 ### Ställ in konverteringsrapporter för attribut för konvertering mellan enheter
 
