@@ -3,9 +3,9 @@ title: Paketinställningar
 description: Se beskrivningar av tillgängliga paketinställningar.
 feature: DSP Packages
 exl-id: b4d415d1-86a5-40bd-b645-1709b267c174
-source-git-commit: 4a699912468cd89efec0c1da9fdb6302ca93a3b4
+source-git-commit: 7fe6eb31d3330c5470077ca2766c41ae07c6c67f
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
@@ -73,7 +73,7 @@ För paket med anpassad felsökning är budgetintervallet alltid *[!UICONTROL Al
 >
 >Detta fält är bara ett riktmärke och används inte för beslut.
 
-**[!UICONTROL Frequency Cap]:** (Paket med enbart paketnivåpaketering) Antal gånger en unik enhet eller person (beroende på den angivna [!UICONTROL Cross Device Level]) kan få annonser från paketet. Alternativen inkluderar *[!UICONTROL Unlimited]* eller ett specifikt belopp per dag, vecka eller månad.
+**[!UICONTROL Frequency Cap]:** (Paket med enbart paketnivåpaketering) Antal gånger en unik enhet eller person (beroende på den angivna [!UICONTROL Cross Device Level] för kampanjen) kan få annonser från paketet. Alternativen inkluderar *[!UICONTROL Unlimited]* eller ett specifikt belopp per dag, vecka eller månad.
 
 >[!NOTE]
 >

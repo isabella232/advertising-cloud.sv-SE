@@ -3,9 +3,9 @@ title: Kolumner i hämtade/överförda kalkylblad
 description: Referera kolumnerna i hämtade och överförda Excel QA-kalkylblad.
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 0c3984d755131ad98b7ddecfd9567ff4be54b64e
+source-git-commit: a3ddbe1aed444636e7bf45e7d52c8d5ee8ec1382
 workflow-type: tm+mt
-source-wordcount: '751'
+source-wordcount: '772'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 0%
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Included] | målgrupperna, om sådana finns, eller *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Excluded] | de uteslutna målgrupperna, om sådana finns, eller *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Demographic booster] | Om eller inte [!DNL Comscore] demografiska segment är aktiverade för placering (och andra placeringar i kampanjen): *[!UICONTROL ON]* eller *[!UICONTROL OFF]*. Den här funktionen kan bara aktiveras för kampanjer för vilka [!DNL Audience Verification] funktionen är aktiverad för [!DNL Nielsen] och/eller [!DNL Comscore].  Det medför ytterligare avgifter. | — |
-| [!UICONTROL Audience Targeting] | [!UICONTROL Extend across screens] | Om ni vill utöka annonseringen för olika enheter eller inte: *[!UICONTROL ON]* eller *[!UICONTROL OFF]*.<!-- Whether or not the Cross Device Targeting setting is enabled for the placement : *ON* or *OFF*. Cross-device targeting extends your targeting across all of a person's known device, per the device graph specified in the campaign settings.--> | — |
+| [!UICONTROL Audience Targeting] | [!UICONTROL Extend across screens] | Om ni vill utöka annonseringen för olika enheter eller inte: *[!UICONTROL ON]* eller *[!UICONTROL OFF]*. Målinriktning på flera enheter utökar er målinriktning på alla en persons kända enheter, enligt det enhetsdiagram som anges i kampanjinställningarna. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Topic Targeting] - Inkluderat # | Antalet riktade ämneskoder, om sådana finns, eller *[!UICONTROL All]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Topic Targeting - Excluded #] | Antalet uteslutna ämneskoder, om sådana finns, eller *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Device Targeting - Included #] | antalet mål för målenheten, om sådana har angetts, eller *[!UICONTROL All]*. | — |

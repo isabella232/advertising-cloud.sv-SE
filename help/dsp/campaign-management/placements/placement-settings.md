@@ -3,9 +3,9 @@ title: Placeringsinställningar
 description: Se beskrivningar av tillgängliga placeringsinställningar.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: ef8e13dc5f94ead81191862dbb37c17ae762682d
+source-git-commit: 04586c87f134deaa9a28f57d6f7587f023fd217a
 workflow-type: tm+mt
-source-wordcount: '3301'
+source-wordcount: '3304'
 ht-degree: 0%
 
 ---
@@ -288,7 +288,7 @@ Du kan också exportera listan med målwebbplatser och blockerade webbplatser so
 
 **[!UICONTROL Cross Device Targeting]:** (Tillgängligt när du markerar minst ett segment eller en målgrupp och [kampanjen är konfigurerad för personbaserad målinriktning på olika enheter](/help/dsp/campaign-management/campaigns/campaign-settings.md). Gör att du kan utöka målanpassningen för alla kända enheter (enligt enhetsdiagrammet som anges i kampanjinställningarna), även enheter som inte finns i de angivna segmenten. Avgifterna kan tillkomma beroende på vilket diagram som har angetts för kampanjen. Enhetsdiagramdata är för närvarande bara tillgängliga i Nordamerika.
 
-**[!UICONTROL Placement Cap]:** (Valfritt) Antalet gånger en unik enhet eller person (beroende på den angivna [!UICONTROL Cross Device Level]) kommer att få annonser från sin placering. Alternativen inkluderar *[!UICONTROL Unlimited]* eller ett specifikt belopp per dag, vecka eller månad.
+**[!UICONTROL Placement Cap]:** (Valfritt) Antalet gånger en unik enhet eller person (beroende på den angivna [!UICONTROL Cross Device Level] för kampanjen) kommer att få annonser från utplaceringen. Alternativen inkluderar *[!UICONTROL Unlimited]* eller ett specifikt belopp per dag, vecka eller månad.
 
 >[!NOTE]
 >
