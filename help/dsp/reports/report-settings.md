@@ -3,9 +3,9 @@ title: Anpassade rapportinställningar
 description: Se beskrivningar av anpassade rapportinställningar.
 feature: DSP Custom Reports
 exl-id: 1d37fc96-0f9b-4eb2-ba8d-9534f627adaf
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 4e389d687f8974028181a03534aff1abf6b43831
 workflow-type: tm+mt
-source-wordcount: '1129'
+source-wordcount: '972'
 ht-degree: 0%
 
 ---
@@ -88,18 +88,6 @@ Så här använder du ett eller flera filter:
 * *[!UICONTROL With Clicks (CT)]:* Inkluderar endast konverteringar som kan härledas till klickningar.
 
 * *[!UICONTROL Impressions Only (VT)]:* Inkluderar endast konverteringar som tillskrivits exponeringar eftersom inga klick spårades i konverteringsbanan.
-
-**[!UICONTROL Cross Device Level]:**  (Alla [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment]och [!UICONTROL Site] rapporter med [!UICONTROL Conversion Metrics] eller [!UICONTROL Custom Goals] kolumner, Gäller endast annonsörer med enhetsövergripande attribuering) Nivån som konverteringen ska spåras på: *[!UICONTROL People]* eller *[!UICONTROL Household]*.
-
-Läs mer om [lösningar för olika enheter](/help/dsp/introduction/features/cross-device-solutions.md).
-
-**[!UICONTROL Cross-Device Breakout]:** (Alla [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment]och [!UICONTROL Site] rapporter med [!UICONTROL Conversion Metrics] eller [!UICONTROL Custom Goals] kolumner, Gäller endast annonsörer med enhetsövergripande attribuering) Detaljnivån för information om enhetskonverteringar som ska ingå i rapporten. Du kan välja upp till tre nivåer, som vart och ett ska inkluderas i en separat kolumn, om du vill ha en detaljerad fördelning.
-
-* *[!UICONTROL Total People (TP)]:* Innehåller det totala antalet konverteringar, som omfattar både konverteringar mellan enheter och konverteringar mellan enheter (om tillämpligt). I rapporten: &quot;[!UICONTROL (tp)]&quot; läggs till i konverteringsmåttets namn och regeltyp.
-
-* *[!UICONTROL Same Device (SD)]:* Inkluderar endast konverteringar för vilka endast en enhet spårades i konverteringssökvägen. I rapporten: &quot;[!UICONTROL (sd)]&quot; läggs till i konverteringsmåttets namn och regeltyp.
-
-* *[!UICONTROL Cross Device (XD)]:* Inkluderar endast konverteringar för vilka mer än en enhet spårades i konverteringssökvägen. I rapporten: &quot;[!UICONTROL (xd)]&quot; läggs till i konverteringsmåttets namn och regeltyp.
 
 **[!UICONTROL Conversion Reporting Based On]:**  Rapportera konverteringsdata:
 
