@@ -3,9 +3,9 @@ title: Placeringsinställningar
 description: Se beskrivningar av tillgängliga placeringsinställningar.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 04586c87f134deaa9a28f57d6f7587f023fd217a
+source-git-commit: 7bbeb3013ad7cd84bf3a25f5ebf8b16a82a6f591
 workflow-type: tm+mt
-source-wordcount: '3304'
+source-wordcount: '3396'
 ht-degree: 0%
 
 ---
@@ -96,13 +96,25 @@ Se beskrivningar av alla filter före bud på &quot;[Pre-Bid-filter på placerin
 
 **[!UICONTROL Max Bid]:** Maximalt för 1 000 visningar.
 
-**[!UICONTROL Pacing Fill Strategy]:** (Paket med enbart paketnivåpaketering) Så här använder du plats för annonsleveranser:
+**[!UICONTROL Flight pacing]:** (Placeringar med enbart placering på placeringsnivå) Så här lägger du ut annonser:
 
 * *[!UICONTROL Even]:* (Standardvärdet) Gör leveransen enhetlig under varje flygning, med ett mål på 50 % av leveransen under den första halvan av flygningen.
+
+* *[!UICONTROL Slightly Ahead]:* (Standard) Ökar leveranstiden så att den är 55-65 % färdig halvvägs genom hela flygtiden.
 
 * *[!UICONTROL Frontload]:* Snabbare leverans så att den är 65-75 % klar halvvägs genom flygningen.
 
 * *[!UICONTROL Aggressive Frontload]:* Snabbare leverans så att den är 75-85 % klar halvvägs genom flygningen.
+
+**[!UICONTROL Intraday pacing]:** (Endast placeringar med placeringsnivåpaketering) Så här använder du jämna mellanrum och leverans för varje dag i flygningen:
+
+* *[!UICONTROL Even]:* (Standard) Skalar leverans baserat på lagertillgänglighet. I allmänhet levereras fler annonser per timme under dagtid, när auktionsvolymen är högre och färre annonser levereras under kvällarna och morgnarna.
+
+* *[!UICONTROL ASAP]:* (Standard) Accelererar leveransen till dubbelt så snabbt som *Jämn*.
+
+   >[!CAUTION]
+   >
+   >Det här alternativet kan påverka prestandan negativt. Använd det bara när ni prioriterar leverans och utgifter framför prestandaoptimering.
 
 **[!UICONTROL Placement Pre-bid Filters]:** (Valfritt) Upp till fem filter måste uppfyllas för att budgivning ska ske. Du kan använda filter före bud som optimeringsstrategier, men tänk på att varje regel kan begränsa de möjligheter som den här placeringen kan ge. Så här lägger du till eller redigerar filter:
 

@@ -3,9 +3,9 @@ title: Bästa metoder för att konfigurera resultatkampanjer
 description: Lär dig de bästa sätten att skapa prestandainriktade kampanjer, som bland annat innehåller placeringar som är optimerade för det lägsta CPA-värdet eller det högsta ROAS-värdet.
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 1fd95b3193fba50ce7cd85b2ad6256a0ba346011
 workflow-type: tm+mt
-source-wordcount: '1232'
+source-wordcount: '1249'
 ht-degree: 0%
 
 ---
@@ -83,9 +83,11 @@ Använd även följande inställningar.
    * Om ett nytt paket har samma mål som ett befintligt paket kan du länka det befintliga paketet så att algoritmen kan använda befintliga maskininlärningsdata.
    * Ange lämplig [!UICONTROL Target CPA] eller [!UICONTROL Target ROAS].
 
-* **Pacing Fill Strategy:** Välj *[!UICONTROL Even]* för att maximera dina prestationsmål genom att paketera enhetligt under hela flygdatumet.
+* **Flight Pacing och Intraday Pacing:** Välj *[!UICONTROL Even]* för att maximera era era prestationsmål genom att paketera enhetligt under alla dagar och under hela flygningen.
 
-   Använd *[!UICONTROL FrontLoad]* och *[!UICONTROL Aggressive Front Load]* Endast paketering när ni helt prioriterar leverans och utgifter framför prestandaoptimering eftersom dessa strategier kan påverka era önskade nyckeltal för prestanda negativt.
+   >[!CAUTION]
+   >
+   >Använd *[!UICONTROL FrontLoad]* och *[!UICONTROL Aggressive Front Load]* för flygpaketering och *[!UICONTROL ASAP]* pacing for intraday pacing only when you are fully priority of delivery and cost over performance optimization because those Strategy can impact your önskad performance KPIs.
 
 ## Steg 4 - Skapa placeringsstruktur
 

@@ -3,9 +3,9 @@ title: Paketinställningar
 description: Se beskrivningar av tillgängliga paketinställningar.
 feature: DSP Packages
 exl-id: b4d415d1-86a5-40bd-b645-1709b267c174
-source-git-commit: 7fe6eb31d3330c5470077ca2766c41ae07c6c67f
+source-git-commit: 6331166f563e1404c077eb848eed049b4eb0706d
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '790'
 ht-degree: 0%
 
 ---
@@ -88,16 +88,25 @@ För paket med anpassad felsökning är budgetintervallet alltid *[!UICONTROL Al
 
 * *[!UICONTROL Impressions]:* Det här alternativet ger avtryck tills en angiven kvantitet nås inom ett angivet intervall. När du väljer det här alternativet anger du antalet visningar och intervallet: *Alltid,* *[!UICONTROL Daily],* *[!UICONTROL Monthly],* eller *[!UICONTROL Weekly]*.
 
-**[!UICONTROL Pacing Fill Strategy]:** (Paket med enbart paketnivåpaketering) Så här använder du plats för annonsleveranser:
+**[!UICONTROL Flight pacing]:** (Paket med enbart paketnivåpaketering) Hur ni lägger ut och levererar under hela flygningen:
 
 * *[!UICONTROL Even]:* Leverans sker på ett enhetligt sätt under varje flygning, med ett mål på 50 % av leveranstiden under första hälften av flygningen.
 
 * *[!UICONTROL Slightly Ahead]:* (Standard) Ökar leveranstiden så att den är 55-65 % färdig halvvägs genom hela flygtiden.
 
-<!-- replaced with ASAP -->
 * *[!UICONTROL Frontload]:* Snabbare leverans så att den är 65-75 % klar halvvägs genom flygningen.
 
 * *[!UICONTROL Aggressive Frontload]:* Snabbare leverans så att den är 75-85 % klar halvvägs genom flygningen.
+
+**[!UICONTROL Intraday pacing]:** (Endast paket på paketnivå) Hur ni lägger ut annonser varje dag i flygresan:
+
+* *[!UICONTROL Even]:* (Standard) Skalar leverans baserat på lagertillgänglighet. I allmänhet levereras fler annonser per timme under dagtid, när auktionsvolymen är högre och färre annonser levereras under kvällarna och morgnarna.
+
+* *[!UICONTROL ASAP]:* Snabbare leverans dubbelt så snabbt som *Jämn*.
+
+   >[!CAUTION]
+   >
+   >Det här alternativet kan påverka prestandan negativt. Använd det bara när ni prioriterar leverans och utgifter framför prestandaoptimering.
 
 ## [!UICONTROL Flighting]
 

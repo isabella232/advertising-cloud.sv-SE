@@ -3,9 +3,9 @@ title: Om att korrigera placeringsinställningar för en kampanj med kalkylblad
 description: Lär dig hur du granskar och redigerar nyckelplaceringsinställningar för en kampanj med Excel QA-kalkylblad.
 feature: DSP Placements
 exl-id: 9e90488f-157d-4569-8011-da51c5b05c1d
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 051b8b6437a75177e3a4d0425e2b0091d0d22a30
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Med funktionen för QA-kalkylblad kan du hämta placeringsinställningarna för 
 * När placeringarna börjar leverera, och när de kommer att sluta.
 * Vilka annonser som är kopplade till placeringarna.
 
-Du kan sedan göra ändringar i markerade fält och sedan skicka tillbaka dem till DSP alla samtidigt. Redigerbara fält innehåller placeringsnamn, status, bud, budgetar, paketeringsstrategier och frekvensomslag.
+Du kan sedan göra ändringar i markerade fält och sedan skicka tillbaka dem till DSP alla samtidigt. Redigerbara fält innehåller placeringsnamn, status, bud, budgetar, paketeringsstrategier och frekvensomfång.
 
 >[!TIP]
 >
