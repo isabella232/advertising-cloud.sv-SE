@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Lär dig mer om de viktigaste funktionerna, arbetsuppgifterna, inställningarna och andra resurser som krävs för att hantera, optimera och rapportera om era strategier för displayannonsering med Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
+source-git-commit: ea9c5ba9263be2c1607d682ac035caae70621020
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '936'
 ht-degree: 0%
 
 ---
@@ -135,8 +135,19 @@ ht-degree: 0%
          + [Om [!UICONTROL CCPA Opt-out-of-Sale] Segment](/help/dsp/audiences/ccpa-opt-out-about.md)
          + [Skapa och implementera en [!UICONTROL CCPA Opt-out-of-Sale] Segment](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
          + [Hämta [!UICONTROL Consumer Opt-Out-of-Sale] Rapporter](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
+      + [Redigera segmentinformation](/help/dsp/audiences/segment-edit.md)
+      + [Dela eller Sluta dela ett segment](/help/dsp/audiences/segment-share.md)
+      + [Visa spårningspixlar för ett segment](/help/dsp/audiences/segment-view-pixels.md)
+      + [Ta bort ett segment](/help/dsp/audiences/segment-delete.md)
    + Hantera målgrupper {#reusable-audiences}
       + [Skapa en återanvändbar publik](/help/dsp/audiences/reusable-audience-create.md)
+      + [Duplicera en återanvändbar publik](/help/dsp/audiences/reusable-audience-duplicate.md)
+      + [Redigera en återanvändbar publik](/help/dsp/audiences/reusable-audience-edit.md)
+      + [Visa information om en återanvändbar publik](/help/dsp/audiences/reusable-audience-view-details.md)
+      + [Dela en återanvändbar målgrupp](/help/dsp/audiences/reusable-audience-share.md)
+      + [Exportera en återanvändbar publik](/help/dsp/audiences/reusable-audience-export.md)
+      + [Kopiera segmentnyckeln för en återanvändbar publik till Urklipp](/help/dsp/audiences/reusable-audience-clipboard.md)
+      + [Ta bort en återanvändbar publik](/help/dsp/audiences/reusable-audience-delete.md)
       + [Målgruppsinställningar](/help/dsp/audiences/audience-settings.md)
       + [Syntax för målgruppssegmentslogik](/help/dsp/audiences/audience-segment-logic-syntax.md)
    + Hantera källor {#sources}

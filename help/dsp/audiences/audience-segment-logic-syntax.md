@@ -3,25 +3,26 @@ title: Syntax för målgruppssegmentslogik
 description: Referera till den syntax du kan använda för att definiera logiken för målgruppssegment.
 feature: DSP Audiences
 exl-id: 3a51b1b5-1eef-453b-9be5-0694e27491a8
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: efd04189de975f8f075dec7851a3a06d2d647ded
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
 # Syntax för målgruppssegmentslogik
 
-När du skapar återanvändbara målgrupper kan du definiera segmentlogik manuellt med hjälp av alfanumeriska segment-ID:n och följande syntax:
+När du skapar återanvändbara målgrupper kan du definiera segmentlogik manuellt med hjälp av alfanumeriska segment-ID:n (nycklar) och följande syntax:
 
 * () för att ange en grupp
-* `||` for  [!DNL OR] <!-- || escaped with backticks so Jenkins doesn't think it's a Markdown table -->
+* `||` for [!DNL OR] <!-- || escaped with backticks so Jenkins doesn't think it's a Markdown table -->
 * &amp;&amp; för [!DNL AND]
-* ! för [!DNL NOT] (exclude)
+* ! for [!DNL NOT] (exkludera)
 
 >[!NOTE]
 >
 >* Alla angivna segmentgrupper inkluderas om de inte föregås av ! (som utesluter dem).
+>* Du kan [hitta segment-ID:t för en målgrupp](reusable-audience-clipboard.md) från [!UICONTROL Audiences] > [!UICONTROL All audiences].
 
 
 Till exempel följande logik:
@@ -42,6 +43,7 @@ betyder (på engelska)
 
 >[!MORELIKETHIS]
 >
+>* [Kopiera segmentnyckeln för en återanvändbar publik till Urklipp](reusable-audience-clipboard.md)
 >* [Om Audience Management](audience-about.md)
 >* [Skapa en återanvändbar publik](reusable-audience-create.md)
 >* [Målgruppsinställningar](audience-settings.md)

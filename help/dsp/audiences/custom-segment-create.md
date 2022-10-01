@@ -3,9 +3,9 @@ title: Skapa och implementera ett anpassat segment
 description: Lär dig hur du skapar och implementerar ett anpassat segment för att spåra användare som exponeras för annonser eller användare som besöker dina webbsidor.
 feature: DSP Segments
 exl-id: 691903e2-773e-4205-837e-822f435f57a7
-source-git-commit: bc8e476e1218681140a1748998c19f1f6c5c0866
+source-git-commit: ea9c5ba9263be2c1607d682ac035caae70621020
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,9 @@ Ni kan samla in era egna data från förstapartsmålgrupper genom att skapa och 
 
    1. Ange ett unikt **[!UICONTROL Segment Name]**.
 
-   1. För [!UICONTROL Segment Type], markera **[!UICONTROL Custom]**.
+   1. För **[!UICONTROL Segment Type]**, markera *[!UICONTROL Custom]*.
 
-   1. Ange segmentfönstret, vilket är antalet dagar som en användares cookie stannar kvar i segmentet.
+   1. Ange **[!UICONTROL Segment Window]**, vilket är antalet dagar som en användares cookie stannar kvar i segmentet.
 
       Standardfönstret är 45 dagar. Ange ett värde mellan 1 och 365.
 
@@ -38,7 +38,7 @@ Ni kan samla in era egna data från förstapartsmålgrupper genom att skapa och 
 
    1. Återgå till **[!UICONTROL Audiences]>[!UICONTROL Segments]**.
 
-   2. Håll markören över segmentraden och klicka **[!UICONTROL Get pixel]**.
+   2. Håll markören över segmentraden och klicka **[!UICONTROL Get Pixel]**.
 
       * Så här spårar du besökare på en webbsida:
 
@@ -51,8 +51,8 @@ Ni kan samla in era egna data från förstapartsmålgrupper genom att skapa och 
 
          1. Kopiera taggen för visningsspårning, som har etiketten &quot;[!UICONTROL Desktop or mobile ads].&quot;
 
-         1. Lägg till taggen i antingen [!UICONTROL Pixel] flik för varje relevant annons eller för [!UICONTROL Event Pixels] i [[!UICONTROL Tracking] inställningar för varje relevant placering](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking).
 
+1. Lägg till taggen i antingen [!UICONTROL Pixel] flik för varje relevant annons eller för [!UICONTROL Event Pixels] i [[!UICONTROL Tracking] inställningar för varje relevant placering](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking).
 
 När du har implementerat en spårningstagg kan du använda segmentet i målgruppen eller exkluderingarna för alla placeringar.
 
@@ -63,10 +63,12 @@ När du har implementerat en spårningstagg kan du använda segmentet i målgrup
 >[!MORELIKETHIS]
 >
 >* [Om Audience Management](audience-about.md)
+>* [Redigera segmentinformation](segment-edit.md)
+>* [Ta bort ett segment](segment-delete.md)
+>* [Visa spårningspixlar för ett segment](segment-view-pixels.md)
+>* [Dela eller Sluta dela ett segment](segment-share.md)
 >* [Skapa och implementera en [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
 >* [Skapa en återanvändbar publik](reusable-audience-create.md)
->* [Målgruppsinställningar](audience-settings.md)
 >* [Tillgängliga dataproviders från tredje part](third-party-data-providers.md)
 >* [Placeringsinställningar](/help/dsp/campaign-management/placements/placement-settings.md)
 
-<!-- I'll add x-ref to ad settings later.-->
