@@ -3,9 +3,9 @@ title: Annonsspecifikationer
 description: Referera till allmänna och utgivarspecifika annonsspecifikationer.
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: 3c5a114339c2bf41637027c8580316626656fbba
+source-git-commit: 6f3522d41cf74dfd41d0b4d1adb08b2bd47d8e82
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '841'
 ht-degree: 0%
 
 ---
@@ -54,7 +54,7 @@ Du kan använda märkordsblad från [!DNL DCM], [!DNL Flashtalking], [!DNL Innov
 
 #### Ytterligare utgivarkrav för anslutna TV-annonser
 
-* **Hulu:** Se Hulu&#39;s [annonsspecifikationer](https://advertising.hulu.com/ad-products/video-commercial/).
+* **Disney (inkl. Hulu):** Se Disneys [annonsspecifikationer](https://hulu.disneyadsales.com/ad-products/video-commercial/).
 
 * **Paramount:** Se Paramount&#39;s [annonsspecifikationer](https://www.paramount.com/digital-ads).
 
@@ -71,33 +71,6 @@ Du kan använda märkordsblad från [!DNL DCM], [!DNL Flashtalking], [!DNL Innov
    * [Livesream](https://together.nbcuni.com/nbcu-creative-guidelines/livestream/)
 
    * [Peacock](https://together.nbcuni.com/nbcu-creative-guidelines/peacock/)
-
-* **Disney:**
-
-   * ESPN Livesreaming:
-
-      **Bithastighet:** > 14000 kbit/s
-      **Format:** .mp4
-      **Märkordstyp:** VAST 2.0
-      **Kreativ storlek:** 1280x720 eller 1920x1080
-
-   * Fullständig programmering (FEP): ESPN, ABC, Freeform, Nat Geo och FX
-
-      * **Bithastighet:** > 14000 kbit/s:
-
-         **Format:** .mp4
-
-         **Märkordstyp:** VAST 2.0
-
-         **Kreativ storlek:** 1280x720 eller 1920x1080
-
-      * **Bithastighet:** > 1000 kbit/s (låg upplösning) eller 15000 kbit/s (hög upplösning):
-
-         **Format:** .mp4
-
-         **Märkordstyp:** VAST 2.0 (VPAID 1.0 endast för datorer)
-
-         **Kreativ storlek:** 1280x720 eller 1920x1080
 
 ## Visa annonser
 
