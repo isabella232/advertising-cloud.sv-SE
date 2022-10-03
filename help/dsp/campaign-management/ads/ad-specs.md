@@ -3,7 +3,7 @@ title: Annonsspecifikationer
 description: Referera till allmänna och utgivarspecifika annonsspecifikationer.
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: 6f3522d41cf74dfd41d0b4d1adb08b2bd47d8e82
+source-git-commit: 40228a7de376cd4884d4cf7141c75516bc1a97ec
 workflow-type: tm+mt
 source-wordcount: '841'
 ht-degree: 0%
@@ -54,15 +54,13 @@ Du kan använda märkordsblad från [!DNL DCM], [!DNL Flashtalking], [!DNL Innov
 
 #### Ytterligare utgivarkrav för anslutna TV-annonser
 
-* **Disney (inkl. Hulu):** Se Disneys [annonsspecifikationer](https://hulu.disneyadsales.com/ad-products/video-commercial/).
-
-* **Paramount:** Se Paramount&#39;s [annonsspecifikationer](https://www.paramount.com/digital-ads).
+* **A+E-nätverk:** Se A+E-nätverkets [annonsspecifikationer](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
 
 * **Identifiering:** Se Identifierings [annonsspecifikationer](/help/dsp/assets/discovery-networks-ad-specs.pdf).
 
-* **HBO Max:** Se HBO Max [annonsspecifikationer](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
+* **Disney (inkl. Hulu):** Se Disneys [annonsspecifikationer](https://hulu.disneyadsales.com/ad-products/video-commercial/).
 
-* **A+E-nätverk:** Se A+E-nätverkets [annonsspecifikationer](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
+* **HBO Max:** Se HBO Max [annonsspecifikationer](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
 
 * **NBCUnversal:**
 
@@ -71,6 +69,8 @@ Du kan använda märkordsblad från [!DNL DCM], [!DNL Flashtalking], [!DNL Innov
    * [Livesream](https://together.nbcuni.com/nbcu-creative-guidelines/livestream/)
 
    * [Peacock](https://together.nbcuni.com/nbcu-creative-guidelines/peacock/)
+
+* **Paramount:** Se Paramount&#39;s [annonsspecifikationer](https://www.paramount.com/digital-ads).
 
 ## Visa annonser
 
