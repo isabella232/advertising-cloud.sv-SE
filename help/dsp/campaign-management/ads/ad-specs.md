@@ -3,7 +3,7 @@ title: Annonsspecifikationer
 description: Referera till allmänna och utgivarspecifika annonsspecifikationer.
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: 40228a7de376cd4884d4cf7141c75516bc1a97ec
+source-git-commit: 8bc43253f15859c3b7dd7441fcbb4f34ecc98566
 workflow-type: tm+mt
 source-wordcount: '841'
 ht-degree: 0%
@@ -116,36 +116,36 @@ Du kan använda märkordsblad från [!DNL DCM], [!DNL Flashtalking], [!DNL Innov
 
 #### Ytterligare krav för utgivaren
 
-* **[!DNL Spotify]**
-   * Längd: Upp till 30 sekunder
-   * Filtyp: OGG
-   * Maximal filstorlek: 500 MB
-   * Volym: RMS normaliserat till -14; dBFS toppvärde normaliserat till -0,2 dBFS
-
-* **[!DNL SoundCloud]**
-   * Längd: 6, 15 eller 30 sekunder
-   * Filtyp: MP3
-   * Maximal filstorlek: 5 MB
-
-* **[!DNL Pandora]**
-   * Längd: 15 eller 30 sekunder
-   * Filtyp: MP4 (i programmet), MP3 (skrivbord)
-   * Maximal filstorlek: 2,2 MB
-
-* **[!DNL TuneIn]**
-   * Längd: 10, 15 eller 30 sekunder
-   * Filtyp: MP3, OGG
-   * Volym: 44,1 kHz
-
 * **[!DNL iHeartRadio]**
    * Längd: 5, 15, 30 eller 60 sekunder
    * Filtyp: MP3
    * Maximal filstorlek: 320 kbit/s
    * Volym: 44,1 kHz
 
+* **[!DNL Pandora]**
+   * Längd: 15 eller 30 sekunder
+   * Filtyp: MP4 (i programmet), MP3 (skrivbord)
+   * Maximal filstorlek: 2,2 MB
+
+* **[!DNL SoundCloud]**
+   * Längd: 6, 15 eller 30 sekunder
+   * Filtyp: MP3
+   * Maximal filstorlek: 5 MB
+
+* **[!DNL Spotify]**
+   * Längd: Upp till 30 sekunder
+   * Filtyp: OGG
+   * Maximal filstorlek: 500 MB
+   * Volym: RMS normaliserat till -14; dBFS toppvärde normaliserat till -0,2 dBFS
+
 * **[!DNL TargetSpot]**
    * Längd: 15, 30 eller 60 sekunder
    * Filtyp: MP3
+
+* **[!DNL TuneIn]**
+   * Längd: 10, 15 eller 30 sekunder
+   * Filtyp: MP3, OGG
+   * Volym: 44,1 kHz
 
 ### Krav för tilläggsbanderollannonser (valfritt)
 
@@ -153,29 +153,29 @@ Du kan använda märkordsblad från [!DNL DCM], [!DNL Flashtalking], [!DNL Innov
 
 #### Ytterligare krav för utgivaren
 
-* **[!DNL Spotify]:**
-   * Filtyp: Statisk JPG, PNG
-   * Maximal filstorlek: 200 kB
+* **[!DNL iHeartRadio]:**
+   * Filtyp: JPEG, JPG, PNG, GIF, SWF, HTML,
+   * Maximal filstorlek: 2,2 MB
    * Dimensioner: 300x250
-
-* **[!DNL SoundCloud]:**
-   * Filtyp: Statisk JPG, PNG
-   * Maximal filstorlek: Under 400 kB
-   * Dimensioner: 1024x1024
 
 * **[!DNL Pandora]:**
    * Filtyp: JPEG, GIF
    * Maximal filstorlek: Storlek: 100 kB
    * Dimensioner: 300x250 (mobil eller stationär) eller 500x500 (stationär)
 
+* **[!DNL SoundCloud]:**
+   * Filtyp: Statisk JPG, PNG
+   * Maximal filstorlek: Under 400 kB
+   * Dimensioner: 1024x1024
+
+* **[!DNL Spotify]:**
+   * Filtyp: Statisk JPG, PNG
+   * Maximal filstorlek: 200 kB
+   * Dimensioner: 300x250
+
 * **[!DNL TuneIn]:**
    * Filtyp: JPEG, JPG, PNG, GIF, HTML
    * Maximal filstorlek: 2 MB
-   * Dimensioner: 300x250
-
-* **[!DNL iHeartRadio]:**
-   * Filtyp: JPEG, JPG, PNG, GIF, SWF, HTML,
-   * Maximal filstorlek: 2,2 MB
    * Dimensioner: 300x250
  
 
