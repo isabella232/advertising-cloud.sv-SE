@@ -3,7 +3,7 @@ title: Bästa metoder för att konfigurera resultatkampanjer
 description: Lär dig de bästa sätten att skapa prestandainriktade kampanjer, som bland annat innehåller placeringar som är optimerade för det lägsta CPA-värdet eller det högsta ROAS-värdet.
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: 1fd95b3193fba50ce7cd85b2ad6256a0ba346011
+source-git-commit: 22821c0fe8c2864ab36d7aa1141a7527cc08a35b
 workflow-type: tm+mt
 source-wordcount: '1249'
 ht-degree: 0%
@@ -123,6 +123,8 @@ Om du vill maximera skalan använder du [!UICONTROL Public] (Open Exchange) och 
 * **[!UICONTROL Site Tier]**: [!UICONTROL All sites]
 
 ### Målgruppsanpassning
+
+<!-- Say something about limiting unnecessary constraints/limitations, including dayparting, which limit your chances for ad exposure. Use only when it's required for your audience. -->
 
 * **[!UICONTROL Included Audiences]:**
    * För prospekteringsplaceringar kan du gruppera liknande målgruppskategorier och liknande målgruppsstorlekar på en och samma plats. Gör sedan något av följande beroende på prestanda:
