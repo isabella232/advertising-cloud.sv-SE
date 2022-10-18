@@ -3,7 +3,7 @@ title: Lägg till [!DNL Analytics for Advertising Cloud] Makron till [!DNL Googl
 description: Lär dig varför och hur du lägger till [!DNL Analytics for Advertising Cloud] makron till [!DNL Google Campaign Manager 360] annonstaggar
 feature: Integration with Adobe Analytics
 exl-id: 05084a85-5890-4a82-b3eb-4520f44f9d66
-source-git-commit: c7716aa6f953cda7b03bce85dc85842f25d41172
+source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Använd makron för [!DNL Campaign Manager 360] webbannonser och videoannonser f
 >
 >JavaScript-koden är bara en lösning för klickspårning medan cookies fortfarande är tillgängliga. När cookies har upphört måste följande makron implementeras.
 
-* **Annonsörer vars webbplatser inte använder [!DNL Analytics for Advertising Cloud] JavaScript-kod och förlita dig istället på [!DNL Analytics] vidarebefordran på serversidan endast för klickbara data** (utan genomskinliga data): Följande makron krävs för att rapportera klickningsaktiviteter på plats som har drivits av annonser som du köper via Advertising Cloud.
+* **Annonsörer vars webbplatser inte använder [!DNL Analytics for Advertising Cloud] JavaScript-kod och förlita dig istället på [!DNL Analytics] vidarebefordran på serversidan endast för klickbara data** (utan genomskinliga data): Följande makron krävs för att rapportera klickningsaktiviteter på plats som har gjorts av annonser som du köper via Advertising Cloud.
 
 ## Lägg till makron i [!DNL Google Campaign Manager 360] Annonser
 
