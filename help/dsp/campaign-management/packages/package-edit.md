@@ -3,19 +3,19 @@ title: Redigera ett paket
 description: Lär dig hur du redigerar ett paket.
 feature: DSP Packages
 exl-id: 4067f8c8-d5a9-4fe6-9abe-78aa73bc00a1
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 2%
+source-wordcount: '56'
+ht-degree: 1%
 
 ---
 
 # Redigera ett paket
 
-1. Klicka på **[!UICONTROL Campaigns]** på huvudmenyn.
-1. Klicka på namnet på kampanjen för att öppna vyn [!UICONTROL Packages].
-1. Klicka på **[!UICONTROL ...]>[!UICONTROL Edit]** bredvid paketnamnet.
-1. Redigera [paketinställningarna](package-settings.md).
+1. På huvudmenyn klickar du på **[!UICONTROL Campaigns]**.
+1. Klicka på namnet på kampanjen för att öppna [!UICONTROL Packages] vy.
+1. Klicka på bredvid paketnamnet  **[!UICONTROL ...]>[!UICONTROL Edit]**.
+1. Redigera [paketinställningar](package-settings.md).
 1. Klicka på **[!UICONTROL Save and Close]**.
 
 >[!MORELIKETHIS]
@@ -23,5 +23,6 @@ ht-degree: 2%
 >* [Om pakethantering](package-about.md)
 >* [Skapa ett paket](package-create.md)
 >* [Duplicera ett paket](package-duplicate.md)
+>* [Visa ändringsloggen för ett paket](package-change-log.md)
 >* [Paketinställningar](package-settings.md)
 

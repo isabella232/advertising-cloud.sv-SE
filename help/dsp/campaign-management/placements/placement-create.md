@@ -3,9 +3,9 @@ title: Skapa en placering
 description: Lär dig hur du skapar en placering.
 feature: DSP Placements
 exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
-source-git-commit: a30f3bffaf63a79bb7aead69e52524419ed54ed0
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '649'
 ht-degree: 1%
 
 ---
@@ -123,6 +123,7 @@ ht-degree: 1%
 >* [Redigera en placering](placement-edit.md)
 >* [Redigera annonsschemat för en placering](placement-edit-ad-schedule.md)
 >* [Pausa eller aktivera en placering](placement-pause-activate.md)
+>* [Visa ändringsloggen för en placering](placement-change-log.md)
 >* [Placeringsinställningar](placement-settings.md)
 >* [Kortkommandon](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
 

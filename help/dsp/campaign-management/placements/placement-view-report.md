@@ -3,9 +3,9 @@ title: Visa en detaljerad rapport för en placering
 description: Lär dig hur du öppnar en rapport på placeringsnivå med avsnitt om [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], [!UICONTROL Audience Performance], [!UICONTROL Notifications]och [!UICONTROL Ads] data.
 feature: DSP Placements, DSP Campaign Data Views
 exl-id: 90cd8030-73a6-4224-9a04-dcee91ce7d78
-source-git-commit: 99db7ed5a7455907204d1387f6ddfe0a644db753
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -26,4 +26,5 @@ The <!--legacy --> rapport på placeringsnivå innehåller en översikt och avsn
 >* [Visa en detaljerad rapport för en kampanj](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
 >* [Om rapporter på plattformen](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [Om anpassade rapporter](/help/dsp/reports/report-about.md)
+>* [Visa ändringsloggen för en placering](placement-change-log.md)
 

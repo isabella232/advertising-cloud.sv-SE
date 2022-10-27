@@ -3,9 +3,9 @@ title: Kolumner i hämtade/överförda kalkylblad
 description: Referera kolumnerna i hämtade och överförda Excel QA-kalkylblad.
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 1f7b76cec0c9d9af0fcfbad1bafb30505ffb2036
+source-git-commit: 12056598ae436123a867e6eaefde47657242dc73
 workflow-type: tm+mt
-source-wordcount: '772'
+source-wordcount: '781'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,8 @@ ht-degree: 0%
 | [!UICONTROL Goals] | [!UICONTROL Optimization Target] | Målvärdet för målet. | — |
 | [!UICONTROL Goals] | [!UICONTROL Pace on] | Om placeringen är i linje med *[!UICONTROL Budget]* eller *[!UICONTROL Impressions]*. | — |
 | [!UICONTROL Goals] | [!UICONTROL Max Bid] | Det högsta anbudet för placeringen. | Ja |
-| [!UICONTROL Goals] | [!UICONTROL Flight Pacing] | Flygpaketeringsstrategi för placeringen: *[!UICONTROL evenly]*, *[!UICONTROL slightly ahead]*, *[!UICONTROL frontload]*, eller *[!UICONTROL aggressive frontload]*. | Ja |
+| [!UICONTROL Goals] | [!UICONTROL Flight Pacing] | Flygpaketeringsstrategi för placeringen: *[!UICONTROL Even]*, *[!UICONTROL slightly ahead]*, *[!UICONTROL frontload]*, eller *[!UICONTROL aggressive frontload]*. | Ja |
+| [!UICONTROL Goals] | [!UICONTROL Intraday Pacing] | Intraday-paketeringsstrategi för placeringen: *[!UICONTROL Even]* eller *[!UICONTROL ASAP]*. | Ja |
 | [!UICONTROL Goals] | [!UICONTROL  Pre-Bid Filters] | Eventuella filtervillkor före bud som ska tillämpas. | — |
 | [!UICONTROL Goals] | [!UICONTROL Bidding Rules] | Om budgivningsreglerna (inaktuella) är *[!UICONTROL ON]* eller *[!UICONTROL OFF]*. | — |
 | [!UICONTROL Goals] | [!UICONTROL Frequency Cap] | Det primära frekvensskyddet för placeringen under den angivna [!UICONTROL Frequency Cap Interval]. | Ja |

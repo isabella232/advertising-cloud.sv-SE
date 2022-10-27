@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Lär dig mer om de viktigaste funktionerna, arbetsuppgifterna, inställningarna och andra resurser som krävs för att hantera, optimera och rapportera om era strategier för displayannonsering med Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: ea9c5ba9263be2c1607d682ac035caae70621020
+source-git-commit: 8db395fce0006ce300b3e588c205ca9c87e30fb2
 workflow-type: tm+mt
-source-wordcount: '936'
+source-wordcount: '950'
 ht-degree: 0%
 
 ---
@@ -63,6 +63,7 @@ ht-degree: 0%
       + [Duplicera ett paket](/help/dsp/campaign-management/packages/package-duplicate.md)
       + [Koppla en placering till ett paket](/help/dsp/campaign-management/packages/package-attach-placement.md)
       + [Arkivera eller arkivera ett paket](/help/dsp/campaign-management/packages/package-archive-unarchive.md)
+      + [Visa ändringsloggen för ett paket](/help/dsp/campaign-management/packages/package-change-log.md)
       + [Paketinställningar](/help/dsp/campaign-management/packages/package-settings.md)
    + Placeringar {#placements}
       + [Om Platshantering](/help/dsp/campaign-management/placements/placement-about.md)
@@ -73,6 +74,7 @@ ht-degree: 0%
       + [Bifoga en annons till en placering](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
       + [Redigera annonsschemat för en placering](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
       + [Visa en detaljerad rapport för en placering](/help/dsp/campaign-management/placements/placement-view-report.md)
+      + [Visa ändringsloggen för en placering](/help/dsp/campaign-management/placements/placement-change-log.md)
       + [Pausa eller aktivera en placering](/help/dsp/campaign-management/placements/placement-pause-activate.md)
       + [Arkivera eller arkivera en placering](/help/dsp/campaign-management/placements/placement-archive-unarchive.md)
       + [Placeringsinställningar](/help/dsp/campaign-management/placements/placement-settings.md)

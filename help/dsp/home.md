@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 3c951d738d5ef571b8f762df1f89ebd0360cd0f6
+source-git-commit: 9e1def0c5998ac35dbb2b466ed6ebc31f83fd026
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '949'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,11 @@ Följande funktioner är nya eller nyligen ändrade.
 
 | Datum | Funktion | Beskrivning | Mer information |
 | ---- | ------- | ----------- | -------------------- |
+| 27 oktober 2022 | Kampanjer | En ändringslogg, som visar ändringar som gjorts under det valda datumintervallet, är nu tillgänglig för varje paket och placering. | Se &quot;[Visa ändringsloggen för ett paket](/help/dsp/campaign-management/packages/package-change-log.md)&quot; och &quot;[Visa ändringsloggen för en placering](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |
+|  |  | Nu kan du ändra [!UICONTROL Intraday Pacing] inställning för flera placeringar samtidigt. | Se &quot;[Redigera en placering](/help/dsp/campaign-management/placements/placement-edit.md#edit-multiple-placements)&quot; och &quot;[Placeringsinställningar](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
+|  |  | An &quot;[!UICONTROL Intraday Pacing]kolumnen är tillgänglig i Excel QA-kalkylblad. | Se &quot;[Kolumner i hämtade/överförda kalkylblad](/help/dsp/campaign-management/qa/qa-sheet-columns.md).&quot; |
+|  |  | An &quot;[!UICONTROL Intraday Pacing]-kolumnen är tillgänglig i Campaigns-vyerna. | Se &quot;[Skapa en anpassad kolumnvy](/help/dsp/campaign-management/reports/column-view-create.md)&quot; och &quot;[Redigera en anpassad kolumnvy](/help/dsp/campaign-management/reports/column-view-edit.md).&quot; |
+|  |  | Du kan filtrera vyerna Paket och Placeringar efter [!UICONTROL Intraday Pacing] inställning. | Se &quot;[Filtrera kampanjdata](/help/dsp/campaign-management/reports/campaign-data-filter.md).&quot; |
 | 6 oktober 2022 | Kampanjer | Det finns nya mellanrumsrelaterade måttkolumner tillgängliga för Campaigns-vyerna: &quot;Gårdagens OTS&quot; (om målutgifter), &quot;Gårdagens leverans&quot;, &quot;Gårdagens mål&quot;, &quot;Dagens OTS&quot; (om målutgifter), &quot;Dagens leverans&quot; och &quot;Dagens mål&quot;.&quot; | Se &quot;[Skapa en anpassad kolumnvy](/help/dsp/campaign-management/reports/column-view-create.md)&quot; och &quot;[Redigera en anpassad kolumnvy](/help/dsp/campaign-management/reports/column-view-edit.md).&quot; |
 | 12 september 2022 | Paket- och placeringsavstånd | Separata mellanrumskontroller är nu tillgängliga för flygpaketering och intraday-paketering. Tidigare styrdes båda av en enda strategi. Inställningarna för dina befintliga paket och placeringar har mappats enligt följande:<ul><li>Äldre **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Even]* — Nu konfigurerad som **[!UICONTROL Flight pacing]**=*[!UICONTROL Even]* och **[!UICONTROL Intraday pacing]**=*[!UICONTROL Even]*</li><li>Äldre **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Slightly Ahead]* — Nu konfigurerad som **[!UICONTROL Flight pacing]**=*[!UICONTROL Slightly Ahead]* och **[!UICONTROL Intraday pacing]**=*[!UICONTROL Even]*</li><li>Äldre **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Frontload]* — Nu konfigurerad som **[!UICONTROL Flight pacing]**=*[!UICONTROL Frontload]* och **[!UICONTROL Intraday pacing]**=*[!UICONTROL ASAP]*</li><li>Äldre **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Aggressive Frontload]* — Nu konfigurerad som **[!UICONTROL Flight pacing]**=*[!UICONTROL Aggressive Frontload]* och **[!UICONTROL Intraday pacing]**=*[!UICONTROL ASAP]*</li></ul> | Se &quot;[Paketinställningar](/help/dsp/campaign-management/packages/package-settings.md)&quot; och &quot;[Placeringsinställningar](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
 | 27 juli 2022 | Lager | Auction Insights är ett nytt felsökningsverktyg som gör att du kan analysera hur avtalet ser ut både när det gäller garanterade och icke-garanterade privata avtal. Med datavisualiseringar visar det här verktyget trenden och relativa proportioner för värden som tagits emot för attribut för nyckelauktioner inom en viss tidsperiod.<br><br>Med transparens i anbudsförfrågningsdata från utgivare kan ni undvika tidskrävande felsökningssteg. | Se &quot;[Visa auktionsinsikter för ett privat avtal](/help/dsp/inventory/private-deal-auction-insights.md).&quot; |

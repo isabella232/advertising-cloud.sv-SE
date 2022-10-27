@@ -3,9 +3,9 @@ title: Om Placement Management i Advertising Cloud DSP
 description: Lär dig mer om placeringshantering.
 feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: 0d6d5e807053f042e0da1da65fed5e33a34dd4a9
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -45,8 +45,9 @@ Du kan öppna en detaljerad vy ([den [!UICONTROL Inspector]](/help/dsp/campaign-
 
 >[!MORELIKETHIS]
 >
->* [Skapa en placering](/help/dsp/campaign-management/placements/placement-create.md)
->* [Placeringsinställningar](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Skapa en placering](placement-create.md)
+>* [Visa ändringsloggen för en placering](placement-change-log.md)
+>* [Placeringsinställningar](placement-settings.md)
 
    >*[Felsökningsprestanda](/help/dsp/optimization/troubleshooting-performance.md)
 

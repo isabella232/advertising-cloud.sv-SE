@@ -3,9 +3,9 @@ title: Om pakethantering i Advertising Cloud DSP
 description: Läs mer om pakethantering.
 feature: DSP Packages
 exl-id: 06d77698-62ae-466b-8cf7-c9148907ba6d
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Använd paket för att gruppera placeringar för leverans till en fast budget, p
 
 Du kan skapa paket manuellt eller genom att duplicera befintliga paket. Du kan också redigera och bifoga placeringar i alla paket.
 
-## Kontrollpanelen för [!UICONTROL Packages]
+## The [!UICONTROL Packages] Kontrollpanel
 
-Kontrollpanelen [!UICONTROL Packages] centraliserar prestanda och ekonomisk rapportering för alla dina paketstrategier, och ger snabba ögonblicksbilder av hur paketen har utförts under ett visst datumintervall.
+The [!UICONTROL Packages] Kontrollpanelen centraliserar prestanda och ekonomisk rapportering för alla era paketstrategier och ger snabba ögonblicksbilder av hur paketen har utförts under ett visst datumintervall.
 
 ![Kontrollpanel för paket](/help/dsp/assets/package-dashboard.png)
 
@@ -37,5 +37,6 @@ Om du vill visa alla placeringar i ett paket klickar du på paketnamnet.
 >* [Skapa ett paket](package-create.md)
 >* [Redigera ett paket](package-edit.md)
 >* [Koppla en placering till ett paket](package-attach-placement.md)
+>* [Visa ändringsloggen för ett paket](package-change-log.md)
 >* [Paketinställningar](package-settings.md)
 

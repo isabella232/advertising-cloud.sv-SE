@@ -3,9 +3,9 @@ title: Placeringsinställningar
 description: Se beskrivningar av tillgängliga placeringsinställningar.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 7bbeb3013ad7cd84bf3a25f5ebf8b16a82a6f591
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '3396'
+source-wordcount: '3403'
 ht-degree: 0%
 
 ---
@@ -463,6 +463,7 @@ Vilken nivå av [Ads.txt](https://iabtechlab.com/ads-txt-about/) förfiltrera ge
 >* [Om Platshantering](placement-about.md)
 >* [Skapa en placering](placement-create.md)
 >* [Redigera en placering](placement-edit.md)
+>* [Visa ändringsloggen för en placering](placement-change-log.md)
 >* [Kortkommandon](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
 >* [Frågor och svar om Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 
