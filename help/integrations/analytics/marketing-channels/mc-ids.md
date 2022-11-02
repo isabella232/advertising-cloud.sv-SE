@@ -2,9 +2,10 @@
 title: Använda Advertising Cloud ID för att skapa [!DNL Marketing Channels] Regler
 description: Lär dig hur du använder Advertising Cloud ID:n för att skapa bearbetningsregler för [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 4fcdd586-e9c5-4405-a6dc-7799d2bac93e
+source-git-commit: d136b1fe6f6fd3861d0850e07efe7c320da4a7cc
 workflow-type: tm+mt
-source-wordcount: '766'
+source-wordcount: '767'
 ht-degree: 0%
 
 ---
@@ -83,7 +84,7 @@ Ibland spåras klickningar via webbadressen (standardvärdet). I andra fall spå
 
 #### Visa genomskinlighetsregel
 
-Om du vill skapa en visningskanal skapar du en regel där EF-ID:t avslutas med &quot;:i&quot;. Eftersom besökaren inte klickade på annonsen inkluderar inte genomsiktsspårningen `ef_id` eller `s_kwcid` i webbadressen. Därför behövs bara ett villkor.
+Om du vill skapa en visningskanal skapar du en regel där EF-ID:t avslutas med &quot;:i&quot;. Eftersom besökaren inte klickade på annonsen inkluderar inte genomsiktsspårningen `ef_id` eller `s_kwcid` i URL:en, så regeln kräver bara ett villkor.
 
 ![Exempel på en genomskärningsregel för visning](/help/integrations/assets/a4adc-mc-rule-display-vt.png)
 

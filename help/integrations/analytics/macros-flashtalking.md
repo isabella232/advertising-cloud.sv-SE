@@ -3,9 +3,9 @@ title: Lägg till [!DNL Analytics for Advertising Cloud] Makron till [!DNL Flash
 description: Lär dig varför och hur du lägger till [!DNL Analytics for Advertising Cloud] makron till [!DNL Flashtalking] annonstaggar
 feature: Integration with Adobe Analytics
 exl-id: 4b060668-723c-4cd2-b70e-409501ec67de
-source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
+source-git-commit: ae516c1947d2b163ebd97dd05fb4e2870a1450d2
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,5 @@ Exempel:  `https://www.adobe.com/products/photoshop?[%EL:param['AdobeAMO']%]&s_k
 >
 >* [Översikt över [!DNL Analytics for Advertising Cloud]](overview.md)
 >* [Advertising Cloud ID:n som används av [!DNL Analytics]](/help/integrations/analytics/ids.md)
+>* [Lägg till [!DNL Analytics for Advertising Cloud] Makron till [!DNL Google Campaign Manager 360] Annonstaggar](/help/integrations/analytics/macros-google-campaign-manager.md)
 
-
-<!-- >* [Append [!DNL Analytics for Advertising Cloud] Macros to [!DNL Google Campaign Manager 360] Ad Tags](macros-google-campaign-manager.md) -->

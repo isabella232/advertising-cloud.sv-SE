@@ -2,7 +2,8 @@
 title: Samla in klicknings- och imponeringsdata från Advertising Cloud DSP Campaigns
 description: Lär dig hur du fångar in cookie-baserat intryck och klickar på händelser från Advertising Cloud DSP-annonser med hjälp av Audience Manager-pixlar
 feature: Integration with Adobe Audience Manager
-source-git-commit: b4dae983d390aaa5476951aa0c4c39648f07975c
+exl-id: eb717148-00ab-428a-97b9-e8396a5c47b0
+source-git-commit: 8de057df8bf2b67f20a915e6e711902f11176747
 workflow-type: tm+mt
 source-wordcount: '1062'
 ht-degree: 0%
@@ -40,11 +41,15 @@ Händelsepixlar måste innehålla följande parametrar.
 
 **Pixlar för Impression-tracking:**
 
-`[Audience Manager customer domain].demdex.net/event?d_event=imp&d_src=[source id]&d_campaign=${TM_CAMPAIGN_ID_NUM}` Med [valfria ytterligare parametrar](#parameters) prefix med `&`
+`[Audience Manager customer domain].demdex.net/event?d_event=imp&d_src=[source id]&d_campaign=${TM_CAMPAIGN_ID_NUM}`
+
+med [valfria ytterligare parametrar](#parameters) prefix med `&`
 
 **Klickspårningspixlar:**
 
-`[Audience Manager customer domain].demdex.net/event?d_event=click&d_src=[source id]&d_rd=[redirect URL]&d_campaign=${TM_CAMPAIGN_ID_NUM}` med [valfria ytterligare parametrar](#parameters) prefix med `&`
+`[Audience Manager customer domain].demdex.net/event?d_event=click&d_src=[source id]&d_rd=[redirect URL]&d_campaign=${TM_CAMPAIGN_ID_NUM}`
+
+med [valfria ytterligare parametrar](#parameters) prefix med `&`
 
 Var:
 
