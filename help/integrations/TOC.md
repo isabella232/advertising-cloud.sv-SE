@@ -3,7 +3,7 @@ user-guide-title: Integrering med Adobe Experience Cloud
 user-guide-description: Läs om Advertising Cloud DSP- och Advertising Cloud Search-integreringar med andra produkter och tjänster från Adobe Experience Cloud.
 breadcrumb-title: Integrering med Experience Cloud
 index: true
-source-git-commit: 27534edcbd2bd2f27db5dee0ce3e240e97449d92
+source-git-commit: cc6042df60950ae09dccce262d6c32deed6bc313
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -43,5 +43,5 @@ ht-degree: 0%
       + [Samla in impression och klicka på Data från DSP Campaigns](/help/integrations/audience-manager/media-data-integration/collect.md)
       + [Användningsexempel](/help/integrations/audience-manager/media-data-integration/use-cases.md)
    + [Adobe Audience Analytics för Advertising Cloud-kunder](/help/integrations/audience-manager/audience-analytics.md)
-+ [Konfigurera A/B-tester för Advertising Cloud DSP Ads i Adobe Target](/help/integrations/target/overview-ab-tests.md)
++ [Konfigurera A/B-tester i Adobe Target för Advertising Cloud DSP-annonser](/help/integrations/target/overview-ab-tests.md)
 + [Videofilmer om Advertising Cloud-integreringar på Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html)<!-- rename if the tutorials TOC structure changes -->

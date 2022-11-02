@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 0808d101-3c6b-4671-b9e3-6f588427f8b5
-source-git-commit: 9d6177c90fb5507b4e1d281847e7ce3fe89ab9d3
+source-git-commit: 136933f5304edd8f16b8dcb649860f0fb07cf3fb
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Följande funktioner är nya eller nyligen ändrade.
 
 | Datum | Funktion | Beskrivning | Mer information |
 | ---- | ------- | ----------- | -------------------- |
+| 1 november 2022 | Hjälp | I ett nytt dokument beskrivs hur du implementerar klicknings- och genomskinlighetssignaldelning mellan Advertising Cloud DSP och Adobe Target, konfigurerar en A/B-testaktivitet i [!DNL Target] för era DSP och hur ni konfigurerar Adobe Analytics Analysis Workspace för att visa testdata. | Se &quot;[Konfigurera A/B-tester i Adobe Target för Advertising Cloud DSP-annonser](/help/integrations/target/overview-ab-tests.md).&quot; |
 | 17 augusti 2022 | Hjälp | I ett nytt kapitel förklaras alla sätt som Advertising Cloud är integrerat med Adobe Audience Manager på. | Se kapitlet om&quot;Integrering med Adobe Audience Manager&quot; med en översikt över &quot;[Advertising Cloud-integrering med Adobe Audience Manager](/help/integrations/audience-manager/overview.md).&quot; |
 | 27 april 2021 | [!DNL Analytics for Advertising Cloud] | Lär dig varför och hur du lägger till [!DNL Analytics for Advertising Cloud] makron till [!DNL Google Campaign Manager 360] annonstaggar för att skicka klickdata till Adobe Analytics. | Se &quot;[Lägg till [!DNL Analytics for Advertising Cloud] Makron till [!DNL Google Campaign Manager 360] Annonstaggar](/help/integrations/analytics/macros-google-campaign-manager.md).&quot; |
 | 19 april 2021 | [!DNL Analytics for Advertising Cloud] | Lär dig varför och hur du lägger till makron i dina [!DNL Flashtalking] annonstaggar för att skicka klickdata till Adobe Analytics. | Se &quot;[Lägg till [!DNL Analytics for Advertising Cloud] Makron till [!DNL Flashtalking] Annonstaggar](/help/integrations/analytics/macros-flashtalking.md).&quot; |
