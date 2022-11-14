@@ -2,7 +2,8 @@
 title: Visa en paketändringslogg
 description: Lär dig hur du visar ändringar som gjorts i paketet.
 feature: DSP Packages
-source-git-commit: 2f892f1f9521c4768c1cac4bd0cb0c35261ab147
+exl-id: 1d611c20-7857-41db-adf4-743dab44341e
+source-git-commit: 1098fa5fc9207300b5b9c75cf07f24ecfe1dfc69
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -17,7 +18,7 @@ Du kan sortera data efter valfri kolumn förutom Nytt värde och Gammalt värde.
 
 1. På huvudmenyn klickar du på **[!UICONTROL Campaigns]**.
 1. Klicka på kampanjens namn.
-1. På **[!UICONTROL Placements]** bredvid paketnamnet klickar du på  **[!UICONTROL ...]>[!UICONTROL Change logs]**.
+1. På **[!UICONTROL Packages]** bredvid paketnamnet klickar du på  **[!UICONTROL ...]>[!UICONTROL Change logs]**.
 
 >[!MORELIKETHIS]
 >
