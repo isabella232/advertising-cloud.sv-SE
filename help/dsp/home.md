@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 9e1def0c5998ac35dbb2b466ed6ebc31f83fd026
+source-git-commit: b96bb5be747e59beb7bb626152dbab7aa49cb88e
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '998'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Följande funktioner är nya eller nyligen ändrade.
 
 | Datum | Funktion | Beskrivning | Mer information |
 | ---- | ------- | ----------- | -------------------- |
+| 23 november 2022 | Erbjudanden | I vyn Inventering > Erbjudanden finns nu en kolumn, &quot;Deal Health&quot;, som anger varje privat företags hälsostatus: &quot;Slutfört&quot;, &quot;Varning&quot;, &quot;Kritisk&quot; eller &quot;Inte tillgänglig.&quot; Du kan klicka på statusen för att se mer information, bland annat varför ett avtal inte fungerar eller spenderar som förväntat och hur du felsöker potentiella problem. | — |
 | 27 oktober 2022 | Kampanjer | En ändringslogg, som visar ändringar som gjorts under det valda datumintervallet, är nu tillgänglig för varje paket och placering. | Se &quot;[Visa ändringsloggen för ett paket](/help/dsp/campaign-management/packages/package-change-log.md)&quot; och &quot;[Visa ändringsloggen för en placering](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |
 |  |  | Nu kan du ändra [!UICONTROL Intraday Pacing] inställning för flera placeringar samtidigt. | Se &quot;[Redigera en placering](/help/dsp/campaign-management/placements/placement-edit.md#edit-multiple-placements)&quot; och &quot;[Placeringsinställningar](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
 |  |  | An &quot;[!UICONTROL Intraday Pacing]kolumnen är tillgänglig i Excel QA-kalkylblad. | Se &quot;[Kolumner i hämtade/överförda kalkylblad](/help/dsp/campaign-management/qa/qa-sheet-columns.md).&quot; |

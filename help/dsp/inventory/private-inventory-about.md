@@ -3,9 +3,9 @@ title: Om privat lager
 description: Om privat lager
 feature: DSP Private Inventory
 exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
-source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
+source-git-commit: 7feb0e398c416805b376062d9f3dfec819fac2ee
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Alla dina privata affärer med ett erbjudande-ID finansieras och faktureras av [
 
 Du kan använda erbjudande-ID på något av följande sätt:
 
-* (Valfri funktion som kräver aktivering) Från [!UICONTROL Deal ID Inbox]kan ni granska och snabbt godkänna de privata lageraffärer ni har kommit överens om, garanterat och inte garanterat från utgivare på följande plattformar på utbudssidan (SSP): [!DNL FreeWheel], [!DNL Google Authorized Buyers] (tidigare känt som [!DNL AdX]), och [!DNL Magnite DV+] (tidigare [!DNL Rubicon]) från [!UICONTROL Deal ID inbox].
+* (Valfri funktion som kräver aktivering) Från [!UICONTROL Deal ID Inbox]kan du granska och snabbt godkänna dina avtalade och ej garanterade privata lageraffärer från utgivare på följande plattformar på utbudssidan: [!DNL FreeWheel], [!DNL Google Authorized Buyers] (tidigare känt som [!DNL AdX]), och [!DNL Magnite DV+] (tidigare [!DNL Rubicon]) från [!UICONTROL Deal ID inbox].
 
    Mer information finns i &quot;[Om [!UICONTROL Deal ID Inbox]](deal-id-inbox-about.md).&quot;
 
@@ -36,7 +36,9 @@ Ni kan använda varje privat erbjudande som ett placeringsmål för flera kampan
 
 I [!UICONTROL Inventory] > [!UICONTROL Deals] kan du skapa inställningar för privata avtal. Du kan även redigera vissa inställningar för avtal; ange placeringar och annonser och bifoga ytterligare placeringar och annonser till ett privat avtal, redigera annonsörer och konton som har tillgång till ett privat avtal, visa en resultatrapport för ett avtal, visa auktionsinsikter för ett privat avtal, eller arkivera eller arkivera ett avtal.<!-- ; or edit the attribute tags for a deal -->
 
-Du kan anpassa hur befintliga avtalsdata presenteras ytterligare genom att använda filter, anpassa de synliga kolumnerna och eventuellt spara anpassade vyer, sortera kolumnerna och visa data som diagram.
+Kolumnen&quot;Deal Health&quot; anger varje privat funktions hälsostatus: &quot;Slutfört&quot;, &quot;Varning&quot;, &quot;Kritisk&quot; eller &quot;Inte tillgänglig.&quot; Du kan klicka på statusen för att se mer information, bland annat varför ett avtal inte fungerar eller spenderar som förväntat och hur du felsöker potentiella problem.
+
+Du kan anpassa hur befintliga avtalsdata presenteras genom att använda filter, anpassa synliga kolumner och eventuellt spara anpassade vyer, sortera kolumnerna och visa data som diagram.
 
 >[!MORELIKETHIS]
 >
