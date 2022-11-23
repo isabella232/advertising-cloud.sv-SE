@@ -3,7 +3,7 @@ title: Advertising Cloud ID:n som används av [!DNL Analytics]
 description: Advertising Cloud ID:n som används av [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
+source-git-commit: 525bc48104f928ccf9a3bb792b7e33c7e590cf4a
 workflow-type: tm+mt
 source-wordcount: '1194'
 ht-degree: 0%
@@ -132,19 +132,19 @@ Exempel på AMO-ID: AC!iIMvXqlOa6Nia2lDvtgw!GrVv6o2oV2qQLjQiXLC7
 
 AMO-ID:n för [!DNL Search] följer ett distinkt format för varje sökmotor. Formatet för alla sökmotorer börjar med följande:
 
-```AL!{ef_userid}!{ef_sid}```
+```AL!{userid}!{sid}```
 
 där:
 
 * `AL` är kanal-ID för sökkanalen.
-* `{ef_userid}` är det unika numeriska användar-ID som Advertising Cloud tilldelar annonsören.
-* `{ef_sid}` är det numeriska ID som Advertising Cloud använder för den angivna sökmotorn, till exempel `3` for [!DNL Google Ads] eller `10` for [!DNL Microsoft Advertising].
+* `{userid}` är det unika numeriska användar-ID som Advertising Cloud tilldelar annonsören.
+* `{sid}` är det numeriska ID som Advertising Cloud använder för den angivna sökmotorn, till exempel `3` for [!DNL Google Ads] eller `10` for [!DNL Microsoft Advertising].
 
 Nedan följer de fullständiga AMO ID-formaten för ett par sökmotorer. Om du har AMO ID-format för andra sökmotorer kontaktar du [!DNL Adobe] kontoteam.
 
 AMO ID-format för [!DNL Google Ads]:
 
-```AL!{ef_userid}!{ef_sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}```
+```AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}```
 
 där:
 
@@ -156,7 +156,7 @@ där:
 
 AMO ID-format för [!DNL Microsoft Advertising]:
 
-```AL!{ef_userid}!{ef_sid}!{AdId}!{OrderItemId}```
+```AL!{userid}!{sid}!{AdId}!{OrderItemId}```
 
 där:
 
