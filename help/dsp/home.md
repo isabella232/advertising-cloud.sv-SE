@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: f353912c0e5969a119b2b6018a2dfe2d7a0e9510
+source-git-commit: eb33bbadcae751e6bfc492b5ecddcd7569c7a336
 workflow-type: tm+mt
-source-wordcount: '989'
+source-wordcount: '990'
 ht-degree: 0%
 
 ---
