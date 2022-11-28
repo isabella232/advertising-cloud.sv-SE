@@ -3,9 +3,9 @@ title: Certifierade annonserande partners
 description: Se alla certifierade annonsservrar och annonsenheter.
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: 07d8194fff4f468cfb4b8262085f06be83761990
+source-git-commit: d66da8302b08d1f3d9a90c5eaf9caee4c30e05a0
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -43,10 +43,11 @@ ht-degree: 0%
 | [!DNL Innovid] | X | X |  | X |  |
 | [!DNL Inskin] |  |  | X |  | Slagskal med hög effekt (inklusive Cavai-annonser) måste hanteras av ett 180 × 150-ID för visningsavtal i Inskin-nätverket. |
 | [!DNL Jivox] |  | X |  |  |  |
-| [!DNL Kargo] |  | X |  |  | 320x50 ankare, BYOC, Hover, Breakout, Breakaway och Sidekick; 300x250 Outstream, HighRise; Standardvisning för skrivbord (specifika plugin-id:n för annonser krävs inte).</br></br>Kontakta [!DNL Adobe] kontoteam för hjälp med att konfigurera annonsenheter. |
+| [!DNL Kargo] |  | X |  | X | 320x50 ankare, BYOC, Hover, Breakout, Breakaway och Sidekick; 300x250 Outstream, HighRise; Stationär standardskärm (specifika plugin-id:n för annonser krävs inte); Videoankare (endast VAST).</br></br>Kontakta [!DNL Adobe] kontoteam för hjälp med att konfigurera annonsenheter. |
 | [!DNL Linkstorm] |  |  | X |  |  |
 | [!DNL mCanvas] |  |  | X |  |  |
 | [!DNL Medialets] |  | X |  |  |  |
+| [!DNL Minute Media] |  | X |  |  | Desktop Skin (970x250). |
 | [!DNL Moat] | X | X |  | X |  |
 | [!DNL PLAYGROUND XYZ] |  |  | X |  |  |
 | [!DNL Pubmatic] |  |  |  | X | Endast VAST |
