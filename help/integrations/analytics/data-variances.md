@@ -3,9 +3,9 @@ title: Förväntade datavariationer mellan [!DNL Analytics] och Advertising Clou
 description: Förväntade datavariationer mellan [!DNL Analytics] och Advertising Cloud
 feature: Integration with Adobe Analytics
 exl-id: 34685e04-d4f9-4e27-b83e-b56164244b2b
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 76d6e94d69f4bd47d982c36e6c24a0e7031a823c
 workflow-type: tm+mt
-source-wordcount: '3282'
+source-wordcount: '3285'
 ht-degree: 0%
 
 ---
@@ -99,7 +99,7 @@ I Advertising Cloud kan du rapportera konverteringsdata antingen efter associera
 
 ## Attribut i [!DNL Analytics Marketing Channels]
 
-[[!DNL Analytics Marketing Channels] rapportering](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/marketing-channels-admin.html) låter er konfigurera regler för att identifiera olika marknadsföringskanaler baserat på distinkta aspekter av träffinformation. Du kan spåra kanaler som spåras av Advertising Cloud ([!UICONTROL Display Click Through], [!UICONTROL Display View Through]och [!UICONTROL Paid Search]) as [!DNL Marketing Channels] genom att använda `ef_id` frågesträngsparameter för att identifiera kanalen. <!-- Move most of the above text to "Marketing Channels" chapter once it's created, and add link here. --> Även om [!DNL Marketing Channels] -rapporter kan spåra Advertising Cloud-kanaler, data kanske inte matchar Advertising Cloud-rapporterna av flera anledningar. Mer information finns i följande avsnitt.
+[[!DNL Analytics Marketing Channels] rapportering](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/analyze-mc.html) låter er konfigurera regler för att identifiera olika marknadsföringskanaler baserat på distinkta aspekter av träffinformation. Du kan spåra kanaler som spåras av Advertising Cloud ([!UICONTROL Display Click Through], [!UICONTROL Display View Through]och [!UICONTROL Paid Search]) as [!DNL Marketing Channels] genom att använda `ef_id` frågesträngsparameter för att identifiera kanalen. <!-- Move most of the above text to "Marketing Channels" chapter once it's created, and add link here. --> Även om [!DNL Marketing Channels] -rapporter kan spåra Advertising Cloud-kanaler, data kanske inte matchar Advertising Cloud-rapporterna av flera anledningar. Mer information finns i följande avsnitt.
 
 >[!NOTE]
 >
@@ -127,7 +127,7 @@ Mer information om varför mätvärdena kan variera finns i &quot;[Varför olika
 
 ## Skillnader i data i Adobe Analytics [!DNL Paid Search Detection]
 
-The [äldre [!DNL Paid Search Detection]](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/paid-search-detection.html) funktion i [!DNL Analytics] tillåter företag att [Definiera regler för att spåra betald och organisk söktrafik](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/t-paid-search-detection.html) för angivna sökmotorer. The [!DNL Paid Search Detection] regler använder både en frågesträng och den refererande domänen för att identifiera betald och naturlig söktrafik. The [!DNL Paid Search Detection] rapporter ingår i den större gruppen av [Sökmetoder](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html) som förfaller antingen när en viss händelse (till exempel en kundvagnsutcheckning) inträffar eller besöket avslutas.
+The [äldre [!DNL Paid Search Detection]](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/paid-search-detection/paid-search-detection.html) funktion i [!DNL Analytics] tillåter företag att [Definiera regler för att spåra betald och organisk söktrafik](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/t-paid-search-detection.html) för angivna sökmotorer. The [!DNL Paid Search Detection] regler använder både en frågesträng och den refererande domänen för att identifiera betald och naturlig söktrafik. The [!DNL Paid Search Detection] rapporter ingår i den större gruppen av [Sökmetoder](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html) som förfaller antingen när en viss händelse (till exempel en kundvagnsutcheckning) inträffar eller besöket avslutas.
 
 Följande gränssnitt används för att skapa en [!DNL Paid Search Detection] regeluppsättning:
 
@@ -145,7 +145,7 @@ Observera följande två begränsningar med data i [!DNL Paid Search Detection] 
 
 ### Varför konfigurera [!DNL Paid Search Detection]?
 
-The [!DNL Paid Search Detection] kan du identifiera naturlig söktrafik i [[!DNL Analytics Marketing Channels] rapporter](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/marketing-channels-admin.html). Att separera betald söktrafik och naturlig söktrafik är ett bra sätt att förstå det värde som naturlig sökning tillför hela marknadsföringsekosystemet.
+The [!DNL Paid Search Detection] kan du identifiera naturlig söktrafik i [[!DNL Analytics Marketing Channels] rapporter](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/analyze-mc.html). Att separera betald söktrafik och naturlig söktrafik är ett bra sätt att förstå det värde som naturlig sökning tillför hela marknadsföringsekosystemet.
 
 ## Klicka igenom dataverifiering för [!DNL Analytics for Advertising Cloud] {#data-validation}
 
