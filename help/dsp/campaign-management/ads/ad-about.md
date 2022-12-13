@@ -3,9 +3,9 @@ title: Om annonshantering i Advertising Cloud DSP
 description: Läs mer om annonshantering.
 feature: DSP Ads
 exl-id: 72c8bbef-d09c-4cf4-994d-99578d043d39
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: 1499d9d86d8c2bafb03b41687c50dbf708c715da
 workflow-type: tm+mt
-source-wordcount: '664'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -29,13 +29,15 @@ Alla följande annonstyper finns i Advertising Cloud DSP. Fullständiga specifik
 
 * **Visa annonser (endast från tredje part)**: Visningsannonser är animerade eller statiska bilder som visas i webbläsare eller i appar. När du klickar på annonsenheten tar det användaren till en varumärkesprofilerad plats eller mikroplats. Skärmen är bäst att använda för att driva effektiva CPM-annonser, öka e-postkopplingen, lägga till fler varumärkes- eller produktkontaktytor och få användarna att stanna längre. Viktiga resultatindikatorer för visning är bland annat [!UICONTROL Clicks], [!UICONTROL Cost per Click], [!UICONTROL Conversions]och [!UICONTROL Cost per Conversion]. DSP har stöd för en mängd olika annonsstorlekar för visningsbanderoller.
 
-* **Mobilannonser (endast från tredje part)**: Mobilannonser kan vara i förrullningsvideo (VAST, MRAID) eller standardvisningsformat. Mobil pre-roll-video kan spelas upp automatiskt eller spelas upp klick för uppspelning och är bäst för att nå tittare på olika skärmar. Visning av mobilstandard är en statisk bild som visas i webbläsare eller i appar för mobila enheter och är bäst att använda för att komplettera köp av digital video, skapa en meddelandeassociation och lägga till ytterligare varumärke eller produktkontaktytor. Mobile annonser kan också fungera som helskärmsannonser eller som mobilinterstitialer, som är helskärmsannonser med stor genomslagskraft och som bäst används för att utveckla varumärkeskännedom för mobiler och driva konverteringar.
+* **Mobilannonser (endast från tredje part)**: Mobilannonser kan vara i förrullningsvideo (VAST, MRAID) eller standardvisningsformat. Mobil pre-roll-video kan spelas upp automatiskt eller spelas upp klick för uppspelning och är bäst för att nå tittare på olika skärmar. Visning av mobilstandard är en statisk bild som visas i webbläsare eller i appar för mobila enheter och är bäst att använda för att komplettera köp av digital video, skapa en meddelandeassociation och lägga till ytterligare varumärke eller produktkontaktytor. Mobilannonser kan också fungera som helskärmsannonser eller som mobilinterstitialer, som är högeffektiva mobilannonser i helskärmsläge som är bäst för att utveckla varumärkeskännedom för mobiler och driva konverteringar.
 
 * **Inbyggda visningsannonser (endast för första part)**: Inbyggda annonser stöds i standardvisningsformat. Interna annonser innehåller en rubrik och/eller titel, beskrivning, logotyp och bild. Annonselementen kombineras och återges så att de matchar utgivarens sidstil, så att annonsen blandas in med utgivarens organiska innehåll och skapar större engagemang. Det inbyggda formatet används bäst för att öka varumärkeskännedomen och öka läsarnas exponering och engagemang med visningsvänlig reklam. Viktiga resultatindikatorer omfattar [!UICONTROL Clicks], [!UICONTROL Cost Per Click], [!UICONTROL Conversions]och [!UICONTROL Cost Per Conversion].
 
 * **Pre-roll Ads (endast från tredje part)**: Pre-roll-annonser (VAST och VPAID) visas före premiumvideomaterial och ger en engagerande, engagerande tittarupplevelse. Videor före filmningen kan vara interaktiva, innehålla multimediefunktioner och innehålla övertäckningar, överrullningar och actionanrop. Viktiga resultatindikatorer för videoannonser före rullning är bland annat [!UICONTROL Video Completion Rate] och [!UICONTROL Viewability Rate].
 
 * **Anslutna TV-annonser (endast från tredje part)**: Anslutna TV-annonser visas före och under Premium TV-videomaterial. Alla anslutna TV-inventeringar körs på tv-enheter, vilket innebär att videon spelas upp automatiskt i en återgivningsmiljö i helskärmsläge som tittarna inte kan hoppa över. Uppkopplad TV är det närmaste digitala videoformatet för TV-reklamen. Viktiga resultatindikatorer för uppkopplad TV är bland annat [!UICONTROL Completion Rate].
+
+* **Universal Video Ads (endast från tredje part)**: Universella videoannonser kombinerar alla funktioner i uppkopplad TV, Pre-roll och Mobile Pre-roll Ads (VAST och VPAID) till en och visas före och under videoinnehåll. Universal Video-annonser kan användas för videolager från skrivbordsmiljöer, mobiler och anslutna tv-miljöer, vilket gör att man slipper skapa flera videoannonser. Viktiga prestandaindikatorer för Universal Video är [!UICONTROL Completion Rate] och [!UICONTROL Viewability Rate].
 
 ## Advertising Cloud DSP Ad Approvals
 
