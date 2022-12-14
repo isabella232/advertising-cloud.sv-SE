@@ -3,9 +3,9 @@ title: Placeringsinställningar
 description: Se beskrivningar av tillgängliga placeringsinställningar.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 0a191d8d058fdf04ced0bb4ae3dc793a31af77af
+source-git-commit: 0f5bdf041c0de60730efe5190d438a6d29752034
 workflow-type: tm+mt
-source-wordcount: '3403'
+source-wordcount: '3422'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,8 @@ ht-degree: 0%
 1. Klicka på **[!UICONTROL Apply]**.
 
 **[!UICONTROL Ad specs for forecast]:** (Endast videoannonsformat) Specifikationerna för annonsens varaktighet och/eller annonsen, som används för att beräkna prognosprojektionen till höger. Fälten varierar beroende på annonstyp.
+
+**[!UICONTROL Environment]:** (Endast Universal Video-annonsformat) De enhetsmiljöer (stationär dator, mobil, ansluten TV) som ska ingå som mål i placeringen.
 
 **[!UICONTROL Placement tags]:** (Valfritt) Nyckelord eller smeknamn som hjälper dig att hitta den här placeringen.
 

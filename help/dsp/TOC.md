@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Lär dig mer om de viktigaste funktionerna, arbetsuppgifterna, inställningarna och andra resurser som krävs för att hantera, optimera och rapportera om era strategier för displayannonsering med Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: 8db395fce0006ce300b3e588c205ca9c87e30fb2
+source-git-commit: 6996de4d7b3ee06bceb99292c4fe03878e7b61c9
 workflow-type: tm+mt
-source-wordcount: '950'
+source-wordcount: '954'
 ht-degree: 0%
 
 ---
@@ -97,6 +97,7 @@ ht-degree: 0%
          + [Inställningar för mobilannonsering](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
          + [Annonsinställningar för inbyggd visning](/help/dsp/campaign-management/ads/ad-settings-native.md)
          + [Inställningar för annonsering före registrering](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+         + [Universella inställningar för videoreklam](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
       + [Specifikationer för annonstyper som stöds](/help/dsp/campaign-management/ads/ad-specs.md)
    + Kampanjrapporter {#campaign-reports}
       + [Om rapporter på plattformen](/help/dsp/campaign-management/reports/campaign-reports-about.md)

@@ -3,9 +3,9 @@ title: Tillgängliga rapportkolumner
 description: Se beskrivningar av tillgängliga kolumner i anpassade rapporter.
 feature: DSP Custom Reports
 exl-id: c96e46ae-2fb2-4364-9c51-f160c00693ba
-source-git-commit: 966b4b4ca42b66880e1b7cf29005eeb256887149
+source-git-commit: 01668542af9ad3dda8c8284845bb3ab4242c75f8
 workflow-type: tm+mt
-source-wordcount: '1659'
+source-wordcount: '1677'
 ht-degree: 0%
 
 ---
@@ -61,6 +61,9 @@ ht-degree: 0%
 | [!UICONTROL Dimension] | [!UICONTROL Pixel] | [!UICONTROL Conversion Name] | (Föråldrat) Konverteringsnamnet som tilldelats äldre [!DNL TubeMogul] konverteringshändelser. |
 | [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Placement ID] | Unik identifierare för placeringen i Advertising Cloud. |
 | [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Placement Name] | Namnet på placeringen som tilldelats av användaren. |
+| [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Budget] | Placeringsbudgeten. |
+| [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Max Bid] | Det högsta anbudet för placeringen. |
+| [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Device Environment] | De enhetsmiljöer som placeringen har som mål: (*[!UICONTROL Desktop]*, *[!UICONTROL Mobile]* och/eller *[!UICONTROL Connected TV])*. |
 | [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Placement End Date] | Placeringens slutdatum. |
 | [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Placement Start Date] | Placeringens startdatum. |
 | [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Placement Tags] | Placeringstaggen som används som en anpassad identifierare för placeringen. |
