@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 87f990392eb0e86a8c6e69d8810a7854eda2e64e
+source-git-commit: 27060d9d7d234c1d0349752e1ea677fabd705736
 workflow-type: tm+mt
-source-wordcount: '1063'
+source-wordcount: '1068'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Följande funktioner är nya eller nyligen ändrade.
 
 | Datum | Funktion | Beskrivning | Mer information |
 | ---- | ------- | ----------- | -------------------- |
-| 14 december 2022 | Placeringar, annonser | (Open beta feature) New &quot;[!UICONTROL Universal Video]&quot;Med placeringar och annonser kan ni inrikta er på flera enhetsmiljöer för VPAID- och VAST-inventering med en enda videoplacering.<br><br>Universella videomaterial innehåller en inställning för &quot;Enhetsmiljö&quot; ([!UICONTROL Desktop], [!UICONTROL Mobile]och [!UICONTROL Connected TV]). Universella videoannonser kan bara länkas till universella videomaterial.<br><br>Anpassade rapporter innehåller den nya placeringsnivådimensionen &quot;Enhetsmiljö&quot;. | Se &quot;[Placeringsinställningar](/help/dsp/campaign-management/placements/placement-settings.md)&quot; och &quot;[Tillgängliga rapportkolumner](/help/dsp/reports/report-columns.md).&quot;<br><br>Se även &quot;[Universella inställningar för videoreklam](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)&quot; och &quot;[Skapa en annons](/help/dsp/campaign-management/ads/ad-create.md).&quot; |
+| 14 december 2022 | Placeringar, annonser | (Open beta feature) New &quot;[!UICONTROL Universal Video]&quot;Med placeringar och annonser kan ni inrikta er på flera enhetsmiljöer för VPAID- och VAST-inventering med en enda videoplacering.<br><br>Universella videomaterial innehåller en inställning för &quot;Enhetsmiljö&quot; för att ange enhetstypmål ([!UICONTROL Desktop], [!UICONTROL Mobile]och [!UICONTROL Connected TV]). Universella videoannonser kan bara länkas till universella videomaterial.<br><br>Anpassade rapporter innehåller den nya placeringsnivådimensionen &quot;Enhetsmiljö&quot;. | Se &quot;[Placeringsinställningar](/help/dsp/campaign-management/placements/placement-settings.md)&quot; och &quot;[Tillgängliga rapportkolumner](/help/dsp/reports/report-columns.md).&quot;<br><br>Se även &quot;[Universella inställningar för videoreklam](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)&quot; och &quot;[Skapa en annons](/help/dsp/campaign-management/ads/ad-create.md).&quot; |
 | 23 november 2022 | Erbjudanden | The [!UICONTROL Inventory] > [!UICONTROL Deals] vyn innehåller nu en[!UICONTROL Deal Health]&quot; kolumn, som anger varje enskild erbjudandes hälsostatus: &quot;[!UICONTROL Success],&quot; &quot;[!UICONTROL Warning],&quot; &quot;[!UICONTROL Critical],&quot; eller &quot;[!UICONTROL Unavailable].&quot; Du kan klicka på statusen för att se mer information, bland annat varför ett avtal inte fungerar eller spenderar som förväntat och hur du felsöker potentiella problem. | — |
 | 27 oktober 2022 | [!UICONTROL Campaigns] | En ändringslogg, som visar ändringar som gjorts under det valda datumintervallet, är nu tillgänglig för varje paket och placering. | Se &quot;[Visa ändringsloggen för ett paket](/help/dsp/campaign-management/packages/package-change-log.md)&quot; och &quot;[Visa ändringsloggen för en placering](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |
 |  |  | Nu kan du ändra [!UICONTROL Intraday Pacing] inställning för flera placeringar samtidigt. | Se &quot;[Redigera en placering](/help/dsp/campaign-management/placements/placement-edit.md#edit-multiple-placements)&quot; och &quot;[Placeringsinställningar](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
