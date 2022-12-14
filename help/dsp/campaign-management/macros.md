@@ -3,9 +3,9 @@ title: Advertising Cloud DSP Macros
 description: Referera till de tillgängliga makrona för allmän spårning och för att spåra klick på visningsannonser från tredje part.
 feature: DSP Ads
 exl-id: e31cc2e5-ad1f-4555-a87b-0e4c3731fe5f
-source-git-commit: fbadd81a34c375f00fa3e420ea3c46fc9143daf8
+source-git-commit: b3fc18cf84713adcff5a4208db537b03904cfa08
 workflow-type: tm+mt
-source-wordcount: '931'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -102,4 +102,5 @@ Fel genereras om tecken saknas i början eller slutet av makronamnet. Du får ti
 >* [Inställningar för mobilannonsering](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
 >* [Inbyggda annonsinställningar](/help/dsp/campaign-management/ads/ad-settings-native.md)
 >* [Inställningar för annonsering före registrering](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [Universella inställningar för videoreklam](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
 

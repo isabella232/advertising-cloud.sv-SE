@@ -3,10 +3,10 @@ title: Skapa en placering
 description: Lär dig hur du skapar en placering.
 feature: DSP Placements
 exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: cb77fd450db1798f190f3b6eb51054553440bac9
 workflow-type: tm+mt
-source-wordcount: '649'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 1%
 
       1. Klicka på **[!UICONTROL Create a New Ad].**
 
-      1. Ange annonsinställningar för [ljudannonser](/help/dsp/campaign-management/ads/ad-settings-audio.md), [ansluten TV](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [displayannonser](/help/dsp/campaign-management/ads/ad-settings-display.md), [mobilannonser](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [inbyggda annonser](/help/dsp/campaign-management/ads/ad-settings-native.md), eller [pre-roll ads](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md).
+      1. Ange annonsinställningar för [ljudannonser](/help/dsp/campaign-management/ads/ad-settings-audio.md), [ansluten TV](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [displayannonser](/help/dsp/campaign-management/ads/ad-settings-display.md), [mobilannonser](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [inbyggda annonser](/help/dsp/campaign-management/ads/ad-settings-native.md), [pre-roll ads](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md), eller [universella videobrev](ad-settings-universal-video.md).
 
       1. Klicka på **[!UICONTROL Save & Submit for Review]**.
 
@@ -87,16 +87,25 @@ ht-degree: 1%
    * Så här bifogar du befintliga annonser i kampanjen:
 
       1. Klicka på **[!UICONTROL Select an Ad]**.
+
       1. Gör något av följande:
+
          * Så här lägger du till en annons i taget:
+
             1. Klicka på bredvid annonsnamnet **[!UICONTROL Select].**
+
             1. (Valfritt) För varje ytterligare annons som du vill bifoga klickar du på **[!UICONTROL Attach Another Ad]** och sedan upprepa processen.
          * Så här lägger du till upp till 20 annonser i taget:
+
             1. Markera kryssrutan ovanför annonslistan.
+
             1. Markera kryssrutan bredvid varje annons som ska läggas till.
+
             1. Klicka på **[!UICONTROL Attach]**.
+
             1. Klicka på bredvid annonsnamnet **[!UICONTROL Select]**.
       1. (Valfritt) Om du vill åsidosätta standardflygperioden och annonsrotationen för specifika annonser i placeringen:
+
          1. Klicka på **[!UICONTROL Custom Schedule Ads]**.
 
          1. Gör något av följande:
@@ -113,6 +122,8 @@ ht-degree: 1%
          1. Klicka på uppe till höger **[!UICONTROL Continue]**.
 
          1. Granska flyginformationen och klicka sedan på **[!UICONTROL Save & Finish]**.
+
+
 
 
 
