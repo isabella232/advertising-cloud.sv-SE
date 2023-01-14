@@ -2,13 +2,13 @@
 title: Inställningar för rapportmål
 description: Se informationen som krävs för rapportdestinationer, per måltyp.
 feature: DSP Custom Reports
-source-git-commit: ff14691fd2b6fa56c303dca3ac0e4c897c322f72
+exl-id: 584c9c69-7b94-4e5c-bcc1-277ac2689d8e
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
 
 ---
-
 
 # Inställningar för rapportmål
 
@@ -22,7 +22,7 @@ Vilken information som krävs för rapportdestinationer som inte är e-postrappo
 
 **[!UICONTROL Name]:** Ett namn som hjälper dig att identifiera målet.
 
-**[!UICONTROL S3 Bucket URL]:** Den fullständiga sökvägen till mappen på [!DNL Amazon Simple Storage Service] (S3)-bucket som rapporten ska överföras till. Exempel: `s3://adcloud_account/reports`
+**[!UICONTROL S3 Bucket URL]:** Den fullständiga sökvägen till mappen på [!DNL Amazon Simple Storage Service] (S3)-bucket som rapporten ska överföras till. Exempel: `s3://dsp_account/reports`
 
 **[!UICONTROL Access Key ID]:** Åtkomstnyckel-ID till ([!DNL Amazon S3]) bucket (tillhandahålls av [!DNL Amazon]).
 

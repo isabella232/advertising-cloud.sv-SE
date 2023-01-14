@@ -1,18 +1,18 @@
 ---
-title: Om Audience Management i Advertising Cloud DSP
+title: Om Audience Management i DSP
 description: Läs om funktioner för målgruppshantering.
 feature: DSP Audiences, DSP Segments
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
-source-git-commit: 3b44e8e019bfc4bab2ee65ac028313752cb4a0e0
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1036'
 ht-degree: 0%
 
 ---
 
-# Om Audience Management i Advertising Cloud DSP
+# Om Audience Management i DSP
 
-I Advertising Cloud DSP kan du skapa och hantera målgruppssegment och målgruppsuppsättningar som du kan använda som mål för dina ersättningar:
+I DSP kan ni skapa och hantera målgruppssegment och målgruppsuppsättningar, som ni kan använda som mål för era ersättningar:
 
 * Ni kan samla in era egna data från förstapartsmålgrupper genom att skapa och implementera segment. Du kan senare rikta om användare i segmentet med annonser eller hindra användare i segmentet från att ta emot annonser. Du kan skapa följande typer av segment:
 
@@ -20,7 +20,7 @@ I Advertising Cloud DSP kan du skapa och hantera målgruppssegment och målgrupp
 
    * [CCPA-segment för avstående från försäljning](/help/dsp/audiences/ccpa-opt-out-segment-create.md) för att spåra användar-ID:n från förfrågningar om att avanmäla sig från försäljning på din webbplats, enligt California Consumer Privacy Act (CCPA). Du kan hämta månadsrapporter om användar-ID:n från begäranden om att avanmäla dig.
 
-      Mer information om Advertising Cloud stöd för CCPA-begäran om avanmälan finns i [Adobe Advertising Cloud Support for the California Consumer Privacy Act: Stöd för avanmälan från konsumenter](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html).
+      Mer information om stöd för annonsering via Adobe för CCPA-avanmälan finns i [Adobe Advertising Support for the California Consumer Privacy Act: Stöd för avanmälan från konsumenter](/help/privacy/ccpa-opt-out-of-sale.md).
 
 * Du kan skapa ett målgruppsbibliotek med [återanvändbara målgrupper](/help/dsp/audiences/reusable-audience-create.md). Sparade målgrupper består av alla era tillgängliga målgruppssegment och alla era andra sparade målgrupper. Alla ändringar du gör för en sparad målgrupp tillämpas automatiskt på alla placeringar som riktar sig till eller utesluter målgruppen och på alla andra målgrupper som inkluderar den sparade målgruppen.
 
@@ -60,7 +60,7 @@ Du kan rikta dina placeringar till alla följande typer av målgrupper.
 
    Extra avgifter tillkommer för segment från tredje part, vilket anges bredvid varje segmentnamn.
 
-* (Annonsörer med Adobe Experience Platform och [!DNL Real-Time CDP], Adobe Audience Manager eller Adobe Analytics som endast använder Advertising Cloud JavaScript-konverteringstaggar) Alla tillgängliga första-, andra- eller tredjepartssegment som skapats i [!DNL Real-Time CDP], skapat i Audience Manager eller publicerat till Adobe Experience Cloud från Audience Manager eller [!DNL Analytics].
+* (Annonsörer med Adobe Experience Platform och [!DNL Real-Time CDP], Adobe Audience Manager eller Adobe Analytics som endast använder JavaScript-konverteringstaggar för Adobe Advertising) Alla tillgängliga första-, andra- eller tredjepartssegment som skapats i [!DNL Real-Time CDP], skapat i Audience Manager eller publicerat till Adobe Experience Cloud från Audience Manager eller [!DNL Analytics].
 
    Priset för segmenten är förförhandlat och syns inte i DSP.
 

@@ -4,19 +4,19 @@ role: User, Admin
 cloud: Experience Cloud
 solution: Advertising Cloud
 product: advertising cloud
-user-guide-title: Advertising Cloud DSP Guide
-user-guide-description: Lär dig mer om de viktigaste funktionerna, arbetsuppgifterna, inställningarna och andra resurser som krävs för att hantera, optimera och rapportera om era strategier för displayannonsering med Advertising Cloud DSP.
+user-guide-title: Advertising DSP Guide
+user-guide-description: Lär dig mer om de viktigaste funktionerna, uppgifterna, inställningarna och andra resurser som krävs för att hantera, optimera och rapportera om era strategier för displayannonsering med hjälp av DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: e902deb79c42e8fb13697439198259004a957525
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
-source-wordcount: '954'
+source-wordcount: '948'
 ht-degree: 0%
 
 ---
 
 
-# Advertising Cloud DSP Guide {#dsp}
+# Advertising DSP Guide {#dsp}
 
 <!-- add back to about below "Edit the Advertisers with Access to a Deal ID" when reintroduced:
       + [Edit the Attribute Tags for a Deal ID](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 + [Nyheter](/help/dsp/home.md)
 + Introduktion {#introduction}
-   + [Introduktion till Adobe Advertising Cloud DSP](/help/dsp/introduction/dsp-about.md)
+   + [Introduktion till Adobe Advertising DSP](/help/dsp/introduction/dsp-about.md)
    + Viktiga funktioner {#features}
       + [Optimering](/help/dsp/introduction/features/optimization.md)
       + [Varumärkessäkerhet och mediakvalitet](/help/dsp/introduction/features/brand-safety-media-quality.md)
@@ -36,10 +36,10 @@ ht-degree: 0%
    + [Kontofinansiering](/help/dsp/introduction/billing/account-funding.md)
    + [Valutor som stöds](/help/dsp/currency.md)
    + Stöd för konsumentintegritet {#privacy}
-      + [Stöd för den allmänna dataskyddsförordningen](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-gdpr.html)
+      + [Stöd för den allmänna dataskyddsförordningen](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/gdpr.html)
       + Stöd för CCPA {#ccpa}
-         + [Stöd för California Consumer Privacy Act: Åtkomst och borttagning av konsumentdata](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ad-cloud-ccpa-access-delete.html)
-         + [Stöd för California Consumer Privacy Act: Konsumentavskrivning](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ad-cloud-ccpa-opt-out-of-sale.html)
+         + [Stöd för California Consumer Privacy Act: Åtkomst och borttagning av konsumentdata](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-access-delete.html)
+         + [Stöd för California Consumer Privacy Act: Konsumentavskrivning](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html)
    + Politik och riktlinjer {#policies}
       + [Krav för annonser](https://experienceleague.adobe.com/docs/advertising-cloud/policies/ad-requirements-policy.html)
       + [Riktlinjer för godkända hälsosegment](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
@@ -117,7 +117,7 @@ ht-degree: 0%
       + [Hämta placeringsinställningar för en kampanj](/help/dsp/campaign-management/qa/qa-sheet-download.md)
       + [Överför placeringsinställningar för en kampanj](/help/dsp/campaign-management/qa/qa-sheet-upload.md)
       + [Kolumner i hämtade/överförda kalkylblad](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
-   + [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
+   + [DSP makron](/help/dsp/campaign-management/macros.md)
    + [Kortkommandon](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
    + [Frågor och svar om Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 + Optimering {#optimization}
