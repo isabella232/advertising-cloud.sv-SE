@@ -1,22 +1,22 @@
 ---
-title: Adobe Advertising Cloud Ad Requirements Policy
+title: Krav för annonsering på Adobe
 description: Se policyn för annonskrav.
 feature: Policies, DSP Ads
 exl-id: 49c990e7-05d7-4fde-a728-d9e8dfb86222
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '2063'
+source-wordcount: '2058'
 ht-degree: 0%
 
 ---
 
-# Adobe Advertising Cloud Ad Requirements Policy
+# Krav för annonsering på Adobe
 
 *Senast uppdaterad: 12 juli 2021*
 
-*För Adobe Advertising Cloud DSP och Adobe Advertising Cloud Search*
+*För Adobe Advertising DSP and Adobe Advertising Search*
 
-Denna policy för annonskrav (&quot;policyn&quot;) innehåller kraven för annonser som distribueras via Adobe&#39;s On-demand Services for Advertising Cloud (&quot;Services&quot;). Denna policy införlivas genom referens i avtalet mellan Adobe och kunden (&quot;du&quot;) med hjälp av On-demand-tjänster. De termer med versaler som används i denna policy men som inte definieras häri får den innebörd som anges i det avtalet.
+Denna policy för annonskrav (&quot;policyn&quot;) innehåller kraven för annonser som distribueras via Adobe&#39;s On-demand Services for Adobe Advertising (&quot;Services&quot;). Denna policy införlivas genom referens i avtalet mellan Adobe och kunden (&quot;du&quot;) med hjälp av On-demand-tjänster. De termer med versaler som används i denna policy men som inte definieras häri får den innebörd som anges i det avtalet.
 
 Adobe förbehåller sig rätten att i sin egen dom avgöra om ett annons, eller den eller de webbplatser till vilka annonsen omdirigerar eller länkar, strider mot kraven i denna policy, i vilket fall Adobe kan avslå ett sådant annons och/eller säga upp eller avbryta tillgången till tjänsterna på denna grund.
 
@@ -26,7 +26,7 @@ Utöver kraven som anges nedan och i avtalet måste ni uppfylla kraven som stäl
 
 ### Krav på kreativitet
 
-Alla annonser som du överför, lagrar, visar, distribuerar eller på annat sätt gör tillgängliga via On-demand-tjänsterna måste överensstämma med annonsspecifikationerna i Adobe Advertising Cloud Ad Specs, som kan revideras av Adobe emellanåt.
+Alla annonser som ni överför, lagrar, visar, distribuerar eller på annat sätt gör tillgängliga via On-demand-tjänsterna måste överensstämma med annonsspecifikationerna i Adobe Advertising Ad Specs, som kan komma att revideras av Adobe emellanåt.
 
 ### Förbjudna annonser
 
@@ -34,9 +34,9 @@ Ni måste se till att era annonser och de webbplatser till vilka en annons länk
 
 * **Ogiltigt innehåll**. Annonserna får inte innehålla olagligt innehåll eller främja, uppmuntra eller underlätta olaglig verksamhet, produkter eller tjänster. Detta omfattar, men är inte begränsat till, innehåll, produkter, aktiviteter eller tjänster som innefattar användning av olaglig narkotika eller drogparaferi (oavsett om den är olaglig på statlig eller federal nivå) eller strider mot värdepapperslagstiftningen. I denna policy är annonser för innehåll, produkter, verksamheter eller tjänster som rör marijuana eller hampa eller derivat av dessa ämnen, t.ex. kanabidiol (CBD), förbjudna, med följande enda undantag: (1) Hamphärledda CBD-produkter (men inga andra CBD- eller THC-produkter) i USA. och (2) kanabisprodukter i de tillåtna kanadensiska provinserna, som båda omfattas av (a) tidigare ingången till det tillämpliga Adobe Rider-avtalet, (b) uppfyllandet av Adobe kraven på tillbörlig aktsamhet, och (c) enligt vad som tillåts av medieleverantörerna och tillämpliga lagar. tillåtna kanadensiska provinser: provinserna Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island och Saskatchewan.
 
-* **Överträdelse av en annan** persons rättigheter eller avtal. Annonserna får inte bryta mot eller bryta mot någon annans rättigheter eller kontrakt eller främja någon produkt eller tjänst som bedriver sådan verksamhet. Detta inkluderar intrång i immateriella rättigheter och brott mot sekretess, publicitet eller andra personliga eller egna rättigheter, inklusive främjande av fildelningstjänster som huvudsakligen används för att göra intrång i upphovsrätten.
+* **Överträdelse av en annan persons rättigheter eller avtal**. Annonserna får inte bryta mot eller bryta mot någon annans rättigheter eller kontrakt eller främja någon produkt eller tjänst som bedriver sådan verksamhet. Detta inkluderar intrång i immateriella rättigheter och brott mot sekretess, publicitet eller andra personliga eller egna rättigheter, inklusive främjande av fildelningstjänster som huvudsakligen används för att göra intrång i upphovsrätten.
 
-* **Våld eller farliga aktiviteter**. Annonserna får inte främja eller avbilda våldsamma eller farliga aktiviteter eller material, inklusive innehåll som är stötande, sensationellt, gory, obscen eller som främjar eller avbildar fysiska skador, skador eller missbruk, vapen (inklusive vapenmodifiering eller tillbehör), ammunition, fyrverkerier eller andra explosiva material.
+* **Våld eller farlig verksamhet**. Annonserna får inte främja eller avbilda våldsamma eller farliga aktiviteter eller material, inklusive innehåll som är stötande, sensationellt, goriskt, obscent eller som främjar eller avbildar fysiska skador, skador eller missbruk, vapen (inklusive vapenmodifiering eller tillbehör), ammunition, fyrverkerier eller andra explosiva material.
 
 * **Felaktiga eller vilseledande annonser**. Annonser får inte innehålla innehåll som är falskt, vilseledande eller bedrägligt. Detta inkluderar annonsinställningar som ställer in orealistiska förväntningar för användare, döljer det mål som användarna kommer att dirigeras till efter att de klickat på en annons, omdirigerar eller länkar till en webbplats som felaktigt representerar sig själv som en annan tjänst, simulerar systemvarningar eller varningar (t.ex. från ett operativsystem eller mobilprogram) eller som på ett förvirrande sätt liknar en annan produkt eller ett annat program. Alla erbjudanden om&quot;kostnadsfria&quot; eller rabatterade produkter eller tjänster måste innehålla tydliga och korrekta upplysningar om alla villkor eller andra krav för att kunna göra anspråk på sådana erbjudanden som är förenliga med kraven i lagstiftningen. Alla påståenden måste vara korrekta och sanningsenliga.
 
@@ -44,7 +44,7 @@ Ni måste se till att era annonser och de webbplatser till vilka en annons länk
 
 * **Förfalskade produkter**. Annonserna får inte marknadsföra eller avbilda förfalskade eller falska produkter, inklusive falska dokument, såsom pass eller officiella pappersverk.
 
-* **Sexuellt antydande innehåll**. Annonserna får inte innehålla innehåll som innehåller eller främjar sexuellt förslagsfullt innehåll, t.ex. nakenhet, pornografi, vuxentjänster eller underhållning, eller antydande eller explicita utdrag eller språk.
+* **Sexuellt antydande innehåll**. Annonser får inte innehålla innehåll som innehåller eller främjar sexuellt förslagsfullt innehåll, t.ex. nakenhet, pornografi, vuxentjänster eller underhållning, eller antydande eller explicita utdrag eller språk.
 
 * **Onlineapotek**. Ads får inte göra reklam för apotekstjänster som gör receptbelagda eller OTC-läkemedel tillgängliga för inköp online.
 
@@ -54,7 +54,7 @@ Ni måste se till att era annonser och de webbplatser till vilka en annons länk
 
 * **Profanity, vulgärt eller obscent language.** Annonserna får inte innehålla svordomar, vulgärt eller oanständigt språk. Annonserna får inte heller innehålla språk som avser att åstadkomma samma effekt, men som döljer svordomheten.
 
-* **Ads**. Annonserna får inte främja eller ha samband med hatfyllt tal eller religiös intolerans och får inte nedvärdera en individ eller grupp på grundval av ras eller etnisk tillhörighet, religion, funktionshinder, medicinskt eller genetiskt tillstånd, ålder, nationalitet eller nationellt ursprung, veteranstatus, flyktingstatus, invandringsstatus, sexuell läggning, kön, könsidentitet eller andra egenskaper som har samband med systemisk diskriminering eller marginalisering.
+* **Ad Ads**. Annonserna får inte främja eller ha samband med hatfyllt tal eller religiös intolerans och får inte nedvärdera en individ eller grupp på grundval av ras eller etnisk tillhörighet, religion, funktionshinder, medicinskt eller genetiskt tillstånd, ålder, nationalitet eller nationellt ursprung, veteranstatus, flyktingstatus, invandringsstatus, sexuell läggning, kön, könsidentitet eller andra egenskaper som har samband med systemisk diskriminering eller marginalisering.
 
 * **Känsliga händelser**. Det är inte säkert att annonser drar nytta av eller saknar rimlig känslighet för naturkatastrofer, konflikter, dödsfall, epidemi, pandemier, tragiska händelser eller allmän rädsla.
 
@@ -62,7 +62,7 @@ Ni måste se till att era annonser och de webbplatser till vilka en annons länk
 
 * **Försäljning av kroppsdelar**. Annonserna får inte främja försäljning av kroppsdelar eller kroppsvätskor.
 
-* **Distraherande annonser**. Annonserna får inte innehålla distraherande, oönskade eller obehagliga funktioner eller innehåll, inklusive autouppspelade funktioner (t.ex. annonser som automatiskt spelar upp ljud eller video), innehåll som blinkar, skakar, pulsar, blinkar eller innehåller extremt animerade objekt, text eller bilder, lokalt delade objekt (inklusive flash cookies och lokal HTML5-lagring) och annonser som stör användarupplevelsen (t.ex. genom att överlagra annat innehåll).
+* **Distraherande annonser**. Annonserna får inte innehålla distraherande, oönskade eller obehagliga funktioner eller innehåll, inklusive autouppspelade funktioner (t.ex. annonser som automatiskt spelar upp ljud eller video), innehåll som blinkar, skakar, pulsar, blinkar eller innehåller extremt animerade objekt, text eller bilder, lokalt delade objekt (inklusive flash cookies och lokal lagring i HTML5) och annonser som stör användarupplevelsen (t.ex. genom att lägga över annat innehåll ).
 
 * **Politiskt innehåll**. Politiskt innehåll omfattar kommunikation som 1) betalas av varje kandidat till ämbetet (federal, statlig, lokal eller internationell) eller av kandidatens kampanj, 2) betalas av en enhet som är registrerad eller som rapporterar enligt lagstiftningen om kampanjfinansiering i en jurisdiktion (federala, statliga, lokala eller internationella), (3) uttryckligen förespråkar eller motsätter sig alla klart angivna kandidater (federala, statliga, lokala eller internationella), eller (4) på annat sätt regleras av lagstiftningen om kampanjfinansiering i en jurisdiktion. Detta förbud omfattar, men är inte begränsat till, annonsering av lobbying som direkt eller indirekt har samband med val, politiska kampanjer, kandidat till ämbetet, omröstning, röstningsinitiativ, lagstiftning eller folkomröstning.
 
@@ -100,7 +100,7 @@ Annonserna får inte använda personuppgifter för att avsiktligt rikta sig till
 
 Tjänsterna får inte användas för att rikta annonser till användare eller utesluta användare från målanpassning, inklusive för att rikta om användare baserat på besök på era webbplatser eller andra onlinetjänster, på ett sätt som innebär att ni är medvetna om potentiellt känslig information om dem.
 
-* **Otillåten målgruppsanpassning**. Annonserna får inte riktas till eller riktas mot en målgrupp baserat på någon av följande faktorer, vare sig kända eller härledda:
+* **Förbjuden målgruppsanpassning**. Annonserna får inte riktas till eller riktas mot en målgrupp baserat på någon av följande faktorer, vare sig kända eller härledda:
 
    * Religiösa eller liknande trosuppfattningar eller anknytningar
    * Ras, färg eller etnisk tillhörighet

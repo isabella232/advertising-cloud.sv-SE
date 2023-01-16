@@ -1,21 +1,22 @@
 ---
-title: Adobe Advertising Cloud DSP riktlinjer för dataanvändning
+title: Riktlinjer DSP dataanvändning för Adobe
 description: Se riktlinjerna för dataanvändning.
 feature: Policies
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 6b646988-4a53-4092-8bc6-bcd350ee4096
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
 
-# Adobe Advertising Cloud DSP riktlinjer för dataanvändning
+# Riktlinjer DSP dataanvändning för Adobe
 
 *Senast uppdaterad: 5 september 2019*
 
-*För Adobe Advertising Cloud DSP*
+*För Adobe-DSP*
 
-Dessa riktlinjer för dataanvändning (&quot;riktlinjer för dataanvändning&quot;) innehåller krav för användningen av vissa uppgifter som Adobe’s On-demand Services for Advertising Cloud (&quot;tjänster&quot;) har tillgång till. Dessa riktlinjer införlivas genom hänvisning i avtalet mellan Adobe och kunden med hjälp av On-demand-tjänster. De termer med versaler som används i dessa riktlinjer, men som inte definieras häri, har den innebörd som anges i det avtalet.
+Dessa riktlinjer för dataanvändning (&quot;riktlinjer för dataanvändning&quot;) innehåller krav för användningen av vissa uppgifter som Adobe har tillgång till via&quot;tjänster för annonsering på begäran&quot; (&quot;tjänster&quot;). Dessa riktlinjer införlivas genom hänvisning i avtalet mellan Adobe och kunden med hjälp av On-demand-tjänster. De termer med versaler som används i dessa riktlinjer, men som inte definieras häri, har den innebörd som anges i det avtalet.
 
 Adobe förbehåller sig rätten att i sin egen bedömning avgöra om kundens användning av data strider mot dessa riktlinjer.
 

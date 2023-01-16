@@ -3,16 +3,16 @@ title: Bästa metoder för att konfigurera resultatkampanjer
 description: Lär dig de bästa sätten att skapa prestandainriktade kampanjer, som bland annat innehåller placeringar som är optimerade för det lägsta CPA-värdet eller det högsta ROAS-värdet.
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: 22821c0fe8c2864ab36d7aa1141a7527cc08a35b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '1249'
+source-wordcount: '1247'
 ht-degree: 0%
 
 ---
 
 # Bästa metoder för att konfigurera resultatkampanjer
 
-Advertising Cloud kan optimera era prestandainriktade kampanjer för praktik med lägsta kostnad per förvärv (CPA) eller högsta avkastningen på annonskostnaderna (ROAS).
+DSP kan optimera era prestandainriktade kampanjer för praktik med lägsta kostnad per förvärv (CPA) eller högsta avkastningen på annonskostnaderna (ROAS).
 
 Se följande metodtips för prestandakampanjer:
 
@@ -55,7 +55,7 @@ Lägre trattpaket innehåller placeringar som riktar sig till användare som red
 
 #### Rekommenderade placeringsstrategier för återmarknadsföring
 
-* Om annonsören är kund hos Adobe Analytics eller Adobe Audience Manager kan ni skapa förstahandssegment (som hemsida, produktsidor eller övergivna varukorgar) och använda dem som placeringsmål i Advertising Cloud.
+* Om annonsören är kund hos Adobe Analytics eller Adobe Audience Manager kan ni skapa förstahandssegment (som besökare på hemsidan, produktsidor eller övergivna varukorgar) och använda dem som placeringsmål i DSP.
 
 * Undvik att tilldela för mycket budget till en målgruppsanpassad placering. Generellt gäller att du budgeterar 30 USD per 1 000 användare per månad.
 

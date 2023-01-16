@@ -2,16 +2,16 @@
 title: Utgivarspecifika annonsspecifikationer
 description: Referera till annonsspecifikationerna för de utgivare som stöds.
 feature: DSP Ads
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
 # Utgivarspecifika annonsspecifikationer
 
-Vissa utgivare har striktare annonsspecifikationer än Advertising Clouds [allmänna annonser](/help/dsp/campaign-management/ads/ad-specs.md).  När utgivarens specifikationer är striktare än Advertising Clouds måste du se till att följa utgivarens specifikationer.
+Vissa utgivare har striktare annonsspecifikationer än Adobe Advertising [allmänna annonser](/help/dsp/campaign-management/ads/ad-specs.md). När utgivarens specifikationer är striktare än Adobe Advertising-specifikationerna måste du följa utgivarens specifikationer.
 
 Följande länkar tar dig till annonsspecifikationerna för vissa utgivare med striktare krav.
 

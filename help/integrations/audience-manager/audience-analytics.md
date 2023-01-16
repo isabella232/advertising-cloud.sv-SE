@@ -1,42 +1,42 @@
 ---
-title: '''[!DNL Adobe] [!DNL Audience Analytics] för Advertising Cloud-kunder'
+title: '''[!DNL Adobe] [!DNL Audience Analytics] för Adobe Advertising Customers'
 description: Lär dig använda [!DNL Adobe] [!DNL Audience Analytics] för reklamanvändningsfall
 feature: Integration with Adobe Audience Manager
 exl-id: e05ba560-d3d5-4024-b1ba-956e878a2578
-source-git-commit: 4a7766e92ffaa8f32f0fe8941f6c85405bd2df3e
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
 
-# [!DNL Adobe] [!DNL Audience Analytics] för Advertising Cloud-kunder
+# [!DNL Adobe] [!DNL Audience Analytics] för Adobe-reklamkunder
 
 [[!DNL Adobe] [!DNL Audience Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html) är en integrering mellan Adobe Audience Manager och Adobe Analytics som gör att Audience Manager-kunder kan skicka segment till [!DNL Analytics] för bättre insikter om webbplatsaktiviteter.
 
-Advertising Cloud-kunder kan dra nytta av [!DNL Audience Analytics]. Integreringen gör att du kan:
+Adobe Advertising customers can benefit by using [!DNL Audience Analytics]. Integreringen gör att du kan:
 
-* Skicka Advertising Cloud exponeringsdata direkt till [!DNL Analytics] fastställa inverkan av den övre trattens aktivitet på nedströmsverksamheten.
+* Skicka exponeringsdata för Adobe Advertising direkt till [!DNL Analytics] fastställa inverkan av den övre trattens aktivitet på nedströmsverksamheten.
 
 * Bestäm marknadsföringskanaler och ingångspunkter för sajter utifrån exponeringsannonser i den övre tratten.
 
-* Layer the integration with [!DNL Analytics for Advertising Cloud] lägga in demografiska segment från tredje part från [Audience Manager [!DNL Audience Marketplace]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace.html) med [!DNL Analytics for Advertising Cloud] för mer information om användarprofiler.
+* Layer the integration with [!DNL Analytics for Advertising] lägga in demografiska segment från tredje part från [Audience Manager [!DNL Audience Marketplace]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace.html) med [!DNL Analytics for Advertising] för mer information om användarprofiler.
 
    [!DNL Audience Marketplace] ger åtkomst till dataflöden från tredje part med prenumerationsmodeller för aktivering som tillåter köpare att skicka data till en destination. Om data används i en [!DNL Analytics] och då tas ingen aktiveringsavgift ut.
 
-* (Annonsörer med Advertising Cloud DSP) Lägg till ytterligare exponeringssegment för att få en helhetsbild av hanteringen.
+* (Advertisers with Advertising DSP) Lägg till ytterligare exponeringssegment för att få en helhetsbild av kundresehanteringen.
 
-   Advertising Cloud DSP kan skicka exponeringsdata till Audience Manager som användbara signaler genom att implementera pixlar för antingen Adobe Experience Platform eller Audience Manager. Vidarebefordra samma data till [!DNL Analytics] möjliggör avancerad dataanalys. Se &quot;[Översikt över Advertising Cloud Media Data Integration med Adobe Audience Manager](/help/integrations/audience-manager/media-data-integration/overview.md)&quot; för mer information.
+   DSP kan skicka exponeringsdata till Audience Manager som åtgärdbara signaler genom att implementera pixlar för antingen Adobe Experience Platform eller Audience Manager. Vidarebefordra samma data till [!DNL Analytics] möjliggör avancerad dataanalys. Se &quot;[Översikt över Adobe Advertising Media Data Integration with Adobe Audience Manager](/help/integrations/audience-manager/media-data-integration/overview.md)&quot; för mer information.
 
 Mer information om [!DNL Audience Analytics], inklusive dess förutsättningar och arbetsflöde, se &quot;[Audience Analytics - översikt](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).&quot;
 
-## Exempel på hur du använder [!DNL Audience Analytics] Data med Advertising Cloud Data
+## Exempel på hur du använder [!DNL Audience Analytics] Data med Adobe-reklamdata
 
 Nedan följer exempel på hur du kan använda kombinerade data i [!DNL Analytics] [!DNL Analysis Workspace].
 
 ### Se effekten av Övre trattaktivitet på nedströmsaktivitet
 
-Använd exponeringssegment i Audience Manager för att se hur aktiviteten på den övre delen av arbetsytan påverkar webbplatsaktiviteten nedströms. Inkludera makro-ID:n från Advertising Cloud eller tredje part i spårningspixlarna för att spåra påverkan på en detaljerad nivå, från kampanjnivå till nivån på webbplatsen där användaren exponerades.
+Använd exponeringssegment i Audience Manager för att se hur aktiviteten på den övre delen av arbetsytan påverkar webbplatsaktiviteten nedströms. Inkludera makro-ID:n från Adobe eller externa leverantörer i spårningspilarna för att spåra påverkan på en detaljerad nivå, från kampanjnivå till nivån på den webbplats där användaren exponerades.
 
 Huvudsakliga fördelar:
 
@@ -44,7 +44,7 @@ Huvudsakliga fördelar:
 
 * Fastställ effekten av den övre trattaktiviteten på aktiviteter längre fram i kedjan.
 
-* Anslut [!DNL Analytics for Advertising Cloud]<!-- which doesn't include the last exposure event --> och [!DNL Audience Analytics] data <!-- (which includes the user's last exposure event) --> för att fastställa en helhetsresa till webbplatsen.
+* Anslut [!DNL Analytics for Advertising]<!-- which doesn't include the last exposure event --> och [!DNL Audience Analytics] data <!-- (which includes the user's last exposure event) --> för att fastställa en helhetsresa till webbplatsen.
 
 Nedan följer exempel på rapporter som du kan skapa i [!DNL Analysis Workspace].
 
@@ -63,5 +63,5 @@ Nedan följer exempel på rapporter som du kan skapa i [!DNL Analysis Workspace]
 
 >[!MORELIKETHIS]
 >
->* [Advertising Cloud-integrering med Adobe Audience Manager](/help/integrations/audience-manager/overview.md)
+>* [Adobe reklamintegrering med Adobe Audience Manager](/help/integrations/audience-manager/overview.md)
 

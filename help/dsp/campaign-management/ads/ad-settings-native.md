@@ -3,9 +3,9 @@ title: Annonsinställningar för inbyggd visning
 description: Se beskrivningar av tillgängliga annonsinställningar för inbyggda displayannonser.
 feature: DSP Ads
 exl-id: 3ae59e63-ae64-41b2-8734-3df2da020c7c
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 **[!UICONTROL Landing Page]:** Den URL som visningsprogrammet får när han/hon klickar på annonsen.
 
-**[!UICONTROL Final Landing Page]:** The [!UICONTROL Landing Page] URL med nödvändig [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) infogad, om tillämpligt.
+**[!UICONTROL Final Landing Page]:** The [!UICONTROL Landing Page] URL med nödvändig [Annonsera DSP spårningsmakron](/help/dsp/campaign-management/macros.md) infogad, om tillämpligt.
 
 **[!UICONTROL Sponsored By (Advertiser Name)]:** Annonsannonsören.
 
@@ -62,5 +62,5 @@ Följande inställningar gäller för varje pixel som du skapar eller redigerar.
 >* [Skapa en annons](ad-create.md)
 >* [Visa en lista över placeringar som är kopplade till en annons](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Annonsspecifikationer](ad-specs.md)
->* [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
+>* [DSP makron](/help/dsp/campaign-management/macros.md)
 

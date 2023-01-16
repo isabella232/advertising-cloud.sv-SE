@@ -1,24 +1,24 @@
 ---
 title: Använda [!DNL Roku] Lager
-description: 'Läs om DSP partnerskap med [!DNL Roku], inklusive lageralternativ, godkända tredjepartsleverantörer av spårning och bästa praxis för [!DNL Roku]-specifika placeringar. '
+description: Läs om DSP partnerskap med [!DNL Roku], inklusive lageralternativ, godkända tredjepartsleverantörer av spårning och bästa praxis för [!DNL Roku]-specifika placeringar.
 feature: DSP On Demand Inventory, DSP Private Inventory
 exl-id: 0cd42782-f006-4aa8-b879-322f86cfac4b
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '516'
 ht-degree: 0%
 
 ---
 
 # Använda [!DNL Roku] Lager
 
-Advertising Cloud DSP har unika funktioner för annonsering på [!DNL Roku].
+DSP erbjuder unika funktioner för annonsering på [!DNL Roku].
 
-## Advertising Cloud DSP och [!DNL Roku] Partnerskap
+## DSP och [!DNL Roku] Partnerskap
 
-Roku och Advertising Cloud DSP har ett unikt samarbete som matchar dina [!DNL DSP] målgrupper till [!DNL Roku] ID:n för 1:1 deterministisk målgruppsanpassning på [!DNL Roku] lager.
+Roku och DSP har ett unikt samarbete som matchar dina [!DNL DSP] målgrupper till [!DNL Roku] ID:n för 1:1 deterministisk målgruppsanpassning på [!DNL Roku] lager.
 
-Utanför Rokus egna DSP (OneView) har Advertising Cloud DSP enda åtkomst till dessa målningsfunktioner. Advertising Cloud DSP är också den enda DSP med tillstånd att mäta [!DNL Roku] leverans bredvid alla andra TV-lager (med internetanslutning). För [!DNL Roku] delar inte alla standard-RTB- och visningssignaler i pixlar, och ingen annan DSP kan rikta eller mäta sig med den Roku-sålda CTV-leverantören.
+Utanför Rokus egna DSP (OneView) har Advertising DSP tillgång till dessa målningsfunktioner. DSP är också den enda DSP som har tillstånd att mäta [!DNL Roku] leverans bredvid alla andra TV-lager (med internetanslutning). För [!DNL Roku] delar inte alla standard-RTB- och visningssignaler i pixlar, och ingen annan DSP kan rikta eller mäta sig med den Roku-sålda CTV-leverantören.
 
 ## [!DNL Roku] Lageralternativ
 

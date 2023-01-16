@@ -2,9 +2,10 @@
 title: Om aktivering av autentiserade segment från målgruppskällor
 description: Lär dig mer om hur man hämtar in förstahandssegment från en kunddataplattform.
 feature: DSP Audiences
-source-git-commit: aac60e8fddce1db3d0101a617fca3af970043648
+exl-id: 3e6ede23-2b27-4b1d-bfa2-e823824633c4
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -14,7 +15,7 @@ ht-degree: 0%
 <!-- Doesn't specifically explain what you can do in our UI -->
 *Betafunktion*
 
-Advertising Cloud DSP kan importera förstahandssegment som består av autentiserade signaler som skapats inom en kunddataplattform (CDP). Du kan använda de kapslade segmenten som mål för dina placeringar.
+DSP kan importera förstahandssegment som består av autentiserade signaler som byggts inom en kunddataplattform (CDP). Du kan använda de kapslade segmenten som mål för dina placeringar.
 
 ## [!DNL Adobe Real-Time Customer Data Profile]
 
@@ -32,7 +33,7 @@ Mer information om destinationer finns i Experience Platform [Destinationshandbo
 
 1. [Skapa en målgruppskälla](source-create.md) för att importera målgrupper till ditt DSP eller ett annonserarkonto.
 
-1. [Konfigurera en [!DNL Real-Time CDP] målanslutning i Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html).<!-- Verify URL once it's published. -->
+1. [Konfigurera en [!DNL Real-Time CDP] målanslutning i Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html).
 
 Kontakta din [!DNL Adobe] kontoteam eller `adcloud-support@adobe.com`.
 
@@ -41,7 +42,7 @@ Kontakta din [!DNL Adobe] kontoteam eller `adcloud-support@adobe.com`.
 >* [Aktivera autentiserade segment från varaktiga ID-partners](source-durable-id.md)
 >* [Skapa en målgruppskälla för att aktivera förstahandspubliker](source-create.md)
 >* [Inställningar för målgruppskälla](source-settings.md)
->* [Adobe Advertising Cloud DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
+>* [Adobe Advertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* Adobe Experience Platform [Översikt över destinationskatalogen](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html)
 >* [Om Audience Management](/help/dsp/audiences/audience-about.md)
 

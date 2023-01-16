@@ -3,9 +3,9 @@ title: Placeringsinställningar
 description: Se beskrivningar av tillgängliga placeringsinställningar.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 0f5bdf041c0de60730efe5190d438a6d29752034
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '3422'
+source-wordcount: '3418'
 ht-degree: 0%
 
 ---
@@ -169,7 +169,7 @@ Inkludera ett postnummer per rad eller ange flera värden avgränsade med kommat
 
 **[!UICONTROL Inventory Sources]:** Lagerkällor som ska inkluderas eller exkluderas som mål. För de flesta placeringstyper inkluderas alla lagertyper och alla källor för varje typ som standard. För [!DNL Roku] placeringar måste du ange lagertyp och källor. Du kan välja mellan följande lagertyper:
 
-* [!UICONTROL Public]: (Alla placeringstyper utom Roku) Alla öppna börslager som Advertising Cloud har tillgång till. Du kan inkludera och exkludera offentligt lager.
+* [!UICONTROL Public]: (Alla placeringstyper utom Roku) Alla öppna valutalager som DSP har tillgång till. Du kan inkludera och exkludera offentligt lager.
 
    Du kan visa listan efter källa eller feed. När du visar listan efter feed kan du söka efter flödets namn, flödesknapp eller en vald egenskapstagg.
 
@@ -226,7 +226,7 @@ Annonser utanför webben visas vanligtvis över innehållet som ett popup-fönst
 >
 >För prestandakampanjer är det bästa sättet att välja *[!UICONTROL All Sites]*.
 
-**[!UICONTROL Site Categories]:** (Valfritt) tillgänglig när **[!UICONTROL Paste list of targeted sites]** är *[!UICONTROL Off]*) Webbplatskategorier i de valda webbplatsnivåerna som antingen ska inkluderas eller exkluderas (men inte båda) som mål. Välj från lodräta webbplatslistor som Advertising Cloud har mappat baserat på webbplatsens ämne:
+**[!UICONTROL Site Categories]:** (Valfritt) tillgänglig när **[!UICONTROL Paste list of targeted sites]** är *[!UICONTROL Off]*) Webbplatskategorier i de valda webbplatsnivåerna som antingen ska inkluderas eller exkluderas (men inte båda) som mål. Välj mellan lodräta listor som DSP har mappat baserat på webbplatsens ämne:
 
 1. Klicka ![Redigera](/help/dsp/assets/edit.png).
 1. Ange de webbplatskategorier som ska inkluderas eller exkluderas:
@@ -257,7 +257,7 @@ Annonser utanför webben visas vanligtvis över innehållet som ett popup-fönst
 
 >[!NOTE]
 >
->* Listor över blockerade webbplatser på kontonivå och annonsörnivå används också, utöver Advertising Cloud DSP [globalt blockerad webbplatslista](/help/dsp/introduction/features/brand-safety-media-quality.md), som innehåller webbplatser som inte anses säkra för annonser.
+>* Listor över blockerade webbplatser på kontonivå och annonsörnivå används också, utöver DSP [globalt blockerad webbplatslista](/help/dsp/introduction/features/brand-safety-media-quality.md), som innehåller webbplatser som inte anses säkra för annonser.
 >* Listor med blockerade webbplatser åsidosätter alltid målwebbplatslistor. Om en placering båda utesluter och innehåller samma mål för en annons, utesluts målet.
 
 

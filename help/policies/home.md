@@ -1,19 +1,19 @@
 ---
-title: Advertising Cloud policies and Guidelines
-description: Läs mer om policyer och riktlinjer för Advertising Cloud DSP och Advertising Cloud Search.
+title: Riktlinjer och riktlinjer för annonsering i Adobe
+description: Läs mer om policyer och riktlinjer för DSP och annonssökning.
 index: true
 cloud: Experience Cloud
 product: advertising cloud
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
-# Advertising Cloud policies and Guidelines
+# Riktlinjer och riktlinjer för annonsering i Adobe
 
-Läs om policyer och riktlinjer för Advertising Cloud DSP och Advertising Cloud Search:
+Läs mer om policyer och riktlinjer för DSP och annonssökning:
 
 * [Krav för annonser](/help/policies/ad-requirements-policy.md)
 * [Riktlinjer för godkända hälsosegment](/help/policies/health-segment-guidelines.md)

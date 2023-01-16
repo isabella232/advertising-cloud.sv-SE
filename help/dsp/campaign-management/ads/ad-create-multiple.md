@@ -3,7 +3,7 @@ title: Skapa flera tredjepartsannonser
 description: Lär dig skapa flera tredjepartsannonser samtidigt.
 feature: DSP Ads
 exl-id: 83d35d27-1ab6-4fcf-877f-650a2dc6975a
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 0%
@@ -41,9 +41,13 @@ Du kan överföra antingen [!DNL DoubleClick] och [!DNL Flashtalking] eller en f
 1. Granska information och status för varje annons:
 
    1. Granska status för varje annons, som baseras på valideringskontroller för den överförda taggen.
+
    1. (Valfritt) Gör något av följande för varje annons:
+
       * Om du vill förhandsgranska en annons klickar du på ![play](/help/dsp/assets/play.png) i annonsraden.
+
       * Om du vill redigera annonsinformationen klickar du på ![redigera](/help/dsp/assets/edit.png), redigera informationen och klicka sedan på **Spara**.
+
       * Om du vill ta bort en annons klickar du på **[!UICONTROL X]** i annonsraden.
 
 1. Klicka **[!UICONTROL Create *N *Annonser]**.
@@ -53,8 +57,11 @@ Du kan överföra antingen [!DNL DoubleClick] och [!DNL Flashtalking] eller en f
    * Klicka på **[!UICONTROL Done]**.
 
    * (Om en annons avslås. (valfritt) Om du vill redigera annonsposten och skicka om annonsen för granskning:
+
       1. Klicka på annonsens namn.
+
       1. Redigera annonsinställningarna.
+
       1. Klicka på **[!UICONTROL Save & submit for review]**.
 
 >[!MORELIKETHIS]

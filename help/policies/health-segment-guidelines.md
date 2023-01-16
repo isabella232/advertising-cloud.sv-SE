@@ -1,29 +1,30 @@
 ---
-title: Adobe Advertising Cloud godtagbara hälsosegment
+title: Adobe Advertising Acceptable Health Segments
 description: Se riktlinjer för godtagbara hälsorelaterade målgruppssegment och taktik att använda som alternativ till att inrikta sig på hälsorelaterade målgruppssegment.
 feature: Policies
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: fd4fdf5e-9159-4a89-8447-12051deae61b
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
 
-# Adobe Advertising Cloud riktlinjer för godtagbara hälsosegment
+# Riktlinjer för godtagbar hälsosegmentering för Adobe
 
-*För Adobe Advertising Cloud DSP och Adobe Advertising Cloud Search*
+*För Adobe Advertising DSP och[!DNL Adobe Advertising Search]*
 
 I följande riktlinjer beskrivs oacceptabla och godtagbara hälsorelaterade målgruppssegment. De rekommenderar också taktik att använda som alternativ till att inrikta sig på hälsorelaterade målgruppssegment.
 
 Dessa riktlinjer sammanfattas i [!DNL Network Advertising Alliance (NAI)].
 
-Se även [Krav för Advertising Cloud Ads](/help/policies/ad-requirements-policy.md) för att avgöra om ett hälsorelaterat målgruppssegment är användbart enligt Adobe Advertising Cloud målinriktningspolicy.
+Se även [Krav för annonsering på Adobe](/help/policies/ad-requirements-policy.md) för att avgöra om ett hälsorelaterat målgruppssegment är användbart enligt Adobe:s målinriktningspolicy för annonsering.
 
 ## Hälsosegment som inte ska användas
 
 * Segment som bygger på skyddad hälsoinformation (PHI)\*, patientjournaler, läkemedelsrecept eller liknande hälsokällor eller medicinska källor som ger faktiska kunskaper om användarens tillstånd eller behandling.
 
-   \* Adobe Advertising Cloud är inte en [!DNL HIPAA]-klar lösning.
+   \* Adobe Advertising is not a [!DNL HIPAA]-klar lösning.
 
 * Segment som avser hälsotillstånd (eller relaterade behandlingar), t.ex. någon form av cancer, psykisk hälsa, drogmissbruk, sexuellt överförbara sjukdomar, sjukdomar som främst drabbar barn eller andra känsliga hälsotillstånd som inte kan behandlas med läkemedel som är under kontroll (t.ex. diabetes, psoriasis, reumatoid artrit eller sjukdomar som fibromyalgi).
 

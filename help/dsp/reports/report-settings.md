@@ -3,9 +3,9 @@ title: Anpassade rapportinställningar
 description: Se beskrivningar av anpassade rapportinställningar.
 feature: DSP Custom Reports
 exl-id: 1d37fc96-0f9b-4eb2-ba8d-9534f627adaf
-source-git-commit: 4e389d687f8974028181a03534aff1abf6b43831
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '972'
+source-wordcount: '966'
 ht-degree: 0%
 
 ---
@@ -57,11 +57,11 @@ Så här använder du ett eller flera filter:
 
 **[!UICONTROL Report Headers]:** Om *[!UICONTROL Include]* eller *[!UICONTROL Do Not Include]* kolumnrubriker.
 
-**[!UICONTROL Attribution Rule Settings]:** (Alla [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment]och [!UICONTROL Site] rapporter med [!UICONTROL Conversion Metrics] eller [!UICONTROL Custom Goals] kolumner, annonsörer med endast Advertising Cloud konverteringsspårning) I rapporten, hur man attribuerar konverteringsdata i en serie händelser som leder till konvertering. Du kan välja mer än en regel om du vill jämföra skillnader mellan reglerna.
+**[!UICONTROL Attribution Rule Settings]:** (Alla [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment]och [!UICONTROL Site] rapporter med [!UICONTROL Conversion Metrics] eller [!UICONTROL Custom Goals] kolumner, annonsörer med enbart konverteringsspårning i Adobe) I rapporten, hur man attribuerar konverteringsdata i en serie händelser som leder till en konvertering. Du kan välja mer än en regel om du vill jämföra skillnader mellan reglerna.
 
 >[!NOTE]
 >
->Konverteringssökvägarna innehåller alla visningar och klickningar i annonsörens intryckt eller klickbara fönster som är konfigurerade i Advertising Cloud Search. Klick ges företräde framför visningar under konverteringsattribuering. Alla klick i en konverteringsväg får full kredit baserat på attribueringsregeln. Impressions får bara kredit när inga klick spåras i konverteringssökvägen.
+>Konverteringssökvägarna innehåller alla visningar och klickningar i annonsörens intryckt eller klickbara fönster som är konfigurerade i [!DNL Adobe Advertising Search]. Klick ges företräde framför visningar under konverteringsattribuering. Alla klick i en konverteringsväg får full kredit baserat på attribueringsregeln. Impressions får bara kredit när inga klick spåras i konverteringssökvägen.
 
 * *[!UICONTROL Last Event]:* Attribut konverteras till det sista klicket eller det sista intrycket i konverteringssökvägen.
 
@@ -75,11 +75,11 @@ Så här använder du ett eller flera filter:
 
 * *[!UICONTROL U-shaped]:* Attributerar konverteringen till alla händelser i konverteringsbanan, men ger störst vikt till den första och den sista händelsen, med successivt mindre vikt till händelserna mitt i konverteringsbanan.
 
-* *[!UICONTROL Display Only]:*  Attribut konverteras till den sista DSP klickningen eller intrycket i konverteringssökvägen. Detta inkluderar videoklipp och uppkopplade TV-annonser och utesluter klickningar på Advertising Cloud Search-annonser.
+* *[!UICONTROL Display Only]:*  Attribut konverteras till den sista DSP klickningen eller intrycket i konverteringssökvägen. Detta inkluderar videoklipp och anslutna TV-annonser och utesluter klickningar på [!DNL Adobe Advertising Search] annonser.
 
 * *[!UICONTROL Social Only]:* Föråldrad
 
-<!-- See also [How Attribution Rules Are Calculated for Adobe Advertising Cloud](). -->
+<!-- See also [How Attribution Rules Are Calculated for Adobe Advertising](). -->
 
 **[!UICONTROL Paths as Columns]:**  (Alla [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment]och [!UICONTROL Site] rapporter med [!UICONTROL Conversion Metrics] eller [!UICONTROL Custom Goals] kolumner) Vilka typer av konverteringar som ska rapporteras när tidigare händelser inträffar på samma enhet. Du kan inkludera upp till tre typer. För varje vald typ inkluderas en separat kolumn för varje konverteringsmått och den läggs till med det angivna suffixet ([!UICONTROL (tl)], [!UICONTROL (ct)], eller [!UICONTROL (vt)]):
 

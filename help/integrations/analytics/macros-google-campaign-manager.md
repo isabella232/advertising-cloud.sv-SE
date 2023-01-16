@@ -1,32 +1,32 @@
 ---
-title: Lägg till [!DNL Analytics for Advertising Cloud] Makron till [!DNL Google Campaign Manager 360] Annonstaggar
-description: Lär dig varför och hur du lägger till [!DNL Analytics for Advertising Cloud] makron till [!DNL Google Campaign Manager 360] annonstaggar
+title: Lägg till [!DNL Analytics for Advertising] Makron till [!DNL Google Campaign Manager 360] Annonstaggar
+description: Lär dig varför och hur du lägger till [!DNL Analytics for Advertising] makron till [!DNL Google Campaign Manager 360] annonstaggar
 feature: Integration with Adobe Analytics
 exl-id: 05084a85-5890-4a82-b3eb-4520f44f9d66
-source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
+source-git-commit: 7c467f7a6eb2522fb998539ba01ceef8c89c3853
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
 
-# Lägg till [!DNL Analytics for Advertising Cloud] Makron till [!DNL Google Campaign Manager 360] Annonstaggar
+# Lägg till [!DNL Analytics for Advertising] Makron till [!DNL Google Campaign Manager 360] Annonstaggar
 
-*Annonsörer med endast Advertising Cloud-Adobe Analytics-integrering*
+*Annonsörer med endast Adobe Advertising-Adobe Analytics Integration*
 
-*Gäller endast Advertising Cloud DSP*
+*Gäller endast DSP*
 
-Om du använder annonstaggar från [!DNL Google Campaign Manager 360] för dina Advertising Cloud DSP-annonser, lägga till parametrar för Advertising Cloud i era URL:er för landningssidor med hjälp av [`%p` makro](https://support.google.com/campaignmanager/table/6096962). Parameterposten `s_kwcid` och `ef_id` frågesträngsparametrar i landningssidans URL, vilket gör att Advertising Cloud kan skicka klickdata för annonserna till Adobe Analytics.
+Om du använder annonstaggar från [!DNL Google Campaign Manager 360] för era DSP annonser, lägg till [!DNL Analytics for Advertising] parametrar till landningssidans URL:er med [`%p` makro](https://support.google.com/campaignmanager/table/6096962). Parameterposten `s_kwcid` och `ef_id` frågesträngsparametrar i landningssidans URL, vilket gör att Adobe Advertising kan skicka klickdata för annonserna till Adobe Analytics.
 
-Använd makron för [!DNL Campaign Manager 360] webbannonser och videoannonser för följande typer av [!DNL Analytics for Advertising Cloud] implementeringar:
+Använd makron för [!DNL Campaign Manager 360] webbannonser och videoannonser för följande typer av [!DNL Analytics for Advertising] implementeringar:
 
-* **Annonsörer med [!DNL Adobe] [!DNL Analytics for Advertising Cloud] JavaScript-kod som implementeras på deras webbplatser**: JavaScript-koden registrerar redan `s_kwcid` och `ef_id` frågesträngsparametrar. Om du använder makron utökas dock spårningen så att den omfattar klickbaserade konverteringar när cookies från tredje part inte stöds. Det bästa sättet är att lägga till makron i följande avsnitt i dina annonstaggar för att hämta ytterligare klickdata som inte fångas in via JavaScript-koden.
+* **Annonsörer med [!DNL Adobe] [!DNL Analytics for Advertising] JavaScript-kod som implementeras på deras webbplatser**: JavaScript-koden registrerar redan `s_kwcid` och `ef_id` frågesträngsparametrar. Om du använder makron utökas dock spårningen så att den omfattar klickbaserade konverteringar när cookies från tredje part inte stöds. Det bästa sättet är att lägga till makron i följande avsnitt i dina annonstaggar för att hämta ytterligare klickdata som inte fångas in via JavaScript-koden.
 
 >[!NOTE]
 >
 >JavaScript-koden är bara en lösning för klickspårning medan cookies fortfarande är tillgängliga. När cookies har upphört måste följande makron implementeras.
 
-* **Annonsörer vars webbplatser inte använder [!DNL Analytics for Advertising Cloud] JavaScript-kod och förlita dig istället på [!DNL Analytics] vidarebefordran på serversidan endast för klickbara data** (utan genomskinliga data): Följande makron krävs för att rapportera klickningsaktiviteter på plats som har gjorts av annonser som du köper via Advertising Cloud.
+* **Annonsörer vars webbplatser inte använder [!DNL Analytics for Advertising] JavaScript-kod och förlita dig istället på [!DNL Analytics] vidarebefordran på serversidan endast för klickbara data** (utan genomskinliga data): Följande makron krävs för att rapportera klickningsaktiviteter på plats som styrs av annonser som du köper via Adobe Advertising.
 
 ## Lägg till makron i [!DNL Google Campaign Manager 360] Annonser
 
@@ -49,34 +49,22 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 
 ### Konfigurera URL-suffixet för marknadsföringsnivålandningssida
 
-1. Klicka på [!UICONTROL Advertisers] -fliken.
-1. Klicka på annonsörens namn.
+1. Se [instruktioner för att öppna annonsörsegenskaperna](https://support.google.com/campaignmanager/answer/2829344).
 1. I [!UICONTROL Landing page URL suffix] inställningar, inkludera `%pamo!;` i [!UICONTROL URL suffix] fält.
-
-![Inställningar på annonsörnivå](/help/integrations/assets/macro-ggl360-advertiser.png)
 
 ### Konfigurera URL-suffixet för landningssida på kampanjnivå
 
-1. Klicka på [!UICONTROL Campaigns] -fliken.
-1. Klicka på kampanjnamnet.
-1. Klicka på [!UICONTROL Properties].
+1. Se [instruktioner för att öppna kampanjegenskaperna](https://support.google.com/campaignmanager/answer/2838056#set).
 1. I [!UICONTROL Landing page URL suffix] inställningar, inkludera `%pamo!;` i [!UICONTROL URL suffix] fält.
-
-![inställningar på kampanjnivå](/help/integrations/assets/macro-ggl360-campaign.png)
 
 ### Konfigurera URL-suffixet för landningssida på Creative-nivå
 
-1. Klicka på [!UICONTROL Campaigns] -fliken.
-1. Klicka på kampanjnamnet.
-1. I [!UICONTROL Views] meny, välja [!UICONTROL Creatives].
-1. Klicka på det kreativa namnet.
+1. Öppna de kreativa egenskaperna.
 1. I [!UICONTROL Click tags] inställning, inkludera `%pamo!;` i [!UICONTROL Landing page] kolumn för click-taggen.
 
-![inställningar på kreativ nivå](/help/integrations/assets/macro-ggl360-creative.png)
+## Hur [!DNL Analytics for Advertising] Makron utökas i DSP
 
-## Hur [!DNL Analytics for Advertising Cloud] Makron utökas i DSP
-
-I DSP, när du skapar en annons som innehåller [!DNL Analytics for Advertising Cloud] parameter (`amo`), `ef_id` och `s_kwcid` makron läggs automatiskt till i klickwebbadressen. Det bästa sättet är att checka in DSP för att säkerställa att `ef_id` och `s_kwcid` makron finns.
+I DSP, när du skapar en annons som innehåller [!DNL Analytics for Advertising] parameter (`amo`), `ef_id` och `s_kwcid` makron läggs automatiskt till i klickwebbadressen. Det bästa sättet är att checka in DSP för att säkerställa att `ef_id` och `s_kwcid` makron finns.
 
 Följande är ett exempel på en [!DNL Google Campaign Manager 360] [taggen ins](https://support.google.com/campaignmanager/answer/6080468) som det visas i DSP.
 
@@ -94,10 +82,9 @@ data-dcm-param-amo='ef_id=${TM_USER_ID}:${TM_DATETIME}:d&s_kwcid=AC!${TM_AD_ID}!
 
 När en användare klickar på annonsen [!DNL Google Campaign Manager 360] ser `%pamo` i URL-suffixet och infogar dynamiskt värdet för `amo` i URL:en.
 
-
 >[!MORELIKETHIS]
 >
->* [Översikt över [!DNL Analytics for Advertising Cloud]](overview.md)
->* [Advertising Cloud ID:n som används av [!DNL Analytics]](/help/integrations/analytics/ids.md)
->* [Lägg till [!DNL Analytics for Advertising Cloud] Makron till [!DNL Flashtalking] Annonstaggar](macros-flashtalking.md)
+>* [Översikt över [!DNL Analytics for Advertising]](overview.md)
+>* [Adobe Advertising IDs Used by [!DNL Analytics]](/help/integrations/analytics/ids.md)
+>* [Lägg till [!DNL Analytics for Advertising] Makron till [!DNL Flashtalking] Annonstaggar](macros-flashtalking.md)
 

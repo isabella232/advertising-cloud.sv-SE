@@ -3,7 +3,7 @@ title: Bästa metoder för att skapa ett anpassat mål
 description: Lär dig de bästa sätten att skapa anpassade mål för att definiera framgångsrika händelser.
 feature: DSP Optimization, DSP Best Practices
 exl-id: 54b16325-4b72-48a3-a2e0-4e342229211c
-source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '573'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Om kampanjmålet är intäkter ([!UICONTROL Highest ROAS - Custom Goal]), kommer
 >
 > A [!UICONTROL Property Weight] av en är lika med ett värde på en för varje $1 av intäkt som spåras.
 >
-> En konvertering på 250 USD med vikten 1 rapporteras till exempel som 250 USD. Om konverteringsmåttet har tilldelats vikten 0,5, rapporteras konverteringen på $250 som $125 i Advertising Cloud ($250 Conversion * 0,5) [!UICONTROL Property Weight] = $125).
+> En konvertering på 250 USD med vikten 1 rapporteras till exempel som 250 USD. Om konverteringsmåttet har tilldelats vikten 0,5, rapporteras konverteringen på $250 som $125 i Adobe Advertising ($250 Conversion * 0.5) [!UICONTROL Property Weight] = $125).
 
 ### Exempel på en kampanj med &quot;[!UICONTROL Lowest CPA - Custom Goal]&quot; Optimeringsmål
 
@@ -38,7 +38,7 @@ Om kampanjmålet är den lägsta kostnaden per förvärv (CPA) och endast kräve
 >
 > A [!UICONTROL Property Weight] av ett är lika med värdet ett för varje konvertering som spåras.
 >
-> Om till exempel 10 programsändningskonverteringar spåras rapporteras 10 programsändningskonverteringar.  Om konverteringsmåttet har tilldelats vikten 0,5, rapporteras 10 konverteringar som fem (5) i Advertising Cloud (10 Conversion * 0.5) [!UICONTROL Property Weight] = 5).
+> Om till exempel 10 programsändningskonverteringar spåras rapporteras 10 programsändningskonverteringar.  Om konverteringsmåttet har tilldelats vikten 0,5, rapporteras 10 konverteringar som fem (5) i Adobe Advertising (10 Conversions * 0,5) [!UICONTROL Property Weight] = 5).
 
 ## Anpassade mål med flera egenskaper
 

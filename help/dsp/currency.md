@@ -2,17 +2,17 @@
 title: Valutor som stöds
 description: Se en lista över valutor som stöds.
 feature: DSP Custom Reports, DSP Campaign Data Views
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+exl-id: 7cbce17b-12f0-49e5-8acd-adf9b7d01557
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
+# Valutor som stöds i Adobe-reklam
 
-# Valutor som stöds i Adobe Advertising Cloud
-
-Advertising Cloud har stöd för följande valutor.
+Adobe Advertising har stöd för följande valutor.
 
 >[!NOTE]
 >
@@ -46,6 +46,6 @@ Advertising Cloud har stöd för följande valutor.
 >
 > [!DNL DSP] tillhandahåller endast fakturering i följande valutor: CAD, DKK, EUR, GBP, HKD, JPY, NZD, SGD och USD.
 
-## Sök
+## [!DNL Adobe Advertising Search]
 
-Alla valutor som stöds av sökmotorer som stöds. Detta är samma som [de som stöds av [!DNL Google Ads]](https://developers.google.com/adwords/api/docs/appendix/codes-formats#currency-codes).
+Alla valutor som stöds av sökmotorer som stöds. Det här är samma sak som [som stöds av [!DNL Google Ads]](https://developers.google.com/adwords/api/docs/appendix/codes-formats#currency-codes).

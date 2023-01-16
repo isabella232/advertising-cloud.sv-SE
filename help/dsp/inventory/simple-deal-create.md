@@ -1,11 +1,11 @@
 ---
-title: '"Skapa en [!UICONTROL Simple Ad Serving] Erbjudande"'
-description: '"Lär dig hur du skapar en spårningspixel för en [!UICONTROL Simple Ad Serving] affär."'
+title: "Skapa en [!UICONTROL Simple Ad Serving] Erbjudande"
+description: "Lär dig hur du skapar en spårningspixel för en [!UICONTROL Simple Ad Serving] affär."
 feature: DSP Simple Ad Serving
 exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
-source-git-commit: 089d91f7d1b06e29d27ac95a46834127d19c141d
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
       1. Klicka på **[!UICONTROL Next]**.
    1. Redigera flödesinformationen i Feed Details och klicka sedan på **[!UICONTROL Next]**.
 
-      Advertising Cloud DSP genererar automatiskt en placering med namnet&quot;SAS-placering - &lt;*transaktionsnamn*>,&quot; för annonsen. I placeringen anges erbjudandet automatiskt i [!UICONTROL Inventory Targets] -avsnitt. Alla andra målinriktningsalternativ är inte tillämpliga.
+      DSP skapar automatiskt en placering med namnet&quot;SAS-placering - &lt;*transaktionsnamn*>,&quot; för annonsen. I placeringen anges erbjudandet automatiskt i [!UICONTROL Inventory Targets] -avsnitt. Alla andra målinriktningsalternativ är inte tillämpliga.
 
 
 

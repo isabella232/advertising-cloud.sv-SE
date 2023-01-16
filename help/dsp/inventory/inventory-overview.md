@@ -1,18 +1,18 @@
 ---
-title: Översikt över inventeringsfunktioner i Advertising Cloud DSP
+title: Översikt över inventeringsfunktioner i DSP
 description: Läs mer om tillgängliga lagerfunktioner.
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
-source-git-commit: e80eccbf2f87c1ad86a2cb689b44ca67e08248be
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
-# Översikt över inventeringsfunktioner i Advertising Cloud DSP
+# Översikt över inventeringsfunktioner i DSP
 
-Advertising Cloud DSP kan stödja era inventeringsbehov, oavsett om ni vill hitta en skala med offentligt lager eller hitta en skala bland högklassiga utgivare med [!DNL On Demand]eller skapa en personlig marknadsplats (PMP) som ska aktiveras mot specifika målgrupper eller webbplatser. Era kampanjmål hjälper er att avgöra vilken typ av lager som bäst passar er kampanjs prestationsbehov. Integrering med plattformar på framsidan (SSP) möjliggör smidig installation och aktivering av dina PMP.
+DSP kan tillgodose era behov av inventarier, oavsett om ni vill hitta en skala med offentligt lager eller hitta en skala bland högklassiga utgivare med [!DNL On Demand]eller skapa en personlig marknadsplats (PMP) som ska aktiveras mot specifika målgrupper eller webbplatser. Era kampanjmål hjälper er att avgöra vilken typ av lager som bäst passar er kampanjs prestationsbehov. Integrering med plattformar på framsidan (SSP) möjliggör smidig installation och aktivering av dina PMP.
 
 När ni har tillgång till eller identifierat era lagererbjudanden i DSP kan ni använda dem som placeringsmål för era kampanjer.
 

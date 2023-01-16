@@ -1,20 +1,20 @@
 ---
-title: Tillgängliga dataproviders från tredje part i Advertising Cloud DSP
+title: Tillgängliga dataproviders från tredje part i DSP
 description: Se en lista över alla tillgängliga tredjepartsdataleverantörer.
 feature: DSP Audiences
 exl-id: f67d81a0-bd31-48d8-9bcf-1888afd43894
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
 <!-- feature: audiences -->
 
-# Tillgängliga dataproviders från tredje part i Advertising Cloud DSP
+# Tillgängliga dataproviders från tredje part i DSP
 
-Datakategorier och segment för följande tredjepartsleverantörer av data finns som placeringsmål i [!DNL DSP]. Dessa segment är tillgängliga för i första hand amerikanska målgrupper.
+Datakategorier och segment för följande tredjepartsleverantörer av data är tillgängliga som placeringsmål i DSP. Dessa segment är tillgängliga för i första hand amerikanska målgrupper.
 
 Avgiften för att använda varje segment visas bredvid segmentnamnet i placeringsinställningarna och i sparade målgruppsinställningar.
 

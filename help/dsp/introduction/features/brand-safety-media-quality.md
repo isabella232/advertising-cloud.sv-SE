@@ -3,9 +3,9 @@ title: Varumärkessäkerhet och mediakvalitet
 description: Läs mer om varumärkessäkerhet och funktioner för mediekvalitet.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: b436936e3a0edcb78497fadb6f3c4086412baaa5
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '1365'
+source-wordcount: '1350'
 ht-degree: 0%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <!-- Check on logo sizes in staging environment -- I made them all 100 pixels high except for DoubleVerify, which is 150 (harder to see at 100), but some instances look larger in VS Code. -->
 
-Advertising Cloud DSP har en uppsättning funktioner för varumärkesskydd som säkerställer att alla era kampanjer når verkliga användare i en varumärkessäker miljö.
+Advertising DSP innehåller en uppsättning varumärkesskyddsfunktioner som säkerställer att alla era kampanjer når verkliga användare i en varumärkessäker miljö.
 
 Vårt team för bedrägeriövervakning samarbetar nära med branschledande partner, som [!DNL Interactive Advertising Bureau], [!DNL Trust and Accountability Group] [!DNL (TAG)]och [!DNL WhiteOps], för att noggrant strukturera inventeringen på vår plattform. Genom en proaktiv hantering av vårt utbud säkerställer DSP att alla annonsörer på plattformen skyddas från icke-mänsklig trafik (botar, crawler, datacentralstrafik och bedrägeri) och endast levererar i varumärkessäkra sammanhang.
 
-Förutom att tillhandahålla central kvalitetsstyrning anser vi att annonsörerna ska kunna utforma de kontroller som är anpassade till deras varumärke. Adobe Advertising Cloud är integrerat med [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], [!DNL Oracle Data Cloud]och [!DNL Peer39], som säkerställer att varje annonsör kan välja önskad nivå på bedrägeriskyddet, kontextuell filtrering och målgruppsanpassning för nyckelord.
+Förutom att tillhandahålla central kvalitetsstyrning anser vi att annonsörerna ska kunna utforma de kontroller som är anpassade till deras varumärke. DSP erbjuder integrering med [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], [!DNL Oracle Data Cloud]och [!DNL Peer39], som säkerställer att varje annonsör kan välja önskad nivå på bedrägeriskyddet, kontextuell filtrering och målgruppsanpassning för nyckelord.
 
-## Advertising Cloud DSP kvalitetsinitiativ
+## Kvalitetsinitiativ
 
 ### Lagerverifiering med [!DNL Ads.txt] Support
 
@@ -66,17 +66,17 @@ Inventariemappning är den detaljerade process för granskning och introduktion 
 
    * **[!UICONTROL T3]** - Användargenererat innehåll och nischinnehåll
 
-* **Webbplatskategorisering:** För att säkerställa enkel målinriktning och blockering av innehåll taggar vi varje egenskap med en Advertising Cloud-definierad webbplatskategori baserat på egenskapens innehåll. Du kan [mål eller utelämna dessa webbplatskategorier för varje placering](/help/dsp/campaign-management/placements/placement-settings.md) utifrån placeringsmålen.
+* **Webbplatskategorisering:** För att säkerställa enkel målinriktning och blockering av innehåll taggar vi varje egenskap med en DSP definierad webbplatskategori baserat på egenskapens innehåll. Du kan [mål eller utelämna dessa webbplatskategorier för varje placering](/help/dsp/campaign-management/placements/placement-settings.md) utifrån placeringsmålen.
 
 ### Omfattande stöd för webbplatsblockering
 
-Advertising Cloud DSP tillhandahåller både en global lista över blockerade webbplatser och alternativet att skapa anpassade listor över blockerade webbplatser för annonsörer och konton.
+DSP innehåller både en global lista över blockerade webbplatser och alternativet att skapa anpassade listor över blockerade webbplatser för annonsörer och konton.
 
-#### Advertising Cloud DSP Global Blocked Sites List {#global-blocked-sites}
+#### DSP Globalt blockerade webbplatser {#global-blocked-sites}
 
-Advertising Cloud DSP har en global lista över blockerade webbplatser som anses osäkra att köra annonser på. Den här listan innehåller webbplatser med stötande innehåll (till exempel hat eller terror) och webbplatser som infekterats med botar, falska förrullningsdomäner, felmatchade domäner och annan bedräglig aktivitet.
+DSP har en global lista över webbplatser som blockerats och som anses osäkra att köra annonser på. Den här listan innehåller webbplatser med stötande innehåll (till exempel hat eller terror) och webbplatser som infekterats med botar, falska förrullningsdomäner, felmatchade domäner och annan bedräglig aktivitet.
 
-Som en del av vårt varumärkessäkerhetsinitiativ för att rota bort aktiviteter som lockar annonsörer, skärs alla webbplatser med hjälp av åtgärderna i listan över blockerade webbplatser. Alla webbplatser som inte godkänns i varumärkessäkerhetskontrollerna läggs till i listan över globalt blockerade platser. Eftersom Advertising Cloud DSP hanterar den här listan dynamiskt kan webbplatserna när som helst fortsätta eller lämna listan baserat på den senaste varumärkessäkerhetsanalysen.
+Som en del av vårt varumärkessäkerhetsinitiativ för att rota bort aktiviteter som lockar annonsörer, skärs alla webbplatser med hjälp av åtgärderna i listan över blockerade webbplatser. Alla webbplatser som inte godkänns i varumärkessäkerhetskontrollerna läggs till i listan över globalt blockerade platser. Eftersom DSP hanterar den här listan dynamiskt kan sajterna när som helst gå vidare på eller bort från listan baserat på den senaste varumärkessäkerhetsanalysen.
 
 När du tar med en plats i den globalt blockerade platslistan som placeringsmål flaggas platsen med ett rött utropstecken (!). Detta anger att annonser inte kommer att köras på den flaggade webbplatsen.
 

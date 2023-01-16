@@ -1,7 +1,7 @@
 ---
 title: Vanliga frågor
 description: xxx
-source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ## title
 
-https://adobeadcloud.zendesk.com/agent/tickets/14214 Som standard rapporterar Adobe Analytics alla hämtade händelser i alla rapporter. &quot;[!UICONTROL Unspecified]&quot; representerar händelser för formulärslutförande som inte var anslutna till Advertising Cloud. I Ad Platform-rapporten skulle till exempel organiska konverteringar eller konverteringar som styrs av en e-postkampanj falla under&quot;ospecificerade&quot;.
+https://adobeadcloud.zendesk.com/agent/tickets/14214 Som standard rapporterar Adobe Analytics alla hämtade händelser i alla rapporter. &quot;[!UICONTROL Unspecified]&quot; representerar händelser för ifyllnad av formulär som inte var kopplade till Adobe Advertising. I Ad Platform-rapporten skulle till exempel organiska konverteringar eller konverteringar som styrs av en e-postkampanj falla under&quot;ospecificerade&quot;.
 
 Du kan använda filtret för att ta bort ospecificerade händelser från rapporter genom att ta bort markeringen med alternativet &quot;Inkludera ospecificerad (ingen)&quot;. <!-- Not sure if this is in DSP or in Analytics Workspace -->
 

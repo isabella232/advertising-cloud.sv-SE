@@ -3,18 +3,18 @@ title: Felkoder för [!DNL FreeWheel] Annonsmaterial
 description: Referera felkoderna som returneras för annonsinskick till [!DNL FreeWheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 2eb93971-ba82-4de8-96c5-48524d628b70
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '677'
 ht-degree: 2%
 
 ---
 
 # Felkoder för [!DNL FreeWheel] Annonsmaterial
 
-Felmeddelanden för misslyckade annonsinskick kan komma från antingen Advertising Cloud DSP eller från [!DNL FreeWheel]. Felmeddelanden visas i [!UICONTROL API Response] kolumn i [[!UICONTROL Freewheel Status] dialog](freewheel-check-status.md).
+Felmeddelanden för misslyckade annonsinskick kan komma antingen från DSP eller från [!DNL FreeWheel]. Felmeddelanden visas i [!UICONTROL API Response] kolumn i [[!UICONTROL Freewheel Status] dialog](freewheel-check-status.md).
 
-## Advertising Cloud DSP Internal Errors
+## Annonsering DSP interna fel
 
 | Felmeddelande | Beskrivning | Nästa steg |
 |--- |--- |--- |

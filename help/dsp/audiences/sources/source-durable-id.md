@@ -1,10 +1,11 @@
 ---
-title: 'Aktivera autentiserade segment från varaktiga ID-partners '
+title: Aktivera autentiserade segment från varaktiga ID-partners
 description: Lär dig hur du aktiverar autentiserade målgrupper med en hållbar ID-lösning.
 feature: DSP Audiences
-source-git-commit: 155ab740084bebfba5fd992a23706129668fcc90
+exl-id: 44635b74-1874-4781-bd1a-a4dadae049e0
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 *Betafunktion*
 
-Om du vill aktivera autentiserade målgrupper via en hållbar ID-lösning i Advertising Cloud DSP måste dina segment översättas till [!DNL RampIDs], som kan kännas igen i en anbudsbar miljö. Du kan uppnå detta genom att antingen:
+För att aktivera autentiserade målgrupper via en hållbar ID-lösning i DSP måste era segment översättas till [!DNL RampIDs], som kan kännas igen i en anbudsbar miljö. Du kan uppnå detta genom att antingen:
 
 * Utnyttja DSP integrering med [!DNL Adobe Real-Time Customer Data Profile (CDP)] och [!DNL Adobe-LiveRamp Retrieval API].
 
@@ -49,7 +50,7 @@ Om du vill aktivera autentiserade målgrupper via en hållbar ID-lösning i Adve
 
    * Ange segment som delas från [!DNL LiveRamp] med standardprocessen för aktivering av segment.
 
-   * Samarbeta med Advertising Cloud supportteam för att validera datadistributionen.
+   * Samarbeta med supportteamet för Adobe Advertising för att validera korrekt datadistribution.
 
 Läs mer om DSP integration med [!DNL LiveRamp], kontakt `adcloud-support@adobe.com`.
 
@@ -58,6 +59,6 @@ Läs mer om DSP integration med [!DNL LiveRamp], kontakt `adcloud-support@adobe.
 >* [Om aktivering av autentiserade segment från målgruppskällor](source-about.md)
 >* [Skapa en målgruppskälla för att aktivera förstahandspubliker](source-create.md)
 >* [Inställningar för målgruppskälla](source-settings.md)
->* [Adobe Advertising Cloud DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
+>* [Adobe Advertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* [Om Audience Management](/help/dsp/audiences/audience-about.md)
 

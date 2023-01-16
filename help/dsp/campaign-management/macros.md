@@ -1,18 +1,18 @@
 ---
-title: Advertising Cloud DSP Macros
+title: Advertising DSP Macros
 description: Referera till de tillgängliga makrona för allmän spårning och för att spåra klick på visningsannonser från tredje part.
 feature: DSP Ads
 exl-id: e31cc2e5-ad1f-4555-a87b-0e4c3731fe5f
-source-git-commit: b3fc18cf84713adcff5a4208db537b03904cfa08
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '929'
 ht-degree: 0%
 
 ---
 
-# Advertising Cloud DSP Macros
+# Advertising DSP Macros
 
-Ett makro är ett kort kommando eller en förkortning för en instruktion och följer vanligtvis formatet `${MACRO_NAME}`. Makron som ingår i den kreativa koden eller klickbara URL:er utökas till en längre kodsträng som annonsservern kan förstå. Advertising Cloud DSP annonsserver kör makron när annonsen skickas eller klickas.
+Ett makro är ett kort kommando eller en förkortning för en instruktion och följer vanligtvis formatet `${MACRO_NAME}`. Makron som ingår i den kreativa koden eller klickbara URL:er utökas till en längre kodsträng som annonsservern kan förstå. DSP och server kör makron när annonsen hanteras eller klickas.
 
 Ad-servermakron är användbara när du vill skicka viktig information till DSP eller till annonsservrar från tredje part. Makron används oftast vid handel med kod eller metadata från tredje part (t.ex. pixlar från tredje part).
 
@@ -80,7 +80,7 @@ För att kunna spåra klick efter annonser med hjälp av tredjepartstaggar måst
 
 DSP infogar automatiskt klickmakron i en tredjeparts visningstagg när du:
 
-* Exportera annonstaggar från en Advertising Cloud-partner <!-- [Needs PM confirmation.] -->
+* Exportera annonstaggar från en annonsserverpartner <!-- [Needs PM confirmation.] -->
 * Massöverföring [!DNL Flashtalking] eller [!DNL Google DoubleClick for Advertisers] annonstaggar direkt i DSP
 
 Om ett klickande makro saknas när du skapar en visningsannons visas ett varningsmeddelande, som uppmanar dig att manuellt infoga rätt visningsklicksmakro i rätt område i taggen.

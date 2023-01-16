@@ -3,7 +3,7 @@ title: Redigera en annons
 description: Lär dig hur du redigerar en annons.
 feature: DSP Ads
 exl-id: ef140d61-f04e-4c1c-acdd-9985730dfb07
-source-git-commit: 348b3ae49fdd2e408c4585c6dc6a7e3ba03b2d84
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -13,9 +13,13 @@ ht-degree: 0%
 # Redigera en annons
 
 1. På huvudmenyn klickar du på **[!UICONTROL Campaigns]**.
+
 1. Klicka på kampanjens namn.
+
 1. Klicka på **[!UICONTROL Ads]**.
+
 1. Klicka på bredvid annonsnamnet  **... >[!UICONTROL Edit]**.
+
 1. Redigera annonsinställningarna för [ljudannonser](ad-settings-audio.md), [ansluten TV](ad-settings-connected-tv.md), [displayannonser](ad-settings-display.md), [mobilannonser](ad-settings-mobile.md), [inbyggda annonser](ad-settings-native.md), [pre-roll ads](ad-settings-pre-roll.md), eller [universella videobrev](ad-settings-universal-video.md).
 
    >[!NOTE]

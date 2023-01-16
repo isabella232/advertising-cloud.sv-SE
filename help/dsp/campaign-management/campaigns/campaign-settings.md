@@ -3,9 +3,9 @@ title: Kampanjinställningar
 description: Se beskrivningar av tillgängliga kampanjinställningar.
 feature: DSP Campaigns
 exl-id: ff2e22ff-8073-4532-884b-36e0c1f22641
-source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '921'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,9 @@ När du väljer *[!UICONTROL Yes],* ange marginaltyp och marginalbelopp:
 
 * **[!UICONTROL Margin Type]:** Marginaltypen. Du kan inte ändra marginaltypen när du har aktiverat marginalhantering och sparat kampanjen.
 
-   * *[!UICONTROL Fixed]:* (standardvärdet) Tillåter att Advertising Cloud DSP beräknar automatiskt och sätter ett tak baserat på en fast marginalprocent av [!UICONTROL Gross Budget].
+   * *[!UICONTROL Fixed]:* (standard) Tillåter DSP att beräkna automatiskt och använda tak baserat på en fast marginalprocent av [!UICONTROL Gross Budget].
 
-   * *[!UICONTROL Dynamic]:* Gör att du kan hantera marginaler ned till placeringsnivån genom att ange en separat [!UICONTROL Budget Reserve %] och [!UICONTROL Gross Budget] för varje paket och placering i kampanjen. Advertising Cloud DSP optimerar utifrån den ekonomiska effektiviteten för varje placering, utan att garantera en viss marginal. Använd detta för infogningsorder som består av flera radobjekt för vilka du har godkänt att leverera ett fast antal enheter eller enhetstyper till en fast ränta.
+   * *[!UICONTROL Dynamic]:* Gör att du kan hantera marginaler ned till placeringsnivån genom att ange en separat [!UICONTROL Budget Reserve %] och [!UICONTROL Gross Budget] för varje paket och placering i kampanjen. DSP optimerar utifrån varje placerings ekonomiska effektivitet, utan att garantera en viss marginal. Använd detta för infogningsorder som består av flera radobjekt för vilka du har godkänt att leverera ett fast antal enheter eller enhetstyper till en fast ränta.
 
 * **[!UICONTROL Fixed Margin %]:** (Endast kampanjer med fasta marginaler) Standardkoden för varje infogningsorder <!-- impression? -->, i procent. Detta belopp dras av från [!UICONTROL Gross Budget] för att definiera nettokampanjbudgeten.
 
@@ -64,11 +64,11 @@ Så här beräknar du källskatt:
 
 1. Markera kryssrutan bredvid varje avgiftstyp för vilken du vill hålla inne skatt. Avgiftstyperna är:
 
-   * *[!UICONTROL Include estimated tax - ads fee]:* Gäller alla utgifter för Advertising Cloud DSP media, inklusive skatter på kampanjhanteringsavgifter.
+   * *[!UICONTROL Include estimated tax - ads fee]:* Gäller alla utgifter för annonsering DSP media, inklusive skatter på kampanjhanteringsavgifter.
 
-   * *[!UICONTROL Include estimated tax - ad serving fee]:* Gäller för alla utgifter för Advertising Cloud DSP utom för medier och data. exklusive moms för kampanjhanteringsavgifter
+   * *[!UICONTROL Include estimated tax - ad serving fee]:* Gäller för alla utgifter för DSP med annonsering utom för media och data. exklusive moms för kampanjhanteringsavgifter
 
-   * *[!UICONTROL Include estimated tax - data fee]:* Gäller alla datatillgångar på Advertising Cloud DSP.
+   * *[!UICONTROL Include estimated tax - data fee]:* Gäller för alla datatillgångar för DSP.
 
 1. Klicka på **[!UICONTROL Submit]**.
 
@@ -79,7 +79,7 @@ Så här beräknar du källskatt:
 >* Du kan också konfigurera dessa värden i kontots avgiftsinställningar.<!--[fee settings](/help/dsp/admin/tax-withholdings.md). -->
 
 
-**[!UICONTROL Cross Device Level]:** (Skrivskyddat för befintliga kampanjer som skapats sedan den 22 juni 2020. inte tillgängligt för kampanjer som skapats före den 22 juni 2020) Den nivå på vilken Advertising Cloud ska rikta annonser och tillämpa frekvensbegränsningar: *Samma enhet* för en enhet eller *Folk* för att rikta sig till en person på alla deras kända enheter.
+**[!UICONTROL Cross Device Level]:** (Skrivskyddat för befintliga kampanjer som skapats sedan den 22 juni 2020. inte tillgängligt för kampanjer som skapats före den 22 juni 2020) Den nivå på vilken DSP ska rikta annonser och tillämpa frekvensbegränsningar: *Samma enhet* för en enhet eller *Folk* för att rikta sig till en person på alla deras kända enheter.
 
 **[!UICONTROL Device Graph]:** (Skrivskyddat för befintliga kampanjer. kampanjer med personbaserad målinriktning på olika enheter) Enhetsgrafen som ska användas för målinriktning på olika enheter och frekvenshantering:
 

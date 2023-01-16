@@ -3,16 +3,16 @@ title: Hur DSP optimerar era kampanjer
 description: Lär dig hur DSP optimerar paketen i era kampanjer.
 feature: DSP Optimization
 exl-id: 054582ef-b677-4725-b25c-b82bf3e5b43e
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '681'
 ht-degree: 0%
 
 ---
 
-# Hur DSP optimerar era kampanjer
+# Hur annonsering DSP optimerar era kampanjer
 
-På den här sidan beskrivs hur Advertising Cloud DSP optimeringsmotor, som [!DNL Adobe Sensei], optimerar paketen i era kampanjer. Om du vill ha tips och råd om hur ni optimerar kampanjer manuellt kontaktar du [!DNL Adobe] kontoteam. <!-- add link to trading playbook if we add it to help -->
+På den här sidan beskrivs hur den DSP optimeringsmotorn som drivs av [!DNL Adobe Sensei], optimerar paketen i era kampanjer. Om du vill ha tips och råd om hur ni optimerar kampanjer manuellt kontaktar du [!DNL Adobe] kontoteam. <!-- add link to trading playbook if we add it to help -->
 
 Paketoptimeringsmålen fungerar på två nivåer:
 

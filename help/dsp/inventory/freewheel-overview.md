@@ -3,7 +3,7 @@ title: Översikt över konfiguration av PG-erbjudanden i [!DNL Freewheel]
 description: Läs om förutsättningarna och de extra steg som krävs för att köra annonser för programmatiska annonsköp med utgivare på [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: acf8351b-88fb-4f18-8fca-9a2d6674cdec
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
@@ -16,11 +16,11 @@ Konfigurera programmatiska garanterade avtal med utgivare på [!DNL Freewheel] k
 
 >[!PREREQUISITES]
 >
->Arbeta med dina [!DNL Adobe] kontoteam för att säkerställa att [!DNL DSP] kontot har följande behörigheter.
+>Arbeta med dina [!DNL Adobe] kontoteam för att säkerställa att [!DNL DSP] kontot har följande behörigheter:
 >
->1. Behörighet att använda [!DNL FreeWheel] programmatiskt garanterat arbetsflöde, som krävs för att skicka in en annons för ett programmatiskt garanterat erbjudande till [!DNL FreeWheel].
+>* Behörighet att använda [!DNL FreeWheel] programmatiskt garanterat arbetsflöde, som krävs för att skicka in en annons för ett programmatiskt garanterat erbjudande till [!DNL FreeWheel].
 >
->1. (Om du arbetar med utgivare i Storbritannien som behöver en [!DNL Clearcast] klocknummer med varje annons) Tillstånd att inkludera klocknummer i annonserna.
+>* (Om du arbetar med utgivare i Storbritannien som behöver en [!DNL Clearcast] klocknummer med varje annons) Tillstånd att inkludera klocknummer i annonserna.
 
 
 ## Arbetsflöde

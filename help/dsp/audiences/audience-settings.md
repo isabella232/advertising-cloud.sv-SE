@@ -3,7 +3,7 @@ title: Målgruppsinställningar
 description: Se beskrivningar av tillgängliga målgruppsinställningar.
 feature: DSP Audiences
 exl-id: 959c1e04-cb09-42f0-a261-580ff98b86be
-source-git-commit: 505944d534e04da8f903c24e7899e7a80cb836e4
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Tredjepartssegment
 
-(Valfritt) Alla standardsegment som är tillgängliga via Advertising Clouds datataxonomi från tredje part och som ska ingå i målgruppskonfigurationen.
+(Valfritt) Alla standardsegment som är tillgängliga via Adobe Advertising third-party data taxonomy, och som ska ingå i målgruppskonfigurationen.
 
 ## Första partssegment
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## Egna segment
 
-(Valfritt) Alla användarskapade segment, som hämtas med anpassade Advertising Cloud-segmentpixlar, som ska ingå i målgruppskonfigurationen. Detta kan omfatta anpassade standardsegment och CCPA-segment för avanmälan från försäljning.
+(Valfritt) Alla användarskapade segment, som hämtas med anpassade DSP segmentpixlar, som ska ingå i målgruppskonfigurationen. Detta kan omfatta anpassade standardsegment och CCPA-segment för avanmälan från försäljning.
 
 ## Sparade målgrupper
 

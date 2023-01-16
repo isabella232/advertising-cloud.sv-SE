@@ -1,12 +1,12 @@
 ---
-source-git-commit: 96620946de8eeeebde6b23b8ef686dbcb544acd6
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '28'
 ht-degree: 0%
 
 ---
-# Dokumentation om Advertising Cloud-policyer och riktlinjer
+# Dokumentation om annonseringsprinciper och riktlinjer för Adobe
 
-Det här är mappen för hjälpdokumentation om principer och riktlinjer för olika Advertising Cloud-program.
+Det här är mappen för hjälpdokumentation om policyer och riktlinjer för annonsering mellan Adobe.
 
 **Obs! Den här sidan publiceras inte i kunddokumentationen.**

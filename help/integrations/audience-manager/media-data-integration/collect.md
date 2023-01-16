@@ -1,22 +1,22 @@
 ---
-title: Samla in klicknings- och imponeringsdata från Advertising Cloud DSP Campaigns
-description: Lär dig hur du fångar in cookie-baserat intryck och klickar på händelser från Advertising Cloud DSP-annonser med hjälp av Audience Manager-pixlar
+title: Samla in data om klick och tryck från annonskampanjer DSP kampanjer
+description: Lär dig hur du fångar in cookie-baserat intryck och klickar på händelser från Advertising DSP ads med Audience Manager pixlar
 feature: Integration with Adobe Audience Manager
 exl-id: eb717148-00ab-428a-97b9-e8396a5c47b0
-source-git-commit: 8de057df8bf2b67f20a915e6e711902f11176747
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '1062'
+source-wordcount: '1055'
 ht-degree: 0%
 
 ---
 
-# Samla in data om medieexponering från Advertising Cloud DSP Campaigns
+# Samla in data om medieexponering från annonskampanjer DSP kampanjer
 
-*Annonsörer endast med Advertising Cloud DSP*
+*Annonsörer med endast DSP*
 
-*Annonsörer med endast Advertising Cloud-Adobe Audience Manager-integrering*
+*Annonsörer med endast Adobe Advertising-Adobe Audience Manager Integration*
 
-I det här dokumentet beskrivs hur du taggar Advertising Cloud DSP-annonser för att fånga in cookie-baserat intryck och klickningshändelser med hjälp av Audience Manager-pixlar, och ytterligare åtgärder som krävs för att använda data.
+I det här dokumentet beskrivs hur du taggar annonser DSP annonser för att fånga upp cookie-baserade intrycken och klickningshändelser med hjälp av Audience Manager-pixlar, och ytterligare åtgärder som krävs för att använda data.
 
 Händelsepixlarna fångar inte in händelser som inträffar i cookie-fria miljöer, som mobilappar och ansluten TV (CTV).
 
@@ -77,7 +77,7 @@ Var:
 
 Båda pixeltyperna kan innehålla ytterligare parametrar som *nyckelvärdepar* för att samla in egenskaper eller för att tillhandahålla kampanjmetadata (t.ex. ett placeringsnamn eller ett kampanjnamn) för andra rapporter. Ett nyckelvärdepar består av två relaterade element: a *key*, som är en konstant som definierar datauppsättningen och en *value*, som är en variabel som tillhör uppsättningen.
 
-I nyckelvärdepar kan värdevariabeln vara antingen ett hårdkodat ID eller ett *makro*, som är en liten enhet med självständig kod som dynamiskt ersätts med motsvarande värden när annonstaggen läses in för kampanj- och användarspårning. För kampanjrelaterade parametrar kan du använda [DSP makron](/help/dsp/campaign-management/macros.md) i stället för Audience Manager-makron för att skicka kampanjattribut tillsammans med motsvarande intryck eller klicka på data till Audience Manager, med en enda pixel i alla annonser. De DSP makron som du infogar i händelsepixlarna måste vara lämpliga värden för de nyckel/värde-par som du inkluderar i pixlarna. För `d_placement` använder du DSP `${TM_PLACEMENT_ID_NUM}` som värdet för att hämta placerings-ID:n som genereras av Advertising Cloud-makrot.
+I nyckelvärdepar kan värdevariabeln vara antingen ett hårdkodat ID eller ett *makro*, som är en liten enhet med självständig kod som dynamiskt ersätts med motsvarande värden när annonstaggen läses in för kampanj- och användarspårning. För kampanjrelaterade parametrar kan du använda [DSP makron](/help/dsp/campaign-management/macros.md) i stället för Audience Manager-makron för att skicka kampanjattribut tillsammans med motsvarande intryck eller klicka på data till Audience Manager, med en enda pixel i alla annonser. De DSP makron som du infogar i händelsepixlarna måste vara lämpliga värden för de nyckel/värde-par som du inkluderar i pixlarna. För `d_placement` använder du DSP `${TM_PLACEMENT_ID_NUM}` som värdet för att hämta placerings-ID:n som genereras av Adobe Advertising macro.
 
 En lista över makron som Audience Manager stöder för att visa händelsepixlar finns i &quot;[Samla in data för kampanjexponering via pixelanrop](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/media-data-integration/impression-data-pixels.html#supported-key-value-pairs).&quot;
 
@@ -87,7 +87,7 @@ En lista över makron som Audience Manager stöder för klickningshändelsepixla
 >
 >* Det bästa sättet är att inkludera kampanj-, placerings-, kreativa (annons) och webbplats-ID:n så att du kan använda kampanjattributen för att skapa Audience Manager.
 >* Ytterligare parametrar krävs för att skapa rapporter från Audience Optimization.
->* Ersätt värdena i nyckelvärdepar med relevanta [DSP makron](/help/dsp/campaign-management/macros.md) så att ni kan använda en enda pixel i alla annonser i alla kampanjer. Ändra till exempel `d_campaign=[%campaignID%]`till `d_campaign=${TM_CAMPAIGN_ID_NUM}` för att hämta kampanj-ID:n som genererats av Advertising Cloud-makrot.
+>* Ersätt värdena i nyckelvärdepar med relevanta [DSP makron](/help/dsp/campaign-management/macros.md) så att ni kan använda en enda pixel i alla annonser i alla kampanjer. Ändra till exempel `d_campaign=[%campaignID%]`till `d_campaign=${TM_CAMPAIGN_ID_NUM}` för att hämta kampanj-ID:n som genererats av Adobe Advertising macro.
 >* Om det behövs kan du skapa egna parametrar med hårdkodade värden. Exempel: `d_DSP=AdCloud`
 
 
@@ -132,7 +132,7 @@ Exempeldiagram som fyller i användarnivådata för användare som exponeras fö
 
 >[!MORELIKETHIS]
 >
->* [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
+>* [DSP makron](/help/dsp/campaign-management/macros.md)
 >* [Översikt över att skicka DSP exponeringsdata till Adobe Audience Manager](overview.md)
 >* [Användningsexempel](use-cases.md)
 

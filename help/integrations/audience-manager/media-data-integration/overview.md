@@ -1,21 +1,22 @@
 ---
 title: Översikt över att skicka DSP exponeringsdata till Adobe Audience Manager
-description: Lär dig hur du använder händelsepixlar från Audience Manager för att hämta in data på visningsnivå och klicknivå från Advertising Cloud DSP-kampanjer
+description: Lär dig hur du använder händelsepixlar från Audience Manager för att hämta in data på visningsnivå och klicknivå från annonskampanjer DSP
 feature: Integration with Adobe Audience Manager
-source-git-commit: e861fc53ba14d783c763b291cdc618e5f1d4124f
+exl-id: 916b7deb-511e-4fbf-96d9-b274a48dc748
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
 
 # Översikt över att skicka DSP exponeringsdata till Adobe Audience Manager
 
-*Annonsörer endast med Advertising Cloud DSP*
+*Annonsörer med endast DSP*
 
-*Annonsörer med endast Advertising Cloud-Adobe Audience Manager-integrering*
+*Annonsörer med endast Adobe Advertising-Adobe Audience Manager Integration*
 
-Advertising Cloud DSP-kunder med Adobe Audience Manager kan använda Audience Manager händelsepixlar för att hämta in data på visningsnivå och klicknivådata från DSP kampanjer. Händelsepixlarna skickar data som åtgärdbara signaler till Audience Manager. Dessa signaler möjliggör olika DSP, t.ex. mer avancerad segmentering, frekvenshantering, marknadsanalyser och rapportinsikter.
+Annonsera DSP kunder med Adobe Audience Manager kan använda Audience Manager-händelsepixlar för att hämta in data på visningsnivå och klicknivådata från DSP kampanjer. Händelsepixlarna skickar data som åtgärdbara signaler till Audience Manager. Dessa signaler möjliggör olika DSP, t.ex. mer avancerad segmentering, frekvenshantering, marknadsanalyser och rapportinsikter.
 
 DSP debiterar dig inte att skicka dessa signaler till Audience Manager. Men du betalar standardkostnaden för att ta emot Audience Manager baserat på serversamtal enligt Audience Manager-avtalet. Audience Manager tar bort dubbletthändelser som spåras på två olika sätt, så att varje händelse bara debiteras en gång.
 
@@ -51,6 +52,6 @@ Audience Manager spårar klickningar på liknande sätt som visningar, förutom 
 
 >[!MORELIKETHIS]
 >
->* [Samla in klicknings- och imponeringsdata från Advertising Cloud DSP Campaigns](collect.md)
+>* [Samla in data om klick och tryck från annonskampanjer DSP kampanjer](collect.md)
 >* [Användningsexempel](use-cases.md)
 

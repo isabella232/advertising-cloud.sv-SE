@@ -1,16 +1,16 @@
 ---
-title: Om Placement Management i Advertising Cloud DSP
+title: Om Placement Management i DSP
 description: Lär dig mer om placeringshantering.
 feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: c6a3d9703d06a44e38aae3bc6ec3f5f77e93082d
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
 
-# Om Placement Management i Advertising Cloud DSP
+# Om Placement Management i DSP
 
 En placering innehåller parametrar för målinriktning för en eller flera annonser av samma annonstyp. Du kan skapa en placering för en enskild kampanj eller ett paket och sedan tilldela annonser till den. Varje kampanj eller placering kan innehålla flera placeringar, med en angiven annonsrotation. Som standard roteras annonserna jämnt.
 

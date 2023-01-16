@@ -1,20 +1,20 @@
 ---
-title: Om annonshantering i Advertising Cloud DSP
+title: Om annonshantering i DSP
 description: Läs mer om annonshantering.
 feature: DSP Ads
 exl-id: 72c8bbef-d09c-4cf4-994d-99578d043d39
-source-git-commit: 1499d9d86d8c2bafb03b41687c50dbf708c715da
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '722'
 ht-degree: 0%
 
 ---
 
-# Om annonshantering i Advertising Cloud DSP
+# Om annonshantering i DSP
 
 <!-- add "The Ads View (Dashboard?)" section -->
 
-Advertising Cloud DSP har stöd för annonsleverans via tredjepartstaggar för annonsvisning (som Google, Flashtalk eller Sizmek) för olika annonstyper och direkt medieöverföring för inbyggda displayannonser. Du kan överföra tredjepartstaggar individuellt eller gruppvis. Överföringar gruppvis använder partnertaggmallar eller en mall för grupptaggar.
+DSP har stöd för annonsleverans via tredjepartstaggar för annonsvisning (som Google, Flashtalk eller Sizmek) för olika annonstyper och direkt medieöverföring för inbyggda displayannonser. Du kan överföra tredjepartstaggar individuellt eller gruppvis. Överföringar gruppvis använder partnertaggmallar eller en mall för grupptaggar.
 
 <!-- The bulk upload feature requires you to either a) upload DoubleClick and Flashtalking tag sheets or b) download a template, input your tags into the template, and then re-upload the template. -->
 <!-- need a list of all supported third-party ad servers; see file in future-tbd folder -->
@@ -23,7 +23,7 @@ När era annonser väl är klara måste ni bifoga varje annons till en placering
 
 ## Tillgängliga annonstyper {#ad-types}
 
-Alla följande annonstyper finns i Advertising Cloud DSP. Fullständiga specifikationer för varje annonstyp finns i [Annonsspecifikationer](ad-specs.md).
+Alla följande annonstyper är tillgängliga i DSP. Fullständiga specifikationer för varje annonstyp finns i [Annonsspecifikationer](ad-specs.md).
 
 * **Ljudannonser (endast från tredje part)**: Ljudannonser spelas upp mellan innehåll på digitala utgivarwebbplatser och kan köras fristående som ljudfiler eller tillsammans med andra banners. Ljud används bäst för att öka varumärkeskännedomen och engagera en publik på språng. Viktiga prestandaindikatorer för ljud är bland annat [!UICONTROL Completion Rate] och [!UICONTROL Cost per Completion].
 
@@ -39,9 +39,9 @@ Alla följande annonstyper finns i Advertising Cloud DSP. Fullständiga specifik
 
 * **Universal Video Ads (endast från tredje part)**: Universella videoannonser kombinerar alla funktioner i uppkopplad TV, Pre-roll och Mobile Pre-roll Ads (VAST och VPAID) till en och visas före och under videoinnehåll. Universal Video-annonser kan användas för videolager från skrivbordsmiljöer, mobiler och anslutna tv-miljöer, vilket gör att man slipper skapa flera videoannonser. Viktiga prestandaindikatorer för Universal Video är [!UICONTROL Completion Rate] och [!UICONTROL Viewability Rate].
 
-## Advertising Cloud DSP Ad Approvals
+## DSP annonsgodkännanden
 
-När du skapar en annons granskar Advertising Cloud DSP den för att se om det finns känsliga kategorier, klickar på URL-funktionen och förhandsgranskar återgivningen.
+När du skapar en annons läser DSP om den innehåller känsliga kategorier, klickar på URL-funktionalitet och förhandsgranskar återgivning.
 
 Till att börja med visas en röd punkt i [!UICONTROL Status] kolumn. Granskningsprocessen tar normalt 24-48 timmar. En trasig annons kan dock ha en väntande status i mer än 48 timmar, så du har tid att åtgärda fel innan annonsen refuseras. Avvisade annonser innehåller en orsak till refuseringen.
 

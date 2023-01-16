@@ -3,9 +3,9 @@ title: Kolumner i hämtade/överförda kalkylblad
 description: Referera kolumnerna i hämtade och överförda Excel QA-kalkylblad.
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 12056598ae436123a867e6eaefde47657242dc73
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '782'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 | [!UICONTROL Basic] | [!UICONTROL Package Name] | Namnet på det överordnade paketet, om tillämpligt. | — |
 | [!UICONTROL Goals] | [!UICONTROL Start Date] | Placeringens startdatum. | — |
 | [!UICONTROL Goals] | [!UICONTROL End Date] | Placeringens slutdatum. | — |
-| [!UICONTROL Goals] | [!UICONTROL Day parting] | Om dagen paration är *[!UICONTROL ON]* eller *[!UICONTROL OFF]*.<br><b>Obs!</b> Om du vill kontrollera det faktiska sommarschemat öppnar du placeringsinställningarna i [!DNL DSP]. | — |
+| [!UICONTROL Goals] | [!UICONTROL Day parting] | Om dagen paration är *[!UICONTROL ON]* eller *[!UICONTROL OFF]*.<br><b>Obs!</b> Om du vill kontrollera det faktiska sommarschemat öppnar du placeringsinställningarna i DSP. | — |
 | [!UICONTROL Goals] | [!UICONTROL Budget] | Placeringsbudgeten, om det finns en sådan. | Ja |
 | [!UICONTROL Goals] | [!UICONTROL Budget Interval] | Budgetintervallet: &lt;i span=&quot;&quot; id=&quot;0&quot; translate=&quot;no&quot; />*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]*, eller *[!UICONTROL All Time]*.[!UICONTROL >Daily] | Ja |
 | [!UICONTROL Goals] | [!UICONTROL Optimization Goal] | Paketets syfte. | — |

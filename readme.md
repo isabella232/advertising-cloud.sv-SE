@@ -1,13 +1,13 @@
 ---
-source-git-commit: 0654347afd1caf5e9bd8ccabf41a8a591e604df5
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
-# Dokumentation för Advertising Cloud i samarbete
+# Samarbetsdokumentation för Adobe Advertising
 
-Det här är dokumentationsarkivet för Adobe Advertising Cloud, inklusive korsprodukt- och DSP. (Senare kommer det att innehålla dokument för sökning och eventuellt (?) för Creative.)
+Det här är dokumentationsarkivet för Adobe Advertising, inklusive korsproduktsdokument och DSP. (Senare kommer det att innehålla dokument för sökning och eventuellt (?) för Creative.)
 
 **Obs! Den här sidan publiceras inte i kunddokumentationen.**
 
@@ -52,7 +52,7 @@ Det här är dokumentationsarkivet för Adobe Advertising Cloud, inklusive korsp
 
 Mer publiceringsanvisningar, stilguider, exempel och andra resurser finns i:
 
-+ [Riktlinjer för författare **specifikt för Advertising Cloud**](https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=EfficientFrontier&amp;title=Contributing+Author+Guidelines+for+Advertising+Cloud+Help)
++ [Riktlinjer för författare **specifikt för Adobe Advertising**](https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=EfficientFrontier&amp;title=Contributing+Author+Guidelines+for+Advertising+Cloud+Help)
 + [Samarbete för alla Adobe-skribenter](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html)
 
 Se även:

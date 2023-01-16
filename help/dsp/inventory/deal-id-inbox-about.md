@@ -3,20 +3,20 @@ title: Om [!UICONTROL Deal ID Inbox]
 description: Läs mer om [!UICONTROL Deal ID inbox] som gör att du kan acceptera privata avtal som du redan har förhandlat med utgivare om [!DNL FreeWheel], [!DNL Google Authorized Buyers] (tidigare känt som [!DNL AdX]), and [!DNL Magnite DV+] (tidigare [!DNL Rubicon]).
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
 
 # Om [!UICONTROL Deal ID Inbox]
 
-DSP [!UICONTROL Deal ID inbox] Med kan du snabbt skapa avtal som Advertising Cloud DSP har importerat från utgivare via plattformar på utbudssidan (SSP) så att du inte behöver konfigurera varje avtal manuellt. Du kan acceptera de garanterade och ej garanterade privata lagererbjudanden som du redan har förhandlat med utgivare om [!DNL FreeWheel], [!DNL Google Authorized Buyers] (tidigare känt som [!DNL AdX]), och [!DNL Magnite DV+] (tidigare [!DNL Rubicon]) från [!UICONTROL Deal ID inbox].
+DSP [!UICONTROL Deal ID inbox] Med kan ni snabbt skapa avtal som DSP har importerat från utgivare via plattformar på utbudssidan (SSP) så att ni inte behöver konfigurera varje avtal manuellt. Du kan acceptera de garanterade och ej garanterade privata lagererbjudanden som du redan har förhandlat med utgivare om [!DNL FreeWheel], [!DNL Google Authorized Buyers] (tidigare känt som [!DNL AdX]), och [!DNL Magnite DV+] (tidigare [!DNL Rubicon]) från [!UICONTROL Deal ID inbox].
 
 >[!NOTE]
 >
->Advertising Cloud DSP är den första DSP som kan integreras med [!DNL FreeWheel] API.
+>DSP är den första DSP som kan integreras med [!DNL FreeWheel] API.
 
 I [!UICONTROL Deal ID inbox], kan du se detaljerna om erbjudandet så som utgivaren ser dem, snabba upp avtalsinställningarna och undvika fel vid manuell inmatning.
 

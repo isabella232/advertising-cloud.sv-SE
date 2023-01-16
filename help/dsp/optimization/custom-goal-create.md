@@ -3,24 +3,24 @@ title: Skapa ett anpassat mål
 description: Skapa ett anpassat mål
 feature: DSP Optimization
 exl-id: 440ded21-92d3-41ad-839f-ebc8376aa932
-source-git-commit: 8aea9eb1358e23a5b25e0353ced80c1550fa0057
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '504'
 ht-degree: 0%
 
 ---
 
 # Skapa ett anpassat mål
 
-Du kan skapa anpassade mål som *mål* inom Advertising Cloud Search.
+Du kan skapa anpassade mål som *mål* inom [!DNL Adobe Advertising Search].
 
-Om du vill skapa ett anpassat mål måste Advertising Cloud DSP-kontot länkas till ett [!DNL Search] med samma Adobe Experience Cloud-organisations-ID, inifrån [!DNL Search] klientinställningar. Om ditt DSP inte är länkat till en [!DNL Search] konto, kontakta [!DNL Adobe] kontoteam.
+Om du vill skapa ett anpassat mål måste DSP vara länkat till ett [!DNL Search] med samma Adobe Experience Cloud-organisations-ID, inifrån [!DNL Search] klientinställningar. Om ditt DSP inte är länkat till en [!DNL Search] konto, kontakta [!DNL Adobe] kontoteam.
 
 >[!TIP]
 >
 >Se [bästa sättet att skapa anpassade mål](custom-goal-best-practices.md) för tips om hur du konfigurerar dina anpassade mål.
 
-1. Logga in på Advertising Cloud Search på (amerikanska företag) [`https://enterprise-na.efrontier.com`](https://enterprise-na.efrontier.com) eller (företag i alla andra länder) [`https://enterprise-intl.efrontier.com`](https://enterprise-intl.efrontier.com).
+1. Logga in [!DNL Adobe Advertising Search] på (amerikanska företag) [`https://enterprise-na.efrontier.com`](https://enterprise-na.efrontier.com) eller (företag i alla andra länder) [`https://enterprise-intl.efrontier.com`](https://enterprise-intl.efrontier.com).
 1. Kontrollera att mätvärdena du vill inkludera i ditt mål har spårats, att de är tillgängliga i produkten och att de innehåller ett visningsnamn:
    1. På huvudmenyn klickar du på **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Transaction Properties]**.
    1. Leta reda på måtten och se till att **[!UICONTROL Show in UI and Reports]** är aktiverat för måttet.
@@ -31,7 +31,7 @@ Om du vill skapa ett anpassat mål måste Advertising Cloud DSP-kontot länkas t
    1. Ange målinställningarna:
       1. I **[!UICONTROL Change Objective Name]** anger du målnamnet.
 
-         Målnamnet visas i [!UICONTROL Custom Goals] i Advertising Cloud DSP paketinställningar.
+         Målnamnet visas i [!UICONTROL Custom Goals] i DSP paketinställningar.
 
       1. Associera egenskaper med målet:
 
@@ -65,7 +65,7 @@ Om du vill skapa ett anpassat mål måste Advertising Cloud DSP-kontot länkas t
       1. Klicka på längst ned i inställningarna **[!UICONTROL Save]**.
 
 
-När du har skapat ett mål kan du tilldela det till ett Advertising Cloud DSP-paket som ett anpassat mål när optimeringsmålet är[!UICONTROL Highest ROAS - Custom Goal]&quot; eller &quot;[!UICONTROL Lowest CPA - Custom Goal].&quot;
+När du har skapat ett mål kan du tilldela det till ett DSP paket som ett anpassat mål när optimeringsmålet är[!UICONTROL Highest ROAS - Custom Goal]&quot; eller &quot;[!UICONTROL Lowest CPA - Custom Goal].&quot;
 
 >[!TIP]
 >

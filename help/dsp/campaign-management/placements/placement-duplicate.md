@@ -3,7 +3,7 @@ title: Duplicera placeringar
 description: Lär dig hur du duplicerar en eller flera placeringar.
 feature: DSP Placements
 exl-id: d22a61a8-4f1b-41ee-b4fb-3124bec81a2f
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -24,16 +24,27 @@ Duplicera en eller flera placeringar för att skapa placeringar med liknande ins
 Se &quot;[Vad som inte är duplicerat](#placement-not-duplicated)&quot; för en lista med placeringsinställningar som inte är duplicerade.
 
 1. På huvudmenyn klickar du på **[!UICONTROL Campaigns]**.
+
 1. Klicka på kampanjens namn.
+
 1. Klicka på **[!UICONTROL Placements]**.
+
 1. Gör något av följande:
+
    * Om du vill duplicera en placering klickar du på  **[!UICONTROL ...]>[!UICONTROL Duplicate]** bredvid paketnamnet.
+
    * Så här duplicerar du flera placeringar:
+
       1. Markera kryssrutan bredvid varje placering som ska dupliceras.
+
       1. Klicka på i verktygsfältet för gruppåtgärder **[!UICONTROL Duplicate]**.
+
 1. Ange de nya placeringsinställningarna:
+
    1. (Enstaka placeringar) Ange det nya placeringsnamnet.
+
    1. I **[!UICONTROL Choose Package (Required)]** väljer du antingen det överordnade paketet eller **[!UICONTROL No package]*.
+
    1. (Valfritt) Ändra standardinställningarna.
 
    Inställningarna gäller för alla markerade placeringar.
