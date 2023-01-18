@@ -2,8 +2,7 @@
 title: Visa en lista över placeringar som är kopplade till en annons
 description: Lär dig hur du ser de placeringar som är kopplade till en annons.
 feature: DSP Ads
-exl-id: 82c4f1b4-56fd-411f-a027-3f93ffb3867b
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -14,10 +13,10 @@ ht-degree: 0%
 
 Visa en lista med placeringar som är kopplade till en annons för att se prestandadata genom placering och redigera placeringsinställningarna om det behövs.
 
-1. Klicka på **[!UICONTROL Campaigns]** på huvudmenyn.
+1. På huvudmenyn klickar du på **[!UICONTROL Campaigns]**.
 1. Klicka på kampanjens namn.
-1. Klicka på **[!UICONTROL Ads]** på undermenyn.
-1. Klicka på **bredvid annonsnamnet.. >[!UICONTROL See placements]**.
+1. Klicka på **[!UICONTROL Ads]**.
+1. Klicka på bredvid annonsnamnet  **... >[!UICONTROL See placements]**.
 
 >[!MORELIKETHIS]
 >

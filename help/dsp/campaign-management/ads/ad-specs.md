@@ -2,8 +2,7 @@
 title: Annonsspecifikationer
 description: Referera till allmänna och utgivarspecifika annonsspecifikationer.
 feature: DSP Ads
-exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '843'
 ht-degree: 0%

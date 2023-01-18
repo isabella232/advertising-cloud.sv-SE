@@ -2,8 +2,7 @@
 title: Om Adobe Advertising DSP
 description: Om Adobe Advertising DSP
 feature: DSP Introduction
-exl-id: def006b2-eb51-4942-b277-a2e673bccc7f
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%

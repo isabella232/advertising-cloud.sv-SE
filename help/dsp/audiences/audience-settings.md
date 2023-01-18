@@ -2,8 +2,7 @@
 title: Målgruppsinställningar
 description: Se beskrivningar av tillgängliga målgruppsinställningar.
 feature: DSP Audiences
-exl-id: 959c1e04-cb09-42f0-a261-580ff98b86be
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%

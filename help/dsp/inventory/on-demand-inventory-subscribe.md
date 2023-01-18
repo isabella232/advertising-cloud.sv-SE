@@ -2,8 +2,7 @@
 title: Prenumerera och begär åtkomst till [!DNL On Demand] Premium Inventory Devices
 description: Lär dig hur du prenumererar på och begär åtkomst till,[!DNL On Demand] erbjudanden.
 feature: DSP On Demand Inventory
-exl-id: e66e5bad-526e-4b71-8072-332dd173f105
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%

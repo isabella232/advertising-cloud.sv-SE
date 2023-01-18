@@ -2,8 +2,7 @@
 title: Begäran igen [!DNL On Demand] Premium Inventory Devices
 description: Lär dig hur du begär om [!DNL On Demand] avtal som tidigare nekats.
 feature: DSP On Demand Inventory
-exl-id: db5a5708-16e3-4304-8bd0-f1aa8ecd0e3c
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 0%

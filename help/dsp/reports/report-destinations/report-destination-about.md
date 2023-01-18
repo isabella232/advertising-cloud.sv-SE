@@ -2,13 +2,12 @@
 title: Om [!UICONTROL Report Destinations]
 description: Lär dig hur du hanterar leveransplatser för anpassade rapporter.
 feature: DSP Custom Reports
-source-git-commit: ff14691fd2b6fa56c303dca3ac0e4c897c322f72
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
-
 
 # Om [!UICONTROL Report Destinations]
 
@@ -43,3 +42,4 @@ Du kan skapa nya mål samt redigera och ta bort befintliga mål från den här v
 >* [[!UICONTROL Report Destination] Inställningar](/help/dsp/reports/report-destinations/report-destination-settings.md)
 >* [Redigera en [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
 >* [Ta bort en [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
+

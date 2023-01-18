@@ -2,10 +2,9 @@
 title: Arkivera eller arkivera en kampanj
 description: Lär dig hur du arkiverar eller avarkiverar en kampanj.
 feature: DSP Campaigns
-exl-id: 9a6822c5-9d93-490a-9a2e-37afb1591028
-source-git-commit: 9c92b882fb35874bf7dc8747b121ea3650f8a82d
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -18,19 +17,19 @@ Du kan när som helst avarkivera en kampanj för att återställa dess tidigare 
 
 ## Arkivera en kampanj
 
-1. Klicka på **[!UICONTROL Campaigns]** på huvudmenyn.
-1. Klicka på **bredvid kampanjnamnet... >[!UICONTROL Archive]**.
-1. Klicka på **[!UICONTROL Archive]** i bekräftelsemeddelandet.
+1. På huvudmenyn klickar du på **[!UICONTROL Campaigns]**.
+1. Klicka på bredvid kampanjnamnet  **... >[!UICONTROL Archive]**.
+1. Klicka på **[!UICONTROL Archive]**.
 
 >[!NOTE]
 >
->Om du vill visa arkiverade kampanjer filtrerar du vyn [!UICONTROL Campaigns]: klicka på ![Filterknapp](/help/dsp/assets/filter.png), klicka på **[!UICONTROL Campaign status]** och välj **[!UICONTROL Archived]** och klicka sedan på **[!UICONTROL Apply].**
+>Om du vill visa arkiverade kampanjer filtrerar du [!UICONTROL Campaigns] vy: klicka ![Filterknapp](/help/dsp/assets/filter.png), klicka **[!UICONTROL Campaign status]** och markera **[!UICONTROL Archived]** och klicka sedan på **[!UICONTROL Apply].**
 
 ## Avarkivera en kampanj
 
-1. Klicka på **[!UICONTROL Campaigns]** på huvudmenyn.
-1. Klicka på **bredvid kampanjnamnet... >[!UICONTROL Unarchive]**.
-1. Klicka på **[!UICONTROL Unarchive]** i bekräftelsemeddelandet.
+1. På huvudmenyn klickar du på **[!UICONTROL Campaigns]**.
+1. Klicka på bredvid kampanjnamnet  **... >[!UICONTROL Unarchive]**.
+1. Klicka på **[!UICONTROL Unarchive]**.
 
 >[!MORELIKETHIS]
 >

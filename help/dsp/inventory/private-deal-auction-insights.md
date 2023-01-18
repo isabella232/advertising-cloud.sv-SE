@@ -2,8 +2,7 @@
 title: Visa auktionsinsikter för ett privat avtal
 description: Lär dig hur du kan använda auktionsinsikter för att analysera den privata erbjudandets sammansättning.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
-exl-id: 9d585bd4-59d5-401a-a68c-6ed656086252
-source-git-commit: c2fe96c28004dee03ab94b4e5ed43bfbf3ee6e83
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%

@@ -2,8 +2,7 @@
 title: 'Adobe Advertising support for the California Consumer Privacy Act : Konsumentsupport'
 description: Läs mer om stöd för att hämta in förfrågningar om att avanmäla sig från försäljning.
 feature: CCPA
-exl-id: 2c0cd4f5-798f-479a-99cd-f555cd676766
-source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '1003'
 ht-degree: 0%

@@ -2,8 +2,7 @@
 title: Använda Adobe Advertising ID:n för att skapa [!DNL Marketing Channels] Regler
 description: Lär dig hur du använder Adobe Advertising ID:n för att skapa bearbetningsregler för [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
-exl-id: 4fcdd586-e9c5-4405-a6dc-7799d2bac93e
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '768'
 ht-degree: 0%

@@ -2,8 +2,7 @@
 title: Om kampanjdatavyer
 description: Lär dig hur du kan anpassa datavyer för kampanjer, paket, ersättningar och annonser.
 feature: DSP Campaign Data Views
-exl-id: acc312b9-2de4-4e2f-9b59-b91f23d82357
-source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -45,6 +44,6 @@ I alla vyer för kampanjhantering ([!UICONTROL Campaigns], [!UICONTROL Packages]
 >* [Hantera datavisualiseringar](campaign-data-visualization-manage.md)
 >* [Visa Sites, Ads och Frequency Details för en placering](placement-details-view.md)
 >* [Visa diagnostikrapporter för placering](placement-diagnostics.md)
->* [Exportera data från en kampanjhanteringsvy](campaign-export-data.md)
+>* [Exportera data från en Campaign Management-vy](campaign-export-data.md)
 >* [Video: DSP kontostruktur och användargränssnitt](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/ui.html)
 

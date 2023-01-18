@@ -2,8 +2,7 @@
 title: Anpassade rapportinställningar
 description: Se beskrivningar av anpassade rapportinställningar.
 feature: DSP Custom Reports
-exl-id: 1d37fc96-0f9b-4eb2-ba8d-9534f627adaf
-source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '966'
 ht-degree: 0%

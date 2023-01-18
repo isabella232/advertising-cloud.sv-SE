@@ -2,8 +2,7 @@
 title: Om Placement Management i DSP
 description: Lär dig mer om placeringshantering.
 feature: DSP Placements
-exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '371'
 ht-degree: 0%

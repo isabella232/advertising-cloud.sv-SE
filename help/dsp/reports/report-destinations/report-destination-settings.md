@@ -2,8 +2,7 @@
 title: Inställningar för rapportmål
 description: Se informationen som krävs för rapportdestinationer, per måltyp.
 feature: DSP Custom Reports
-exl-id: 584c9c69-7b94-4e5c-bcc1-277ac2689d8e
-source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%

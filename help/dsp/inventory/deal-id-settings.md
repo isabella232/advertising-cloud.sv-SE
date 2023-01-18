@@ -2,8 +2,7 @@
 title: Manuella inställningar för avtal-ID
 description: Se beskrivningar av inställningarna för manuellt angivna avtal-ID:n.
 feature: DSP Private Inventory, DSP Deal IDs
-exl-id: 0cd5e9e8-2b13-4b1e-a2e0-b8b492f75acf
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '520'
 ht-degree: 0%

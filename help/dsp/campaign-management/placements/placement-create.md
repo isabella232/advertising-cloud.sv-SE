@@ -2,8 +2,7 @@
 title: Skapa en placering
 description: Lär dig hur du skapar en placering.
 feature: DSP Placements
-exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
-source-git-commit: 86f8df0c438a68dabba8f5b2abeb106d3320d7ef
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '652'
 ht-degree: 1%

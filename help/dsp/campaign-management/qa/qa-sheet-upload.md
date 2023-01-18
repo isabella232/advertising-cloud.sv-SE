@@ -2,8 +2,7 @@
 title: Överför placeringsinställningar för en kampanj
 description: Lär dig hur du överför ändringar av nyckelplaceringsinställningar för en kampanj med Excel QA-kalkylblad.
 feature: DSP Placements
-exl-id: 0f5fdc7e-3a90-4b4b-a23c-75bed7703100
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -12,21 +11,21 @@ ht-degree: 0%
 
 # Överför placeringsinställningar för en kampanj
 
-Om du vill bokföra ändringar av vissa typer av placeringsinställningar för en kampanj kan du överföra ett kalkylblad som du tidigare har [hämtat](qa-sheet-download.md) och redigerat. Ändringar tillåts bara i de redigerbara [kolumnerna](qa-sheet-columns.md).
+Om du vill bokföra ändringar av vissa typer av placeringsinställningar för en kampanj kan du överföra ett kalkylblad som du tidigare har gjort [nedladdad](qa-sheet-download.md) och har redigerat. Ändringar tillåts bara i [redigerbara kolumner](qa-sheet-columns.md).
 
 >[!TIP]
 >
 >Om du vill göra mer omfattande ändringar av placeringsinställningarna använder du gruppredigeringsfunktionen.<!-- add link once we have help on it -->
 
-1. Klicka på **[!UICONTROL Campaigns]** på huvudmenyn.
+1. På huvudmenyn klickar du på **[!UICONTROL Campaigns]**.
 
 1. Gör något av följande:
 
-   * Klicka på **[!UICONTROL ...]>[!UICONTROL Upload Excel QA sheet]** bredvid kampanjnamnet.
+   * Klicka på bredvid kampanjnamnet **[!UICONTROL ...]>[!UICONTROL Upload Excel QA sheet]**.
 
-   * Klicka på kampanjnamnet för att visa kampanjinformationen. Klicka på **[!UICONTROL ...]>[!UICONTROL Upload Excel QA sheet]** i det övre högra hörnet.
+   * Klicka på kampanjnamnet för att visa kampanjinformationen. Klicka på uppe till höger **[!UICONTROL ...]>[!UICONTROL Upload Excel QA sheet]**.
 
-1. I dialogrutan [!UICONTROL Edit in Excel]:
+1. I [!UICONTROL Edit in Excel] dialog:
 
    1. Dra och släpp en fil i rutan eller klicka i rutan för att välja en fil från enheten eller nätverket.
 

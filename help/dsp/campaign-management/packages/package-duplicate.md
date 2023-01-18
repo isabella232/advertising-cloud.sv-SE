@@ -2,8 +2,7 @@
 title: Duplicera ett paket
 description: Lär dig hur du duplicerar ett paket.
 feature: DSP Packages
-exl-id: 4c37883f-5feb-4513-9573-ed4e32606132
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%

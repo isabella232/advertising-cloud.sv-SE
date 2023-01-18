@@ -2,8 +2,7 @@
 title: Adobe Advertising Metrics in Analysis Workspace
 description: Adobe Advertising Metrics in Analysis Workspace
 feature: Integration with Adobe Analytics
-exl-id: d740bd19-c643-4917-9cfd-f9cf0affd07e
-source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '429'
 ht-degree: 0%

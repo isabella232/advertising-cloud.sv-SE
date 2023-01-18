@@ -2,8 +2,7 @@
 title: Om att korrigera placeringsinställningar för en kampanj med kalkylblad
 description: Lär dig hur du granskar och redigerar nyckelplaceringsinställningar för en kampanj med Excel QA-kalkylblad.
 feature: DSP Placements
-exl-id: 9e90488f-157d-4569-8011-da51c5b05c1d
-source-git-commit: 051b8b6437a75177e3a4d0425e2b0091d0d22a30
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%

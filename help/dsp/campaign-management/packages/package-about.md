@@ -2,8 +2,7 @@
 title: Om pakethantering i DSP
 description: Läs mer om pakethantering.
 feature: DSP Packages
-exl-id: 06d77698-62ae-466b-8cf7-c9148907ba6d
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%

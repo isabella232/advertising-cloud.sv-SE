@@ -2,8 +2,7 @@
 title: JavaScript-kod för [!DNL Analytics for Advertising]
 description: JavaScript-kod för [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
-exl-id: 184508ce-df8d-4fa0-b22b-ca0546a61d58
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '939'
 ht-degree: 0%

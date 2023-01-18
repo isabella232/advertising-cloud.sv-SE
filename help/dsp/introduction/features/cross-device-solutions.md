@@ -2,8 +2,7 @@
 title: Enhetsoberoende lösningar
 description: Läs mer om funktioner för olika enheter.
 feature: DSP Introduction
-exl-id: 29f8ec41-35a6-4a29-a638-82a2929a8fe6
-source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '999'
 ht-degree: 0%

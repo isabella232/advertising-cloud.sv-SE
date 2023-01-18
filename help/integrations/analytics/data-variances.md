@@ -2,8 +2,7 @@
 title: Förväntade datavariationer mellan [!DNL Analytics] och Adobe
 description: Förväntade datavariationer mellan [!DNL Analytics] och Adobe
 feature: Integration with Adobe Analytics
-exl-id: 34685e04-d4f9-4e27-b83e-b56164244b2b
-source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '3278'
 ht-degree: 0%

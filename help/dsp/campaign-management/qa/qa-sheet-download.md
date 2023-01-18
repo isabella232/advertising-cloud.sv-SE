@@ -2,8 +2,7 @@
 title: Hämta placeringsinställningar för en kampanj
 description: Lär dig hur du hämtar placeringsinställningar för en kampanj med Excel QA-kalkylblad.
 feature: DSP Placements
-exl-id: c3b0cbf2-7095-4608-977a-9a5dd0bbd585
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -14,24 +13,24 @@ ht-degree: 0%
 
 Du kan hämta placeringsinställningarna för en kampanj i XLSX-format (Excel-kalkylblad).
 
-Om det behövs kan du senare redigera [markera fält](qa-sheet-columns.md) i den hämtade filen och [överföra ändringarna](qa-sheet-upload.md) till DSP.
+Om det behövs kan du redigera senare [välj fält](qa-sheet-columns.md) i den hämtade filen och [ladda upp ändringarna](qa-sheet-upload.md) till DSP.
 
-1. Klicka på **[!UICONTROL Campaigns]** på huvudmenyn.
+1. På huvudmenyn klickar du på **[!UICONTROL Campaigns]**.
 
 1. Gör något av följande:
 
-   * Klicka på **[!UICONTROL ...]>[!UICONTROL Download Excel QA sheet]** bredvid kampanjnamnet.
+   * Klicka på bredvid kampanjnamnet **[!UICONTROL ...]>[!UICONTROL Download Excel QA sheet]**.
 
-   * Klicka på kampanjnamnet för att visa kampanjinformationen. Klicka på **[!UICONTROL ...]>[!UICONTROL Download Excel QA sheet]** i det övre högra hörnet.
+   * Klicka på kampanjnamnet för att visa kampanjinformationen. Klicka på uppe till höger **[!UICONTROL ...]>[!UICONTROL Download Excel QA sheet]**.
 
    Ett meddelande visas när filen är tillgänglig för hämtning.
 
 1. Gör något av följande:
 
-   * Klicka på **[!UICONTROL Download]i meddelandet.**
+   * Klicka på **[!UICONTROL Download].**
 
-   * Klicka på ![Jobb](/help/dsp/assets/downloads.png) till höger om den övre menyraden. Klicka på **[!UICONTROL Download]** bredvid jobbet.
-   Filen sparas i webbläsarens hämtningsmapp. En lista över de kolumner som ingår finns i &quot;[Kolumner i hämtade/överförda kalkylblad](qa-sheet-columns.md)&quot;.
+   * Klicka på till höger om den övre menyraden ![Jobb](/help/dsp/assets/downloads.png). Klicka **[!UICONTROL Download]** bredvid jobbet.
+   Filen sparas i webbläsarens hämtningsmapp. Se &quot;[Kolumner i hämtade/överförda kalkylblad](qa-sheet-columns.md)&quot; om du vill se en lista över de kolumner som ingår.
 
 >[!MORELIKETHIS]
 >

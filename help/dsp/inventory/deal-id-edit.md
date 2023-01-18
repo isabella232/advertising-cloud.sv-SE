@@ -2,8 +2,7 @@
 title: Redigera inställningar för privat avtal
 description: Lär dig hur du redigerar information för ett privat avtal.
 feature: DSP Private Inventory, DSP Deal IDs
-exl-id: 171a3dae-6a25-4e16-85f8-cd4138ec4ba8
-source-git-commit: a29019ee7af0124ad9182f0578811c4d0e666937
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%

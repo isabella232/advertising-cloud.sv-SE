@@ -2,8 +2,7 @@
 title: Om privat lager
 description: Om privat lager
 feature: DSP Private Inventory
-exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '429'
 ht-degree: 0%

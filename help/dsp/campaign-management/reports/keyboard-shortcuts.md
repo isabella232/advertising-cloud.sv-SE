@@ -2,8 +2,7 @@
 title: Kortkommandon
 description: Referera till de kortkommandon som är tillgängliga i placeringsinställningarna.
 feature: DSP Placements
-exl-id: bef0406c-9c10-48ec-b069-b887ef8f66ae
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -12,18 +11,18 @@ ht-degree: 0%
 
 # Kortkommandon
 
-I placeringsinställningarna använder du kortkommandon för att snabbt navigera<!-- and to create ads and placements -->.
+Använd kortkommandon för att snabbt navigera i placeringsinställningarna<!-- and to create ads and placements -->.
 
 | Tillämpliga sidor | Genväg | Beskrivning |
 | ---------------| ----------- | ---------------------- |
-| Placeringsinställningar | o | Flyttar dig till [!UICONTROL Goals]-inställningarna |
-| Placeringsinställningar | g | Flyttar dig till [!UICONTROL Geos]-inställningarna |
-| Placeringsinställningar | i | Flyttar dig till [!UICONTROL Inventory]-inställningarna |
-| Placeringsinställningar | s | Flyttar dig till [!UICONTROL Sites]-inställningarna |
-| Placeringsinställningar | a | Flyttar dig till [!UICONTROL Audience]-inställningarna |
-| Placeringsinställningar | b | Flyttar dig till [!UICONTROL Brand Safety]-inställningarna |
-| Placeringsinställningar | t | Flyttar dig till [!UICONTROL Tracking]-inställningarna |
-| Placeringsinställningar | l | Flyttar dig till [!UICONTROL Adobe Labs]-inställningarna |
+| Placeringsinställningar | o | Flyttar dig till [!UICONTROL Goals] inställningar |
+| Placeringsinställningar | g | Flyttar dig till [!UICONTROL Geos] inställningar |
+| Placeringsinställningar | i | Flyttar dig till [!UICONTROL Inventory] inställningar |
+| Placeringsinställningar | s | Flyttar dig till [!UICONTROL Sites] inställningar |
+| Placeringsinställningar | a | Flyttar dig till [!UICONTROL Audience] inställningar |
+| Placeringsinställningar | b | Flyttar dig till [!UICONTROL Brand Safety] inställningar |
+| Placeringsinställningar | t | Flyttar dig till [!UICONTROL Tracking] inställningar |
+| Placeringsinställningar | l | Flyttar dig till [!UICONTROL Adobe Labs] inställningar |
 
 {style=&quot;table-layout:auto&quot;}
 

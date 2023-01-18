@@ -2,8 +2,7 @@
 title: Duplicera placeringar
 description: Lär dig hur du duplicerar en eller flera placeringar.
 feature: DSP Placements
-exl-id: d22a61a8-4f1b-41ee-b4fb-3124bec81a2f
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%

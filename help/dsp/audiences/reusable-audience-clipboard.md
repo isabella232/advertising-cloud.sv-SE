@@ -2,7 +2,7 @@
 title: Kopiera segmentnyckeln för en återanvändbar publik till Urklipp
 description: Lär dig hur du visar konfigurationen och målgruppens storlek för en återanvändbar målgrupp.
 feature: DSP Audiences
-source-git-commit: 2629fe2c188e04b7fbfd7e17f9a6b076d68b7396
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%

@@ -2,8 +2,7 @@
 title: Lägg till [!DNL Analytics for Advertising] Makron till [!DNL Flashtalking] Annonstaggar
 description: Lär dig varför och hur du lägger till [!DNL Analytics for Advertising] makron till [!DNL Flashtalking] annonstaggar
 feature: Integration with Adobe Analytics
-exl-id: 4b060668-723c-4cd2-b70e-409501ec67de
-source-git-commit: 04b57aec29e2d737bc33375614137543bead240c
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%

@@ -2,8 +2,7 @@
 title: Kör en anpassad rapport
 description: Lär dig hur du kör en anpassad rapport direkt.
 feature: DSP Custom Reports
-exl-id: d983d34d-5853-4b9c-a8a9-889a9dd1a872
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%

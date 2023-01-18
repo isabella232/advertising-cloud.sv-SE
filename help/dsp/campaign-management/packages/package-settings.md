@@ -2,8 +2,7 @@
 title: Paketinställningar
 description: Se beskrivningar av tillgängliga paketinställningar.
 feature: DSP Packages
-exl-id: b4d415d1-86a5-40bd-b645-1709b267c174
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '797'
 ht-degree: 0%

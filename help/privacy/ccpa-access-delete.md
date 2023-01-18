@@ -2,8 +2,7 @@
 title: 'Adobe Advertising support for the California Consumer Privacy Act : Stöd för åtkomst och borttagning av konsumentdata'
 description: Lär dig mer om vilka dataförfrågningstyper som stöds, obligatoriska inställnings- och fältvärden samt exempel på API-åtkomstbegäranden som använder äldre produkt-ID:n och returnerade datafält.
 feature: CCPA
-exl-id: 1330da6c-a944-4bb5-8539-488d97f56175
-source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '1076'
 ht-degree: 0%

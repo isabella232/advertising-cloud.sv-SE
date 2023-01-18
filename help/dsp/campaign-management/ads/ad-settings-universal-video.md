@@ -2,8 +2,7 @@
 title: Universella inställningar för videoreklam
 description: Se beskrivningar av tillgängliga annonsinställningar för universella videoannonser.
 feature: DSP Ads
-exl-id: 0be86b84-78f9-4429-a8b7-8195891875ca
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 0%

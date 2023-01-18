@@ -1,16 +1,15 @@
 ---
-title: Vanliga frågor om kampanjhantering
+title: Frågor och svar om Campaign Management
 description: Lär dig mer om kampanjhantering, inklusive latensperioden för ändringar och vad som händer när du gör budgetändringar under en flygning.
 feature: DSP Packages, DSP Placements
-exl-id: 9034ab2c-b8b0-4759-bc87-5f73857bb062
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 0%
 
 ---
 
-# Vanliga frågor om kampanjhantering
+# Frågor och svar om Campaign Management
 
 <!-- Most of this information should be moved into the relevant topics (especially editing topics). -->
 
@@ -40,7 +39,7 @@ ht-degree: 0%
 
 * Hur förändras paketeringen på den sista dagen av en flygning?
 
-   På flygningens sista dag förkortas dagen från 24 till 23 timmar så att paketbudgeten inte överskrids. Paketets paketeringsfyllningsstrategi ändras automatiskt till [!UICONTROL Frontload], även om den är inställd på [!UICONTROL even]. Det innebär att 65 % av den dagliga budgeten ska ha nått klockan 11.30 EST.
+   På flygningens sista dag förkortas dagen från 24 till 23 timmar så att paketbudgeten inte överskrids. Paketets paketeringsfyllningsstrategi ändras automatiskt till[!UICONTROL Frontload],&quot; även om det är inställt på &quot;[!UICONTROL even].&quot; Det innebär att 65 % av den dagliga budgeten ska ha nått klockan 11.30 EST.
 
 >[!MORELIKETHIS]
 >

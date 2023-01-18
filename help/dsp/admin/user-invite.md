@@ -1,7 +1,7 @@
 ---
 title: Bjud in en ny användare till ditt organisationskonto
 description: Lär dig hur du bjuder in en ny användare att gå med i kontot.
-source-git-commit: cd1ded08b07735cb3e156ec401e3ea1a920183d3
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%

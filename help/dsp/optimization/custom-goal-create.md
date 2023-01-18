@@ -2,8 +2,7 @@
 title: Skapa ett anpassat mål
 description: Skapa ett anpassat mål
 feature: DSP Optimization
-exl-id: 440ded21-92d3-41ad-839f-ebc8376aa932
-source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '504'
 ht-degree: 0%

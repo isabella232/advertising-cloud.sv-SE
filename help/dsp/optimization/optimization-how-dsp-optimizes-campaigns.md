@@ -2,8 +2,7 @@
 title: Hur DSP optimerar era kampanjer
 description: Lär dig hur DSP optimerar paketen i era kampanjer.
 feature: DSP Optimization
-exl-id: 054582ef-b677-4725-b25c-b82bf3e5b43e
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '681'
 ht-degree: 0%

@@ -2,8 +2,7 @@
 title: Optimeringsmål och Så här använder du dem
 description: Referera till tillgängliga optimeringsmål och se när de ska användas.
 feature: DSP Optimization
-exl-id: 9bca09b5-9aa7-4009-a576-9b30cfddfd55
-source-git-commit: 3852df160ec242f4755800ed44a30f42dff749fc
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '1611'
 ht-degree: 0%

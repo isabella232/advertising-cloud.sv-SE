@@ -4,8 +4,7 @@ description: Läs om uppdateringar av integreringar mellan Adobe Advertising och
 cloud: Experience Cloud
 product: advertising cloud
 index: true
-exl-id: 0808d101-3c6b-4671-b9e3-6f588427f8b5
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%

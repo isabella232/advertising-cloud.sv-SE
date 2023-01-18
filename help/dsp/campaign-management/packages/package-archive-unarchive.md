@@ -2,8 +2,7 @@
 title: Arkivera eller arkivera ett paket
 description: Lär dig hur du arkiverar eller avarkiverar ett paket.
 feature: DSP Packages
-exl-id: a8840f9e-e0ee-481d-80c2-66b56fc1882f
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%

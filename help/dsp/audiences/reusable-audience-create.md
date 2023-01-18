@@ -2,8 +2,7 @@
 title: Skapa en återanvändbar publik
 description: Lär dig hur du skapar återanvändbara målgrupper som består av målgruppssegment och andra sparade målgrupper.
 feature: DSP Audiences
-exl-id: 48e3dc4c-6e2d-452c-8d69-7e6211d808e0
-source-git-commit: 37e5a4fbb7e2ccda77ab0afd49054ec4d1dabf76
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 0%
