@@ -8,9 +8,9 @@ user-guide-title: Advertising DSP Guide
 user-guide-description: Lär dig mer om de viktigaste funktionerna, uppgifterna, inställningarna och andra resurser som krävs för att hantera, optimera och rapportera om era strategier för displayannonsering med hjälp av DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: e9d9d51302d32b06af805917db2f46e5f6daee62
+source-git-commit: d928b19b868ffc87d5962391f06d765f9da7c13a
 workflow-type: tm+mt
-source-wordcount: '910'
+source-wordcount: '930'
 ht-degree: 0%
 
 ---
@@ -36,10 +36,10 @@ ht-degree: 0%
    + [Kontofinansiering](/help/dsp/introduction/billing/account-funding.md)
    + [Valutor som stöds](/help/dsp/currency.md)
    + Stöd för konsumentintegritet {#privacy}
-      + [Stöd för den allmänna dataskyddsförordningen](/help/privacy/gdpr.md)
+      + [Stöd för den allmänna dataskyddsförordningen](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/gdpr.html)
       + Stöd för CCPA {#ccpa}
-         + [Stöd för California Consumer Privacy Act: Åtkomst och borttagning av konsumentdata](/help/privacy/ccpa/ccpa-access-delete.md)
-         + [Stöd för California Consumer Privacy Act: Konsumentavskrivning](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
+         + [Stöd för California Consumer Privacy Act: Åtkomst och borttagning av konsumentdata](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-access-delete.html)
+         + [Stöd för California Consumer Privacy Act: Konsumentavskrivning](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html)
    + Politik och riktlinjer {#policies}
       + [Krav för annonser](/help/policies/ad-requirements-policy.md)
       + [Riktlinjer för godkända hälsosegment](/help/policies/health-segment-guidelines.md)
