@@ -8,9 +8,9 @@ user-guide-title: Advertising DSP Guide
 user-guide-description: Lär dig mer om de viktigaste funktionerna, uppgifterna, inställningarna och andra resurser som krävs för att hantera, optimera och rapportera om era strategier för displayannonsering med hjälp av DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: d928b19b868ffc87d5962391f06d765f9da7c13a
+source-git-commit: 62966cd8d903d20b42444ac65d7c70a3a3806a1e
 workflow-type: tm+mt
-source-wordcount: '930'
+source-wordcount: '881'
 ht-degree: 0%
 
 ---
@@ -35,15 +35,8 @@ ht-degree: 0%
       + [Enhetsoberoende lösningar](/help/dsp/introduction/features/cross-device-solutions.md)
    + [Kontofinansiering](/help/dsp/introduction/billing/account-funding.md)
    + [Valutor som stöds](/help/dsp/currency.md)
-   + Stöd för konsumentintegritet {#privacy}
-      + [Stöd för den allmänna dataskyddsförordningen](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/gdpr.html)
-      + Stöd för CCPA {#ccpa}
-         + [Stöd för California Consumer Privacy Act: Åtkomst och borttagning av konsumentdata](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-access-delete.html)
-         + [Stöd för California Consumer Privacy Act: Konsumentavskrivning](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html)
-   + Politik och riktlinjer {#policies}
-      + [Krav för annonser](/help/policies/ad-requirements-policy.md)
-      + [Riktlinjer för godkända hälsosegment](/help/policies/health-segment-guidelines.md)
-      + [[!DNL DSP] Riktlinjer för dataanvändning](/help/policies/data-usage-guidelines.md)
+   + [Stöd för konsumentintegritet](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+   + [Politik och riktlinjer](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
    + [Avancerade mätningslösningar](/help/dsp/introduction/advanced-measurement-services.md)
 + Campaign Management {#campaign-management}
    + [Översikt över Campaign Management Structure](/help/dsp/campaign-management/campaign-management-overview.md)
@@ -231,6 +224,6 @@ ht-degree: 0%
    + Meddelanden {#notifications}
       + [Om aviseringsprenumerationer](/help/dsp/admin/alerts-about.md)
       + [Hantera aviseringsprenumerationer](/help/dsp/admin/alerts-manage.md)
-+ [Integrering med Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
++ [Integrering med Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
 + [Kundsupport](https://helpx.adobe.com/se/contact/enterprise-support.ec.html)
 + [Versionsinformation för Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
