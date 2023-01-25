@@ -2,9 +2,10 @@
 title: Skapa och implementera ett CCPA-segment för avanmälan vid försäljning
 description: Lär dig hur du skapar och implementerar ett segment för att spåra användar-ID:n från konsumentförfrågningar om att avanmäla sig från försäljning.
 feature: CCPA, DSP Segments
-source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
+exl-id: 0623c52e-02ea-4e06-bc54-8abb7a87765a
+source-git-commit: e9d9d51302d32b06af805917db2f46e5f6daee62
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -17,7 +18,7 @@ När segmentets pixeltagg har implementerats börjar annonseringen i Adobe samla
 
 >[!NOTE]
 >
->* Mer information om hur du kan kommunicera CCPA-begäran om att avanmäla sig från försäljning till Adobe Advertising med Adobe Experience Platform Privacy Service API finns i [https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa-opt-out-of-sale.html](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa-opt-out-of-sale.html).
+>* Mer information om hur du kan kommunicera CCPA-begäran om att avanmäla sig från försäljning till Adobe Advertising med Adobe Experience Platform Privacy Service API finns i [https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html](/help/privacy/ccpa/ccpa-opt-out-of-sale.md).
 >* Skapa en [anpassat segment](/help/dsp/audiences/custom-segment-create.md).
 
 
@@ -60,7 +61,7 @@ När segmentets pixeltagg har implementerats börjar annonseringen i Adobe samla
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising Support for the California Consumer Privacy Act: Stöd för avanmälan från konsumenter](/help/privacy/ccpa-opt-out-of-sale.md)
+>* [Adobe Advertising Support for the California Consumer Privacy Act: Stöd för avanmälan från konsumenter](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
 >* [Om [!UICONTROL CCPA Opt-out-of-Sale] Segment och rapporter](ccpa-opt-out-about.md)
 >* [Hämta rapporter om konsumentavanmälan](ccpa-opt-out-segment-report-retrieve.md)
 >* [Skapa och implementera ett anpassat segment](custom-segment-create.md)
