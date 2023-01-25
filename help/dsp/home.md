@@ -4,9 +4,10 @@ description: Läs om de senaste uppdateringarna och nya funktioner i Adobe Adver
 cloud: Experience Cloud
 product: advertising cloud
 index: true
-source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
+exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
+source-git-commit: 03e395432ff3d840a895f4e5d65843e3ac4c11a5
 workflow-type: tm+mt
-source-wordcount: '1064'
+source-wordcount: '1089'
 ht-degree: 0%
 
 ---
@@ -17,6 +18,7 @@ Följande funktioner är nya eller nyligen ändrade.
 
 | Datum | Funktion | Beskrivning | Mer information |
 | ---- | ------- | ----------- | -------------------- |
+| 25 januari 2023 | Erbjudanden | En ny utgiftskolumn för&quot;PG Impression Pacing&quot; i Inventory > Deals-vyn visar rapporter om hur man ska hitta garanterade erbjudanden. | Se &quot;[Redigera en anpassad kolumnvy](/help/dsp/campaign-management/reports/column-view-edit.md).&quot; |
 | 14 december 2022 | Placeringar, annonser | (Open beta feature) New &quot;[!UICONTROL Universal Video]&quot;Med placeringar och annonser kan ni inrikta er på flera enhetsmiljöer för VPAID- och VAST-inventering med en enda videoplacering.<br><br>Universella videomaterial innehåller en inställning för &quot;Enhetsmiljö&quot; för att ange enhetstypmål ([!UICONTROL Desktop], [!UICONTROL Mobile]och [!UICONTROL Connected TV]). Universella videoannonser kan bara länkas till universella videomaterial.<br><br>Anpassade rapporter innehåller den nya placeringsnivådimensionen &quot;Enhetsmiljö&quot;. | Se &quot;[Placeringsinställningar](/help/dsp/campaign-management/placements/placement-settings.md)&quot; och &quot;[Tillgängliga rapportkolumner](/help/dsp/reports/report-columns.md).&quot;<br><br>Se även &quot;[Universella inställningar för videoreklam](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)&quot; och &quot;[Skapa en annons](/help/dsp/campaign-management/ads/ad-create.md).&quot; |
 | 23 november 2022 | Erbjudanden | The [!UICONTROL Inventory] > [!UICONTROL Deals] vyn innehåller nu en[!UICONTROL Deal Health]&quot; kolumn, som anger varje enskild erbjudandes hälsostatus: &quot;[!UICONTROL Success],&quot; &quot;[!UICONTROL Warning],&quot; &quot;[!UICONTROL Critical],&quot; eller &quot;[!UICONTROL Unavailable].&quot; Du kan klicka på statusen för att se mer information, bland annat varför ett avtal inte fungerar eller spenderar som förväntat och hur du felsöker potentiella problem. | — |
 | 27 oktober 2022 | [!UICONTROL Campaigns] | En ändringslogg, som visar ändringar som gjorts under det valda datumintervallet, är nu tillgänglig för varje paket och placering. | Se &quot;[Visa ändringsloggen för ett paket](/help/dsp/campaign-management/packages/package-change-log.md)&quot; och &quot;[Visa ändringsloggen för en placering](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |
