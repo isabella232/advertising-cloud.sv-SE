@@ -8,9 +8,9 @@ user-guide-title: Advertising DSP Guide
 user-guide-description: Lär dig mer om de viktigaste funktionerna, uppgifterna, inställningarna och andra resurser som krävs för att hantera, optimera och rapportera om era strategier för displayannonsering med hjälp av DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
+source-git-commit: f04fdb7f4f9787804e526b49da2aad0f4e15679a
 workflow-type: tm+mt
-source-wordcount: '948'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,14 +36,14 @@ ht-degree: 0%
    + [Kontofinansiering](/help/dsp/introduction/billing/account-funding.md)
    + [Valutor som stöds](/help/dsp/currency.md)
    + Stöd för konsumentintegritet {#privacy}
-      + [Stöd för den allmänna dataskyddsförordningen](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/gdpr.html)
+      + [Stöd för den allmänna dataskyddsförordningen](/help/privacy/advertising-gdpr.md)
       + Stöd för CCPA {#ccpa}
-         + [Stöd för California Consumer Privacy Act: Åtkomst och borttagning av konsumentdata](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-access-delete.html)
-         + [Stöd för California Consumer Privacy Act: Konsumentavskrivning](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html)
+         + [Stöd för California Consumer Privacy Act: Åtkomst och borttagning av konsumentdata](/help/privacy/ccpa-access-delete.md)
+         + [Stöd för California Consumer Privacy Act: Konsumentavskrivning](/help/privacy/ccpa-opt-out-of-sale.md)
    + Politik och riktlinjer {#policies}
-      + [Krav för annonser](https://experienceleague.adobe.com/docs/advertising-cloud/policies/ad-requirements-policy.html)
-      + [Riktlinjer för godkända hälsosegment](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
-      + [[!DNL DSP] Riktlinjer för dataanvändning](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
+      + [Krav för annonser](/help/policies/ad-requirements-policy.md)
+      + [Riktlinjer för godkända hälsosegment](/help/policies/health-segment-guidelines.md)
+      + [[!DNL DSP] Riktlinjer för dataanvändning](/help/policies/data-usage-guidelines.md)
    + [Avancerade mätningslösningar](/help/dsp/introduction/advanced-measurement-services.md)
 + Campaign Management {#campaign-management}
    + [Översikt över Campaign Management Structure](/help/dsp/campaign-management/campaign-management-overview.md)
