@@ -3,9 +3,9 @@ title: Skapa och implementera ett CCPA-segment för avanmälan vid försäljning
 description: Lär dig hur du skapar och implementerar ett segment för att spåra användar-ID:n från konsumentförfrågningar om att avanmäla sig från försäljning.
 feature: CCPA, DSP Segments
 exl-id: 0623c52e-02ea-4e06-bc54-8abb7a87765a
-source-git-commit: e9d9d51302d32b06af805917db2f46e5f6daee62
+source-git-commit: 1b5f5a56045616a2d67d9bfc5840bb1f06436fbb
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ När segmentets pixeltagg har implementerats börjar annonseringen i Adobe samla
 
 >[!NOTE]
 >
->* Mer information om hur du kan kommunicera CCPA-begäran om att avanmäla sig från försäljning till Adobe Advertising med Adobe Experience Platform Privacy Service API finns i [https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html](/help/privacy/ccpa/ccpa-opt-out-of-sale.md).
+>* Mer information om hur du kan kommunicera CCPA-begäran om att avanmäla sig från försäljning till Adobe Advertising med Adobe Experience Platform Privacy Service API finns i [https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html).
 >* Skapa en [anpassat segment](/help/dsp/audiences/custom-segment-create.md).
 
 
